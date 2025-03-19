@@ -8,7 +8,7 @@ Having the money does not always guarantee the desired goods or services are at 
 
 ## TIME
 
-Just because a large community actually has the item a character seeks does not necessarily mean that it is easy to locate. The larger the community, the more time it takes to track the item down. A community's size determines the base time it takes to find the item. Each degree of success reduces this time by a certain amount (minutes, hours, days, weeks, or months, depending on the base time). See *Dark Heresy*, Table 5-5: Availability and Time on page 126. The GM should make the roll in secret for particularly dangerous or costly items, to emphasis the struggle and possible risks entailed by such searching.
+Just because a large community actually has the item a character seeks does not necessarily mean that it is easy to locate. The larger the community, the more time it takes to track the item down. A community's size determines the base time it takes to find the item. Each degree of success reduces this time by a certain amount (minutes, hours, days, weeks, or months, depending on the base time). See _Dark Heresy_, Table 5-5: Availability and Time on page 126. The GM should make the roll in secret for particularly dangerous or costly items, to emphasis the struggle and possible risks entailed by such searching.
 
 ## Craftsmanship
 
@@ -16,72 +16,74 @@ Not all goods are of the same quality. In the vastness of the Imperium, and beyo
 
 Normally, Craftsmanship has little effect on game play for regular goods and services. As a general rule items of Poor Craftsmanship are more prone to failure and breaking while Good and Best Craftsmanship are more durable, though it is up to the GM how and when these effects might enter play. Some gear, goods, or services may have markedly different effects or qualities depending on their Craftsmanship - in such cases, the effect will be listed in the item's description. The GM may reduce the Difficulty of certain tests, but it is entirely at his discretion. Unless specifically stated, the Craftsmanship of any object is considered Common.
 
-#### Craftsmanship Cost Multiplier Availability
+| Craftsmanship Cost Multiplier Availability |      |                 |
+| ------------------------------------------ | ---- | --------------- |
+| Best                                       | ×10  | Drop 2 steps    |
+| Good                                       | ×3   | Drop 1 step     |
+| Common                                     | ×1   | —               |
+| Poor                                       | ×1/2 | Increase 1 step |
 
-| Best   | ×10  | Drop 2 steps    |
-|--------|------|-----------------|
-| Good   | ×3   | Drop 1 step     |
-| Common | ×1   | —               |
-| Poor   | ×1/2 | Increase 1 step |
+| Availability: Difficulty by Population |                        |     |                  |                  |                  |
+| -------------------------------------- | ---------------------- | --- | ---------------- | ---------------- | ---------------- |
+| Availability                           | Population Below 1,000 |     | Below 10,000     | Below 100,000    | 100,000 or More  |
+| Ubiquitous                             | Easy (+30)             |     | Automatic        | Automatic        | Automatic        |
+| Abundant                               | Routine (+20)          |     | Easy (+30)       | Automatic        | Automatic        |
+| Plentiful                              | Ordinary (+10)         |     | Routine (+20)    | Easy (+30)       | Automatic        |
+| Common                                 | Challenging (+0)       |     | Ordinary (+10)   | Routine (+20)    | Easy (+30)       |
+| Average                                | Difficult (-10)        |     | Challenging (+0) | Ordinary (+10)   | Routine (+20)    |
+| Scarce                                 | Hard (-20)             |     | Difficult (-10)  | Challenging (+0) | Ordinary (+10)   |
+| Rare                                   | Very Hard (-30)        |     | Hard (-20)       | Difficult (-10)  | Challenging (+0) |
+| Very Rare                              | Arduous (-40)          |     | Very Hard (-30)  | Hard (-20)       | Difficult (-10)  |
+| Extremely Rare                         | Punishing (-50)        |     | Arduous (-40)    | Very Hard (-30)  | Hard (-20)       |
+| Near Unique                            | Hellish (-60)          |     | Punishing (-50)  | Arduous (-40)    | Very Hard (-30)  |
+| Unique                                 | GM's Discretion        |     | Hellish (-60)    | Punishing (-50)  | Arduous (-40)    |
 
-| Availability: Difficulty by Population |                                   |                  |                  |                  |                  |
-|----------------------------------------|-----------------------------------|------------------|------------------|------------------|------------------|
-| Availability                           | Population Below 1,000            |                  | Below 10,000     | Below 100,000    | 100,000 or More  |
-| Ubiquitous                             | Easy (+30)                        |                  | Automatic        | Automatic        | Automatic        |
-| Abundant                               | Routine (+20)                     |                  | Easy (+30)       | Automatic        | Automatic        |
-| Plentiful                              | Ordinary (+10)                    |                  | Routine (+20)    | Easy (+30)       | Automatic        |
-| Common                                 | Challenging (+0)                  |                  | Ordinary (+10)   | Routine (+20)    | Easy (+30)       |
-| Average                                | Difficult (-10)                   |                  | Challenging (+0) | Ordinary (+10)   | Routine (+20)    |
-| Scarce                                 | Hard (-20)                        |                  | Difficult (-10)  | Challenging (+0) | Ordinary (+10)   |
-| Rare                                   | Very Hard (-30)                   |                  | Hard (-20)       | Difficult (-10)  | Challenging (+0) |
-| Very Rare                              | Arduous (-40)                     |                  | Very Hard (-30)  | Hard (-20)       | Difficult (-10)  |
-| Extremely Rare                         | Punishing (-50)                   |                  | Arduous (-40)    | Very Hard (-30)  | Hard (-20)       |
-| Near Unique                            | Hellish (-60)                     |                  | Punishing (-50)  | Arduous (-40)    | Very Hard (-30)  |
-| Unique                                 | GM's Discretion                   |                  | Hellish (-60)    | Punishing (-50)  | Arduous (-40)    |
-|                                        | Availability: Population and Time |                  |                  |                  |                  |
-| Availability                           | Population 10 million+            | Below 10 million | Below 1 million  | Below 100,000    | Below 10,000     |
-| Ubiquitous                             | One hour                          | 30 minutes       | 10 minutes       | 5 minutes        | One minute       |
-| Abundant                               | 1d5 hours                         | One hour         | 30 minutes       | 15 minutes       | 10 minutes       |
-| Plentiful                              | 1d10 hours                        | 1d10 hours       | One hour         | 30 minutes       | 15 minutes       |
-| Common                                 | One day                           | One day          | 1d10 hours       | One hour         | 30 minutes       |
-| Average                                | 1d5 days                          | 1d5 days         | One day          | 1d10 hours       | One hour         |
-| Scarce                                 | 1d5 weeks                         | One week         | 1d5 days         | One day          | 1d10 hours       |
-| Rare                                   | 2d5 weeks                         | 2d5 weeks        | One week         | 1d5 days         | One day          |
-| Very Rare                              | 1d5 months                        | 1d5 months       | 1d5 weeks        | 1d10 days        | 1d5 days         |
-| Extremely Rare                         | 3d5 months                        | 2d5 months       | 2d5 weeks        | 2d10 days        | 1d10 days        |
-| Near Unique                            | One year                          | 3d5 months       | 1d5 months       | 1d5 weeks        | 2d10 days        |
-| Unique                                 | 1d5 years                         | One year         | 1d10 months      | 2d5 weeks        | GM's Discretion  |
+| Availability: Population and Time |                        |                  |                 |               |                 |
+| --------------------------------- | ---------------------- | ---------------- | --------------- | ------------- | --------------- |
+| Availability                      | Population 10 million+ | Below 10 million | Below 1 million | Below 100,000 | Below 10,000    |
+| Ubiquitous                        | One hour               | 30 minutes       | 10 minutes      | 5 minutes     | One minute      |
+| Abundant                          | 1d5 hours              | One hour         | 30 minutes      | 15 minutes    | 10 minutes      |
+| Plentiful                         | 1d10 hours             | 1d10 hours       | One hour        | 30 minutes    | 15 minutes      |
+| Common                            | One day                | One day          | 1d10 hours      | One hour      | 30 minutes      |
+| Average                           | 1d5 days               | 1d5 days         | One day         | 1d10 hours    | One hour        |
+| Scarce                            | 1d5 weeks              | One week         | 1d5 days        | One day       | 1d10 hours      |
+| Rare                              | 2d5 weeks              | 2d5 weeks        | One week        | 1d5 days      | One day         |
+| Very Rare                         | 1d5 months             | 1d5 months       | 1d5 weeks       | 1d10 days     | 1d5 days        |
+| Extremely Rare                    | 3d5 months             | 2d5 months       | 2d5 weeks       | 2d10 days     | 1d10 days       |
+| Near Unique                       | One year               | 3d5 months       | 1d5 months      | 1d5 weeks     | 2d10 days       |
+| Unique                            | 1d5 years              | One year         | 1d10 months     | 2d5 weeks     | GM's Discretion |
 
 ## Clothing & Personal Items
 
 This category covers a wide array of gear designed for everyday purposes or other common tasks, though a resourceful Acolyte should be able to find plenty of less conventional uses as well. In general, items in this category are meant to be worn; handheld pieces are described in the Tools section. More generic items are listed first, with those endemic to certain worlds, regions, or purposes to follow.
 
-| Clothing and Personal Items |        |        |              |  |
-|-----------------------------|--------|--------|--------------|--|
-| Name                        | Weight | Cost   | Availability |  |
-| Backpack                    | 1kg    | 10     | Plentiful    |  |
-| Blast Goggles               | 0.5kg  | 25     | Common       |  |
-| Cameleoline Cloak           | 0.5kg  | 500    | Rare         |  |
-| Charm                       | -      | Varies | Varies       |  |
-| Chrono                      | -      | 40+    | Abundant     |  |
-| Clip/Drop Harness           | 2kg    | 25     | Common       |  |
-| Clothing†                   | -      | Varies | Varies       |  |
-| Dog Tags                    | -      | 1      | Plentiful    |  |
-| Field Sack                  | 1.5kg  | 5      | Common       |  |
-| Filtration Plugs            | -      | 15     | Common       |  |
-| Infrared Goggles            | 0.5kg  | 275    | Rare         |  |
-| Photo-Visor†                | 0.5kg  | 100    | Scarce       |  |
-| Photo-Contacts†             | -      | 250    | Rare         |  |
-| Re-Breather                 | 1kg    | 50     | Scarce       |  |
-| Recoil Glove                | 0.5kg  | 80     | Rare         |  |
-| Respirator/Gas Mask         | 0.5kg  | 25     | Average      |  |
-| Spider Pads                 | 1kg    | 150    | Scarce       |  |
-| Survival Suit               | 1kg    | 300    | Plentiful    |  |
-| Thermal Gloves              | 1kg    | 220    | Scarce       |  |
-| Void Suit†                  | 8kg    | 100    | Plentiful    |  |
-|                             |        |        |              |  |
+| Clothing and Personal Items |        |        |              |
+| --------------------------- | ------ | ------ | ------------ |
+| Name                        | Weight | Cost   | Availability |
+| Backpack                    | 1kg    | 10     | Plentiful    |
+| Blast Goggles               | 0.5kg  | 25     | Common       |
+| Cameleoline Cloak           | 0.5kg  | 500    | Rare         |
+| Charm                       | -      | Varies | Varies       |
+| Chrono                      | -      | 40+    | Abundant     |
+| Clip/Drop Harness           | 2kg    | 25     | Common       |
+| Clothing †                  | -      | Varies | Varies       |
+| Dog Tags                    | -      | 1      | Plentiful    |
+| Field Sack                  | 1.5kg  | 5      | Common       |
+| Filtration Plugs            | -      | 15     | Common       |
+| Infrared Goggles            | 0.5kg  | 275    | Rare         |
+| Photo-Visor †               | 0.5kg  | 100    | Scarce       |
+| Photo-Contacts †            | -      | 250    | Rare         |
+| Re-Breather                 | 1kg    | 50     | Scarce       |
+| Recoil Glove                | 0.5kg  | 80     | Rare         |
+| Respirator/Gas Mask         | 0.5kg  | 25     | Average      |
+| Spider Pads                 | 1kg    | 150    | Scarce       |
+| Survival Suit               | 1kg    | 300    | Plentiful    |
+| Thermal Gloves              | 1kg    | 220    | Scarce       |
+| Void Suit †                 | 8kg    | 100    | Plentiful    |
+|                             |        |        |              |
 
-†*This item's Craftsmanship has one or more special effects* 
+† _This item's Craftsmanship has one or more special effects_
+
 #### Backpack
 
 Variously referred to as rucksacks, kit bags, or gear sacks, a backpack refers to any piece of equipment generally worn over the back or shoulder via straps that is intended to carry other items. Backpacks come in countless permutations throughout the Calixis Sector, and may take the form of rigid framed packs of plastek and synth-canvas to completely soft and supple leather bags with button closures. A backpack can generally hold about fifty kilograms worth of gear, allowing the wearer to carry or drop a load of equipment at will, although particularly long or over sized items will likely stick out of one or both ends.
@@ -96,7 +98,7 @@ A character wearing blast goggles is immune to the blinding effects of a photon 
 
 Cameleoline is a term used to describe materials made from a miraculous and poorly understood mimic fiber that mysteriously alters its coloration to blend in with its immediate surroundings. While distracting to look at directly, cameleoline cloaks are indispensable gear choices for scouts, snipers, and anyone else who values stealthy approaches to an objective. They are ill-suited for everyday wear, however, as the constantly changing appearance will likely attract suspicious and confused stares in crowded areas.
 
-A character wearing a cameleoline cloak gains a +20 bonus to Concealment tests. Further, if they remain stationary, the passive camouflaging effect causes them to be counted as being at Extreme Range (see Combat Circumstances on page 198 of *Dark Heresy*) when attacked by a ranged weapon.
+A character wearing a cameleoline cloak gains a +20 bonus to Concealment tests. Further, if they remain stationary, the passive camouflaging effect causes them to be counted as being at Extreme Range (see Combat Circumstances on page 198 of _Dark Heresy_) when attacked by a ranged weapon.
 
 #### Charm
 
@@ -110,13 +112,13 @@ Short for chronometer, these items are generally worn on the wrist or carried in
 
 #### Clip/Drop Harness
 
-An absolutely invaluable item for those who must often deal with vertical obstacles, clip or drop harnesses (as they are variously known) are strapped to the wearer's torso and thighs, allowing them to make use of a securely attached spool of safety line with a magnetic or hooked clasp. When properly attached to a suitable point, the wearer of a clip or drop harness can safely scale or descend from almost any surface, although especially treacherous ones may still p rove dangerous.
+An absolutely invaluable item for those who must often deal with vertical obstacles, clip or drop harnesses (as they are variously known) are strapped to the wearer's torso and thighs, allowing them to make use of a securely attached spool of safety line with a magnetic or hooked clasp. When properly attached to a suitable point, the wearer of a clip or drop harness can safely scale or descend from almost any surface, although especially treacherous ones may still prove dangerous.
 
- on their Climb Test. A character wearing a clip or drop harness gains a +30 bonus to Climb Tests and cannot fall if he fails, though a particularly serious failure might result in him becoming tangled up in his harness' line. A character can descend a vertical surface normally, but ascending with a clip harness is somewhat slower than trusting one's bare hands alone as the attachment points must be continually moved as the wearer ascends. An ascending character moves at one-half their Half Move speed, regardless of how many degrees of success they may have
+A character wearing a clip or drop harness gains a +30 bonus to Climb Tests and cannot fall if he fails, though a particularly serious failure might result in him becoming tangled up in his harness' line. A character can descend a vertical surface normally, but ascending with a clip harness is somewhat slower than trusting one's bare hands alone as the attachment points must be continually moved as the wearer ascends. An ascending character moves at one-half their Half Move speed, regardless of how many degrees of success they may have on their Climb Test.
 
 #### Clothing
 
-, but some more common pieces are lis Protecting one's modesty pleases the Emperor, and there is a whole universe of different styles of clothing worn by Imperial citizens in the Calixis Sector alone. Whether humble rags, sturdy coveralls, or elegant robes and vestments, clothing is often the quickest way to identify someone's station or role, and Acolytes wishing to investigate a given area would do well to familiarize themselves with the local fashions and who wears what. Attempting a comprehensive list of Imperial attire would be a fool's errand ted here.
+Protecting one's modesty pleases the Emperor, and there is a whole universe of different styles of clothing worn by Imperial citizens in the Calixis Sector alone. Whether humble rags, sturdy coveralls, or elegant robes and vestments, clothing is often the quickest way to identify someone's station or role, and Acolytes wishing to investigate a given area would do well to familiarize themselves with the local fashions and who wears what. Attempting a comprehensive list of Imperial attire would be a fool's errand here.
 
 he wearer resemble a pile of re Rag-Castings (Poor Craftsmanship): Very poor and drudging citizens often must make do with patchwork clothes made from whatever materials are readily available. Outfits made in this way are reasonably durable but have an extremely shabby appearance, often with the effect of making t fuse or garbage.
 
@@ -132,7 +134,7 @@ lly designed to Uniform (Common Craftsmanship): Worn typically by soldiers, enfo
 
 Bodyglove (Good Craftsmanship): This type of form-fitting outfit is worn like a glove for the entire body as its name would imply, and is a common choice for skilled operatives, bodyguards, and infiltrators. A bodyglove may be a simple rubberised suit that stretches to fit its wearer or could be as sophisticated as a customfitted piece with integral cooling coils, but in all cases they are designed to be easy to move in w ith the absolute minimum encumbrance.
 
- footwear (boots ar Ecclesiastical Robes (Good Craftsmanship): Flowing habits that are equal parts intimidating and inspiring, the vestments donned by ecclesiarchs of all ranks are finely-made clothing that tends to become progressively more ostentatious and elaborate as the clergy ascend in rank and power. At the minimum, an ecclesiastical robe will include the primary robe itself with a separate belt or sash, a mantellum worn around the shoulders and a mitre or biretta on the head. Ecclesiarchs-in-attendance will typically wear slippers, while those in the field may don any sort of applicable e the most common choice).
+footwear (boots ar Ecclesiastical Robes (Good Craftsmanship): Flowing habits that are equal parts intimidating and inspiring, the vestments donned by ecclesiarchs of all ranks are finely-made clothing that tends to become progressively more ostentatious and elaborate as the clergy ascend in rank and power. At the minimum, an ecclesiastical robe will include the primary robe itself with a separate belt or sash, a mantellum worn around the shoulders and a mitre or biretta on the head. Ecclesiarchs-in-attendance will typically wear slippers, while those in the field may don any sort of applicable e the most common choice).
 
 as Mechanicus Robes (Good Craftsmanship): The infamous red robes of the Martian Tech-Priests are voluminous and heavy garments that conceal most of the adherent's augmetics, including separate sleeves and cowls to keep their bodies completely covered even while blessing the innards of a needy machine. Mechanicus robes most frequently feature a checkerboard pattern trim and numerous skulland-cog insignia, and are often riddled with concealed slits and pockets so the wearer's augmetics can manoeuvre about freely. A common saying goes that no outsiders have ever seen a Tech-Priest's cyber-mantle and the most impressive of their assimilation with the machine spirit – this is both a statement on the Mechanicus' extremely secretive nature as well a literal observation on their concealing garb.
 
@@ -182,9 +184,7 @@ Characters wearing a recoil glove can fire a Basic weapon with only the gloved h
 
 #### Respirator/Gas Mask
 
-Gear of this type is intended to protect the wearer from harmful gases and vapours by passing the air the wearer breathes through several filters in succession. Respirators generally cover the wearer's mouth and nose and are nominally "civilian" items, while gas masks fully cover the face or head and have a distinctly "military" appearance, although there is some overlap between the different types and as with many pieces of kit they are manufactured in a bewildering array of patterns in the Calixis Sector alone. Regardless of the exact method and style, they are far superior protective wear compared to the more common filtration plugs, and in some particularly grim areas of hive cities
-
-are just about everyday wear.
+Gear of this type is intended to protect the wearer from harmful gases and vapours by passing the air the wearer breathes through several filters in succession. Respirators generally cover the wearer's mouth and nose and are nominally "civilian" items, while gas masks fully cover the face or head and have a distinctly "military" appearance, although there is some overlap between the different types and as with many pieces of kit they are manufactured in a bewildering array of patterns in the Calixis Sector alone. Regardless of the exact method and style, they are far superior protective wear compared to the more common filtration plugs, and in some particularly grim areas of hive cities are just about everyday wear.
 
 A character wearing a gas mask or respirator receives a +30 bonus to any Toughness Tests made to resist the effects of airborne gases and may reroll a failed Test; the results of the reroll are final.
 
@@ -224,25 +224,25 @@ Whether only found on certain worlds or serving extremely specific purposes, ite
 
 Fedrid's dense, nearly impenetrable jungles are home to innumerable horrors, but the most dangerous creatures on this feral world are its native huntsmen who take to the trees in search of terrifying creatures to stalk. The feral hunters often clad themselves in braid cloaks, tough
 
-| Specialty Personal Items                                   |        |         |                  |  |
-|------------------------------------------------------------|--------|---------|------------------|--|
-| Name                                                       | Weight | Cost    | Availability     |  |
-| Braid Cloak                                                | 2kg    | 80      | Scarce           |  |
-| Explosive Collar                                           | 1kg    | 55      | Rare             |  |
-| Gill Filter                                                | 0.5kg  | 100     | Scarce           |  |
-| Gloom Eye                                                  | -      | 300     | Very Rare        |  |
-| Holo-Visor†                                                | 0.5kg  | 250     | Rare             |  |
-| Huntsman's Musk                                            | 0.2kg  | 20      | Rare             |  |
-| Jump Pack                                                  | 25kg   | 2,000   | Rare             |  |
-| Mag-Harness                                                | 10kg   | 550     | Scarce           |  |
-| Magboots†                                                  | 2kg    | 65      | Average          |  |
-| Night Cloak                                                | 2.5kg  | 100     | Average          |  |
-| Ocular Catechizer                                          | -      | 250     | Scarce           |  |
-| Opus Machina                                               | 0.5kg  | 1,500   | Tech-Priest Only |  |
-| Slip Vest                                                  | 2kg    | 200     | Very Rare        |  |
-| Soul Mask                                                  | 1kg    | 200     | Rare             |  |
-| Targeting Monocle                                          | -      | Special | Very Rare        |  |
-| †This item's Craftsmanship has one or more special effects |        |         |                  |  |
+| Specialty Personal Items                                   |        |         |                  |     |
+| ---------------------------------------------------------- | ------ | ------- | ---------------- | --- |
+| Name                                                       | Weight | Cost    | Availability     |     |
+| Braid Cloak                                                | 2kg    | 80      | Scarce           |     |
+| Explosive Collar                                           | 1kg    | 55      | Rare             |     |
+| Gill Filter                                                | 0.5kg  | 100     | Scarce           |     |
+| Gloom Eye                                                  | -      | 300     | Very Rare        |     |
+| Holo-Visor†                                                | 0.5kg  | 250     | Rare             |     |
+| Huntsman's Musk                                            | 0.2kg  | 20      | Rare             |     |
+| Jump Pack                                                  | 25kg   | 2,000   | Rare             |     |
+| Mag-Harness                                                | 10kg   | 550     | Scarce           |     |
+| Magboots†                                                  | 2kg    | 65      | Average          |     |
+| Night Cloak                                                | 2.5kg  | 100     | Average          |     |
+| Ocular Catechizer                                          | -      | 250     | Scarce           |     |
+| Opus Machina                                               | 0.5kg  | 1,500   | Tech-Priest Only |     |
+| Slip Vest                                                  | 2kg    | 200     | Very Rare        |     |
+| Soul Mask                                                  | 1kg    | 200     | Rare             |     |
+| Targeting Monocle                                          | -      | Special | Very Rare        |     |
+| †This item's Craftsmanship has one or more special effects |        |         |                  |     |
 
 leathery garments made from the Ungorth hides, which are thought to ward off the scything talons and reaping fangs of the nightmares that lurk below the jungle canopy. While this is more superstition than anything else, the cloaks do offer some protection, but more importantly are excellent camouflage. Fedrid's Ungorth survives by remaining unseen, and its hide has excellent scent-masking properties even long after the creature's death.
 
@@ -288,7 +288,7 @@ Creatures that rely on smell to detect their prey take a -20 penalty to Percepti
 
 Across the Imperium, and likely since the dawn of mankind, men have dreamed of flight. Jump packs are fantastic creations of the Mechanicus that allows just that. Using a combination of high-intensity suspensor cells and powerful hybrid thrusters, a character wearing a jump pack can send themselves soaring through the air or hurtling across flat ground at great speed. Jump packs are highly sophisticated pieces of equipment that require special training both to use and to maintain, and as a result they are typically only employed by elite organisations such as the Adepta Soroitas' famed Seraphim or the Imperial Navy's crack void armsmen. Much larger versions are used by Assault Marines of the Adeptus Astartes to especially devastating effect. Because of their bulk and mass, along with the noise of idling turbines, jump packs are typically only donned right before an operation commences.
 
-Using a jump pack requires the operator have the Pilot (Jump Pack) or Pilot (Personal) skill to attempt to fly without understanding the nuances and habits of the jump pack would result in almost certain death. A trained character can use a jump pack to safely land from almost any altitude, and can make short jumps or dashes as if they had an Agility Bonus of 6 for the purposes of determining movement. When used in this mode, a character takes off at the start of his movement and lands at the end this can potentially allow a character to avoid difficult or hazardous terrain (see Treacherous Environments on page 213 of *Dark Heresy*). When cranked to maximum output, a jump pack allows its wearer to duplicate the effects of the Flyer (12) Trait for up to a minute at a time; after being used in this fashion, a jump pack must spend an equal amount of time cooling its turbines.
+Using a jump pack requires the operator have the Pilot (Jump Pack) or Pilot (Personal) skill to attempt to fly without understanding the nuances and habits of the jump pack would result in almost certain death. A trained character can use a jump pack to safely land from almost any altitude, and can make short jumps or dashes as if they had an Agility Bonus of 6 for the purposes of determining movement. When used in this mode, a character takes off at the start of his movement and lands at the end this can potentially allow a character to avoid difficult or hazardous terrain (see Treacherous Environments on page 213 of _Dark Heresy_). When cranked to maximum output, a jump pack allows its wearer to duplicate the effects of the Flyer (12) Trait for up to a minute at a time; after being used in this fashion, a jump pack must spend an equal amount of time cooling its turbines.
 
 Jump packs can also be used in a void environment, granting the wearer a Movement of 15. Without atmosphere to rush through its turbines, a jump pack relies purely on its thrusters to move through void, which will exhaust their reserves of fuel and energy in about an hour.
 
@@ -355,7 +355,7 @@ More common bottles of amasec may not force the imbiber to make a Carouse Test u
 Attention Spanner is an unusual substance that is commonly consumed by hard-working adepts and archivists that require a high degree of focus over long periods of time, though it is also more rarely used by artists, writers, tradesmen, and more fleshy members of the Adepts Mechanicus. A dose of attention spanner
 
 | Drugs & Consumables                                                                                                                                       |        |        |              |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|--------------|
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ------------ |
 | Name                                                                                                                                                      | Weight | Cost   | Availability |
 | Amasec (bottle)                                                                                                                                           | 1kg    | 50+    | Scarce       |
 | Attention Spanner† (dose)                                                                                                                                 | -      | 45     | Rare         |
@@ -412,7 +412,7 @@ De-Tox is the common term for a biologically reactive compound that is intended 
 A dose of de-tox ends the ongoing effects of any drugs and most other ingested substances one Round after it has been administered. The character is Stunned for 2d5 Rounds as the detox forces his body to purge out the harmful contents (among other things). A conscious character can attempt to resist this effect and reduce the duration by a number of Rounds equal to his Toughness Bonus, but if this
 
 | Common Foodstuffs                                                                                                           |      |              |
-|-----------------------------------------------------------------------------------------------------------------------------|------|--------------|
+| --------------------------------------------------------------------------------------------------------------------------- | ---- | ------------ |
 | Examples by Quality                                                                                                         | Cost | Availability |
 | Low (fungus bread, CS biscuits, synth-paste, algae spread, roasted vermin, recyk-water, cheap rotgut)                       | 1    | Ubiquitous   |
 | Average (vatmeal cakes, canned Grox hash, flavoured Grox jerky, fortified nutri-slurry, Josian ale)                         | 2    | Plentiful    |
@@ -494,7 +494,7 @@ Slaught takes one minute to become effective after being ingested. If injected i
 
 Spook is an incredibly unusual drug that fills the user with strange visions of heightened perception, ultimate power, or some other such delusion. However, this is no mere hallucination - spook actually enables the user to manifest a limited form of psychic energy, which can be extremely useful (or extremely dangerous...) in the right situation. Spook is derived from rare mutagenic substances that can sometimes be found naturally amassing in the lowest depths of Imperial hive cities. These sickly-looking greenish puddles, typically sprouting luminescent fungi, contain a vast concentration of human protein - likely the result of waste and effluent from above as well as the decaying remains of underhivers, mutants, and even more unspeakable things congealing together. It is thought that the presence of this human genetic material in such a condensed form is what causes the drug's psy-reactive effect, but the exact method of action remains a mystery. Regardless of how the stuff comes to be, it is an incredibly feared and reviled substance that is almost universally proscribed across the breadth of the Imperium. The enforcer crackdowns that target the makers and distributors of spook more closely resemble military offensives than ganger busts, which all but ensures a high price for the drug - and a veritable fortune to be made for those with the guile and conniving to partake in its trade. Only a few, however, are cunning or lucky enough to outlive their ill-gotten wealth.
 
- Spook takes effect immediately as soon as it touches the user's lips, and has markedly different effects based on whether a character has a Psy Rating or not. A user without a Psy Rating must make a Challenging (+0) Willpower Test - failure indicates that the drug is unable to find the user's "psychic mind" and simply bestows terrible, nightmarish visions instead, inflicting 1d5 Insanity Points in the process. Should the character succeed he gains a random psychic power (see Table 5-15 on page 149 of *Dark Heresy*). If the character succeeds by two or more degrees, the character may instead simply gain a single minor psychic power of his choice. The character has access to the power for a number of hours equal to his Willpower Bonus and manifests it by succeeding on another Willpower Test.
+Spook takes effect immediately as soon as it touches the user's lips, and has markedly different effects based on whether a character has a Psy Rating or not. A user without a Psy Rating must make a Challenging (+0) Willpower Test - failure indicates that the drug is unable to find the user's "psychic mind" and simply bestows terrible, nightmarish visions instead, inflicting 1d5 Insanity Points in the process. Should the character succeed he gains a random psychic power (see Table 5-15 on page 149 of _Dark Heresy_). If the character succeeds by two or more degrees, the character may instead simply gain a single minor psychic power of his choice. The character has access to the power for a number of hours equal to his Willpower Bonus and manifests it by succeeding on another Willpower Test.
 
 If the user happens to be a psyker - in other words, has a Psy Rating - they must also make a Challenging (+0) Willpower Test as they take the dose. Success adds 2 to all Power Rolls for a
 
@@ -512,11 +512,11 @@ Taking more than four doses of spur in a weeklong period can cause addiction - t
 
 While any stimulating or allaying substance could be potentially habit-forming, some are so compelling that their users cannot help but want more and will often go to great lengths to satiate their need. Those of strong will may withstand these temptations, at least for a time, but chronic use can erode and debase even the most stalwart of hearts and minds.
 
- Even the most cloying or pernicious narcotics can usually be taken from time to time with minimal risk of becoming an addict. Especially addictive drugs will specify a certain number of doses which, if taken over a certain timeframe, can "hook" the user. The user must then make a Willpower Test, with failure indicating the user has become addicted to the drug in question.
+Even the most cloying or pernicious narcotics can usually be taken from time to time with minimal risk of becoming an addict. Especially addictive drugs will specify a certain number of doses which, if taken over a certain timeframe, can "hook" the user. The user must then make a Willpower Test, with failure indicating the user has become addicted to the drug in question.
 
- An addict generally feels compelled to consume at least one dose of their drug per day; the addict can resist this urge with a successful Routine (+20) Willpower Test, although this Test has a cumulative -5 modifier for every dose of the drug the user has taken in the last week. Should the user succeed he can fight off his addiction for the day, but will now suffer a penalty specific to each drug as he goes through withdrawal. These withdrawal effects persist until the addict either gives in and doses up or successfully overcomes his addiction.
+An addict generally feels compelled to consume at least one dose of their drug per day; the addict can resist this urge with a successful Routine (+20) Willpower Test, although this Test has a cumulative -5 modifier for every dose of the drug the user has taken in the last week. Should the user succeed he can fight off his addiction for the day, but will now suffer a penalty specific to each drug as he goes through withdrawal. These withdrawal effects persist until the addict either gives in and doses up or successfully overcomes his addiction.
 
- Overcoming addiction is deceptively simple: the addict need only avoid the drug in question for a length of time specified in the drug's description, after which it clears his system. This can be accomplished through the user's force of will alone or via physical separation from the drug (a specialised de-tox hospice or a precinct-fort's holding cell being equally effective). Once the requisite period of time has elapsed the user no longer suffers from withdrawal symptoms and can be considered "clean" again. However, recovered addicts can still slip back into the habit quite easily: if he begins using the same drug again in the future, any Willpower Tests to avoid becoming addicted once more suffer a -10 penalty.
+Overcoming addiction is deceptively simple: the addict need only avoid the drug in question for a length of time specified in the drug's description, after which it clears his system. This can be accomplished through the user's force of will alone or via physical separation from the drug (a specialised de-tox hospice or a precinct-fort's holding cell being equally effective). Once the requisite period of time has elapsed the user no longer suffers from withdrawal symptoms and can be considered "clean" again. However, recovered addicts can still slip back into the habit quite easily: if he begins using the same drug again in the future, any Willpower Tests to avoid becoming addicted once more suffer a -10 penalty.
 
 another character or creature startles or surprises the withdrawing addict he must make an Ordinary (+10) Willpower Test. With success, the addict may act normally – failure causes him to either reflexively attack whatever startled him, or treat it as though it had a Fear Rating of 3 for the next 1d5 rounds (addict's choice). It takes three weeks of abstinence to overcome a spur addiction.
 
@@ -534,7 +534,7 @@ An unusual type of booze to say the least, this brew (if it can be called as suc
 
 Often regarded as an indispensible tool by enforcer cadres, Arbitrators, and even agents of the Holy Ordos, truth serums are a wide array of drugs and draughts that are designed to make a subject more compliant to questioning and inquiry. Most types of truth serum will typically work by depressing the resistive areas of the user's mind, loosening their grip on things that they might ordinarily be very inclined to keep private. Though very effective at making the mind more docile, truth serum can also cause the user to ramble and divulge all kinds of information which, while truthful, may not be of any actual use to their questioner. This particular effect does much to offset the view of a novice interrogator that a truth serum is a sort of panacea to any kind of closely guarded secret; most take quickly to heart the strengths and limitations of such methods after tediously sitting through hours upon hours of inane prattle by heavily drugged-up subjects. Truth serum is known by a variety of names in various circles; the Inquisition and Adeptus Arbites often refers to these types of drugs as "The Truth Revealed", while Scintillan enforcers are more likely to call it "Verity". Among gangers and lowhive scum, the common names are notably more callous and vulgar.
 
-Truth serums of all types must be injected into the subject and become effective after 2d10 minutes. The drug remains in the subject's body for 3d5 hours minus a number of hours equal to the suject's Toughness Bonus (minimum 0). During this time, the subject takes a -30 penalty to all Tests made to resist Interrogation Tests being made against them. However, the interrogator also suffers a -10 penalty to their Interrogation Tests to sort out the useless babble from the information they're actually looking for. If the subject also has the Blather Talent, this penalty increases to -20. If the interrogator uses the Inquiry Skill instead of Interrogation (see Lines of Inquiry on page 232 of *The Inquisitor's Handbook*), the subject's penalty to resisting the interrogation increases to -50, the serum leaving them much more pliant to this form of verbal explication.
+Truth serums of all types must be injected into the subject and become effective after 2d10 minutes. The drug remains in the subject's body for 3d5 hours minus a number of hours equal to the suject's Toughness Bonus (minimum 0). During this time, the subject takes a -30 penalty to all Tests made to resist Interrogation Tests being made against them. However, the interrogator also suffers a -10 penalty to their Interrogation Tests to sort out the useless babble from the information they're actually looking for. If the subject also has the Blather Talent, this penalty increases to -20. If the interrogator uses the Inquiry Skill instead of Interrogation (see Lines of Inquiry on page 232 of _The Inquisitor's Handbook_), the subject's penalty to resisting the interrogation increases to -50, the serum leaving them much more pliant to this form of verbal explication.
 
 #### Wideawake (Drug)
 
@@ -549,7 +549,7 @@ Those travelling to the undeveloped fringes of the Calixis Sector - missionaries
 Note that the Availability of any consumable whose name lists it as being found on certain worlds only applies on that same world - it may be much rarer or totally nonexistent elsewhere.
 
 | Frontier Consumables                                                         |        |      |              |
-|------------------------------------------------------------------------------|--------|------|--------------|
+| ---------------------------------------------------------------------------- | ------ | ---- | ------------ |
 | Name                                                                         | Wt     | Cost | Availability |
 | Belly-Churn (pouch)                                                          | 1kg    | 10   | Average      |
 | Dryas (dose)                                                                 | -      | 50   | Rare         |
@@ -615,7 +615,7 @@ This expensive though remarkably smooth libation is derived from small yellow fr
 Starvation is often one of the most effective weapons that can be wielded against a human population centre, a fact which is not lost on the enemies of mankind. Civilian relief rations are a special type of food product created by the Departmento Munitorum and issued to Imperial Guard units tasked with defending or liberating cities, hives, and other urban areas threatened with siege by the enemy. Designed to be durable enough to be thrown out
 
 | Specialty Consumables               |       |       |                |
-|-------------------------------------|-------|-------|----------------|
+| ----------------------------------- | ----- | ----- | -------------- |
 | Name                                | Wt    | Cost  | Availability   |
 | Blush (bottle)                      | 1kg   | 75    | Rare           |
 | Civilian Relief Rations (box of 30) | 10kg  | 15    | Plentiful      |
@@ -648,7 +648,7 @@ Starvation is often one of the most effective weapons that can be wielded agains
 | Zumthorian Greyve†‡ (dose)          |       | 300   | Rare           |
 |                                     |       |       |                |
 
-†*A user can develop immunity to this drug; see Building Immunity sidebar*  ‡ *This drug is addictive; see Getting Addicted sidebar and drug's description*  of flyers or even launched by artillery in special canisters, relief rations take the form of unappealing bricks of recycled food waste, processed synth-protein, or just about any other form of organic matter that has some nutritional content. The individually wrapped parcels are waterproof and small enough to be stuffed into a pocket or satchel and contain enough food energy to keep a man alive for a day. The flavour ranges from "bad" to "horrendous", but this is a minor consideration when the alternative is death by malnourishment or enslavement by the unspeakable armies of mankind's enemies.
+†_A user can develop immunity to this drug; see Building Immunity sidebar_ ‡ _This drug is addictive; see Getting Addicted sidebar and drug's description_ of flyers or even launched by artillery in special canisters, relief rations take the form of unappealing bricks of recycled food waste, processed synth-protein, or just about any other form of organic matter that has some nutritional content. The individually wrapped parcels are waterproof and small enough to be stuffed into a pocket or satchel and contain enough food energy to keep a man alive for a day. The flavour ranges from "bad" to "horrendous", but this is a minor consideration when the alternative is death by malnourishment or enslavement by the unspeakable armies of mankind's enemies.
 
 #### Clear (Drug)
 
@@ -694,7 +694,7 @@ Hyperexia must be ingested once a day over a period of twelve days, after which 
 
 Among innumerable other horrors, the feral world of Dusk is home to a savage predatory creature that the native tribesmen refer to as Nightwings. A Nightwing does not attack its victims directly, preferring to sprinkle them with a potent hallucinogenic dust it extrudes from veins in its wings. Once the victim passes into a nightmarish stupor, the hematophagous Nightwing sucks them dry with its sieve-like fangs, leaving the victim a desiccated husk in mere minutes. For reasons best left unexplored, there are those that have survived a Nightwing attack and found the experience somehow exciting or desirous, and Nightwing dust (or "night dust" for short) has propagated far beyond Dusk itself. The dust is harvested from slain or captive Nightwings and rendered down into a concentrate where it is shipped out to nefarious peddlers and dealers throughout the Sector. Night dust is typically consumed by burning it as an incense and inhaling the resultant smoke, but a more powerful effect can be created by dissolving the powder in fortified amasec and consuming the resultant brew. Once the drug takes effect the user is locked in a dream-racked narcosis that can last for days on end - many users find the frightening and violent visions to be off-putting enough to steer clear of the stuff thereafter. It is said that a socalled "dusk dream" shows the user dark facets of their own mind. If true, those who find the trip to be an enjoyable diversion are likely even more twisted and sinister than they appear. The severity of a night dust experience can be profoundly altering to the user, and the term "dust dream" is sometimes used in Malfian parlance to refer to a sudden disappearance or bout of madness.
 
- Once a character uses a dose of night dust they immediately begin to experience strange hallucinations and dissociative influences. This initial stage imparts a -20 penalty on all Tests and lasts for 1d10+10 minutes. Afterward, the user falls into a deep, feverish slumber filled with vivid dreams that reflect the deepest and most depraved sections of the user's subconscious. The user remains locked in their own mind for 1d5-2 days (if the result is 0 or less, the effect lasts for 2d10 hours instead). Upon returning to his senses, the user must pass an Ordinary (+10) Willpower Test or gain 1d5 Insanity Points from their maddening visions. If the user chose to ingest rather than smoke the night dust, the effects are more powerful: the user remains asleep for 1d5 days and must pass a Difficult (- 10) Willpower Test or else gain 1d10 Insanity Points when the drug wears off.
+Once a character uses a dose of night dust they immediately begin to experience strange hallucinations and dissociative influences. This initial stage imparts a -20 penalty on all Tests and lasts for 1d10+10 minutes. Afterward, the user falls into a deep, feverish slumber filled with vivid dreams that reflect the deepest and most depraved sections of the user's subconscious. The user remains locked in their own mind for 1d5-2 days (if the result is 0 or less, the effect lasts for 2d10 hours instead). Upon returning to his senses, the user must pass an Ordinary (+10) Willpower Test or gain 1d5 Insanity Points from their maddening visions. If the user chose to ingest rather than smoke the night dust, the effects are more powerful: the user remains asleep for 1d5 days and must pass a Difficult (- 10) Willpower Test or else gain 1d10 Insanity Points when the drug wears off.
 
 #### Panimmune (Drug)
 
@@ -750,7 +750,7 @@ Taking a dose of red-eye requires two Full Actions (one for each eye). The drug 
 
 Sandstone's existence is a tale of pure serendipity. Originally derived from pollen produced by flowering plants on Cyrus Vulpa, the vast herds of grox raised on that world are known to have a particular affinity for consuming it. This curious occurrence made its way to Quaddis, where the infamous Pleasuremeisters sought to use its neuro-reactive properties to devise greater and more powerful psychotropic drugs for the indulgence of the wealthy and debased patrons there. This too was a failure; the best of their efforts produced a substance that bestowed heightened mental determination and focus, little use for debauched revellers, but a potent asset for hard-nosed enforcers and investigators as well as military snipers and ganger heavies. Sandstone takes the form of small cubes of tightly compressed powder that dissolve almost instantly if exposed to liquids. These are unwrapped and then crushed on the fingers, the resultant grit rubbed into the gums where it permeates into nerves close to the brain. Once under the effect of Sandstone, a user's fortified mind more easily shrugs off fearsome opponents and horrific sights as well as more mundane concerns such as boredom and hunger, though its use as a recreational substance is strongly dampened by a nasty malaise that overtakes the user as the drug's effects wear off and their mind rebels against being unwillingly focused.
 
-Using Sandstone requires a Full Action and takes effect in 1d10 minutes. For the next 1d5+3 hours, the user gains a +30 bonus on most Willpower Tests made to resist external stimuli, such as Fear or Pinning, Interrogation, Trauma Tests, psychic powers that affect the mind, and so forth. Once the drug's effects expire, the user must attempt a Difficult (-10) Toughness Test, with failure reducing their Intelligence, Willpower, and Fellowship by 10 points. The lost points are recovered at a rate of one per hour (see Characteristic Damage on page 200 of *Dark Heresy* for more information).
+Using Sandstone requires a Full Action and takes effect in 1d10 minutes. For the next 1d5+3 hours, the user gains a +30 bonus on most Willpower Tests made to resist external stimuli, such as Fear or Pinning, Interrogation, Trauma Tests, psychic powers that affect the mind, and so forth. Once the drug's effects expire, the user must attempt a Difficult (-10) Toughness Test, with failure reducing their Intelligence, Willpower, and Fellowship by 10 points. The lost points are recovered at a rate of one per hour (see Characteristic Damage on page 200 of _Dark Heresy_ for more information).
 
 #### Scav-Glysten (Drug)
 
@@ -770,7 +770,7 @@ s or startles them. A dose of Scrapper-Ripper becomes effective in 1d5 Rounds an
 
 Slam is unquestionably the worst, most destructive kind of combat drug imaginable. It should therefore be no surprise that the horrid stuff originated on Fenksworld's nightmarish Hive Volg. Its manufacture is similarly unpleasant. The raw materials are chemical residue gathered from the digestive tracts of hulking corpse roaches that infest the meat sumps in Volg's worst districts. The gooey and caustic substance is crystallized in an alkaline bath and then ground into a bile yellow powder before being diluted in what's hopefully water. Moments after being injected, slam causes a rapid biological change in the user, creating hyperactive muscular growth that often causes the user to visibly bulge and spasm. The user's nerves are greatly deadened during the process, leaving them to feel only a monstrous rush of power and energy that is frequently accompanied by an intense urge to commit violence. Diluted slam can easily cause long term damage to the user's circulatory and nervous system, even in small doses. Those who hail from Volg would consider this a small price to pay when faced with the choice of being devoured by a ravenous maw-fluke or dosing up and then ripping its jaws off with their bare hands. Use of slam is a matter of survival on Volg, but a thriving black market for the drug exists on other worlds where users take the destructive substance to wreak havoc on their enemies, often with little concern (or perhaps understanding) of the consequences. Pure slam, still suspended in an alkaline solution, can be injected as well - the results are almost inevitably fatal for the user, but the sheer destruction that a "slammed" hiver can create before their organs ru pture is a spectacle in and of itself.
 
- and Agility C A dose of diluted slam becomes effective in one Round and grants the user the Unnatural Strength (x2) and Unnatural Toughness (x2) traits for 1d5+TB Rounds. The user must pass an Ordinary (+10) Willpower Test or enter into a violent rage as if they'd taken a dose of frenzon, though the effect only lasts as long as the slam itself. When the drug wears off, the character must pass an Arduous (-40) Toughness Test or permanently reduce their Strength haracteristics by 1d5 points each.
+and Agility C A dose of diluted slam becomes effective in one Round and grants the user the Unnatural Strength (x2) and Unnatural Toughness (x2) traits for 1d5+TB Rounds. The user must pass an Ordinary (+10) Willpower Test or enter into a violent rage as if they'd taken a dose of frenzon, though the effect only lasts as long as the slam itself. When the drug wears off, the character must pass an Arduous (-40) Toughness Test or permanently reduce their Strength haracteristics by 1d5 points each.
 
 Pure slam is even more dangerous. The drug takes effect immediately, with the character gaining the Unnatural Strength (x3), Unnatural Toughness (x3), and Unnatural Speed traits for a number of Rounds equal to twice their Toughness Bonus. The character goes
 
@@ -780,7 +780,7 @@ ineffective against pure slam's rrible effects. Note that this accumulated Fatig
 
 #### S omna (Drug)
 
-An unusual and curious drug to say the least, somna is created from a synthesized extract of the Nephys Orchid of Iocanthus. When properly refined and condensed, somna instils a wave of shifts in the user's bodily humours, inducing a coma-like state and very nearly shutting their biological processes down. The character hovers on the very brink of death, their consciousness plunged into a bottomless abyss far beyond even the deepest sleep, while their body can survive without food or water and on an imperceptible amount of air for up to several weeks. Like clockwork, the user will apparently rise from the dead a predetermined amount of time later, possibly feeling ravenously hungry but otherwise suffering no ill effects. A man under the effects of somna appears to be dead for all intents and purposes - an auspex scan reports a corpse, while all but the most skilled medicae will write the user off as well. Somna can even fool the soulscouring powers of a trained psyker, making the stuff immensely useful for deep infiltration and high-risk operations. As with almost all things, Malfian society has found a twisted and sinister application for somna in the form of elaborate murders and disappearances where a drugged user awakens to find himself buried alive or marooned on the notoriously perilous feral world of Dusk. An adulterated form of somna is used as a lacing agent for a particularly potent variety of obscura known as "black spiral", which so far has only turned up on Scintilla. This suggests that the narco-gangs in Hive Sibellus have come into some kind of reliable supply of somna, which has sparked all sorts of speculation and intrigue among the hive's enforcers and citizens. Many have thought that the enigmatic and behemoth chartist ship known as the *Misericord* has some role to play, while others have whispered that the Lord Sector or ev en the Inquisition itself are involved.
+An unusual and curious drug to say the least, somna is created from a synthesized extract of the Nephys Orchid of Iocanthus. When properly refined and condensed, somna instils a wave of shifts in the user's bodily humours, inducing a coma-like state and very nearly shutting their biological processes down. The character hovers on the very brink of death, their consciousness plunged into a bottomless abyss far beyond even the deepest sleep, while their body can survive without food or water and on an imperceptible amount of air for up to several weeks. Like clockwork, the user will apparently rise from the dead a predetermined amount of time later, possibly feeling ravenously hungry but otherwise suffering no ill effects. A man under the effects of somna appears to be dead for all intents and purposes - an auspex scan reports a corpse, while all but the most skilled medicae will write the user off as well. Somna can even fool the soulscouring powers of a trained psyker, making the stuff immensely useful for deep infiltration and high-risk operations. As with almost all things, Malfian society has found a twisted and sinister application for somna in the form of elaborate murders and disappearances where a drugged user awakens to find himself buried alive or marooned on the notoriously perilous feral world of Dusk. An adulterated form of somna is used as a lacing agent for a particularly potent variety of obscura known as "black spiral", which so far has only turned up on Scintilla. This suggests that the narco-gangs in Hive Sibellus have come into some kind of reliable supply of somna, which has sparked all sorts of speculation and intrigue among the hive's enforcers and citizens. Many have thought that the enigmatic and behemoth chartist ship known as the _Misericord_ has some role to play, while others have whispered that the Lord Sector or ev en the Inquisition itself are involved.
 
 ite real so Somna must be carefully measured and administered to a user by a trained medicae in order to receive the desired result. Dosing a user requires a second character to make a Difficult (-10) Medicae Test which takes about an hour for both characters. On a success the user enters into a state of apparent death for between one and twenty days (chosen by the character making the Medicae Test) - if the test is a failure then the duration is random (2d10 days), though the character making the Medicae Test is unaware of the failure (with potentially disastrous consequences!). A failure by four or more degrees results in a catastrophic reaction that kills the user, the death becoming qu metime before the user was to awaken.
 
@@ -846,47 +846,47 @@ chine oil, removable gun sights, and so forth. Unless r will float if im With so
 
 "Auspex" is a general term for a category of sensor and scanning devices that can detect energy emissions, motion and movement, and
 
-| Tools & Equipment                                          |          |        |              |  |
-|------------------------------------------------------------|----------|--------|--------------|--|
-| Name                                                       | Wt       | Cost   | Availability |  |
-| Arms Coffer                                                | 6kg      | 100    | Average      |  |
-| Auspex/Scanner                                             | 0.5kg    | 145    | Scarce       |  |
-| Auto-Quill                                                 | 3kg      | 150    | Scarce       |  |
-| Cast Spray                                                 | 0.4kg    | 60     | Average      |  |
-| Cognomen                                                   | -        | Varies | Plentiful    |  |
-| Combi-Tool                                                 | 1kg      | 200    | Rare         |  |
-| Compass/Orienter                                           | -        | 25     | Scarce       |  |
-| Data-Slate†                                                | 0.5kg    | 20     | Common       |  |
-| Glow-Globe/Lamp Pack                                       | 0.5kg    | 15     | Abundant     |  |
-| Grapnel                                                    | 2kg      | 30     | Common       |  |
-| Igniter                                                    | -        | 10     | Abundant     |  |
-| Injector                                                   | -        | -      | -            |  |
-| Autojector                                                 | -        | 10     | Common       |  |
-| Hypo-Spray                                                 | 1.5kg    | 35     | Average      |  |
-| Skin Patch                                                 | -        | 20     | Scarce       |  |
-| Syrette                                                    | -        | 1      | Abundant     |  |
-| Magnoculars†                                               | 0.5kg    | 55     | Average      |  |
-| Manacles†                                                  | 1kg      | 30     | Common       |  |
-| Mantle-Shrine                                              | 2kg      | 30     | Abundant     |  |
-| Missionary Shrine                                          | 4.5kg    | 40     | Scarce       |  |
-| Medikit                                                    | 2kg      | 100    | Common       |  |
-| Advanced Medikit                                           | 5kg      | 300    | Rare         |  |
-| Healer's Kit                                               | 3kg      | 50     | Average      |  |
-| Micro-Bead†                                                | -        | 20     | Average      |  |
-| Multikey                                                   | -        | 150    | Scarce       |  |
-| Pict Recorder†                                             | 2kg      | 100    | Average      |  |
-| Polygum                                                    | -        | 75     | Rare         |  |
-| Salvation Auger†                                           | 1kg      | 20     | Common       |  |
-| Screamer                                                   | 2kg      | 120    | Scarce       |  |
-| Stab-Light                                                 | - or 1kg | 10     | Common       |  |
-| Stummer                                                    | 2kg      | 25     | Average      |  |
-| Survival Kit                                               | 4kg      | 150    | Average      |  |
-| Synth-Skin                                                 | 0.5kg    | 40     | Common       |  |
-| Toxin Wand                                                 | 0.2kg    | 100    | Scarce       |  |
-| Vox-Caster                                                 | 5kg      | 300    | Scarce       |  |
-| Weapon Maintenance Kit                                     | 1kg      | 20     | Average      |  |
-| Writing Kit                                                | 2kg      | 20     | Common       |  |
-| †This item's Craftsmanship has one or more special effects |          |        |              |  |
+| Tools & Equipment                                          |          |        |              |     |
+| ---------------------------------------------------------- | -------- | ------ | ------------ | --- |
+| Name                                                       | Wt       | Cost   | Availability |     |
+| Arms Coffer                                                | 6kg      | 100    | Average      |     |
+| Auspex/Scanner                                             | 0.5kg    | 145    | Scarce       |     |
+| Auto-Quill                                                 | 3kg      | 150    | Scarce       |     |
+| Cast Spray                                                 | 0.4kg    | 60     | Average      |     |
+| Cognomen                                                   | -        | Varies | Plentiful    |     |
+| Combi-Tool                                                 | 1kg      | 200    | Rare         |     |
+| Compass/Orienter                                           | -        | 25     | Scarce       |     |
+| Data-Slate†                                                | 0.5kg    | 20     | Common       |     |
+| Glow-Globe/Lamp Pack                                       | 0.5kg    | 15     | Abundant     |     |
+| Grapnel                                                    | 2kg      | 30     | Common       |     |
+| Igniter                                                    | -        | 10     | Abundant     |     |
+| Injector                                                   | -        | -      | -            |     |
+| Autojector                                                 | -        | 10     | Common       |     |
+| Hypo-Spray                                                 | 1.5kg    | 35     | Average      |     |
+| Skin Patch                                                 | -        | 20     | Scarce       |     |
+| Syrette                                                    | -        | 1      | Abundant     |     |
+| Magnoculars†                                               | 0.5kg    | 55     | Average      |     |
+| Manacles†                                                  | 1kg      | 30     | Common       |     |
+| Mantle-Shrine                                              | 2kg      | 30     | Abundant     |     |
+| Missionary Shrine                                          | 4.5kg    | 40     | Scarce       |     |
+| Medikit                                                    | 2kg      | 100    | Common       |     |
+| Advanced Medikit                                           | 5kg      | 300    | Rare         |     |
+| Healer's Kit                                               | 3kg      | 50     | Average      |     |
+| Micro-Bead†                                                | -        | 20     | Average      |     |
+| Multikey                                                   | -        | 150    | Scarce       |     |
+| Pict Recorder†                                             | 2kg      | 100    | Average      |     |
+| Polygum                                                    | -        | 75     | Rare         |     |
+| Salvation Auger†                                           | 1kg      | 20     | Common       |     |
+| Screamer                                                   | 2kg      | 120    | Scarce       |     |
+| Stab-Light                                                 | - or 1kg | 10     | Common       |     |
+| Stummer                                                    | 2kg      | 25     | Average      |     |
+| Survival Kit                                               | 4kg      | 150    | Average      |     |
+| Synth-Skin                                                 | 0.5kg    | 40     | Common       |     |
+| Toxin Wand                                                 | 0.2kg    | 100    | Scarce       |     |
+| Vox-Caster                                                 | 5kg      | 300    | Scarce       |     |
+| Weapon Maintenance Kit                                     | 1kg      | 20     | Average      |     |
+| Writing Kit                                                | 2kg      | 20     | Common       |     |
+| †This item's Craftsmanship has one or more special effects |          |        |              |     |
 
 biological life signs. Auspex units come in a range of sizes, with smaller types being able to fit in a modest belt pouch with a wire connection to a wrist- or visor-mounted display while heavier vehicular models might be the size of a man's torso. Larger auspex units generally have a greater scanning distance and can more easily detect hidden objects. Though eminently useful during exploration and scouting endeavours, an auspex must be carefully manipulated in order to achieve the desired effect - a unit whose machine spirit is not adequately mollified will often report the presence of nonexistent objects or threats.
 
@@ -910,7 +910,7 @@ will fool into thinking it all but the most discerning eye was written by hand.
 
 As th c can ontains into a e name suggests, this handy metalli c an aerosol spray that hardens sturdy and impact-resistant mass suitable for bracing a broken bone. The spray is also laced with procoagulants and antibacterial agents which help greatly in preventing infection in perilous compound fractures. Cast spray is frequently added to medikits to improve the capability of the medic to treat broken bones, but can also be carried and used by itself as its application is fairly intuitive.
 
-cast spray allows the victim of a A medic using broken bone to roll twice and choose the more favourable result when making the Toughness Test to retain the limb (see *Dark Heresy*, page 211 for more information on Broken Limbs and their treatment). It also provides a +20 bonus to any Tests made to stop Blood Loss, though it may leave the character partly immobilised even if they don't have a broken bone at all. One can of cast spray is sufficient for three applications, after which it is usually discarded. Using cast spray is a Full Action.
+cast spray allows the victim of a A medic using broken bone to roll twice and choose the more favourable result when making the Toughness Test to retain the limb (see _Dark Heresy_, page 211 for more information on Broken Limbs and their treatment). It also provides a +20 bonus to any Tests made to stop Blood Loss, though it may leave the character partly immobilised even if they don't have a broken bone at all. One can of cast spray is sufficient for three applications, after which it is usually discarded. Using cast spray is a Full Action.
 
 #### Cognomen
 
@@ -1014,7 +1014,7 @@ can turn to an easily movable mantle-shrine to While resplendent to behold and h
 
 ouls with a st ensure the Emperor hears their prayers. Mantleshrines are common devotional items that vary greatly in quality and workmanship, but most follow a fairly standard format of a triptych case made of wood, alloy, or flakboard. Fully folded, a mantle-shrine can be carried around like a piece of luggage - when needed, most shrines can deploy a set of folding legs and then be snapped open to reveal their ecclesiastical interiors. Traditional mantle-shrines contain a larger centre partition with a painted or relief icon of the Emperor - the right panel invariably depicts Saint Drusus, while the left may feature scenes of religious portents, well-known lay members of the Church, or other images of the maker's choosing. The base folds out and includes small troughs for incense and charms, holders for candles, and a tackboard for votive slips. Ornate mantle-shrines can be obtained from skilled artisans, but the vast majority - even those used by men of means - are made in pilgrim shantytowns on Scintilla's Hive Tarsus. The Ecclesiarchy rewards these devoted s ipend for expenses and shelter, then distributes the mantle-shrines across the sector where countless faithful citizens can venerate the Emperor through devotional displays that were assembled and blessed under the searing light of the Golden Cathedral itself.
 
- heathen scummers and bandits that would dare desecrate y work. Missionary Shrine: Travelling missionaries will almost always carry a sturdy metallic mantle-shrine that is often noticeably heavier than the types worshipped by common citizens. Depending on which tradition one follows, this extra mass is variously to visit a small measure of the Emperor's burden on the missionary's posture, or simply "because it's so full of mercy". The truth is somewhat less inspirational - aside from being more solidly built to withstand the rigours of travel, the heavy construction is of immediate utility for clobbering a missionary's hol
+heathen scummers and bandits that would dare desecrate y work. Missionary Shrine: Travelling missionaries will almost always carry a sturdy metallic mantle-shrine that is often noticeably heavier than the types worshipped by common citizens. Depending on which tradition one follows, this extra mass is variously to visit a small measure of the Emperor's burden on the missionary's posture, or simply "because it's so full of mercy". The truth is somewhat less inspirational - aside from being more solidly built to withstand the rigours of travel, the heavy construction is of immediate utility for clobbering a missionary's hol
 
 #### Medikit
 
@@ -1022,7 +1022,7 @@ Medikits are an essential part of any combat medic's arsenal and are frequently 
 
 well. A medikit will vary considerably in appearance and utility, but the general purpose is to provide a concise and compact set of medical tools, chem sets, drugs, and other gear to improve the medicae's ability to treat injured and sickened victims in field situations. Medikits d by soldiers and Guardsmen will typically llapsible rubberised fabric bundle h u t se come in a co at can be easily attached to a gear harness or belt, while a chirurgeon might carry a much more polished set in a leather case that will hold its shape and the implements within during treatment procedures.
 
-A medikit provides a +20 bonus to Medicae Tests made to administer First Aid, to stop Blood Loss, and in the treatment of broken limbs (including amputations). A medikit typically has enough supplies to be used ten times before it is depleted. If the medic has access to reserves of medicinal supplies, such as at a hospice or treatment centre, a depleted medikit can be "refilled" for half the listed price of a new one. If the medic succeeds on a Medicae Test with three or more degrees of success he only uses half as many supplies as usual thanks to greater efficiency and avoidance of precautionary excess. See the Medicae skill description on page 233 of *The Inquisitor's Handbook* for a more detailed explanation and further rules.
+A medikit provides a +20 bonus to Medicae Tests made to administer First Aid, to stop Blood Loss, and in the treatment of broken limbs (including amputations). A medikit typically has enough supplies to be used ten times before it is depleted. If the medic has access to reserves of medicinal supplies, such as at a hospice or treatment centre, a depleted medikit can be "refilled" for half the listed price of a new one. If the medic succeeds on a Medicae Test with three or more degrees of success he only uses half as many supplies as usual thanks to greater efficiency and avoidance of precautionary excess. See the Medicae skill description on page 233 of _The Inquisitor's Handbook_ for a more detailed explanation and further rules.
 
 medikit's extra fe Advanced Medikit: Aside from the usual supplies and tools, this medikit includes a compact "guidance cogitator" that can offer instructions to the medic, allowing those who are not skilled in first aid to still act in a lifesaving capacity. Easy-to-follow pict-grams are provided as well to facilitate quick diagnosis of common conditions. Though helpful for the average citizen or soldier, the added bulk and "juvie" nature of an advanced atures make them rare sights in the hands of a trained healer.
 
@@ -1068,7 +1068,7 @@ Good: Higher quality pict recorders produce picts and vids with sharper clarity 
 
 d, which can be im if any re-takes are necessary while the object of attention is still at han measurably useful.
 
- through the use of liquid da Best: Showing their top quality in both workmanship and the media produced, mastercrafted pict recorders can store a staggering amount of picts or vids ta medium that is contained in pressurised internal vessels. These pict recorders can be used in most lighting conditions and are the only types that return visual feeds sharp enough to be translated into full-scale hololith projections.
+through the use of liquid da Best: Showing their top quality in both workmanship and the media produced, mastercrafted pict recorders can store a staggering amount of picts or vids ta medium that is contained in pressurised internal vessels. These pict recorders can be used in most lighting conditions and are the only types that return visual feeds sharp enough to be translated into full-scale hololith projections.
 
 #### Polygum
 
@@ -1084,7 +1084,7 @@ A salvation auger produces a visual or audio warning when the wearer enters into
 
 #### Screamer
 
- of po A common and typically quite effective security device, "screamer" is a broad term used to describe a plethora of devices that are designed to make an audible alert when its perimeter is breached. A screamer is about the size of a can of grox hash and will sometimes include a magnetic strip or a sturdy stake to anchor it to available surfaces. The device uses a simple motion tracker, aural sensor, and thermal scanner to locate and identify the presence tential enemies. A small cogitator stack processes the information and triggers an earshattering alarm that can be heard up to a kilometre away. A screamer includes ten identtokens that can be handed out to allies - anyone wearing one in an open location causes the screamer to politely ignore their presence.
+of po A common and typically quite effective security device, "screamer" is a broad term used to describe a plethora of devices that are designed to make an audible alert when its perimeter is breached. A screamer is about the size of a can of grox hash and will sometimes include a magnetic strip or a sturdy stake to anchor it to available surfaces. The device uses a simple motion tracker, aural sensor, and thermal scanner to locate and identify the presence tential enemies. A small cogitator stack processes the information and triggers an earshattering alarm that can be heard up to a kilometre away. A screamer includes ten identtokens that can be handed out to allies - anyone wearing one in an open location causes the screamer to politely ignore their presence.
 
 A character wishing to set a screamer must make a **Challenging (+0) Tech-Use Test**. If successful, the screamer activates and begins acting as a warder over the nearby area, making Awareness Tests as though it had a Perception of 75. A screamer watches over an area with a 30 metre radius, adding 5 metres for every degree of success on the setter's Tech-Use Test. Should the Test fail, the screamer appears to set properly, but some malfunction of its machine spirit (or the character not pressing the right button) reduces its Perception to 10 - most experienced explorers make sure to test a screamer's function (often by throwing a large rock or stick or some such object) to ensure that it has activated properly. Disarming a screamer requires an Easy (+30) Tech-Use Test, with failure likely causing the screamer to issue its horrendous racket when the user attempts to move it from its perch. A screamer can be left set for up to 5 days before its internal power cell needs to be recharged (this can be done with any
 
@@ -1145,7 +1145,7 @@ The Imperium of Man has lifted countless billions from the depths of savagery in
 Note that the Availability of any gear whose name lists it as being found on certain worlds only applies on that same world - it may be
 
 | Prim<br>itive World Gear |       |      |                                                            |
-|--------------------------|-------|------|------------------------------------------------------------|
+| ------------------------ | ----- | ---- | ---------------------------------------------------------- |
 | Nam<br>e                 | Wt    | Cost | Availability                                               |
 | Caltrops                 | 1kg   | 5    | Common                                                     |
 | Capsican Trap†           | 3kg   | 20   | Scarce                                                     |
@@ -1203,7 +1203,7 @@ Volonx's fam archer ke se nge but hig ffective bio-wea atch s cr res o appre hat
 
 s or even death by anaphylaxis, making the prospect red a frightening one. However, the pl the skin can cause severe respiratory distres of being sna ant doesn't differentiate between a victim and its owner - archers who use skem nets must use heavy gloves to handle and bundle their nets, and careless or unlucky ones often fall victim to accidental exposure.
 
- had the T A skem net can be fired from most types of bows, though the bow gains the Inaccurate quality and its Range is reduced by half. A character hit by the arrow is treated as being affected by a weapon with the Snare quality, and unless they are wearing sturdy full body clothing, is also affected as if the net oxic quality as well. A skem net dries out and dies 1d5 weeks after it is cut, losing its poisonous features, though it can still be used to snare and trap victims it is fired at.
+had the T A skem net can be fired from most types of bows, though the bow gains the Inaccurate quality and its Range is reduced by half. A character hit by the arrow is treated as being affected by a weapon with the Snare quality, and unless they are wearing sturdy full body clothing, is also affected as if the net oxic quality as well. A skem net dries out and dies 1d5 weeks after it is cut, losing its poisonous features, though it can still be used to snare and trap victims it is fired at.
 
 #### Smoke Flare
 
@@ -1215,7 +1215,7 @@ After being lit with a flame, a smoke flare begins creating a dense cloud that e
 
 #### Fedrid Spark Rocks
 
-n't come in contact w Many less-developed worlds make do adequately with flint or chemically-treated wicks to start fires, but Fedrid's natives have discovered an altogether more effective way to light their torches and lanterns. Spark rocks, uncannily enough, create sparks when two of the small white minerals are rubbed together, allowing a seasoned hunter or dour farmer alike to carry "ready-to-light" fire in his pocket. While light and easy to use, care must be taken to ensure that spark rocks do ith one another at any time when their holder *doesn't* want to create a flame - more than a few inexperienced handlers have set their packs (or their pants) on fire by keeping their spark rocks in close contact. This highly useful utility has not gone unnoticed by Imperial explorers and missionaries - indeed, many common types of mass-produced igniters in the Calixis Sector use synthetic spark rocks to start their flames, and more costly models may actually use the real thing (though the effect is identical). Among the off-world game hunters that trek across Fedrid's jungles in search of dangerous beasts, it is something of a social faux pas to use anything but a pair of real spark rocks to start a flame.
+n't come in contact w Many less-developed worlds make do adequately with flint or chemically-treated wicks to start fires, but Fedrid's natives have discovered an altogether more effective way to light their torches and lanterns. Spark rocks, uncannily enough, create sparks when two of the small white minerals are rubbed together, allowing a seasoned hunter or dour farmer alike to carry "ready-to-light" fire in his pocket. While light and easy to use, care must be taken to ensure that spark rocks do ith one another at any time when their holder _doesn't_ want to create a flame - more than a few inexperienced handlers have set their packs (or their pants) on fire by keeping their spark rocks in close contact. This highly useful utility has not gone unnoticed by Imperial explorers and missionaries - indeed, many common types of mass-produced igniters in the Calixis Sector use synthetic spark rocks to start their flames, and more costly models may actually use the real thing (though the effect is identical). Among the off-world game hunters that trek across Fedrid's jungles in search of dangerous beasts, it is something of a social faux pas to use anything but a pair of real spark rocks to start a flame.
 
 ### Stink Bomb
 
@@ -1235,20 +1235,20 @@ This handy shovel - 9 centimetres wide and 70 centimetres long - is a part of th
 
 lee weapon, dealing 1d10 po If the edges have been sharpened to a point against Munitorum regulations but widely practiced anyway - a 9-70 Entrenchment Tool can be used as a me ints of Rending Damage with the Primitive and Unbalanced qualities.
 
-| nfantry Gear<br>I       |       |      |              |  |  |  |
-|-------------------------|-------|------|--------------|--|--|--|
-| Name                    | Wt    | Cost | Availability |  |  |  |
-| 9-70 Entrenchment Tool  | 2kg   | 15   | Average      |  |  |  |
-| Bedroll                 | 4kg   | 8    | Abundant     |  |  |  |
-| Grooming Kit            | 0.1kg | 3    | Plentiful    |  |  |  |
-| Infantryman's Primer    | 0.3kg | -    | Varies       |  |  |  |
-| Infantry Lamp/Tac-Light | 0.8kg | 10   | Average      |  |  |  |
-| Melt Bomb a             | 5kg   | 100  | Rare         |  |  |  |
-| Mess Kit                | 0.5kg | 5    | Plentiful    |  |  |  |
-| Sandbags (100)          | 10kg  | 5    | Ubiquitous   |  |  |  |
-| Tac-Rig/Gear Harness    | 1.5kg | 20   | Common       |  |  |  |
-| Tent                    | 9kg   | 35   | Average      |  |  |  |
-| Tool Kit                | 0.8kg | 15   | Common       |  |  |  |
+| nfantry Gear<br>I       |       |      |              |     |     |     |
+| ----------------------- | ----- | ---- | ------------ | --- | --- | --- |
+| Name                    | Wt    | Cost | Availability |     |     |     |
+| 9-70 Entrenchment Tool  | 2kg   | 15   | Average      |     |     |     |
+| Bedroll                 | 4kg   | 8    | Abundant     |     |     |     |
+| Grooming Kit            | 0.1kg | 3    | Plentiful    |     |     |     |
+| Infantryman's Primer    | 0.3kg | -    | Varies       |     |     |     |
+| Infantry Lamp/Tac-Light | 0.8kg | 10   | Average      |     |     |     |
+| Melt Bomb a             | 5kg   | 100  | Rare         |     |     |     |
+| Mess Kit                | 0.5kg | 5    | Plentiful    |     |     |     |
+| Sandbags (100)          | 10kg  | 5    | Ubiquitous   |     |     |     |
+| Tac-Rig/Gear Harness    | 1.5kg | 20   | Common       |     |     |     |
+| Tent                    | 9kg   | 35   | Average      |     |     |     |
+| Tool Kit                | 0.8kg | 15   | Common       |     |     |     |
 
 #### Bedroll
 
@@ -1298,7 +1298,7 @@ Tents of various sizes are common items xposed to ha below notably cooler. One t
 
 This pressed alloy box contains a small arsenal of handheld tools meant for basic repair and maintenance work on many types of military hardware. Common equipment includes several types of pilers and tongs, wire snips, screw and bolt drivers, wrenches, insulated clamps, and a small hammer. Invariably included are one or more rolls of adhesive "mud tape" (so named because it sticks to everything and never comes off), which is considered by many soldiers to be a gift from the
 
- to its ability to rejoin almost an Mechanicus due y mechanical component that has separated from its proper location.
+to its ability to rejoin almost an Mechanicus due y mechanical component that has separated from its proper location.
 
 A Munitorum tool kit provides a +5 bonus to Trade (Technomat) Tests made when repairing any sort of Munitorum-sanctioned gear and equipment, though it may be compatible with other devices as well depending on their provenance and the nature of construction.
 
@@ -1306,57 +1306,57 @@ A Munitorum tool kit provides a +5 bonus to Trade (Technomat) Tests made when re
 
 #### Bomb Spray
 
-|                                                                                                        | Specialty Equipment                                        |              |      |                |  |  |
-|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------|--------------|------|----------------|--|--|
-|                                                                                                        | Name                                                       | Availability |      |                |  |  |
-|                                                                                                        | Bomb Spray                                                 | 1kg          | 200  | Very Rare      |  |  |
-|                                                                                                        | C<br>ogitator                                              | -            | -    | -              |  |  |
-| Specialty                                                                                              | Emplaced                                                   | 150kg        | 4000 | Average        |  |  |
-|                                                                                                        | Personal                                                   | 1.5kg        | 700  | Average        |  |  |
-| Equipment                                                                                              | Data-Loom                                                  | 25kg         | 900  | Rare           |  |  |
-|                                                                                                        | Matriculation Engine                                       | 14kg         | 750  | Scarce         |  |  |
-| Whether due to rarity, expense, or simply                                                              | Memrance Enhancer                                          | 5kg          | 300  | Scarce         |  |  |
-| serving extremely esoteric purposes, some types                                                        |                                                            |              |      |                |  |  |
-| of tools and gear simply aren't commonly used                                                          | Demo Charge                                                | 2kg          | 180  | Average        |  |  |
-| by most Imperial citizens. Acolytes of the                                                             | Hollow Charge                                              | 1.5kg        | 250  | Rare           |  |  |
-| Imperial Inquisition, however, would do well to                                                        | Det-Tape                                                   | 1kg          | 50   | Common         |  |  |
-| be aware of their existence in case some of these                                                      | Diagnostor/Medispex                                        | 4kg          | 525  | Very Rare      |  |  |
-| techno-obscurities or highly specialised bits of                                                       | Disguise Kit†                                              | 5kg          | 150  | Average        |  |  |
-| equipment come up during the course of an                                                              | Drusine Incense                                            | 0.3kg        | 100  | Rare           |  |  |
-| investigation<br>. Some specialty equipment are                                                        | Emergency Kit                                              | 6kg          | 300  | Common         |  |  |
-| tr<br>uly spectacular works of Imperial tech and the<br>arcane understandings of the mechanical, while | Emergency Hab                                              | 10kg         | 250  | Scarce         |  |  |
-| others can simply be novelties and amusement                                                           | Excruciator                                                | 2kg          | 4000 | Rare           |  |  |
-| for the wealthy and idle. Still more are simply                                                        | Forgery Kit†                                               | 3kg          | 400  | Scarce         |  |  |
-| unusual,<br>ill-understood,<br>or<br>just<br>limited<br>in                                             | Gene-Printer                                               | 18kg         | 1500 | Rare           |  |  |
-| application or to certain segments of society.                                                         | Glidewing                                                  | 28kg         | 7500 | Extremely Rare |  |  |
-| Specialty equipment's Availability assumes a                                                           |                                                            |              |      |                |  |  |
-| general attempt to locate such gear within                                                             | Grav-Chute                                                 | 15kg         | 400  | Scarce         |  |  |
-| Imperial space. Specific tools and kit may be                                                          | Grey Device                                                | 3kg          | 500  | Rare           |  |  |
-| significantly more or less common on individual                                                        | "Heretic's Wake" Deck                                      | 0.2kg        | 10   | Scarce         |  |  |
-| worlds depending on their type and utility.                                                            | Hololith/Holo-Projector                                    | 40kg         | 3000 | Scarce         |  |  |
-|                                                                                                        | Holo Wafer                                                 | 0.1kg        | 5    | Average        |  |  |
-| Bomb Spray                                                                                             | Intrusion Spirit                                           | 0.5kg        | 620  | Very Rare      |  |  |
-| Though of immediate utility to many covert<br>agents<br>and<br>other<br>clandestine<br>types,<br>this  | Line Ascender                                              | 1kg          | 100  | Scarce         |  |  |
-| wondrous aerosol contained in humble metallic                                                          | Melta Gel                                                  | 0.3kg        | 200  | Rare           |  |  |
-| cans has a particularly small following due to the                                                     | Penthrift Dreadfuls                                        | -            | 1    | Average        |  |  |
-| extreme danger inherent in its use. Bomb spray,                                                        |                                                            |              |      |                |  |  |
-| as the name suggests, creates a chemically                                                             | Pict-Fly                                                   | -            | 1200 | Rare           |  |  |
-| reactive layer onto any surface it is applied to.                                                      | Pinner                                                     | 5kg          | 800  | Extremely Rare |  |  |
-| While inert as a gas, once it settles and dries the                                                    | Poi-Savant†                                                | 2kg          | 300  | Rare           |  |  |
-| compound becomes incredibly unstable - any                                                             | Privacy Field Generator                                    | 10kg         | 1550 | Rare           |  |  |
-| strong impact, such as a b<br>ullet strike or even a                                                   | Psy-Focus                                                  | Varies       | 100  | Very Rare      |  |  |
-| rock or brick<br>being tossed at the coated surface                                                    | Psycrystal                                                 | 0.3kg        | 1000 | Near Unique    |  |  |
-| causes the s<br>pray to violently detonate. Bomb<br>ray was originally devised by a genius Magos<br>sp | Sky Eye                                                    | 4kg          | 1700 | Extremely Rare |  |  |
-| Technicus from the lesser forge world of                                                               | Strait-Cape                                                | 5kg          | 100  | Scarce         |  |  |
-| Perinetus<br>as<br>a<br>means<br>to<br>easily<br>facilitate                                            |                                                            |              |      |                |  |  |
-| demolition of archaic or ruined equipment or                                                           | Tracking Device                                            | 0.5kg        | 200  | Scarce         |  |  |
-| edifices. While very easy to use, bomb spray can't                                                     | Venom Ring                                                 | -            | 350  | Very Rare      |  |  |
-| be easily controlled like proper demo charges or                                                       | Vox Bug                                                    | -            | 500  | Rare           |  |  |
-| other forms of explosives - once applied, the                                                          | Vox-Thief                                                  | Varies       | 2000 | Rare           |  |  |
-|                                                                                                        | Vox-Tracker                                                | 11kg         | 450  | Scarce         |  |  |
-|                                                                                                        |                                                            |              |      |                |  |  |
-| 71                                                                                                     | Ward Accessor                                              | -            | 25   | Average        |  |  |
-|                                                                                                        | †This item's Craftsmanship has one or more special effects |              |      |                |  |  |
+|                                                                                                        | Specialty Equipment                                        |              |      |                |     |     |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------ | ---- | -------------- | --- | --- |
+|                                                                                                        | Name                                                       | Availability |      |                |     |     |
+|                                                                                                        | Bomb Spray                                                 | 1kg          | 200  | Very Rare      |     |     |
+|                                                                                                        | C<br>ogitator                                              | -            | -    | -              |     |     |
+| Specialty                                                                                              | Emplaced                                                   | 150kg        | 4000 | Average        |     |     |
+|                                                                                                        | Personal                                                   | 1.5kg        | 700  | Average        |     |     |
+| Equipment                                                                                              | Data-Loom                                                  | 25kg         | 900  | Rare           |     |     |
+|                                                                                                        | Matriculation Engine                                       | 14kg         | 750  | Scarce         |     |     |
+| Whether due to rarity, expense, or simply                                                              | Memrance Enhancer                                          | 5kg          | 300  | Scarce         |     |     |
+| serving extremely esoteric purposes, some types                                                        |                                                            |              |      |                |     |     |
+| of tools and gear simply aren't commonly used                                                          | Demo Charge                                                | 2kg          | 180  | Average        |     |     |
+| by most Imperial citizens. Acolytes of the                                                             | Hollow Charge                                              | 1.5kg        | 250  | Rare           |     |     |
+| Imperial Inquisition, however, would do well to                                                        | Det-Tape                                                   | 1kg          | 50   | Common         |     |     |
+| be aware of their existence in case some of these                                                      | Diagnostor/Medispex                                        | 4kg          | 525  | Very Rare      |     |     |
+| techno-obscurities or highly specialised bits of                                                       | Disguise Kit†                                              | 5kg          | 150  | Average        |     |     |
+| equipment come up during the course of an                                                              | Drusine Incense                                            | 0.3kg        | 100  | Rare           |     |     |
+| investigation<br>. Some specialty equipment are                                                        | Emergency Kit                                              | 6kg          | 300  | Common         |     |     |
+| tr<br>uly spectacular works of Imperial tech and the<br>arcane understandings of the mechanical, while | Emergency Hab                                              | 10kg         | 250  | Scarce         |     |     |
+| others can simply be novelties and amusement                                                           | Excruciator                                                | 2kg          | 4000 | Rare           |     |     |
+| for the wealthy and idle. Still more are simply                                                        | Forgery Kit†                                               | 3kg          | 400  | Scarce         |     |     |
+| unusual,<br>ill-understood,<br>or<br>just<br>limited<br>in                                             | Gene-Printer                                               | 18kg         | 1500 | Rare           |     |     |
+| application or to certain segments of society.                                                         | Glidewing                                                  | 28kg         | 7500 | Extremely Rare |     |     |
+| Specialty equipment's Availability assumes a                                                           |                                                            |              |      |                |     |     |
+| general attempt to locate such gear within                                                             | Grav-Chute                                                 | 15kg         | 400  | Scarce         |     |     |
+| Imperial space. Specific tools and kit may be                                                          | Grey Device                                                | 3kg          | 500  | Rare           |     |     |
+| significantly more or less common on individual                                                        | "Heretic's Wake" Deck                                      | 0.2kg        | 10   | Scarce         |     |     |
+| worlds depending on their type and utility.                                                            | Hololith/Holo-Projector                                    | 40kg         | 3000 | Scarce         |     |     |
+|                                                                                                        | Holo Wafer                                                 | 0.1kg        | 5    | Average        |     |     |
+| Bomb Spray                                                                                             | Intrusion Spirit                                           | 0.5kg        | 620  | Very Rare      |     |     |
+| Though of immediate utility to many covert<br>agents<br>and<br>other<br>clandestine<br>types,<br>this  | Line Ascender                                              | 1kg          | 100  | Scarce         |     |     |
+| wondrous aerosol contained in humble metallic                                                          | Melta Gel                                                  | 0.3kg        | 200  | Rare           |     |     |
+| cans has a particularly small following due to the                                                     | Penthrift Dreadfuls                                        | -            | 1    | Average        |     |     |
+| extreme danger inherent in its use. Bomb spray,                                                        |                                                            |              |      |                |     |     |
+| as the name suggests, creates a chemically                                                             | Pict-Fly                                                   | -            | 1200 | Rare           |     |     |
+| reactive layer onto any surface it is applied to.                                                      | Pinner                                                     | 5kg          | 800  | Extremely Rare |     |     |
+| While inert as a gas, once it settles and dries the                                                    | Poi-Savant†                                                | 2kg          | 300  | Rare           |     |     |
+| compound becomes incredibly unstable - any                                                             | Privacy Field Generator                                    | 10kg         | 1550 | Rare           |     |     |
+| strong impact, such as a b<br>ullet strike or even a                                                   | Psy-Focus                                                  | Varies       | 100  | Very Rare      |     |     |
+| rock or brick<br>being tossed at the coated surface                                                    | Psycrystal                                                 | 0.3kg        | 1000 | Near Unique    |     |     |
+| causes the s<br>pray to violently detonate. Bomb<br>ray was originally devised by a genius Magos<br>sp | Sky Eye                                                    | 4kg          | 1700 | Extremely Rare |     |     |
+| Technicus from the lesser forge world of                                                               | Strait-Cape                                                | 5kg          | 100  | Scarce         |     |     |
+| Perinetus<br>as<br>a<br>means<br>to<br>easily<br>facilitate                                            |                                                            |              |      |                |     |     |
+| demolition of archaic or ruined equipment or                                                           | Tracking Device                                            | 0.5kg        | 200  | Scarce         |     |     |
+| edifices. While very easy to use, bomb spray can't                                                     | Venom Ring                                                 | -            | 350  | Very Rare      |     |     |
+| be easily controlled like proper demo charges or                                                       | Vox Bug                                                    | -            | 500  | Rare           |     |     |
+| other forms of explosives - once applied, the                                                          | Vox-Thief                                                  | Varies       | 2000 | Rare           |     |     |
+|                                                                                                        | Vox-Tracker                                                | 11kg         | 450  | Scarce         |     |     |
+|                                                                                                        |                                                            |              |      |                |     |     |
+| 71                                                                                                     | Ward Accessor                                              | -            | 25   | Average        |     |     |
+|                                                                                                        | †This item's Craftsmanship has one or more special effects |              |      |                |     |     |
 
 "bomb" is set and can't be removed in any way. Moreover, poorly made or old cans can develop leaks, which slowly turn storage cases - or trouser pockets! - into bombs themselves with alarming efficiency. Because of this peril, bomb spray is rarely used for its original intended purpose, but the stuff is still manufactured for those intending more "destructive" effects, such as sabotage and laying stealthy traps.
 
@@ -1386,7 +1386,7 @@ A personal cogitator functions just like an emplaced unit but it offers no bonus
 
 Data-Loom: This mechanical device is made up largely of heavy-duty switchers and relays that interface with double-coiled memory banks – essentially, the device excises the main calculation functions of a cogitator without the circuitry and macro-coding that make up much of a cogitator's systems. With that space freed up, a data-loom is able to house a highly sophisticated geometric display screen that can represent information as visual constructs, making sifting through it much more intuitive to laymen outside the Adeptus Mechanicus. A data-loom can be used by itself to parse recorded material and compare variances in both picts and textual medium, and includes several input ports and slots to read from provided data-slates as well as magnetic reels and liquid storage cylinders. However, for those with the power connections and room to spare, a data-loom can be wired into an emplaced cogitator, lending its considerable logis-systems to the cogitator's own to more quickly process and codify all matters of recorded material.
 
-If used individually, a data-loom provides a +10 bonus to Logic Tests when processing information from data-slates or written material. A data-loom can be wired to an emplaced cogitator to create a powerful analysis engine, adding its bonus to Logic Tests to the cogitator's own for a total of +30. Furthermore, the amount o f time necessary to complete an Investigative Benchmark (see Using Investigation Skills on page 186 of *Dark Heresy*) is reduced by half in most situations.
+If used individually, a data-loom provides a +10 bonus to Logic Tests when processing information from data-slates or written material. A data-loom can be wired to an emplaced cogitator to create a powerful analysis engine, adding its bonus to Logic Tests to the cogitator's own for a total of +30. Furthermore, the amount o f time necessary to complete an Investigative Benchmark (see Using Investigation Skills on page 186 of _Dark Heresy_) is reduced by half in most situations.
 
 f course, such records are ill-suited for official usage, and indeed many documents are specified as a matter of formality to be rendered on rolls or sheets, leading to the rather comedic affair of data-archived files being reproduced via autoquill back into a more "officious" format. Matriculation Engine: Something of the opposite of an auto-quill, a matriculation engine takes materials written on paper, vellum, or parchment and converts them into memory data that can be viewed on data-slates or cogitator screens. Records and forms inscribed on fragile and flammable sheets can thereby be preserved on more storable media, and there are countless adepts throughout many Imperial institutions whose sole task is to operate these devices so as to better protect important written works and archives from destruction by fire and vermin. O
 
@@ -1402,7 +1402,7 @@ A memrance enhancer increases an emplaced cogitator's bonus to Logic and Literac
 
 The shape and com varies widely, but in a large quantity of c packed into a satchel suitable triggering de and heavy for the am they bring, but are qu Demo charges are n devices, but they are often used i sabotage and creat theory, a demo char but this is a remar Imperial Guardsmen demo charge for br almost invariably vo pay along with better their incredibly dang A demolition charge – demo charge for short – is a simple but effective device meant to bring down unnecessary structures and clear rubble or debris out of the way of work being performed. position of a demo charge general it will be formed of heap, low-grade explosives or canister and fitted with a vice. The charges are bulky ount of destructive power ite reliable at what they do. ominally civil n military situations for ing defensive works. In ge can be used in combat, kably perilous endeavour. tasked with carrying a eaching field obstacles are lunteers and receive double rations as an incentive for erous payloads.
 
-A demo charge i primed and armed Demolition on pag more information o demo charge inflicts Damage in a five me s inert until it has been with a detonator - see e 101 of *Dark Heresy* for n setting an explosive. A 3d10 points of Explosive tre blast - linking multiple demo charges together increases the Damage by 2 points and the blast by one metre for every additional charge. Attempting to combine five or more demo charges together increases the Difficulty of the Demolition Test by one step for ea ch additional charge beyond the fourth. A Demolition Test can be made while the charge is being placed or in advance, leaving the charge armed and ready to explode as soon as the setter activates the detonator. However, carrying an armed demo charge is incredibly dangerous: if the character carrying the charge takes more than 5 points of Explosive Damage or 1 point of Energy Damage the charge immediately goes off. The character carrying the charge cannot attempt an Agility Test to avoid the blast.
+A demo charge i primed and armed Demolition on pag more information o demo charge inflicts Damage in a five me s inert until it has been with a detonator - see e 101 of _Dark Heresy_ for n setting an explosive. A 3d10 points of Explosive tre blast - linking multiple demo charges together increases the Damage by 2 points and the blast by one metre for every additional charge. Attempting to combine five or more demo charges together increases the Difficulty of the Demolition Test by one step for ea ch additional charge beyond the fourth. A Demolition Test can be made while the charge is being placed or in advance, leaving the charge armed and ready to explode as soon as the setter activates the detonator. However, carrying an armed demo charge is incredibly dangerous: if the character carrying the charge takes more than 5 points of Explosive Damage or 1 point of Energy Damage the charge immediately goes off. The character carrying the charge cannot attempt an Agility Test to avoid the blast.
 
 Hollow Charge: More advanced than its simple "satchel" brethren, a hollow or tube charge is effectively an oversized and simple krak warhead that focuses its blast over a very narrow area. Hollow charges are almost invariably used to breach obstacles or for point-blank destruction of armoured targets and tend to have magnetic or adhesive surfaces on the "business" end of the charge to make sure it faces the correct direction. Because of their highly focused explosion, hollow charges are much safer to work with, and can be used for a variety of precision applications in both military and civil roles.
 
@@ -1420,7 +1420,7 @@ A diagnostor - also known as a medicae auspex, or medispex in shorthand - is som
 
 ust discovered, though this will likely be o remedies that may be available. Diagnostors are armed with the breadth of ailments and afflictions known to Imperial medicae scholars it has been said that anyone who manages to turn up an "unknown" result on a medispex will likely have the privilege of naming the condition they've j f little comfort to the victim.
 
- unable to identify exactly what is causing the victim's condition, though it still ns to treat the ongoing sy A diagnostor can be used to identify almost any condition or malady a victim may be suffering from. Using a diagnostor is a Full Action, after which the user must make an Easy (+30) Medicae Test - any success identifies what's causing the victim's infirmity as well as what countermeasures can be taken (a grim conclusion of "Prayer" is provided if there is no known cure or remedy). If the user fails the Test the diagnostor is provides suggestio mptoms if not the cause itself.
+unable to identify exactly what is causing the victim's condition, though it still ns to treat the ongoing sy A diagnostor can be used to identify almost any condition or malady a victim may be suffering from. Using a diagnostor is a Full Action, after which the user must make an Easy (+30) Medicae Test - any success identifies what's causing the victim's infirmity as well as what countermeasures can be taken (a grim conclusion of "Prayer" is provided if there is no known cure or remedy). If the user fails the Test the diagnostor is provides suggestio mptoms if not the cause itself.
 
 #### Disguise Kit
 
@@ -1440,17 +1440,17 @@ crossing a line into medicae and chem-oriented solutions, which are often more d
 
 Disguise kits of this type grant a +30 bonus to Disguise Tests based on appearance, but only if the character using the kit also possesses the Medicae skill.
 
-riginal appearance, including a somewhat "w Best: These kits are broadly similar to lesser styles in use, but contain even more advanced tools and substances to completely bury the user's o atered-down" version of the infamous drug polymorphine. Giving enough time and talent, an infiltrator can disguise their form to resemble almost any other human, including changing gender quite convincingly, and some are even able to create an appearance more suggesting of a humanoid xenos-creature, though the kit's limits can't make up for those with substantially different biology (radically altered posture and large variances in physical dimension, for example). Those making use of these powerful and frankly dangerous tools have, on occasion, been known to become so thoroughly committed to their disguise that they begin to suffer from personality disorders, literally believing that they *are* their disguise.
+riginal appearance, including a somewhat "w Best: These kits are broadly similar to lesser styles in use, but contain even more advanced tools and substances to completely bury the user's o atered-down" version of the infamous drug polymorphine. Giving enough time and talent, an infiltrator can disguise their form to resemble almost any other human, including changing gender quite convincingly, and some are even able to create an appearance more suggesting of a humanoid xenos-creature, though the kit's limits can't make up for those with substantially different biology (radically altered posture and large variances in physical dimension, for example). Those making use of these powerful and frankly dangerous tools have, on occasion, been known to become so thoroughly committed to their disguise that they begin to suffer from personality disorders, literally believing that they _are_ their disguise.
 
- subterfuge is decreased by one step. If the user already has the Mimic talent then the difficulty of any Opposed Scrutiny Tests increases by one step instead. Depending on circumstances, a thoroughly disguised character may be able to fool gene-locks and other devices meant to measure biometric data. Top level disguise kits grant a +30 bonus to Disguise Tests, and also allow a disguised character to speak in a radically different fashion - the character is treated as if they had the Mimic talent, though the difficulty of Opposed Scrutiny Tests to detect the
+subterfuge is decreased by one step. If the user already has the Mimic talent then the difficulty of any Opposed Scrutiny Tests increases by one step instead. Depending on circumstances, a thoroughly disguised character may be able to fool gene-locks and other devices meant to measure biometric data. Top level disguise kits grant a +30 bonus to Disguise Tests, and also allow a disguised character to speak in a radically different fashion - the character is treated as if they had the Mimic talent, though the difficulty of Opposed Scrutiny Tests to detect the
 
-Such deep cover runs the risk of profoundly affecting the user's psyche - if he succeeds on a Disguise Test made to drastically alter his appearance by three or more degrees he must also pass a Difficult (-10) Willpower Test or gain a minor obsession disorder (see Disorders on page 235 of *Dark Heresy*) to continue disguising himself as such in the future. Success by more than five degrees on the Disguise Test inflicts a severe disorder to do the same instead.
+Such deep cover runs the risk of profoundly affecting the user's psyche - if he succeeds on a Disguise Test made to drastically alter his appearance by three or more degrees he must also pass a Difficult (-10) Willpower Test or gain a minor obsession disorder (see Disorders on page 235 of _Dark Heresy_) to continue disguising himself as such in the future. Success by more than five degrees on the Disguise Test inflicts a severe disorder to do the same instead.
 
 #### Drusine Incense
 
 This superior incense was promulgated by then-General Drusus in the period before he assumed command of the Angevin Crusade, and with his elevation to sainthood the recipe was sw iftly sanctified and disseminated throughout the Sector. The incense is a mixture of myrrh, camphor, verdigris, and crushed blossoms of the Iocanthine rose, the latter adding a reddish speckling to the otherwise green-brown consistency. Aside from a pleasing if astringent aroma, the incense is said to have a protective and purifying effect on those who inhale its vapours. The incense is used in High Masses and other ceremonies of import across the Sector, with the finest blends being prepared within the vaults of the fantastic Cathedral of Illumination in Hive Tarsus itself. However, there are some among the Holy Ordos who believe, with some factual base, that the incense's ability to ward off evil is more than just inspirational thinking.
 
- any suitable re Drusine incense can be burned in ceptacle, such as ornate censers for conducting mass or self-heated thuribles that can be worn on the belt. Any character who can strongly smell the burning incense - typically those within a radius of 10 metres in a large censer or three metres in a thurible - are immune to the effects of the Daemonic Presence special rule. This only works on characters with less than 10 Corruption Points, however, as no saint would abide those with tainted souls. A single packet of incense burns for 1d10+20 minutes.
+any suitable re Drusine incense can be burned in ceptacle, such as ornate censers for conducting mass or self-heated thuribles that can be worn on the belt. Any character who can strongly smell the burning incense - typically those within a radius of 10 metres in a large censer or three metres in a thurible - are immune to the effects of the Daemonic Presence special rule. This only works on characters with less than 10 Corruption Points, however, as no saint would abide those with tainted souls. A single packet of incense burns for 1d10+20 minutes.
 
 #### Vessel Emergency Kit
 
@@ -1506,7 +1506,7 @@ large backpack - projections slightly shorter than the wearer's legs are used to
 
 sites, assassinate enemy leaders, and sabotage weapons and equipment.
 
-Using a glidewing requires the Pilot (G  *H* elements takes one m penalty to Agility-based Tests. Because the alloy body of the glidewing is fairly fragile most who would attempt to use one in a combat situation quickly remove the harness once on the ground and collect it again at the cessation of battle. lidewing) or Pilot (Personal) skill. A glidewing grants the user the Flyer (12) Trait, but is incapable of gaining altitude without the use of thermal updrafts and cannot hover in any meaningful way. If launched from a platform that is at least 15 metres off the ground a glidewing can remain flying until its wearer/pilot tires from using his body to control the lifter's turning and altitude adjustments - use the rules for Forced Marching (page 213 of *Dark eresy*), reducing the time margins by half to accommodate for the greater effort required to control the glidewing. Flying a glidewing requires the use of both hands. "Donning" a glidewing's harness and pack inute, and the apparatus can be removed as a Full Action. While in its folded position a character can move and act freely on foot, but the bulk of the glidewing itself imposes a -10
+Using a glidewing requires the Pilot (G _H_ elements takes one m penalty to Agility-based Tests. Because the alloy body of the glidewing is fairly fragile most who would attempt to use one in a combat situation quickly remove the harness once on the ground and collect it again at the cessation of battle. lidewing) or Pilot (Personal) skill. A glidewing grants the user the Flyer (12) Trait, but is incapable of gaining altitude without the use of thermal updrafts and cannot hover in any meaningful way. If launched from a platform that is at least 15 metres off the ground a glidewing can remain flying until its wearer/pilot tires from using his body to control the lifter's turning and altitude adjustments - use the rules for Forced Marching (page 213 of _Dark eresy_), reducing the time margins by half to accommodate for the greater effort required to control the glidewing. Flying a glidewing requires the use of both hands. "Donning" a glidewing's harness and pack inute, and the apparatus can be removed as a Full Action. While in its folded position a character can move and act freely on foot, but the bulk of the glidewing itself imposes a -10
 
 #### Grav-Chute
 
@@ -1612,7 +1612,7 @@ p When grasped in the hand, a psy-focus grants a +10 bonus to a psyker's Invocat
 
 #### Psycrystal
 
-b moky grey crystals e rked These strange quartz-like minerals began to appear in the Calixis Sector after the Koronus Expanse was opened. Initially considered to be little more than attractive conversation pieces, demand picked up considerably after it was found that the normally s gan to glow with a deep purple aura when in the presence of warp energies. These can be used for a variety of purposes - one whimsical touch is on the famous liner *Andrea Graza* where the crystals are integrated into the halls of the passenger decks to indicate to the emba
+b moky grey crystals e rked These strange quartz-like minerals began to appear in the Calixis Sector after the Koronus Expanse was opened. Initially considered to be little more than attractive conversation pieces, demand picked up considerably after it was found that the normally s gan to glow with a deep purple aura when in the presence of warp energies. These can be used for a variety of purposes - one whimsical touch is on the famous liner _Andrea Graza_ where the crystals are integrated into the halls of the passenger decks to indicate to the emba
 
 > ns when the vessel is in the warp - but by far the most sought-after application is in the detection of psykers themselves. Those who seek out and acquire these unusual and provocative items tend to have a deep-seated fear or concern that those with extraordinary powers may be spying on their activities, or worse, lurking around corners with nefarious intentio in mind. The fact that psycrystals tend to be found on barren, dead worlds that once hosted verdant life before some sort of cataclysmic event obliterated the biosphere (a worryingly common occurrence in the Koronus Expanse) has given them a slightly disquieting reputation in spite of their obvious utility, with some suggesting that the crystals themselves are cursed.
 
@@ -1632,7 +1632,7 @@ Sky eyes can be loaded with a set of instructions to cover and scan a given area
 
 confining a prisoner helps reinforce a sense of vulnerability, which makes them more pliant in the ensuing interrogations. Giving the qualities of memory wire, a strait-cape can also be used as When manacles just aren't good enough, dedicated man-catchers resort to the strait-cape. This restraint device consists of a heavy duty synth-fabric bag reinforced with memory wire and festooned with other features meant for very reliable confinement of the prisoner, though most enforcers don't employ all of them at once except against especially dangerous captives. With a strait-cape thrown over their torso, the prisoner's arms are completely restrained in immobile sleeves that allow no use of the hands and extra straps can further secure the prisoner's legs in a foetal or hogtied posture. The straightcape further includes a hood that can completely blind, silence, and deafen the prisoner with heavy padded straps, keeping them isolated and unable to utter foul heresies (or nasty epithets) to their captors. While not the intended purpose, some chasteners of the Arbites believe that fully a much more improvised restraint device where the cape is literally tossed at the target, grappling them in its embrace until more purposeful binding can be affected.
 
- finer features, a process that takes about a minute for orcer, a character is completely H A strait-cape can be primed and flung at a target where it will wrap them up - treat this as a ranged attack with a Range equal to twice the attacker's Strength Bonus as well as the Inaccurate and Snare qualities. If properly secured using all of the strait-cape's a trained enf elpless, Blinded, Deafened, and cannot speak, preventing the use of any Talents or Skills that rely on sight, sound, and the use of the voice or limbs. When properly bound and tied, a straitcape imposes a -50 penalty to Contortionist and Security Tests made to escape, and each Test takes five times as long as usual. It is impossible to break out of a strait-cape using pure Strength alone - the captive is simply unable to gain any purchase to put their muscle power to good use.
+finer features, a process that takes about a minute for orcer, a character is completely H A strait-cape can be primed and flung at a target where it will wrap them up - treat this as a ranged attack with a Range equal to twice the attacker's Strength Bonus as well as the Inaccurate and Snare qualities. If properly secured using all of the strait-cape's a trained enf elpless, Blinded, Deafened, and cannot speak, preventing the use of any Talents or Skills that rely on sight, sound, and the use of the voice or limbs. When properly bound and tied, a straitcape imposes a -50 penalty to Contortionist and Security Tests made to escape, and each Test takes five times as long as usual. It is impossible to break out of a strait-cape using pure Strength alone - the captive is simply unable to gain any purchase to put their muscle power to good use.
 
 #### Tracking Device
 
@@ -1696,22 +1696,22 @@ grasped by its owner, the Badge displays the unmistakable symbol of the Inquisit
 
 Penned and annotated by a number of illustrious Inquisitors of the Calixian Conclave's Ordo Xenos, this volume is nothing less than an encyclopaedic field manual on the nature of known aliens and creatures that threaten the
 
-| Inquisitorial Equipment                                    |        |             |                |  |
-|------------------------------------------------------------|--------|-------------|----------------|--|
-| Name                                                       | Weight | Cost        | Availability   |  |
-| Badge of Office                                            | 0.5kg  | Issued Only | Near Unique    |  |
-| Black Grimoire                                             | 1kg    | 2500        | Extremely Rare |  |
-| Liber Excruciatus                                          | 3.5kg  | 350         | Rare           |  |
-| Liber Heresius                                             | 2kg    | Issued Only | Near Unique    |  |
-| Psy-Tracker                                                | 1.5kg  | 2000        | Very Rare      |  |
-| Psyocculum                                                 | 2kg    | 1650        | Very Rare      |  |
-| Rosette                                                    | Varies | Issued Only | Unique         |  |
-| Sentinel Array                                             | 15kg   | 12000       | Near Unique    |  |
-| Simulacrum Imperialis                                      | 10kg   | Issued Only | Extremely Rare |  |
-| Spy Mask                                                   | 2kg    | Issued Only | Near Unique    |  |
-| Stealth Suit                                               | 5kg    | Issued Only | Near Unique    |  |
-| Witch Cage                                                 | 7kg    | 3000        | Very Rare      |  |
-| †This item's Craftsmanship has one or more special effects |        |             |                |  |
+| Inquisitorial Equipment                                    |        |             |                |     |
+| ---------------------------------------------------------- | ------ | ----------- | -------------- | --- |
+| Name                                                       | Weight | Cost        | Availability   |     |
+| Badge of Office                                            | 0.5kg  | Issued Only | Near Unique    |     |
+| Black Grimoire                                             | 1kg    | 2500        | Extremely Rare |     |
+| Liber Excruciatus                                          | 3.5kg  | 350         | Rare           |     |
+| Liber Heresius                                             | 2kg    | Issued Only | Near Unique    |     |
+| Psy-Tracker                                                | 1.5kg  | 2000        | Very Rare      |     |
+| Psyocculum                                                 | 2kg    | 1650        | Very Rare      |     |
+| Rosette                                                    | Varies | Issued Only | Unique         |     |
+| Sentinel Array                                             | 15kg   | 12000       | Near Unique    |     |
+| Simulacrum Imperialis                                      | 10kg   | Issued Only | Extremely Rare |     |
+| Spy Mask                                                   | 2kg    | Issued Only | Near Unique    |     |
+| Stealth Suit                                               | 5kg    | Issued Only | Near Unique    |     |
+| Witch Cage                                                 | 7kg    | 3000        | Very Rare      |     |
+| †This item's Craftsmanship has one or more special effects |        |             |                |     |
 
 Calixis Sector. The work is as decidedly factual as anything written by the hands of men. It contains the most reliable information available on how to identify, communicate, combat, and destroy a plethora of beings from beyond - with hardly any of the usual inspiring and vindictive tropes that permeate most written material concerning the abominable entities. While it is presumed that the Inquisitor and his retinue will "fill in" all the applicable hatred, the fact that the Black Grimoire is so devoid of condemnation and spite - indeed, whole chapters are dedicated to xenos which can be reasoned and negotiated with - makes it an extremely contentious item within the Conclave itself. Representatives of the Ordo Malleus have demanded that the tomes be e security to prevent their co kept under clos ntents from becoming known among the masses, with many arguing that it belongs alongside their own tracts on daemons and the warp inside the hermetic vaults. The witch hunters of the Ordo Hereticus have made even more of an issue of the volume, claiming that to even pen such damning filth is a grand heresy in and of itself, the firebrands even going so far as to threaten their peers in the Ordo Xenos who bear copies of the folios. Ever the ones to walk dangerous lines, the Xenos agents themselves who happen to obtain a Grimoire have taken to wearing them openly in Conclave communions merely to antagonize their fellows.
 
@@ -1824,7 +1824,7 @@ Poor: While rudimentary in function, a cheap bionic arm is still vastly preferab
 lty may not apply in certain Poor bionic arms halve the bearer's Agility when used to make Tests requiring fine manipulation, such as positioning thin wires into a conduit, and impose a -5 penalty to Weapon and Ballistic Skill Tests made using that arm. This pena situations, such as using the off hand to steady a basic ranged weapon.
 
 | Bion<br>ics                |       |        |       |                  |
-|----------------------------|-------|--------|-------|------------------|
+| -------------------------- | ----- | ------ | ----- | ---------------- |
 | Name                       |       | Cost   | Test  | Availab<br>ility |
 | Bionic Arm†                |       | 1000   | +0    | Scarce           |
 | Bionic Cardiac System†     |       | 2700   | -20   | Rare             |
@@ -1841,9 +1841,9 @@ lty may not apply in certain Poor bionic arms halve the bearer's Agility when us
 | Rite of Setesh             |       | 100000 | -40   | Near Unique      |
 |                            |       |        |       |                  |
 
-†*This item's Craftsmanship has one or more special effects* 
+†_This item's Craftsmanship has one or more special effects_
 
-*Atta est*  †† *ching this bionic requires a Tech-Use Test instead of a Medicae T*
+_Atta est_ †† _ching this bionic requires a Tech-Use Test instead of a Medicae T_
 
 including pa Common: An average bionic arm can fully replicate all the functions of the flesh it replaces, including a proper motion and manipulation of the fingers. The limb gently whirrs and hums as it moves, but is otherwise fully responsive and can duplicate a sense of touch with a good degree of accuracy. Bearers who are well acquainted with their arm's functions can also manually disable some of its senses, in receptors, which can be useful should the bearer have to reach into a caustic acid to retrieve a lost object or disable a hot valve panel that would ordinarily cause painful burns.
 
@@ -1859,11 +1859,11 @@ bearer's ribcage to prevent the device from pressing on other organs, and small 
 
 A bionic cardiac system grants the bearer the Sprint talent, though overuse of it causes the bearer to gain two levels of Fatigue instead of the usual one. Additionally, the installation and mounting strengthens the upper torso, granting 1 AP to the Body location that stacks with
 
- can also re armour worn. A Good Craftsmanship system fully conceals itself under the wearer's flesh with no obvious plates or raised areas, and lease bio-coagulants into the bloodstream if the bearer is suffering from Blood Loss. This is a passive effect that reduces the character's chance to die each Round to 5%.
+can also re armour worn. A Good Craftsmanship system fully conceals itself under the wearer's flesh with no obvious plates or raised areas, and lease bio-coagulants into the bloodstream if the bearer is suffering from Blood Loss. This is a passive effect that reduces the character's chance to die each Round to 5%.
 
 #### Bionic Locomotion
 
- them back up to size. Bionic place a significant amount of th Without the use of one or both legs, a citizen is very literally half the man he was before. This eminently crippling condition can lay low men of any stature or office, which is why virtually anyone with the means to do so acquires a bionic replacement to get locomotion can re damaged or missing anatomy anywhere from a lost foot up to entire legs and the pelvic region. Because they tend to be simpler and require less sophisticated synth-nerve bundling, the greater mass and utility of bionic legs is typically less costly and more available than other types of prosthetic bionics. Within the Imperial Guard is type of bionic is a notably common sight veteran troopers who've lost a leg or two due to enemy mines or vehicular accidents are considered to be easily worth the price of the augmetic. Some legions and regiments will award cheaper bionics to low-ranked volunteers or even conscripts as well, typically as part of a demobilisation, though how many crippled Guardsmen are so gifted can depend widely on the nature of their conflict. Compared to a bionic arm, bionic feet, legs, or hips are typically wired directly into the base of the bearer's spinal column, so aside from the limbs themselves there is usually little sign of further tampering with their biology. The bionic's Craftsmanship has further effects on the bionic's functions.
+them back up to size. Bionic place a significant amount of th Without the use of one or both legs, a citizen is very literally half the man he was before. This eminently crippling condition can lay low men of any stature or office, which is why virtually anyone with the means to do so acquires a bionic replacement to get locomotion can re damaged or missing anatomy anywhere from a lost foot up to entire legs and the pelvic region. Because they tend to be simpler and require less sophisticated synth-nerve bundling, the greater mass and utility of bionic legs is typically less costly and more available than other types of prosthetic bionics. Within the Imperial Guard is type of bionic is a notably common sight veteran troopers who've lost a leg or two due to enemy mines or vehicular accidents are considered to be easily worth the price of the augmetic. Some legions and regiments will award cheaper bionics to low-ranked volunteers or even conscripts as well, typically as part of a demobilisation, though how many crippled Guardsmen are so gifted can depend widely on the nature of their conflict. Compared to a bionic arm, bionic feet, legs, or hips are typically wired directly into the base of the bearer's spinal column, so aside from the limbs themselves there is usually little sign of further tampering with their biology. The bionic's Craftsmanship has further effects on the bionic's functions.
 
 d possibly some re grants the increased Toughness Bonus to resist Damage like the full bionic limb would. This augmetic presumes that the character needs two new legs an constructive work done to the hips and pelvis. If only one leg is being replaced the base cost is decreased by half. The cost is decreased by half again if the character is just in need of an augmetic foot, though in this case it no longer
 
@@ -1871,7 +1871,7 @@ Poor: Inexpensive and quickly produced, this so rt of bionic is meant to be bett
 
 ular method of co must be ch Poor Craftsmanship bionic locomotion hinders the bearer's movements in some fashion: depending on the partic nstruction, the augmetics are either less than perfectly stable or oversized and clunky. At the bearer's discretion, he either halves his Movement Rates (round up) or suffers a -20 penalty to Dodge Tests. The penalty osen at the time the augmetic is attached. Regardless of which penalty the bearer suffers, he must also succeed on an Ordinary (+10) Agility Test to avoid stumbling and falling over at the end of any Run movement.
 
- with clothes and pr Common: Average augmetics closely duplicate the functions and abilities of the limbs they replaced. Once the bearer has gotten used to the sturdier construction and wholly different feel of striding on metal instead of flesh they can largely continue on with no impediment. Unless otherwise dictated during the crafting and forging process, components of Common bionic locomotion mimic the shape and general utility of human limbs, including all the normal joints and appendages. If covered operly-sized footwear the bionic could not only pass for flesh and bone but sounds no differently as well.
+with clothes and pr Common: Average augmetics closely duplicate the functions and abilities of the limbs they replaced. Once the bearer has gotten used to the sturdier construction and wholly different feel of striding on metal instead of flesh they can largely continue on with no impediment. Unless otherwise dictated during the crafting and forging process, components of Common bionic locomotion mimic the shape and general utility of human limbs, including all the normal joints and appendages. If covered operly-sized footwear the bionic could not only pass for flesh and bone but sounds no differently as well.
 
 's original flesh. If the character is replacing both legs, they may also choose to voluntarily increase or decrease their height by up to 10 centimetres to reflect limbs that are deliberately slightly taller or shorter than the bearer
 
@@ -1895,7 +1895,7 @@ Common bionic respiratory systems impose a -5 penalty on Silent Move Tests, even
 
 Good: An unquestionably superior bionic respiratory system is created by omitting the cyclonic pumps entirely in favour of custom biogill filters that are attuned to the bearer's own bodily rhythms and humours. These lungs are both silent and far more efficient than lesser augmetics due to their folded and structured membranes hosting many times the amount of scrubber fibres. Their ancillary effects on the bearer's biology tend to appeal more to those who have the Thrones to burn on enhancing their bodies than cripples and men who spend long days pooling caustic substances, however, by and large making them "augmetics of choice" more than anything else.
 
- for Good Craftsmanship bionic lungs increase the bonus on Toughness Tests to resist toxins to +30, and further allow the character to hold his breath for four times as long as normal (see Suffocation on page 210 of *Dark Heresy* more information).
+for Good Craftsmanship bionic lungs increase the bonus on Toughness Tests to resist toxins to +30, and further allow the character to hold his breath for four times as long as normal (see Suffocation on page 210 of _Dark Heresy_ more information).
 
 #### Bionic Weapon Attachment
 
@@ -1905,7 +1905,7 @@ n). The bionic at A bionic weapon attachment can mount any pistol or small melee
 
 #### Cybernetic Senses
 
- would do well to obtain an au als into Ocular and aural augmetics are fairly common bionic systems in the Imperium - the small mass of the sensorum combined with close proximity to the brain make for relatively easy attachment and replacement. Giving that being blind or deaf can drastically lower one's usefulness in many trades and levels of society, those that wish to stay out of begging gmetic replacement. The exact construction and procedure depends on the sense. Ocular augmetics usually make use of sophisticated pict-recorders and vid-casters that run through compact logis stacks to convert their sign
+would do well to obtain an au als into Ocular and aural augmetics are fairly common bionic systems in the Imperium - the small mass of the sensorum combined with close proximity to the brain make for relatively easy attachment and replacement. Giving that being blind or deaf can drastically lower one's usefulness in many trades and levels of society, those that wish to stay out of begging gmetic replacement. The exact construction and procedure depends on the sense. Ocular augmetics usually make use of sophisticated pict-recorders and vid-casters that run through compact logis stacks to convert their sign
 
 neural impulses that the bearer's mind can understand as sight, while aural augmetics perform a similar translation via vox pickups and microphones. While not nearly as common, cybernetic replication of touch and taste are not unheard of, though these tend to use significantly more esoteric methods such as vatgrown tongues with far more taste buds than normal or super-fine circuitry implanted below the skin of the fingers. Regardless of the sense and the exact method of replication, the Craftsmanship of the augmetic has other effects on its utility and functions.
 
@@ -1947,37 +1947,37 @@ ty well-developed worlds, while others are As the name suggests, this type of au
 
 Compact yet sophisticated sensorum suites can be physically integrated with the nervous system and brain, granting the bearer enhanced perceptive abilities beyond the fundamental senses. Fibre-thin wires are carefully inserted into different areas of the brain and connected to a tiny logis stack implanted in the base of the
 
-| Implants                                                                   |      |      |                |  |
-|----------------------------------------------------------------------------|------|------|----------------|--|
-| Name                                                                       | Cost | Test | Availability   |  |
-| Auger Implants†                                                            | 1200 | +0   | Rare           |  |
-| Bio-Power Cells                                                            | 625  | +10  | Very Rare      |  |
-| Calculus Logi Implant                                                      | 4000 | -20  | Very Rare      |  |
-| Chem Implant                                                               | -    | -    | -              |  |
-| Chem Gland                                                                 | 5000 | -10  | Very Rare      |  |
-| Injector Rig†                                                              | 700  | +10  | Scarce         |  |
-| Cranial Reinforcement                                                      | 1800 | -20  | Rare           |  |
-| Cortex Implants†                                                           | 5500 | -30  | Very Rare      |  |
-| Exoskeletal Augmetics†                                                     | 3000 | -10  | Very Rare      |  |
-| Internal Blade                                                             | 1000 | +0   | Very Rare      |  |
-| Locator Matrix                                                             | 1550 | -10  | Rare           |  |
-| Memorance Unit                                                             | 2300 | -10  | Rare           |  |
-| Mind Impulse Unit                                                          | 1750 | -10  | Rare           |  |
-| Cerebral Plug                                                              | 550  | +10  | Scarce         |  |
-| MIU, Superior                                                              | 5200 | -20  | Very Rare      |  |
-| Mind-Weapon Interface                                                      | 1100 | -10  | Rare           |  |
-| Pain Ward                                                                  | 4000 | -20  | Extremely Rare |  |
-| Respiratory Filter Implant                                                 | 750  | -10  | Rare           |  |
-| Scribe-Tines                                                               | 600  | +0†† | Scarce         |  |
-| Subdermal Armour                                                           | 2700 | -20  | Very Rare      |  |
-| Synth-Muscle                                                               | 2500 | -20  | Rare           |  |
-| Synth-Muscle (huge)                                                        | 3750 | -30  | Very Rare      |  |
-| Vehicle Interface Circuitry                                                | 1500 | +10  | Scarce         |  |
-| Vitae Supplaceor                                                           | 5500 | -20  | Very Rare      |  |
-| Voidskin                                                                   | 2000 | -10  | Extremely Rare |  |
-| Voxplant                                                                   | 300  | +0   | Scarce         |  |
-| †This item's Craft<br>smanship has one or more special effects             |      |      |                |  |
-| ††Attaching this bionic requires a Tech-Use Test instead of a Medicae Test |      |      |                |  |
+| Implants                                                                   |      |      |                |     |
+| -------------------------------------------------------------------------- | ---- | ---- | -------------- | --- |
+| Name                                                                       | Cost | Test | Availability   |     |
+| Auger Implants†                                                            | 1200 | +0   | Rare           |     |
+| Bio-Power Cells                                                            | 625  | +10  | Very Rare      |     |
+| Calculus Logi Implant                                                      | 4000 | -20  | Very Rare      |     |
+| Chem Implant                                                               | -    | -    | -              |     |
+| Chem Gland                                                                 | 5000 | -10  | Very Rare      |     |
+| Injector Rig†                                                              | 700  | +10  | Scarce         |     |
+| Cranial Reinforcement                                                      | 1800 | -20  | Rare           |     |
+| Cortex Implants†                                                           | 5500 | -30  | Very Rare      |     |
+| Exoskeletal Augmetics†                                                     | 3000 | -10  | Very Rare      |     |
+| Internal Blade                                                             | 1000 | +0   | Very Rare      |     |
+| Locator Matrix                                                             | 1550 | -10  | Rare           |     |
+| Memorance Unit                                                             | 2300 | -10  | Rare           |     |
+| Mind Impulse Unit                                                          | 1750 | -10  | Rare           |     |
+| Cerebral Plug                                                              | 550  | +10  | Scarce         |     |
+| MIU, Superior                                                              | 5200 | -20  | Very Rare      |     |
+| Mind-Weapon Interface                                                      | 1100 | -10  | Rare           |     |
+| Pain Ward                                                                  | 4000 | -20  | Extremely Rare |     |
+| Respiratory Filter Implant                                                 | 750  | -10  | Rare           |     |
+| Scribe-Tines                                                               | 600  | +0†† | Scarce         |     |
+| Subdermal Armour                                                           | 2700 | -20  | Very Rare      |     |
+| Synth-Muscle                                                               | 2500 | -20  | Rare           |     |
+| Synth-Muscle (huge)                                                        | 3750 | -30  | Very Rare      |     |
+| Vehicle Interface Circuitry                                                | 1500 | +10  | Scarce         |     |
+| Vitae Supplaceor                                                           | 5500 | -20  | Very Rare      |     |
+| Voidskin                                                                   | 2000 | -10  | Extremely Rare |     |
+| Voxplant                                                                   | 300  | +0   | Scarce         |     |
+| †This item's Craft<br>smanship has one or more special effects             |      |      |                |     |
+| ††Attaching this bionic requires a Tech-Use Test instead of a Medicae Test |      |      |                |     |
 
 , the bearer might sport a few sm " fin ngs - those who bear these augmetics should gement when their implant an skull to process the additional flow of sensory data. Externally all metallic studs or ports on their head, but on the whole the implant is unobtrusive unless the bearer desires a more dramatic effect (techpriests are particularly wont to do this, sometimes bearing additional cybernetic eyes or glowing vox detectors). The bearer can activate their augers simply through mental concentration, augmenting or subsuming their normal senses briefly to consult what others could never perceive without the aid of an auspex. Of course, like many other types of scanner, an auger implant isn't infallible and can be prone to interference and "false positive di reserve their best jud d biological senses sharply contradict.
 
@@ -2035,11 +2035,11 @@ The use of this type of implant more or less "erases" the character's personalit
 
 ibly much. Aside from ai Common: Most cortex implants aren't quite as good as the tissues they are carefully planted next to, but a character who receives them as part of treatment for a mind-affecting injury likely won't mind too terr ding in important mental functions, cortex implants can also be used to suppress or cordon off portions of the bearer's brain that have borne witness to things too horrible to comprehend.
 
-rigin (see Origins on A character who receives this type of implant loses 1d5 points from the character's Weapon Skill, Ballistic Skill, Agility, Intelligence, and Fellowship. The implants can also replicate the effects of the Mind Cleansed O page 8 of *The Inquisitor's Handbook*) as they prevent access to damaging memories or experiences. The GM should feel free to subtract some of the character's accumulated Insanity and Corruption Points as well as creating more relevant and appropriate Shards of Memory for the character to experience.
+rigin (see Origins on A character who receives this type of implant loses 1d5 points from the character's Weapon Skill, Ballistic Skill, Agility, Intelligence, and Fellowship. The implants can also replicate the effects of the Mind Cleansed O page 8 of _The Inquisitor's Handbook_) as they prevent access to damaging memories or experiences. The GM should feel free to subtract some of the character's accumulated Insanity and Corruption Points as well as creating more relevant and appropriate Shards of Memory for the character to experience.
 
 -artifice that replaces ne Best: Only a few magi can create these stunningly powerful implants which transcend mere augmetic functions - and they usually install them in their own heads. Instead of repairing, or indeed, augmenting, the bearer's fleshy brain, they completely replace it with an incredible mass of techno rves and synapses with gold relays and crackling data-coils. This type of augmetic is almost never encountered outside of the Adeptus Mechanicus, but rare exceptions do exist. Of course, the bearer might begin acting uncomfortably like a tech-priest if they weren't already one to begin with...
 
-r touch) that he This implant can only be attached and used if the character already has or will be receiving the cranial reinforcement, bionic respiration, and gastral bionics augmetics. Additionally, the character loses any senses (except fo does not have a cybernetic sense augmetic for. The implant grants the bearer the Unnatural Intelligence (x2) trait (see Unnatural Characteristics on page 332 of *Dark Heresy* for more information) as well as the Rite of Pure Thought talent if he did not possess it already. His mind can functionally duplicate the effects of an emplaced cogitator, including the ability to connect to other systems through external ports and sockets, and because the entire head is now composed of only mechanical components, he can no longer suffer Blood Loss, Stunning, or Fatigue from attacks that hit there (functionally treat the character as having the Machine trait on his Head location).
+r touch) that he This implant can only be attached and used if the character already has or will be receiving the cranial reinforcement, bionic respiration, and gastral bionics augmetics. Additionally, the character loses any senses (except fo does not have a cybernetic sense augmetic for. The implant grants the bearer the Unnatural Intelligence (x2) trait (see Unnatural Characteristics on page 332 of _Dark Heresy_ for more information) as well as the Rite of Pure Thought talent if he did not possess it already. His mind can functionally duplicate the effects of an emplaced cogitator, including the ability to connect to other systems through external ports and sockets, and because the entire head is now composed of only mechanical components, he can no longer suffer Blood Loss, Stunning, or Fatigue from attacks that hit there (functionally treat the character as having the Machine trait on his Head location).
 
 #### Exoskeletal Augmetics
 
@@ -2153,7 +2153,7 @@ A character bearing a vitae supplaceor gains the Autosanguine talent any time he
 
 th Exposure to hard void, even briefly, is almost assuredly a fatal experience, and those that do survive are often crippled from the lack of air or ridden with tumours from cosmic energies. Among veteran voidsmen, this death is quite possibly one of the most feared of the myriad ways in which a man can meet his end while plying the stern mistress of the galaxy. Voidskin, a combination of physical augmetics as well as bio-chem conditioning, can offer a man a brief respite to claw his way back into a life-sustaining environment before the void claims him. A microfine flakweave is integrated with the lower layers of the bearer's external tissues while chemical hardening is performed on the orifices and membranes that would burst or rupture (those who receive this treatment often find these areas to be annoyingly itchy for weeks after e initial surgeries). Furthermore, tiny chemplant bladders are spread throughout the body - these release fast-acting protective agents that can temporarily shield the body against being irradiated or cooked by the aether's malignant power. Although undeniably useful for what it does, this implant's niche abilities as well as the fact that being "voided" is usually accompanied by other, equally fatal happenstance (such as being lit on fire by rupturing power conduits or impaled by flying shafts of reinforcement bars) makes it a particularly rare augmetic.
 
-A character who has received the voidskin implant can spend an additional 1d10+3 Rounds in the void or another hard vacuum environment before suffering its effects (see Vacuum on page 210 of *Dark Heresy*).
+A character who has received the voidskin implant can spend an additional 1d10+3 Rounds in the void or another hard vacuum environment before suffering its effects (see Vacuum on page 210 of _Dark Heresy_).
 
 #### Voxplant
 
@@ -2167,19 +2167,19 @@ Implants and bionics are often thought of as being the purview of the Adeptus Me
 
 For various reasons, these augmetics can only be used by tech-priests and other members of the Adeptus Mechanicus. Such characters need not make Inquiry Tests to locate the implant while on forge worlds and other areas that are controlled by the Mechanicus - the augmetics are always available if the tech-priest has the Thrones to pay.
 
-| Blessings of the Omnissiah |      |      |  |  |
-|----------------------------|------|------|--|--|
-| Name                       | Cost | Test |  |  |
-| Hermetic Infusion          | 5000 | -30  |  |  |
-| Mechadendrite              | -    | -    |  |  |
-| Ballistic                  | 600  | +0   |  |  |
-| Manipulator                | 500  | +0   |  |  |
-| Medicae                    | 500  | +0   |  |  |
-| Optical                    | 400  | +0   |  |  |
-| Plasma Cutter              | 1500 | +0   |  |  |
-| Utility                    | 500  | +0   |  |  |
-| Secutor Augmetics          | 2000 | +0   |  |  |
-| Servo-Arm                  | 1200 | -10  |  |  |
+| Blessings of the Omnissiah |      |      |     |     |
+| -------------------------- | ---- | ---- | --- | --- |
+| Name                       | Cost | Test |     |     |
+| Hermetic Infusion          | 5000 | -30  |     |     |
+| Mechadendrite              | -    | -    |     |     |
+| Ballistic                  | 600  | +0   |     |     |
+| Manipulator                | 500  | +0   |     |     |
+| Medicae                    | 500  | +0   |     |     |
+| Optical                    | 400  | +0   |     |     |
+| Plasma Cutter              | 1500 | +0   |     |     |
+| Utility                    | 500  | +0   |     |     |
+| Secutor Augmetics          | 2000 | +0   |     |     |
+| Servo-Arm                  | 1200 | -10  |     |     |
 
 #### Hermetic Infusion
 
