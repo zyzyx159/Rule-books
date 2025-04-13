@@ -2,41 +2,28 @@
 
 Aside from weapons and armor, a host of other equipment exists that may be of some use to the enterprising Acolyte in his service to the Emperor. Many situations can be resolved with a quick strike and a fast bullet, but there are numerous others that may require significantly more tact, and a specialized set of equipment to go with it. This sort of arsenal falls under the general classification of Gear, and includes clothing, special tools, drugs, and many other bits of kit that range from the mundane and ubiquitous to the rare and esoteric.
 
-# Availability
+## Availability
 
 Having the money does not always guarantee the desired goods or services are at hand. Squalid medieval worlds are a lot less likely to have expensive goods than the marketplaces of a hive city. Moreover, finding a high-quality weapon on a backwater planet is far more difficult than locating such a weapon in a teeming metropolis. To reflect availability, each piece of equipment or service has an associated Availability, ranging from abundant to very rare. GMs can use the following guidelines as a starting point for determining whether a place has such an item or not. Characters searching for a particular item or service must make a successful Inquiry Test modified by the Availability of the item, Availability: Difficulty by Population provides a baseline modifier for Inquiry Tests to find an item in communities of different sizes. Influence talents, such as Peer and Good Reputation, can grant a bonus to Inquiry Tests when going through relevant parties, such as Middle Classes and Workers on a hive world or Adeptus Mechanicus on a forge world. In general, larger communities tend to have greater access to rarer and more valuable items due to the nature of trade and mercantilism in the Imperium.
 
-## TIME
+| Availability: Difficulty by Population |                        |                  |                  |                  |
+| -------------------------------------- | ---------------------- | ---------------- | ---------------- | ---------------- |
+| Availability                           | Population Below 1,000 | Below 10,000     | Below 100,000    | 100,000 or More  |
+| Ubiquitous                             | Easy (+30)             | Automatic        | Automatic        | Automatic        |
+| Abundant                               | Routine (+20)          | Easy (+30)       | Automatic        | Automatic        |
+| Plentiful                              | Ordinary (+10)         | Routine (+20)    | Easy (+30)       | Automatic        |
+| Common                                 | Challenging (+0)       | Ordinary (+10)   | Routine (+20)    | Easy (+30)       |
+| Average                                | Difficult (-10)        | Challenging (+0) | Ordinary (+10)   | Routine (+20)    |
+| Scarce                                 | Hard (-20)             | Difficult (-10)  | Challenging (+0) | Ordinary (+10)   |
+| Rare                                   | Very Hard (-30)        | Hard (-20)       | Difficult (-10)  | Challenging (+0) |
+| Very Rare                              | Arduous (-40)          | Very Hard (-30)  | Hard (-20)       | Difficult (-10)  |
+| Extremely Rare                         | Punishing (-50)        | Arduous (-40)    | Very Hard (-30)  | Hard (-20)       |
+| Near Unique                            | Hellish (-60)          | Punishing (-50)  | Arduous (-40)    | Very Hard (-30)  |
+| Unique                                 | GM's Discretion        | Hellish (-60)    | Punishing (-50)  | Arduous (-40)    |
+
+### TIME
 
 Just because a large community actually has the item a character seeks does not necessarily mean that it is easy to locate. The larger the community, the more time it takes to track the item down. A community's size determines the base time it takes to find the item. Each degree of success reduces this time by a certain amount (minutes, hours, days, weeks, or months, depending on the base time). See _Dark Heresy_, Table 5-5: Availability and Time on page 126. The GM should make the roll in secret for particularly dangerous or costly items, to emphasis the struggle and possible risks entailed by such searching.
-
-## Craftsmanship
-
-Not all goods are of the same quality. In the vastness of the Imperium, and beyond, the craftsmanship of items can vary widely from crudely made, mass-produced materials to handcrafted masterpieces.
-
-Normally, Craftsmanship has little effect on game play for regular goods and services. As a general rule items of Poor Craftsmanship are more prone to failure and breaking while Good and Best Craftsmanship are more durable, though it is up to the GM how and when these effects might enter play. Some gear, goods, or services may have markedly different effects or qualities depending on their Craftsmanship - in such cases, the effect will be listed in the item's description. The GM may reduce the Difficulty of certain tests, but it is entirely at his discretion. Unless specifically stated, the Craftsmanship of any object is considered Common.
-
-| Craftsmanship Cost Multiplier Availability |      |                 |
-| ------------------------------------------ | ---- | --------------- |
-| Best                                       | ×10  | Drop 2 steps    |
-| Good                                       | ×3   | Drop 1 step     |
-| Common                                     | ×1   | —               |
-| Poor                                       | ×1/2 | Increase 1 step |
-
-| Availability: Difficulty by Population |                        |     |                  |                  |                  |
-| -------------------------------------- | ---------------------- | --- | ---------------- | ---------------- | ---------------- |
-| Availability                           | Population Below 1,000 |     | Below 10,000     | Below 100,000    | 100,000 or More  |
-| Ubiquitous                             | Easy (+30)             |     | Automatic        | Automatic        | Automatic        |
-| Abundant                               | Routine (+20)          |     | Easy (+30)       | Automatic        | Automatic        |
-| Plentiful                              | Ordinary (+10)         |     | Routine (+20)    | Easy (+30)       | Automatic        |
-| Common                                 | Challenging (+0)       |     | Ordinary (+10)   | Routine (+20)    | Easy (+30)       |
-| Average                                | Difficult (-10)        |     | Challenging (+0) | Ordinary (+10)   | Routine (+20)    |
-| Scarce                                 | Hard (-20)             |     | Difficult (-10)  | Challenging (+0) | Ordinary (+10)   |
-| Rare                                   | Very Hard (-30)        |     | Hard (-20)       | Difficult (-10)  | Challenging (+0) |
-| Very Rare                              | Arduous (-40)          |     | Very Hard (-30)  | Hard (-20)       | Difficult (-10)  |
-| Extremely Rare                         | Punishing (-50)        |     | Arduous (-40)    | Very Hard (-30)  | Hard (-20)       |
-| Near Unique                            | Hellish (-60)          |     | Punishing (-50)  | Arduous (-40)    | Very Hard (-30)  |
-| Unique                                 | GM's Discretion        |     | Hellish (-60)    | Punishing (-50)  | Arduous (-40)    |
 
 | Availability: Population and Time |                        |                  |                 |               |                 |
 | --------------------------------- | ---------------------- | ---------------- | --------------- | ------------- | --------------- |
@@ -53,6 +40,18 @@ Normally, Craftsmanship has little effect on game play for regular goods and ser
 | Near Unique                       | One year               | 3d5 months       | 1d5 months      | 1d5 weeks     | 2d10 days       |
 | Unique                            | 1d5 years              | One year         | 1d10 months     | 2d5 weeks     | GM's Discretion |
 
+### Craftsmanship
+
+Not all goods are of the same quality. In the vastness of the Imperium, and beyond, the craftsmanship of items can vary widely from crudely made, mass-produced materials to handcrafted masterpieces.
+
+Normally, Craftsmanship has little effect on game play for regular goods and services. As a general rule items of Poor Craftsmanship are more prone to failure and breaking while Good and Best Craftsmanship are more durable, though it is up to the GM how and when these effects might enter play. Some gear, goods, or services may have markedly different effects or qualities depending on their Craftsmanship - in such cases, the effect will be listed in the item's description. The GM may reduce the Difficulty of certain tests, but it is entirely at his discretion. Unless specifically stated, the Craftsmanship of any object is considered Common.
+
+| Craftsmanship Cost Multiplier Availability |      |                 |
+| ------------------------------------------ | ---- | --------------- |
+| Best                                       | ×10  | Drop 2 steps    |
+| Good                                       | ×3   | Drop 1 step     |
+| Common                                     | ×1   | —               |
+| Poor                                       | ×1/2 | Increase 1 step |
 ## Clothing & Personal Items
 
 This category covers a wide array of gear designed for everyday purposes or other common tasks, though a resourceful Acolyte should be able to find plenty of less conventional uses as well. In general, items in this category are meant to be worn; handheld pieces are described in the Tools section. More generic items are listed first, with those endemic to certain worlds, regions, or purposes to follow.
@@ -60,109 +59,107 @@ This category covers a wide array of gear designed for everyday purposes or othe
 | Clothing and Personal Items |        |        |              |
 | --------------------------- | ------ | ------ | ------------ |
 | Name                        | Weight | Cost   | Availability |
-| Backpack                    | 1kg    | 10     | Plentiful    |
-| Blast Goggles               | 0.5kg  | 25     | Common       |
-| Cameleoline Cloak           | 0.5kg  | 500    | Rare         |
-| Charm                       | -      | Varies | Varies       |
-| Chrono                      | -      | 40+    | Abundant     |
-| Clip/Drop Harness           | 2kg    | 25     | Common       |
-| Clothing †                  | -      | Varies | Varies       |
-| Dog Tags                    | -      | 1      | Plentiful    |
-| Field Sack                  | 1.5kg  | 5      | Common       |
-| Filtration Plugs            | -      | 15     | Common       |
-| Infrared Goggles            | 0.5kg  | 275    | Rare         |
-| Photo-Visor †               | 0.5kg  | 100    | Scarce       |
-| Photo-Contacts †            | -      | 250    | Rare         |
-| Re-Breather                 | 1kg    | 50     | Scarce       |
-| Recoil Glove                | 0.5kg  | 80     | Rare         |
-| Respirator/Gas Mask         | 0.5kg  | 25     | Average      |
-| Spider Pads                 | 1kg    | 150    | Scarce       |
-| Survival Suit               | 1kg    | 300    | Plentiful    |
-| Thermal Gloves              | 1kg    | 220    | Scarce       |
-| Void Suit †                 | 8kg    | 100    | Plentiful    |
+| [[#Backpack]]               | 1kg    | 10     | Plentiful    |
+| [[#Blast Goggles]]          | 0.5kg  | 25     | Common       |
+| [[#Cameleoline Cloak]]      | 0.5kg  | 500    | Rare         |
+| [[#Charm]]                  | -      | Varies | Varies       |
+| [[#Chrono]]                 | -      | 40+    | Abundant     |
+| [[#Clip/Drop Harness]]      | 2kg    | 25     | Common       |
+| [[#Clothing]] †             | -      | Varies | Varies       |
+| [[#Dog Tags]]               | -      | 1      | Plentiful    |
+| [[#Field Sack]]             | 1.5kg  | 5      | Common       |
+| [[#Filtration Plugs]]       | -      | 15     | Common       |
+| [[#Infrared Goggles]]       | 0.5kg  | 275    | Rare         |
+| [[#Photo-Visor]] †          | 0.5kg  | 100    | Scarce       |
+| [[#Photo-Contacts]] †       | -      | 250    | Rare         |
+| [[#Re-Breather]]            | 1kg    | 50     | Scarce       |
+| [[#Recoil Glove]]           | 0.5kg  | 80     | Rare         |
+| [[#Respirator/Gas Mask]]    | 0.5kg  | 25     | Average      |
+| [[#Spider Pads]]            | 1kg    | 150    | Scarce       |
+| [[#Survival Suit]]          | 1kg    | 300    | Plentiful    |
+| [[#Thermal Gloves]]         | 1kg    | 220    | Scarce       |
+| [[#Void Suit]] †            | 8kg    | 100    | Plentiful    |
 |                             |        |        |              |
 
 † _This item's Craftsmanship has one or more special effects_
 
-#### Backpack
+### Backpack
 
 Variously referred to as rucksacks, kit bags, or gear sacks, a backpack refers to any piece of equipment generally worn over the back or shoulder via straps that is intended to carry other items. Backpacks come in countless permutations throughout the Calixis Sector, and may take the form of rigid framed packs of plastek and synth-canvas to completely soft and supple leather bags with button closures. A backpack can generally hold about fifty kilograms worth of gear, allowing the wearer to carry or drop a load of equipment at will, although particularly long or over sized items will likely stick out of one or both ends.
 
-#### Blast Goggles
+### Blast Goggles
 
 This bulky eye wear is specifically designed for protective purposes, most commonly taking the form of large, single lens pieces that are strapped to the back of the wearer's head. The heavy glass steel lens is durable enough to deflect or mitigate flying bits of shrapnel, making them popular items for those who fight at close quarters, and also includes a reactive laminate coating that darkens in response to bright flashes of light. Aside from combat applications, blast goggles are also common attire for forge workers, furnace crews, and arc torch operators. They can also be found in use by gangers who value the intimidating look as well as the degree of concealment offered by the hefty pieces.
 
 A character wearing blast goggles is immune to the blinding effects of a photon flash grenade and similar sources of extremely bright light, though the character suffers a -10 penalty to sight-based Awareness tests for 1d5 Rounds as the laminated lens returns to its normal transparency. Additionally, should the character ever be subjected to a non-Energy Critical Damage effect that would cause him to lose one or both eyes, the goggles save his eyesight but are torn away and ruined in the process.
 
-#### Cameleoline Cloak
+### Cameleoline Cloak
 
 Cameleoline is a term used to describe materials made from a miraculous and poorly understood mimic fiber that mysteriously alters its coloration to blend in with its immediate surroundings. While distracting to look at directly, cameleoline cloaks are indispensable gear choices for scouts, snipers, and anyone else who values stealthy approaches to an objective. They are ill-suited for everyday wear, however, as the constantly changing appearance will likely attract suspicious and confused stares in crowded areas.
 
 A character wearing a cameleoline cloak gains a +20 bonus to Concealment tests. Further, if they remain stationary, the passive camouflaging effect causes them to be counted as being at Extreme Range (see Combat Circumstances on page 198 of _Dark Heresy_) when attacked by a ranged weapon.
 
-#### Charm
+### Charm
 
 A charm is a keepsake, holy relic, or some other good luck token that is intended to draw the benevolent eye of the Emperor to the wearer. They take a myriad of forms, including such things as saintly finger bones, fragments of blessed bolt casings, water from holy rivers or cisterns, or even corpse hair woven into significant patterns. An almost universally superstitious society (and rightly so), many citizens of the Imperium place great faith in their charms, and there are no shortage of all types of peddlers, vendors, and (unfortunately) charlatans who will happily arm faithful Acolytes with a charm to safeguard them in their endeavors. Of course, discerning a true relic from a fraudulent one can be a troublesome or even impossible task; as a result, the cost and weight of a charm is entirely up to the GM.
 
 Wearing a charm has no immediately tangible benefits. However, when in the course of an adventure something unfortunate is about to occur to a random character, the GM may choose to shift the unpleasant effect away from a character wearing a charm. If all the characters are wearing charms (as any faithful servant of the Emperor should), it is up to the GM which, if any, charms are the most potent.
 
-#### Chrono
+### Chrono
 
 Short for chronometer, these items are generally worn on the wrist or carried in a pocket and can keep the bearer up to date on the current time, though how accurate the readings are depends on the craftsmanship of the item as well as the consistency of the wearer in ensuring that the chrono is set correctly. Most units use a mechanical set of hands on a dial, but more expensive units could make use of electrically powered digits instead, and particularly extravagant examples might have a powered hololith that projects the time into the air above the wearer's arm.
 
-#### Clip/Drop Harness
+### Clip/Drop Harness
 
 An absolutely invaluable item for those who must often deal with vertical obstacles, clip or drop harnesses (as they are variously known) are strapped to the wearer's torso and thighs, allowing them to make use of a securely attached spool of safety line with a magnetic or hooked clasp. When properly attached to a suitable point, the wearer of a clip or drop harness can safely scale or descend from almost any surface, although especially treacherous ones may still prove dangerous.
 
 A character wearing a clip or drop harness gains a +30 bonus to Climb Tests and cannot fall if he fails, though a particularly serious failure might result in him becoming tangled up in his harness' line. A character can descend a vertical surface normally, but ascending with a clip harness is somewhat slower than trusting one's bare hands alone as the attachment points must be continually moved as the wearer ascends. An ascending character moves at one-half their Half Move speed, regardless of how many degrees of success they may have on their Climb Test.
 
-#### Clothing
+### Clothing
 
-Protecting one's modesty pleases the Emperor, and there is a whole universe of different styles of clothing worn by Imperial citizens in the Calixis Sector alone. Whether humble rags, sturdy coveralls, or elegant robes and vestments, clothing is often the quickest way to identify someone's station or role, and Acolytes wishing to investigate a given area would do well to familiarize themselves with the local fashions and who wears what. Attempting a comprehensive list of Imperial attire would be a fool's errand here.
+Protecting one's modesty pleases the Emperor, and there is a whole universe of different styles of clothing worn by Imperial citizens in the Calixis Sector alone. Whether humble rags, sturdy coveralls, or elegant robes and vestments, clothing is often the quickest way to identify someone's station or role, and Acolytes wishing to investigate a given area would do well to familiarize themselves with the local fashions and who wears what. Attempting a comprehensive list of Imperial attire would be a fool's errand, but some more common pieces are listed here.
 
-he wearer resemble a pile of re Rag-Castings (Poor Craftsmanship): Very poor and drudging citizens often must make do with patchwork clothes made from whatever materials are readily available. Outfits made in this way are reasonably durable but have an extremely shabby appearance, often with the effect of making t fuse or garbage.
+**Rag-Castings (Poor Craftsmanship):** Very poor and drudging citizens often must make do with patchwork clothes made from whatever materials are readily available. Outfits made in this way are reasonably durable but have an extremely shabby appearance, often with the effect of making the wearer resemble a pile of refuse or garbage.
 
-Adept Robes (Common Craftsmanship): Whether members of the Administratum or their counterparts in major conglomerations and dynastic enterprises, adepts are famous for the
+**Adept Robes (Common Craftsmanship):** Whether members of the Administratum or their counterparts in major conglomerations and dynastic enterprises, adepts are famous for the near ubiquity of the clean-cut robes they wear. While made of simple materials, adept robes are well made and feature over sized cuffs, generous belts and pants, and usually include a hood that is worn in public. Coloration and trim are widely varied, but only Administratum thralls are allowed to be dyed in red.
 
-inistratum thralls ar near ubiquity of the clean-cut robes they wear. While made of simple materials, adept robes are well made and feature oversized cuffs, generous belts and pants, and usually include a hood that is worn in public. Colouration and trim are widely varied, but only Adm e allowed to be dyed in red.
+**Coveralls (Common Craftsmanship):** Workers of all types often don large single-piece garments that are comfortable to move around in during long shifts. They are especially common in manufactorums, where different colors or coded arm bands can indicate workers from different areas, shift supervisors, and product inspectors. Many Imperial citizens who labor in these environments will often exclusively wear clothing of this type, even during leisure hours, and refectories and holotheatres populated by coverall-clad patrons are a sure sign that a manufactorum and its hab blocks are nearby.
 
-manufactorum and its hab b Coveralls (Common Craftsmanship): Workers of all types often don large single-piece garments that are comfortable to move around in during long shifts. They are especially common in manufactorums, where different colours or coded arm bands can indicate workers from different areas, shift supervisors, and product inspectors. Many Imperial citizens who labour in these environments will often exclusively wear clothing of this type, even during leisure hours, and refectories and holotheatres populated by coverall-clad patrons are a sure sign that a locks are nearby.
+**Hiver Overcoat (Common Craftsmanship):** Those who reside in the Imperium's sprawling hive cities often gird themselves in long, sturdy coats or cloaks when travelling on foot, typically to provide protection from cold, rain, or sudden bursts of vapor from poorly-marked vents. Clothing of this type is typically drab in color; blacks are usually less popular than grays and earthy tones due to their common association with plainclothes enforcers.
 
-ommon association w Hiver Overcoat (Common Craftsmanship): Those who reside in the Imperium's sprawling hive cities often gird themselves in long, sturdy coats or cloaks when travelling on foot, typically to provide protection from cold, rain, or sudden bursts of vapour from poorly-marked vents. Clothing of this type is typically drab in colour; blacks are usually less popular than greys and earthy tones due to their c ith plainclothes enforcers.
+**Uniform (Common Craftsmanship):** Worn typically by soldiers, enforcers, and private militiamen, a uniform helps identify the wearer as belonging to a certain faction, and may include rank tabs, awards and decorations, heraldic symbols, and any other suitably impressive accessories. Uniforms run a range of styles and cuts, and may be specifically be worn under personal armor.
 
-lly designed to Uniform (Common Craftsmanship): Worn typically by soldiers, enforcers, and private militamen, a uniform helps identify the wearer as belonging to a certain faction, and may include rank tabs, awards and decorations, heraldic symbols, and any other suitably impressive accessories. Uniforms run a range of styles and cuts, and may be specifica be worn under personal armour.
+**Bodyglove (Good Craftsmanship):** This type of form-fitting outfit is worn like a glove for the entire body as its name would imply, and is a common choice for skilled operatives, bodyguards, and infiltrators. A bodyglove may be a simple rubberized suit that stretches to fit its wearer or could be as sophisticated as a custom fitted piece with integral cooling coils, but in all cases they are designed to be easy to move in with the absolute minimum encumbrance.
 
-Bodyglove (Good Craftsmanship): This type of form-fitting outfit is worn like a glove for the entire body as its name would imply, and is a common choice for skilled operatives, bodyguards, and infiltrators. A bodyglove may be a simple rubberised suit that stretches to fit its wearer or could be as sophisticated as a customfitted piece with integral cooling coils, but in all cases they are designed to be easy to move in w ith the absolute minimum encumbrance.
+**Ecclesiastical Robes (Good Craftsmanship):** Flowing habits that are equal parts intimidating and inspiring, the vestments donned by ecclesiarchs of all ranks are finely-made clothing that tends to become progressively more ostentatious and elaborate as the clergy ascend in rank and power. At the minimum, an ecclesiastical robe will include the primary robe itself with a separate belt or sash, a mantellum worn around the shoulders and a mitre or biretta on the head. Ecclesiarchs-in-attendance will typically wear slippers, while those in the field may don any sort of applicable footwear (boots are the most common choice).
 
-footwear (boots ar Ecclesiastical Robes (Good Craftsmanship): Flowing habits that are equal parts intimidating and inspiring, the vestments donned by ecclesiarchs of all ranks are finely-made clothing that tends to become progressively more ostentatious and elaborate as the clergy ascend in rank and power. At the minimum, an ecclesiastical robe will include the primary robe itself with a separate belt or sash, a mantellum worn around the shoulders and a mitre or biretta on the head. Ecclesiarchs-in-attendance will typically wear slippers, while those in the field may don any sort of applicable e the most common choice).
+**Mechanicus Robes (Good Craftsmanship):** The infamous red robes of the Martian Tech-Priests are voluminous and heavy garments that conceal most of the adherent's augmetics, including separate sleeves and cowls to keep their bodies completely covered even while blessing the innards of a needy machine. Mechanicus robes most frequently feature a checkerboard pattern trim and numerous skull-and-cog insignia, and are often riddled with concealed slits and pockets so the wearer's augmetics can manoeuvre about freely. A common saying goes that no outsiders have ever seen a Tech-Priest's cyber-mantle and the most impressive of their assimilation with the machine spirit – this is both a statement on the Mechanicus' extremely secretive nature as well a literal observation on their concealing garb.
 
-as Mechanicus Robes (Good Craftsmanship): The infamous red robes of the Martian Tech-Priests are voluminous and heavy garments that conceal most of the adherent's augmetics, including separate sleeves and cowls to keep their bodies completely covered even while blessing the innards of a needy machine. Mechanicus robes most frequently feature a checkerboard pattern trim and numerous skulland-cog insignia, and are often riddled with concealed slits and pockets so the wearer's augmetics can manoeuvre about freely. A common saying goes that no outsiders have ever seen a Tech-Priest's cyber-mantle and the most impressive of their assimilation with the machine spirit – this is both a statement on the Mechanicus' extremely secretive nature as well a literal observation on their concealing garb.
+**Aether-Weave (Best Craftsmanship):** A popular fashion among well-connected hive nobles, aether-weave is formed from luminescent fabrics that can be made to glow in different colors, allowing the wearer to have a custom-made set of attire that diffuses light about their bodies or creates elaborate designs and patterns with tiny lumen beads. The exact shades and diffusion of light that an aether-weave creates can be manipulated or adjusted by re-stitching, but most who can afford such fineries usually just buy another set.
 
-fford such fineries usually just buy another set. Aether-Weave (Best Craftsmanship): A popular fashion among well-connected hive nobles, aether-weave is formed from luminescent fabrics that can be made to glow in different colours, allowing the wearer to have a custom-made set of attire that diffuses light about their bodies or creates elaborate designs and patterns with tiny lumen beads. The exact shades and diffusion of light that an aetherweave creates can be manipulated or adjusted by re-stitching, but most who can a
+**Billow Robes (Best Craftsmanship):** Billow robes are exquisite clothing designed for those who care more about appearances than function. The costly lighter-than-air fabrics are difficult to tailor but can create a marvelous look as the robes flow and wave around the wearer, often making them appear significantly larger than they actually are. Though certainly impressive to look at, billow robes can be difficult to move in, and the wearer must be mindful not to trip over an errant trailing flap.
 
-Billow Robes (Best Craftsmanship): Billow robes are exquisite clothing designed for those who care more about appearances than function. The costly lighter-than-air fabrics are difficult to tailor but can create a marvellous look as the robes flow and wave around the wearer, often making them appear significantly larger than they actually are. Though certainly impressive to look at, billow robes can be difficult to move in, and the wearer must be mindful not to trip over an errant trailing flap.
+### Dog Tags
 
-#### Dog Tags
+A somewhat pejorative name for common types of military identification, dog tags are typically made of sheet metal in a small rectangle or circle into which is stamped or punched-out information about the wearer. What is inscribed depends on the branch of service, but typically includes the wearer's name, date of enlistment or conscription, blood type, and place of origin. Dog tags are usually surrendered when (or if) the wearer is released from service, but some veterans choose to keep wearing them in honor of their unit or as a personal charm or memento.
 
-A somewhat pejorative name for common types of military identification, dog tags are typically made of sheet metal in a small rectangle or circle into which is stamped or punched-out information about the wearer. What is inscribed depends on the branch of service, but typically includes the wearer's name, date of enlistment or conscription, blood type, and place of origin. Dog tags are usually surrendered when (or if) the wearer is released from service, but some veterans choose to keep wearing them in honour of their unit or as a personal charm or memento.
-
-#### Field Sack
+### Field Sack
 
 Military backpacks or rucksacks are typically designed to very specific patterns for ease of mass production as well as to carry standard field kits, and will often include straps and pockets explicitly for carrying canteens, cleaning kits, entrenching tools, and attaching a bedroll. However, field sacks are less useful than "civilian" backpacks as far as carrying unusual objects (personal cogitators, grox bridles, arcane staves, and so forth) is concerned. Additionally, most field sacks are designed to be able to be fully unfolded into a makeshift body bag should the wearer meet a violent end in his service to the Emperor.
 
-#### Filtration Plugs
+### Filtration Plugs
 
-Filtration plugs are simple but exceedingly useful items that are inserted into the wearer's nostrils. The expansive foam or fabric material fills the orifices, helping to ward off dangerous vapours (as well as unpleasant odours). Filtration plugs are commonly employed by workers who deal with the more foul aspects of Imperial society, such as tanners, sump crews, morticians, and grox herders, but can also be used to protect against some chemical weapons in a pinch.
+Filtration plugs are simple but exceedingly useful items that are inserted into the wearer's nostrils. The expansive foam or fabric material fills the orifices, helping to ward off dangerous vapours (as well as unpleasant odors). Filtration plugs are commonly employed by workers who deal with the more foul aspects of Imperial society, such as tanners, sump crews, morticians, and grox herders, but can also be used to protect against some chemical weapons in a pinch.
 
 A character wearing filtration plugs gains a +20 bonus to any Toughness Test made to resist the effects of gases.
 
-#### Infrared Goggles
+### Infrared Goggles
 
 Commonly referred to as IR goggles, this piece of gear allows the wearer to look into the infrared spectrum and is most commonly used for identifying sources of heat. In industrial applications they can be crucial for determining points of failure or friction in machinery and piping, but they are also imminently useful for spotting hiding enemies at night, making them favoured items among crack military troops and high-rent mercenaries.
 
 A character wearing IR goggles can see in darkness without penalty and gains a +20 bonus to vision-based Perception Tests in such situations, though very hot environments and thermally shielded enemies may counteract this or give the wearer "false positive" readings.
 
-#### Photo-Visor
+### Photo-Visor
 
 Photo-visors use complex electrically-powered filtration lenses to amplify ambient light, allowing the wearer to see in the dark almost as well as in perfectly well-lit areas. As a result, they are almost always a popular and sought-after gear choice for all matters of men who must operate at night or in darkness, and have been donned by assassins and bodyguards, enforcers and reclamators, commandos and infiltrators, and innumerable others.
 
@@ -170,43 +167,43 @@ Good Craftsmanship photo-visors can employ more sophisticated filtration systems
 
 Photo-Contacts: These superior pieces of gear utilize the same equipment as photo-visors but in a much more compact profile, granting similar effects to the wearer but in the form of unobtrusive contact lenses.
 
-#### Re-Breather
+### Re-Breather
 
-Re-breathers make use of a self-contained air supply piped in to a helmet or mask, allowing the wearer to exist in extremely toxic environments or even to function underwater; they are highly in demand items among reclamators and other scavenger types who frequently operate in conditions that would fell an unprotected man in short order. Compared to military gas masks or civil respirators, a rebreather offers almost perfect protection but is only as good as the remaining air in its canister.
+Re-breathers make use of a self-contained air supply piped in to a helmet or mask, allowing the wearer to exist in extremely toxic environments or even to function underwater; they are highly in demand items among reclamators and other scavenger types who frequently operate in conditions that would fell an unprotected man in short order. Compared to military gas masks or civil respirators, a re-breather offers almost perfect protection but is only as good as the remaining air in its canister.
 
-While worn, a re-breather makes the wearer completely immune to the effects of most gases or inhaled toxins and can safely swim or dive underwater without risk of drowning. Rebreathers make use of disposable air canisters that last for about an hour before they must be replaced, which takes a Full Action and may expose the wearer to anything unpleasant that the re-breather was previously protecting them against. Spare canisters cost 25 Thrones, weigh half a kilogram, and are Scarce.
+While worn, a re-breather makes the wearer completely immune to the effects of most gases or inhaled toxins and can safely swim or dive underwater without risk of drowning. Re-breathers make use of disposable air canisters that last for about an hour before they must be replaced, which takes a Full Action and may expose the wearer to anything unpleasant that the re-breather was previously protecting them against. Spare canisters cost 25 Thrones, weigh half a kilogram, and are Scarce.
 
-#### Recoil Glove
+### Recoil Glove
 
 Interlocking plates connected by bundles of memory wire enable these curious-looking gloves to form a rigid strut around the wearer's hand and forearm, allowing for much more efficient dissipation of recoil forces when shooting guns. More costly versions may be able to conceal their functioning parts somewhat better, but regardless of their make or pattern, a recoil glove is a sure sign that the wearer is a serious gunfighter.
 
-Characters wearing a recoil glove can fire a Basic weapon with only the gloved hand and do not take the usual -20 penalty for firing onehanded. Likewise, Pistol-class weapons that usually require two hands to be fired (such as handcannons) can be fired one-handed by a recoil glove as well.
+Characters wearing a recoil glove can fire a Basic weapon with only the gloved hand and do not take the usual -20 penalty for firing one handed. Likewise, Pistol-class weapons that usually require two hands to be fired (such as hand cannons) can be fired one-handed by a recoil glove as well.
 
-#### Respirator/Gas Mask
+### Respirator/Gas Mask
 
-Gear of this type is intended to protect the wearer from harmful gases and vapours by passing the air the wearer breathes through several filters in succession. Respirators generally cover the wearer's mouth and nose and are nominally "civilian" items, while gas masks fully cover the face or head and have a distinctly "military" appearance, although there is some overlap between the different types and as with many pieces of kit they are manufactured in a bewildering array of patterns in the Calixis Sector alone. Regardless of the exact method and style, they are far superior protective wear compared to the more common filtration plugs, and in some particularly grim areas of hive cities are just about everyday wear.
+Gear of this type is intended to protect the wearer from harmful gases and vapors by passing the air the wearer breathes through several filters in succession. Respirators generally cover the wearer's mouth and nose and are nominally "civilian" items, while gas masks fully cover the face or head and have a distinctly "military" appearance, although there is some overlap between the different types and as with many pieces of kit they are manufactured in a bewildering array of patterns in the Calixis Sector alone. Regardless of the exact method and style, they are far superior protective wear compared to the more common filtration plugs, and in some particularly grim areas of hive cities are just about everyday wear.
 
-A character wearing a gas mask or respirator receives a +30 bonus to any Toughness Tests made to resist the effects of airborne gases and may reroll a failed Test; the results of the reroll are final.
+A character wearing a gas mask or respirator receives a +30 bonus to any Toughness Tests made to resist the effects of airborne gases and may re-roll a failed Test; the results of the re-roll are final.
 
-#### Spider Pads
+### Spider Pads
 
 Spider pads are a type of superior climbing apparatus that are worn on the hands, arms, knees and feet. At the wearer's direction, these unusual-looking pads can emit an adhesive substance that greatly improves the wearer's ability to climb sheer surfaces, giving them spider-like mobility where others would be struggling to find purchase. Care must be taken to ensure that the spider pads themselves remain inactive when the wearer isn't climbing lest they find themselves sticking to floors, walls and held objects, and most only don these items when about to begin a climb.
 
 A character wearing spider pads gains a +30 bonus to Climb Tests when attempting to climb most regular surfaces. Loose and unstable surfaces, such as scree or talus, reduce this bonus to +10.
 
-#### Survival Suit
+### Survival Suit
 
-Often found in the kits of explorers as well as within the lockers of better-stocked life pods, survival suits are a boon to anyone who must endure a harsh environment. Bulky by design, a survival suit is designed to be worn over normal clothing and even some body armours, providing an insulative barrier between the wearer and outside temperatures. This is most effective at keeping the wearer from freezing to death in frigid climates, but a heat exchanging vane system is used to drive a series of power cells to keep the wearer from overheating in scorching temperatures as well. By nature of their design, survival suits are uncomfortable to wear in normal temperature ranges, with the wearer typically being either too hot or too cold thanks to the suit's aggressive construction.
+Often found in the kits of explorers as well as within the lockers of better-stocked life pods, survival suits are a boon to anyone who must endure a harsh environment. Bulky by design, a survival suit is designed to be worn over normal clothing and even some body armors, providing an insinuative barrier between the wearer and outside temperatures. This is most effective at keeping the wearer from freezing to death in frigid climates, but a heat exchanging vane system is used to drive a series of power cells to keep the wearer from overheating in scorching temperatures as well. By nature of their design, survival suits are uncomfortable to wear in normal temperature ranges, with the wearer typically being either too hot or too cold thanks to the suit's aggressive construction.
 
 A character wearing a survival suit gains a +20 bonus to Survival Tests where resisting the effects of a harsh climate are concerned, though he still must be able to provide for food and water using other means.
 
-#### Thermal Gloves
+### Thermal Gloves
 
 These thin yet sturdy gauntlets are made of high-quality materials and inlaid with complex circuitry that can keep the wearer's hands comfortably warm or cool without the need for bulky insulation that would hamper manual dexterity. "Active" gloves of this type were first developed for use in the mining colonies on Soryth, where the frozen gas deposits must be extracted and handled carefully lest their impact-sensitive nature lead to a catastrophic explosion – a task whose difficulty is magnified by hands numbed by cold or trapped in bulky mittens. Small thermal batteries produce power for the gloves in order to maintain their temperature-regulating qualities – these cells are meant to be kept under the wearer's clothing where they can absorb heat from the body, with a thin cable connection keeping the gloves supplied with power.
 
-A character wearing thermal gloves can safely handle hot or cold objects without taking Damage, although their protective qualities are not impervious to especially extreme temperatures (such as an operating reactor head or an overheating plasma gun). Further, the wearer can also jerry-rig the power source to provide a jolt of electricity that can be used to help restart a stalled generator, power-up a dataslate with a dead power cell, and so forth. Using a pair of thermal gloves in this way grants the user a +10 bonus to Tech-Use Tests when attempting to work with unpowered machinery or gear. Finally, the wearer can totally discharge the gloves' cells to part-recharge a las weapon, adding 1d10+1 shots worth of charge to a standard charge pack or 1d5-1 to a hellgun capacitor. Thermal gloves can only be used with packs for basic and pistol-class las weapons – heavy weapons' power packs are simply too large for the gloves' cells to have any meaningful effect. Once depleted, the thermal gloves' cells recharge on their own in about an hour as long as they're kept in contact with a warm body.
+A character wearing thermal gloves can safely handle hot or cold objects without taking Damage, although their protective qualities are not impervious to especially extreme temperatures (such as an operating reactor head or an overheating plasma gun). Further, the wearer can also jerry-rig the power source to provide a jolt of electricity that can be used to help restart a stalled generator, power-up a data slate with a dead power cell, and so forth. Using a pair of thermal gloves in this way grants the user a +10 bonus to Tech-Use Tests when attempting to work with unpowered machinery or gear. Finally, the wearer can totally discharge the gloves' cells to part-recharge a las weapon, adding 1d10+1 shots worth of charge to a standard charge pack or 1d5-1 to a hellgun capacitor. Thermal gloves can only be used with packs for basic and pistol-class las weapons – heavy weapons' power packs are simply too large for the gloves' cells to have any meaningful effect. Once depleted, the thermal gloves' cells recharge on their own in about an hour as long as they're kept in contact with a warm body.
 
-#### Void Suit
+### Void Suit
 
 Exposure to hard void, even briefly, is almost invariably lethal to humans. Void suits remedy this problem by creating a pressurized shell around the wearer, allowing them to exist safely in the void for a period of time. Once sealed, a void suit creates a micro-environment that totally insulates the wearer from gases, immersion in fluids, or the life-draining effects of the void itself, and typically includes a rebreather to provide the wearer with a fresh air supply. Void suits are made in many patterns and can range from fairly simple pressurized fabric to sturdy articulated plasteks and composite materials. Most will also include some common tools useful for doing work in the void, such as tether lines, mag-clamps, and so forth. Other features generally depend on the Craftsmanship of the suit itself.
 
@@ -216,49 +213,42 @@ Good: Void suits that are manufactured to a higher level of quality usually incl
 
 Best: A voidsman's best friend, these void suits fit well and are minimally encumbering despite having full-spectrum shielding and insulation. A double cartridge system allows the wearer to switch re-breather canisters with the flip of a button for a maximum of four hours of operations without replacing a canister, and a built-in impellor on the back grants the wearer extra mobility in a zero-gravity environment (treated as having a Movement of 6).
 
-## Specialty Personal Items
+### Specialty Personal Items
 
-Whether only found on certain worlds or serving extremely specific purposes, items in this category fall outside the purview of clothing and equipment encountered by the vast majority of the Imperium's citizens, including most trained agents. Acolytes may encounter various examples of specialty equipment while onmission on worlds where this gear can be commonly found, for a particular purpose during the course of an operation, or just out of happenstance while conducting field work.
+Whether only found on certain worlds or serving extremely specific purposes, items in this category fall outside the purview of clothing and equipment encountered by the vast majority of the Imperium's citizens, including most trained agents. Acolytes may encounter various examples of specialty equipment while on mission on worlds where this gear can be commonly found, for a particular purpose during the course of an operation, or just out of happenstance while conducting field work.
 
-## Fedrid Braid Cloak
+| Specialty Personal Items                                    |        |         |                  |     |
+| ----------------------------------------------------------- | ------ | ------- | ---------------- | --- |
+| Name                                                        | Weight | Cost    | Availability     |     |
+| [[#Fedrid Braid Cloak]]                                     | 2kg    | 80      | Scarce           |     |
+| [[#Explosive Collar]]                                       | 1kg    | 55      | Rare             |     |
+| [[#Gill Filter]]                                            | 0.5kg  | 100     | Scarce           |     |
+| [[#Gloom Eye]]                                              | -      | 300     | Very Rare        |     |
+| [[#Holo-Visor]] †                                           | 0.5kg  | 250     | Rare             |     |
+| [[#Huntsman's Musk]]                                        | 0.2kg  | 20      | Rare             |     |
+| [[#Jump Pack]]                                              | 25kg   | 2,000   | Rare             |     |
+| [[#Mag-Harness]]                                            | 10kg   | 550     | Scarce           |     |
+| [[#Magboots]] †                                             | 2kg    | 65      | Average          |     |
+| [[#Night Cloak]]                                            | 2.5kg  | 100     | Average          |     |
+| [[#Ocular Catechizer]]                                      | -      | 250     | Scarce           |     |
+| [[#Opus Machina]]                                           | 0.5kg  | 1,500   | Tech-Priest Only |     |
+| [[#Slip Vest]]                                              | 2kg    | 200     | Very Rare        |     |
+| [[#Fedrid Soul Mask]]                                       | 1kg    | 200     | Rare             |     |
+| [[#Targeting Monocle]]                                      | -      | Special | Very Rare        |     |
+| † This item's Craftsmanship has one or more special effects |        |         |                  |     |
+### Fedrid Braid Cloak
 
-Fedrid's dense, nearly impenetrable jungles are home to innumerable horrors, but the most dangerous creatures on this feral world are its native huntsmen who take to the trees in search of terrifying creatures to stalk. The feral hunters often clad themselves in braid cloaks, tough
-
-| Specialty Personal Items                                   |        |         |                  |     |
-| ---------------------------------------------------------- | ------ | ------- | ---------------- | --- |
-| Name                                                       | Weight | Cost    | Availability     |     |
-| Braid Cloak                                                | 2kg    | 80      | Scarce           |     |
-| Explosive Collar                                           | 1kg    | 55      | Rare             |     |
-| Gill Filter                                                | 0.5kg  | 100     | Scarce           |     |
-| Gloom Eye                                                  | -      | 300     | Very Rare        |     |
-| Holo-Visor†                                                | 0.5kg  | 250     | Rare             |     |
-| Huntsman's Musk                                            | 0.2kg  | 20      | Rare             |     |
-| Jump Pack                                                  | 25kg   | 2,000   | Rare             |     |
-| Mag-Harness                                                | 10kg   | 550     | Scarce           |     |
-| Magboots†                                                  | 2kg    | 65      | Average          |     |
-| Night Cloak                                                | 2.5kg  | 100     | Average          |     |
-| Ocular Catechizer                                          | -      | 250     | Scarce           |     |
-| Opus Machina                                               | 0.5kg  | 1,500   | Tech-Priest Only |     |
-| Slip Vest                                                  | 2kg    | 200     | Very Rare        |     |
-| Soul Mask                                                  | 1kg    | 200     | Rare             |     |
-| Targeting Monocle                                          | -      | Special | Very Rare        |     |
-| †This item's Craftsmanship has one or more special effects |        |         |                  |     |
-
-leathery garments made from the Ungorth hides, which are thought to ward off the scything talons and reaping fangs of the nightmares that lurk below the jungle canopy. While this is more superstition than anything else, the cloaks do offer some protection, but more importantly are excellent camouflage. Fedrid's Ungorth survives by remaining unseen, and its hide has excellent scent-masking properties even long after the creature's death.
+Fedrid's dense, nearly impenetrable jungles are home to innumerable horrors, but the most dangerous creatures on this feral world are its native huntsmen who take to the trees in search of terrifying creatures to stalk. The feral hunters often clad themselves in braid cloaks, tough leathery garments made from the Ungorth hides, which are thought to ward off the scything talons and reaping fangs of the nightmares that lurk below the jungle canopy. While this is more superstition than anything else, the cloaks do offer some protection, but more importantly are excellent camouflage. Fedrid's Ungorth survives by remaining unseen, and its hide has excellent scent-masking properties even long after the creature's death.
 
 A Fedrid braid cloak grants a +5 bonus to the wearer's Concealment Tests in any environment thanks to its ability to mask the wearer's scent. When worn in a jungle environment similar to Fedrid's own, however, the wearer can seemingly vanish into the native fauna; the bonus increases to +20. Finally, the tough construction adds 1 AP (Primitive) to the wearer's Arms and Body.
 
-## Explosive Collar
+### Explosive Collar
 
-A staple of the Imperial Guard's penal legions, explosive collars are an easy and just about uniformly effective method of ensuring compliance on the prisoners they're attached to. Each collar includes a hard-wired microvox
+A staple of the Imperial Guard's penal legions, explosive collars are an easy and just about uniformly effective method of ensuring compliance on the prisoners they're attached to. Each collar includes a hard-wired microvox receiver linked to a remote, whose holder can either release the collar or cause it to detonate. An explosive collar being triggered is almost assuredly lethal to the wearer; the residual blast deals 1d10 points of Explosive Damage to characters and objects within 3 metres of the victim. An explosive collar can be triggered up to a kilometre away – removing it from the remote's effective radius may or may not cause an automatic detonation.
 
-> receiver linked to a remote, whose holder can either release the collar or cause it to detonate. An explosive collar being triggered is almost assuredly lethal to the wearer; the residual blast deals 1d10 points of Explosive Damage to characters and objects within 3 metres of the victim. An explosive collar can be triggered up to a kilometre away – removing it from the remote's effective radius may or may not cause an automatic detonation.
+Less common versions sometimes used on penal worlds or in work gangs eschew the remote detonator in favour of a fixed limiter link that triggers a detonation if the collar strays too far from a defined boundary or distance, typically with an audible warning advising the wearer to return within the prescribed boundaries.
 
-> Less common versions sometimes used on penal worlds or in work gangs eschew the remote detonator in favour of a fixed limiter link that triggers a detonation if the collar strays too far from a defined boundary or distance, typically with an audible warning advising the
-
-wearer to return within the prescribed boundaries.
-
-#### Gill Filter
+### Gill Filter
 
 This strange rubbery mask adheres to the bottom half of the wearer's face, covering their nose and mouth with a wet, clammy layer of biomass. Despite its appearance being more akin to a vaguely shaped wad of goo, a gill filter is actually an extremely sophisticated piece of gear developed by a cadre of Magos Biologis conducting research on the water world of Spectoris. The strange membranes act like the gills of marine creatures, filtering oxygen out of water which the wearer then respires normally.
 
@@ -266,25 +256,23 @@ The exact means by which these miraculous items are manufactured remains a myste
 
 A gill filter will sustain a submerged wearer's need for air indefinitely. However, the filters must be kept constantly immersed in water - if exposed to air for more than about a minute the filter will dry out and wither, becoming a useless piece of brittle detritus. Gill filters are typically stored in a watertight metallic container when not in use.
 
-#### Gloom Eye
+### Gloom Eye
 
-"Gloom Eye" is a common term for strange hunks of luminescent crystal that can be inexplicably found in the depths of many hive cities in the Calixis Sector. The strange mixtures of polluted wastes that drip down from the upper levels and congeal in hardened masses can sometimes form lumps of gloom eye. Finding a growth of gloom eye is considered a sign of providence or good luck by reclamators and others making expeditions into the underhive, and those that live within the fetid depths swear that carrying a piece of gloom eye offers blessed protection from the perils of the crumbling and claustrophobic pits. Gloom eye from the
-
-nightmare hive of Volg on Fenksworld is particularly sought after - according to some, the stuff changes colours when the wearer is in imminent danger.
+"Gloom Eye" is a common term for strange hunks of luminescent crystal that can be inexplicably found in the depths of many hive cities in the Calixis Sector. The strange mixtures of polluted wastes that drip down from the upper levels and congeal in hardened masses can sometimes form lumps of gloom eye. Finding a growth of gloom eye is considered a sign of providence or good luck by reclamators and others making expeditions into the underhive, and those that live within the fetid depths swear that carrying a piece of gloom eye offers blessed protection from the perils of the crumbling and claustrophobic pits. Gloom eye from the nightmare hive of Volg on Fenksworld is particularly sought after - according to some, the stuff changes colours when the wearer is in imminent danger.
 
 A piece of gloom eye sheds light like a candle and counts as a charm for any wearer. Characters from hive worlds gain a further +10 bonus on tests made to avoid Pinning. Volgite gloom eye, which costs three times as much and has an Availability of Very Rare, allows the wearer to act as if he had the Paranoia Talent. In all cases, the piece must be worn in an obvious location on the wearer's body - covering or hiding its light halts the gloom eye's effects.
 
-#### Holo-Visor
+### Holo-Visor
 
 A holo-visor is a specialized piece of gear designed for covert operations, and are most commonly employed by military types and assassins who rely on discrete tactics. A special back-scatter film causes the visor to detect specific intensities of light in the infrared spectrum. When paired with a special lens filter, a common red-dot laser sight projects a beam that is only visible on a holo-visor. This allows the wearer to target his enemies or indicate targets to other characters wearing their own holo-visors while those not so equipped will be none the wiser to the beams being "painted" on them. Due to the nature of the back-scatter film used in their construction, holo-visors are fairly bulky pieces of headgear, with Good Craftsmanship versions being solid enough to double as blast goggles.
 
-#### Huntsman's Musk
+### Huntsman's Musk
 
 World-hopping big game hunters and feral beast trackers alike commonly make use of stench-laden pastes to mask their human odours when in pursuit of prey with an acute sense of smell. Smearing oneself with foulness whose origins are best left unconsidered is by no means a pleasant process, but this odoriferous task could well be the margin between a successful hunt and being torn to shreds by an agitated carnosaur. Among certain circles, the varied stinks of musk from different creatures on different worlds can take on an almost academic or artistic appreciation.
 
 Creatures that rely on smell to detect their prey take a -20 penalty to Perception-based Tests made to detect characters wearing huntsman's musk. An application lasts for 2d5 hours. Depending on the method of application, being immersed in water or rain may shorten this duration. Huntsman's musk may also be able to foil pursuit by characters with the Heightened Sense (Smell) Talent as well.
 
-#### Jump Pack
+### Jump Pack
 
 Across the Imperium, and likely since the dawn of mankind, men have dreamed of flight. Jump packs are fantastic creations of the Mechanicus that allows just that. Using a combination of high-intensity suspensor cells and powerful hybrid thrusters, a character wearing a jump pack can send themselves soaring through the air or hurtling across flat ground at great speed. Jump packs are highly sophisticated pieces of equipment that require special training both to use and to maintain, and as a result they are typically only employed by elite organisations such as the Adepta Soroitas' famed Seraphim or the Imperial Navy's crack void armsmen. Much larger versions are used by Assault Marines of the Adeptus Astartes to especially devastating effect. Because of their bulk and mass, along with the noise of idling turbines, jump packs are typically only donned right before an operation commences.
 
@@ -292,124 +280,136 @@ Using a jump pack requires the operator have the Pilot (Jump Pack) or Pilot (Per
 
 Jump packs can also be used in a void environment, granting the wearer a Movement of 15. Without atmosphere to rush through its turbines, a jump pack relies purely on its thrusters to move through void, which will exhaust their reserves of fuel and energy in about an hour.
 
-#### Mag-Harness
+### Mag-Harness
 
 These sturdy belts and bandoliers contain a series of magnetic plates on the outer surfaces, allowing the wearer to attach ferromagnetic objects, such as knives, pistol clips, or whole grenades - simply by tapping them against the centre of each plate and allowing the magnetism to do the rest. A mag-harness allows a professional fighter to do away with many kinds of mundane holsters and pouches or packs - as long as the item is mostly composed of magnetic alloys, it simply sticks to a given plate and remains there until needed. Aside from simple tapping or twisting motions, a mag-harness' plates can be manually activated or deactivated by short numeric codes that are entered into a small runepad on the harness' large belt buckle. The pad is typically covered by a sturdy lid to prevent damage or errant hands grasping at it, and many mag-harnesses decorate it with the insignia of the maker, the organisation it belongs to, or a personal badge of some sort. Magharnesses usually aren't used in military situations due to their expense as well as the careful attentions one must keep while wearing one - an environment full of metallic objects, such as a hive corridor or the interior of a tank, could result in the wearer being stuck to a surface if his harness accidentally triggers. Likewise, areas with large amounts of electromagnetic interference can result in "undesirous operation", and heavy-duty magnets such as those often used in the moving of scrap metal and cargo-vaults can be especially dangerous. The Adeptus Arbites are the largest single user of mag-harnesses, as their welltrained patrols can be trusted to use the appropriate level of caution when around such hazardous conditions.
 
 A mag-harness can attach up to 25 metallic objects that can be easily held in one hand wearing one grants the wearer the Quick Draw talent for any pistol, grenade, one-handed melee weapon, or similar item that can be attached to the mag-harness. Basic weapons and twohanded melee weapons can be attached to a mag-harness provided they weigh less than 10 kg, though they take the same amount of time to Ready as normal. If the character already possesses the Quick Draw talent the magharness does not let them Ready any faster, but they can stow items that would benefit from the talent as a Free Action. Some types of weapons are composed of nonmetallic materials or alloys that have no ferromagnetic qualities - these can't be used in conjunction with a mag-harness.
 
-#### Magboots
+### Magboots
 
 Standard gear for voidsmen conducting work on the exterior of ships or servicing areas where the grav-plates have malfunctioned. As the name suggests, magboots are sturdy, oversized shoes that are worn over a voidsuit and provide a solid magnetic attachment to most surfaces found within Imperial voidships. Though heavy and hard to move in, magboots are a necessity for any kind of reliable movement in a zero-gravity environment.
 
 A character wearing active magboots has his Agility Bonus reduced by half, but can walk normally in areas of low gravity or zero gravity as long as there are ferrous surfaces available (such as deck plating). Magboots of Common or better Craftsmanship can be activated or deactivated as a Half Action with a simple stud - Poor Craftsmanship examples are always active.
 
-#### Night Cloak
+### Night Cloak
 
 Night cloaks are formed out of a type of insulative and lumen-dampening fabric more commonly seen in reactor or boiler isolating sleeves. Cloaks are the most common style of this uncommon gear, but rarer varieties might take the form of a stormcoat with a pull-on hood. Regardless of the construction, when fully donned a night cloak completely absorbs the wearer's ambient thermal energy while perfectly masking any light-emitting items that the wearer may possess, giving him an excellent stealth advantage at night or in other areas of darkness. Its thermally absorbing qualities can make a cloak uncomfortable or even downright dangerous to wear for a long period of time, something that well highlights its basis as a piece of industrial or naval hardware rather than purpose-designed stealth equipment. Night cloaks have only appeared in the Calixis Sector within the last decade, and exactly who manufacturers these highly specialized pieces of kit remains a mystery.
 
 A character wearing a night cloak gains a +30 bonus to Concealment Tests when in areas of darkness, even if there is not applicable cover or terrain available, and enemies using infrared goggles gain no bonus to their Perception Tests against the wearer. Characters wearing night cloaks run the risk of overheating as their body temperature is forced higher and higher. Each hour, a character who is stationary must make a Routine (+20) Toughness Test, while a character engaging in activity (such as walking or climbing) must make a Challenging (+0) Toughness Test. Strenuous activity, such as running or climbing, reduces the interval by half. In all cases, failure causes the wearer to gain a level of Fatigue.
 
-#### Ocular Catechizer
+### Ocular Catechizer
 
 This arcane instrument is a favoured tool of archivists, scriveners, sages, and Administratum officials who often work with voluminous bodies of text and handwritten documents. The intricate-looking devices, resembling ornate brass eyewear festooned with lenses and multifocal loupes, grand the wearer a potent ability to magnify and recognize patterns of information in written or visual materials. No mere set of bifocals, an ocular catechizer's machine spirit can literally help the wearer "read between the lines" and process data much more efficiently than with his own eyes and mind alone. That being the case, ocular catechizers have a reputation for particularly temperamental and easily-vexed machine spirits - if the wearer does not entirely focus on his task, the catechizer will often reward him with a severe headache and sore eyes.
 
 A character wearing an ocular catechizer gains a +10 bonus to any Literacy, Logic, Lore, or Search Test when close examination of written text or visual data (such as picts or patternsheets) are involved. Only physical materials can be scanned through in this way - ocular catechizers are not designed to read text displayed on data-slates or pict-screens. An ocular catechizer may be wired to a data-slate, cogitator, or similar device in order to record its impressions for later study; this can also be used to grant the wearer a +20 bonus to Trade (Copyist) Tests made to transcribe bodies of text. No other Actions may be undertaken while a character is using an ocular catechizer in this way. Should the character fail one of the above Tests by four or more degrees the ocular catechizer inflicts 1 level of Fatigue on the wearer as it inadvertently sends a painful feedback loop into the wearer's head.
 
-#### Opus Machina
+### Opus Machina
 
 Many have seen an Opus Machina before but few know to call the skull-and-cog medallion worn around the neck of many Tech-Priests by its true name. Part tool, part devotional symbol, and part badge of office, an Opus Machina conceals just as many secrets as the red robes of its bearers. The interior of an Opus Machina is riddled with circuitry, power cells, and microcogitators, all of which gently broadcast code ciphers and ultrasonic prayers signifying the wearer's worth to those with the right ears to process them. Most tech-priests don't clutch and brandish their Opus Machina when hailing their cohorts as many outsiders would their Imperial Aquila. The uninformed would assume this is merely another facet of the Martian Priesthood's deliberate lack of empathy and faith in the God-Emperor, but the few who are well-versed in the secrets and mysteries of the Mechanicus know well that the mere presence of an Opus Machina communicates far more than any simple gesture possibly could.
 
 Any character can wear an Opus Machina, though this is strongly frowned upon (and sometimes violently so) by non-members of the Adeptus Mechanicus. However, if the wearer has both the Speak Language (Techna-Lingua) and Common Lore (Machine Cult) skills, an Opus Machina's innate features can be activated. This grants the wearer a +10 bonus on all Fellowshipbased Tests when communicating with other Tech-Priests and followers of the Machine God, as well as a +10 bonus on Tech-Use Tests made to interact with servitors, cogitators, and other complex machines. Finally, an active Opus Machina's code ciphers and override decrypts can effectively replicate the effects of a multi-key when used on electronic locks, alarms, and when communing with machine spirits.
 
-#### Slip Vest
+### Slip Vest
 
 Slip vests are made of a faded yellowish leather obtained from the hides of savage beasts native to Monrass in the Drusus Marches. When properly tanned the leather never loses its waxy sheen and nearly frictionless texture, making it exceptionally supple and comfortable to wear. Aside from its fashionable appearance, the slippery surface of the aptly-named slip vest has the side effect of making it difficult to get hold of the wearer. Pugilists, thieves, and others with "irregular habits" who are in the know have come to appreciate these vests and their slick qualities - martial opponents, guards, and others who would try to tackle a wearer tend to have a much less positive opinion.
 
 Characters wearing a slip vest gain a +10 bonus to any attempts to break free from a Grapple action, while Grappling opponents suffer a -10 penalty to attempt to start or maintain the Grapple. A slip vest's bonus may not apply in certain situations, such as a character being grabbed around the legs by the vines of a Death World carnivorous plant.
 
-#### Fedrid Soul Mask
+### Fedrid Soul Mask
 
 These ornate wooden masks glare and scowl with sinister faces which the native hunters of Fedrid believe ward off evil spirits and frighten the savage beasts they stalk. Soaked in the blood of ritually slain monsters - or, as some have whispered, ritually slain enemies - the native huntsmen trust these masks to warn them of danger when the trapped soul within flinches in anticipation of imminent peril. Whether or not there is any truth to this superstition is an academic matter, but that has little bearing on the popularity of these masks as pieces of macabre art that decorate the private studies of collectors and other aficionados from Scintilla to Malfi. The stories of strange hauntings, bloody histories and native curses clinging to such masks only enhances the frisson of owning one, with particularly frightening-looking examples fetching a high price at auction.
 
-#### Targeting Monocle
+### Targeting Monocle
 
 For some, image is everything - both what it shows and what it conceals. For those who demand an ostentatious appearance while preserving a tactical advantage in the event of an eruption of combat, few items better typify this attitude than a targeting monocle. At first glance, this piece of gear simply looks like a wellcrafted monocular eyepiece, but the wearer is presented with a highly useful battery of information at all times, which may include thermal imaging, distance to the point of sight, ambient wind speed, and so forth. The exact utility of a targeting monocle depends on the desire of the commissioner. Many are outfitted with a miniature wire link or a short-range microvox allowing them to be used like a sight on a chosen gun.
 
 When a targeting monocle is created it may duplicate the effects of any one weapon upgrade that is considered to be a sight, such as a Red-Dot Laser Sight, Motion Predictor, or Telescopic Sight. Determine the cost in Thrones by multiplying the price of the sight upgrade by ten. A unique receiver unit can be installed to a gun that is paired to the targeting monocle, allowing the wearer to use the sight and even take Aim Actions without actually drawing the paired gun. A successful Very Hard (-30) Scrutiny Test allows an opponent to see through the subterfuge and determine a targeting monocle's true purpose. The monocle's receiver unit does not count as a sight for the purposes of determining a gun's sight limit, but the wearer cannot benefit from using both the targeting monocle and a sight attached to the gun at once.
 
-# Drugs & Consumables
+## Drugs & Consumables
 
-Giving the incredible breadth and span of the Imperium of Man, it is no surprise that there are a staggering array of food, drink, intoxicants, drugs, and other items meant to be taken into
+Giving the incredible breadth and span of the Imperium of Man, it is no surprise that there are a staggering array of food, drink, intoxicants, drugs, and other items meant to be taken into the body. Some alter the consumer's mindset or perception, others can fulfil valuable medical needs, while many more simply sustain important biological functions. To attempt to codify a complete list of edibles and drinkables consumed within the God-Emperor's domain would be an impossible undertaking even for a battalion of expert lexmechanics, but some more common items that an Acolyte of the Calixian Conclave might find during the course of his duties are listed here. An appendix containing more specialized or region/world-specific consumables follows.
 
-the body. Some alter the consumer's mindset or perception, others can fulfil valuable medical needs, while many more simply sustain important biological functions. To attempt to codify a complete list of edibles and drinkables consumed within the God-Emperor's domain would be an impossible undertaking even for a battalion of expert lexmechanics, but some more common items that an Acolyte of the Calixian Conclave might find during the course of his duties are listed here. An appendix containing more specialized or region/world-specific consumables follows.
+### BUILDING IMMUNITY
 
-#### Amasec
+Some drugs, especially those that profoundly affect the user's physiology, can quickly cause the user to develop an immunity to their effects. If an Acolyte takes more than one dose of a drug that is subject to immunity within a 24 hour period he must make a Challenging (+0) Toughness Test. Success indicates the drug has the desired effect, while failure causes the Acolyte's body to reject the substance. Subsequent use of the same drug during any 24 hour period forces a cumulative increase in the difficulty in the Toughness Test, regardless of whether or not the previous Test was a success (a third dose would force a Difficult (-10) Toughness Test, while a fourth would force a Hard (-20) Toughness Test, and so on).
+
+### GETTING ADDICTED
+
+While any stimulating or allaying substance could be potentially habit-forming, some are so compelling that their users cannot help but want more and will often go to great lengths to satiate their need. Those of strong will may withstand these temptations, at least for a time, but chronic use can erode and debase even the most stalwart of hearts and minds.
+
+Even the most cloying or pernicious narcotics can usually be taken from time to time with minimal risk of becoming an addict. Especially addictive drugs will specify a certain number of doses which, if taken over a certain timeframe, can "hook" the user. The user must then make a Willpower Test, with failure indicating the user has become addicted to the drug in question.
+
+An addict generally feels compelled to consume at least one dose of their drug per day; the addict can resist this urge with a successful Routine (+20) Willpower Test, although this Test has a cumulative -5 modifier for every dose of the drug the user has taken in the last week. Should the user succeed he can fight off his addiction for the day, but will now suffer a penalty specific to each drug as he goes through withdrawal. These withdrawal effects persist until the addict either gives in and doses up or successfully overcomes his addiction.
+
+Overcoming addiction is deceptively simple: the addict need only avoid the drug in question for a length of time specified in the drug's description, after which it clears his system. This can be accomplished through the user's force of will alone or via physical separation from the drug (a specialised de-tox hospice or a precinct-fort's holding cell being equally effective). Once the requisite period of time has elapsed the user no longer suffers from withdrawal symptoms and can be considered "clean" again. However, recovered addicts can still slip back into the habit quite easily: if he begins using the same drug again in the future, any Willpower Tests to avoid becoming addicted once more suffer a -10 penalty.
+
+| Drugs & Consumables                                                           |        |        |              |
+| ----------------------------------------------------------------------------- | ------ | ------ | ------------ |
+| Name                                                                          | Weight | Cost   | Availability |
+| [[#Amasec]] (bottle)                                                          | 1kg    | 50+    | Scarce       |
+| [[#Attention Spanner (Drug)]]† (dose)                                         | -      | 45     | Rare         |
+| [[#Calmer (Drug)]] (dose)                                                     | -      | 20     | Plentiful    |
+| [[#Combat Ration Pack]] (day)                                                 | 1kg    | 2      | Plentiful    |
+| [[#Long Duration Rations]] (day)                                              | 0.75kg | 5      | Average      |
+| [[#Emergency Ration Pack]] (day)                                              | 0.5kg  | 10     | Common       |
+| [[#De-Tox (Drug)]] (dose)                                                     | -      | 65     | Scarce       |
+| [[#Foodstuffs]] (meal)                                                        | Varies | Varies | Ubiquitous   |
+| [[#Frenzon (Drug)]]† (dose)                                                   | -      | 50     | Rare         |
+| [[#Cold Fire]]† (dose)                                                        | -      | 200    | Very Rare    |
+| [[#Ghostfire Pollen Extract]]† (dose)                                         | -      | 300    | Very Rare    |
+| [[#Halo (Drug)]] (dose)                                                       | -      | 100    | Common       |
+| [[#Kick (Drug)]]† (dose)                                                      | -      | 55     | Average      |
+| [[#Lho-Sticks]]‡ (pack of 20)                                                 | -      | 1      | Abundant     |
+| [[#Obscura (Drug)]] cut‡ (dose)                                               | -      | 20     | Scarce       |
+| [[#Obscura (Drug)]] pure‡ (dose)                                              | -      | 150    | Rare         |
+| [[#Ploin Juice]] (bottle)                                                     | 0.5kg  | 5      | Scarce       |
+| [[#Recaf]] (3 cup thermos)                                                    | 1.5kg  | 3+     | Plentiful    |
+| [[#Rotgut]] (bottle)                                                          | 1kg    | 3+     | Common       |
+| [[#Slaught (Drug)]]† (dose)                                                   | -      | 75     | Scarce       |
+| [[#Spook (Drug)]] (dose)                                                      | -      | 350    | Very Rare    |
+| [[#Spur (Drug)]]†‡ (dose)                                                     | -      | 60     | Scarce       |
+| [[#Stimm (Drug)]]† (dose)                                                     | -      | 20     | Average      |
+| [[#Tranq]] (tankard)                                                          | 0.5kg  | 1      | Abundant     |
+| [[#Truth Serum (Drug)]] (dose)                                                | -      | 130    | Rare         |
+| [[#Wideawake (Drug)]]† (dose)                                                 | -      | 4      | Plentiful    |
+| †A user can develop immunity to this drug; see Building Immunity sidebar      |        |        |              |
+| ‡ This drug is addictive; see Getting Addicted sidebar and drug's description |        |        |              |
+### Amasec
 
 This is a common term for a variety of alcoholic beverages distilled from wines and other fermented fruits - it enjoys an almost universal popularity across the Imperium's civilised worlds. The quality of this drink can vary widely - cheap bottles with watery pink or purple contents can be found in low-hive refectories and are affordably priced, while expensive and rare vintages with sealed corks pour like syrup with a rich, flavourful bouquet and are typically cracked open by toasting nobles at a soiree or Imperial Guard officers commemorating a strategic victory.
 
 More common bottles of amasec may not force the imbiber to make a Carouse Test until two or three drinks have been taken, while the stout and storied vintages can be strongly fortified and may impose a -5 penalty on the imbiber's Tests to remain clearheaded.
 
-#### Attention Spanner (Drug)
+### Attention Spanner (Drug)
 
-Attention Spanner is an unusual substance that is commonly consumed by hard-working adepts and archivists that require a high degree of focus over long periods of time, though it is also more rarely used by artists, writers, tradesmen, and more fleshy members of the Adepts Mechanicus. A dose of attention spanner
-
-| Drugs & Consumables                                                                                                                                       |        |        |              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ------------ |
-| Name                                                                                                                                                      | Weight | Cost   | Availability |
-| Amasec (bottle)                                                                                                                                           | 1kg    | 50+    | Scarce       |
-| Attention Spanner† (dose)                                                                                                                                 | -      | 45     | Rare         |
-| Calmer (dose)                                                                                                                                             | -      | 20     | Plentiful    |
-| Combat Ration Pack (day)                                                                                                                                  | 1kg    | 2      | Plentiful    |
-| Long Duration Rations (day)                                                                                                                               | 0.75kg | 5      | Average      |
-| Emergency Rations (day)                                                                                                                                   | 0.5kg  | 10     | Common       |
-| De-Tox (dose)                                                                                                                                             | -      | 65     | Scarce       |
-| Foodstuffs (meal)                                                                                                                                         | Varies | Varies | Ubiquitous   |
-| Frenzon† (dose)                                                                                                                                           | -      | 50     | Rare         |
-| Cold Fire† (dose)                                                                                                                                         | -      | 200    | Very Rare    |
-| Ghostfire Pollen† (dose)                                                                                                                                  | -      | 300    | Very Rare    |
-| Halo (dose)                                                                                                                                               | -      | 100    | Common       |
-| Kick† (dose)                                                                                                                                              | -      | 55     | Average      |
-| Lho-Sticks‡ (pack of 20)                                                                                                                                  | -      | 1      | Abundant     |
-| Obscura, cut‡ (dose)                                                                                                                                      | -      | 20     | Scarce       |
-| Obscura, pure‡ (dose)                                                                                                                                     | -      | 150    | Rare         |
-| Ploin Juice (bottle)                                                                                                                                      | 0.5kg  | 5      | Scarce       |
-| Recaf (3 cup thermos)                                                                                                                                     | 1.5kg  | 3+     | Plentiful    |
-| Rotgut (bottle)                                                                                                                                           | 1kg    | 3+     | Common       |
-| Slaught† (dose)                                                                                                                                           | -      | 75     | Scarce       |
-| Spook (dose)                                                                                                                                              | -      | 350    | Very Rare    |
-| Spur†‡ (dose)                                                                                                                                             | -      | 60     | Scarce       |
-| Stimm† (dose)                                                                                                                                             | -      | 20     | Average      |
-| Tranq (tankard)                                                                                                                                           | 0.5kg  | 1      | Abundant     |
-| Truth Serum (dose)                                                                                                                                        | -      | 130    | Rare         |
-| Wideawake† (dose)                                                                                                                                         | -      | 4      | Plentiful    |
-| †A user can develop immunity to this drug; see Building Immunity sidebar<br>‡ This drug is addictive; see Getting Addicted sidebar and drug's description |        |        |              |
-
-takes the form of a fine powder contained in a digestible capsule. Once absorbed by the body, attention spanner induces a state of monomania in the subject, giving them an abnormal level of focus and dedication to resolving the current
-
-task. Care must be taken when using attention spanner, however, as the consumer can sometimes find himself zeroing in on something other than his intended task and wasting time until the drug wears off. Outside of certain circles the use of this drug is extremely rare.
+Attention Spanner is an unusual substance that is commonly consumed by hard-working adepts and archivists that require a high degree of focus over long periods of time, though it is also more rarely used by artists, writers, tradesmen, and more fleshy members of the Adepts Mechanicus. A dose of attention spanner takes the form of a fine powder contained in a digestible capsule. Once absorbed by the body, attention spanner induces a state of monomania in the subject, giving them an abnormal level of focus and dedication to resolving the current task. Care must be taken when using attention spanner, however, as the consumer can sometimes find himself zeroing in on something other than his intended task and wasting time until the drug wears off. Outside of certain circles the use of this drug is extremely rare.
 
 Attention spanner takes effect after about 20 minutes if swallowed. The consumer can also chose to break open the capsule and inhale its contents, in which case the drug becomes effective in 1d5 Rounds. The consumer must pass an Ordinary (+10) Willpower Test if the capsule was swallowed or a Difficult (-10) Willpower Test if inhaled for the drug to function properly. If successful, the consumer gains a +30 bonus to any Intelligence-based Tests for the next 1d5+3 hours, but also suffers a -20 penalty to any Perception-based Tests due to his fixation on the subjects at hand. Should the consumer fail his Willpower Test, the drug still takes effect, but the consumer runs the risk of being too distracted to actually focus on his tasks. The consumer must make a Challenging (+0) Perception Test (including the drug's penalty) every 30 minutes until the drug wears off. Success indicates that the consumer was able to concentrate on his work and suffers no further ill effects. Failure, meanwhile, has him become distracted by any sort of diversion available, causing him to take a -20 penalty on all Tests until he succeeds on a subsequent Perception Test or the drug's effects expire.
 
-#### Calmer (Drug)
+### Calmer (Drug)
 
 These sedative capsules are thought of as being the purview of voidsick pilgrims and shellshocked Guardsmen, but anyone suffering from the after-effects of severe trauma can benefit from their soothing effect. Therapeutic in nature, calmers can be especially helpful in preventing a mental breakdown or psychotic episode in those that have had horrifying experiences, such as witnessing a hive blackout, being trapped in a manufactorum fire, or encountering a ravenous beast that's crawled up from the underhive - even members of the Inquisition have taken up the habit of suppressing unpleasant encounters, though few would admit it. Calmers are affordably priced but are still beyond the reach of especially poor and destitute citizens who must try and make due with their personal hauntings, sometimes with very unfortunate effects.
 
 A dose of calmers takes about 20 minutes before it becomes effective. Once ingested, calmers impose a -20 penalty to the character's Perception and a -5 penalty to their Initiative (minimum 1) for 1d10+5 hours due to the drug's highly allaying qualities. The character may ignore the effects of any Minor mental disorders during this time. Further, if the character is suffering from any Mental Traumas, reduce the result on Table 6-8: Mental Traumas by 30 for the duration of the drug's effect.
 
-#### Combat Ration Pack
+### Combat Ration Pack
 
 A variety of Munitorum-approved rations are produced in vast quantities by agri-worlds throughout the Imperium to create a steady supply of food for soldiers of the Imperial Guard as well as mobilized PDF regiments and other military-style outfits. A combat ration pack typically takes the form of a metallic pouch that can be stuffed into a backpack or cargo pocket (such as are commonly found on infantry fatigues) which is hermetically sealed and waterproof - each contains a mixture of preserved foodstuffs that can sustain one man for a day. Common items include a variety of synth-crackers and cakes, tubes or cans of spreadable protein, and condensed soup blocks designed to be dumped into hot water. Because of their heavily processed and synthesized nature a ration pack's contents are typically bland or have a half-hearted attempt at flavour, and it is common for deployed Guardsmen to try and scrounge up anything available to make the rations more palatable. Ration packs will also contain smaller but equally useful sundries, including vitamin supplements, water purification tabs, salt, and antiseptic gum (to prevent tooth decay). Officially known as "readyto-eat" meals, some types of ration packs have derisively been referred to as "refusing to exit" by their consumers as they tend to cause constipation with extended use. While nominally intended for use in military operations, combat ration packs can often be found for sale in goods stores and by other second-hand peddlers for use by travellers, reclamators, explorers, and anyone else who needs storable food that can also be transported easily. Many of these packs are beyond their marked expiration date, but the food inside never seems to actually go bad.
 
-Long Duration Ration Pack: This variety of ration is intended for use by troops that must march long distances as well as scout and commando teams as it contains a correspondingly higher caloric content. Highly condensed protein bars replace some of the spreadable pastes, while the soldier is expected to spike his canteens with packets of carb powder that also contain a variety of stimulants. These additions do little to improve the taste of the ration, but their nutritional benefits are sorely appreciated by soldiers who would go hungry using standard packs, and the amount of food energy in proportion to the mass of the ration itself is incredibly good.
+#### Long Duration Ration Pack
 
-Emergency Ration Pack: Both durable and storable to a point, emergency rations are intended not to be consumed except in a serious situation and are typically stored away within compartments in flyers, wastes-trawling macro haulers, and combat vehicles. Emergency rations typically contain dehydrated and highly compacted cubes of starch, fat, meat or vegetable extracts, synth-stock, and so forth. Should a crash survivor or lost traveller require their aid, the rations are intended to be broken up into hot water to form a soup or broth, which can sustain the consumer for quite a while - assuming they have a source of water available, of course. Most emergency rations also contain purification tabs for this purpose, though this may be of little aid to a marooned party in an arid desert.
+This variety of ration is intended for use by troops that must march long distances as well as scout and commando teams as it contains a correspondingly higher caloric content. Highly condensed protein bars replace some of the spreadable pastes, while the soldier is expected to spike his canteens with packets of carb powder that also contain a variety of stimulants. These additions do little to improve the taste of the ration, but their nutritional benefits are sorely appreciated by soldiers who would go hungry using standard packs, and the amount of food energy in proportion to the mass of the ration itself is incredibly good.
 
-#### De-Tox (Drug)
+#### Emergency Ration Pack
+
+Both durable and storable to a point, emergency rations are intended not to be consumed except in a serious situation and are typically stored away within compartments in flyers, wastes-trawling macro haulers, and combat vehicles. Emergency rations typically contain dehydrated and highly compacted cubes of starch, fat, meat or vegetable extracts, synth-stock, and so forth. Should a crash survivor or lost traveller require their aid, the rations are intended to be broken up into hot water to form a soup or broth, which can sustain the consumer for quite a while - assuming they have a source of water available, of course. Most emergency rations also contain purification tabs for this purpose, though this may be of little aid to a marooned party in an arid desert.
+
+### De-Tox (Drug)
 
 De-Tox is the common term for a biologically reactive compound that is intended for emergency use in saving the life of a poisoned or overdosed victim. Packaged in a small disposable injector unit, de-tox causes the consumer to violently wretch and cough, expelling whatever might currently be inhabiting their stomach, lungs, and bowels as well. The experience is singularly unpleasant, but is certainly preferable (in the eyes of most, anyway) to a painful death from tainted food, drug overdose, or noxious fumes. De-tox is effective at stopping common forms of toxins as well as the life-threatening effects of drug overdoses or alcohol poisoning, but likely will not be enough to save a victim who has inhaled a militarized chemical weapon or been hit by a needle rifle's deadly payload.
 
-A dose of de-tox ends the ongoing effects of any drugs and most other ingested substances one Round after it has been administered. The character is Stunned for 2d5 Rounds as the detox forces his body to purge out the harmful contents (among other things). A conscious character can attempt to resist this effect and reduce the duration by a number of Rounds equal to his Toughness Bonus, but if this
+A dose of de-tox ends the ongoing effects of any drugs and most other ingested substances one Round after it has been administered. The character is Stunned for 2d5 Rounds as the detox forces his body to purge out the harmful contents (among other things). A conscious character can attempt to resist this effect and reduce the duration by a number of Rounds equal to his Toughness Bonus, but if this produces a result of zero or less then the character also resists the beneficial effects of the de-tox as well!
 
 | Common Foodstuffs                                                                                                           |      |              |
 | --------------------------------------------------------------------------------------------------------------------------- | ---- | ------------ |
@@ -420,31 +420,30 @@ A dose of de-tox ends the ongoing effects of any drugs and most other ingested s
 | Extravagant (fresh fruit, Turian wasp honey, grazer steak, aged cheese, digestive-aid scone, vintage amasec)                | 50   | Scarce       |
 | Depending on the world, culture, and general living expenses, the given cost may be for a single meal or a full day's board |      |              |
 
-produces a result of zero or less then the character also resists the beneficial effects of the de-tox as well!
-
-#### Foodstuffs
+### Fonodstuffs
 
 Barring a few exceptions, one thing all men have in common is a necessity to eat. The types of food consumed throughout the Imperium are heavily dependent on both the type of world and the individual's social class, with those having greater income having access to the best eats. Drudging labourers and manufactorum workers in the low hives typically subside off of heavily processed and synthesized food which may or may not actually resemble anything edible corpse starch, cultured algae, parboiled fungus, protein pastes, and so forth. Adepts, domestic workers, traders, and others who ply their labours in the mid-hive might subside off of flavoured Grox strips and fortified slurry-drinks, while the nobles in the spires above have access to the finest cultivated grazer meat, purified mineral water, and fleshy rehydrated vegetables. Paradoxically, those plebian labourers who toil away on agri-worlds tend to have access to some of the freshest fare, as the produce and meat has yet to reach the monstrous processing plants that renders it into goods that will survive the trip to nearby worlds.
 
-#### Frenzon (Drug)
+### Frenzon (Drug)
 
 Unquestionably the top tier of combat drugs, frenzon sends the consumer into a violent rage, making him a fanatical and fearless warrior who seeks only the destruction of his enemies. It is commonly used in military situations, especially among penal legions, where it has an infamous reputation due to the use of remote-controlled autoinjectors meant to "motivate" the dour legionnaires. Other users include high-rent mercenaries, bloodspot fighters, and ganger heavies that want to "feel the rush" while smashing some victim's head against the rockcrete. Frenzon is always used with an injector so as to provide immediate results.
 
 A character using frenzon enters into a rage one Round later as if he had the Frenzy talent, gaining all the benefits and penalties associated with being frenzied. This effect lasts for 1d5+5 minutes and may not be voluntarily ended by the consumer short of using de-tox or some similar effect.
 
-Cold Fire: Sometimes known as "noble's frenzon", this more costly drug is laced with antipsychotics and tranquilizers that help balance out some of the less desirable effects of frenzon. The much shorter duration makes it suitable for duellists and participants of combat sports, but any user who happens to be in a fight could benefit from the better control that cold fire offers.
+#### Cold Fire
+
+Sometimes known as "noble's frenzon", this more costly drug is laced with antipsychotics and tranquilizers that help balance out some of the less desirable effects of frenzon. The much shorter duration makes it suitable for duellists and participants of combat sports, but any user who happens to be in a fight could benefit from the better control that cold fire offers.
 
 This drug duplicates the primary effects of frenzon, but the effect lasts 3d10 Rounds, and the character also gains the benefits of the Battle Rage Talent as well.
 
-Ghostfire Pollen Extract: Ghostfire pollen, native to the feudal world Iocanthus, is used as the main ingredient of frenzon in the Calixis Sector. The drug is produced through a variety of distillation and moderating procedures - the pollen itself is a fairly small portion of the final product. However, exceptionally motivated - or irrational - warriors have been known to inject pure pollen extract directly, which sends them into a frothing berserker state that makes a user of "common" frenzon look mildly disgruntled in comparison. The use of ghostfire pollen is strictly forbidden in the Imperial Guard and most planetary militias as it is considered far too great of a risk to the user - which, considering the dangers of a battlefield, should be a suitable warning as to its capabilities.
+#### Ghostfire Pollen Extract
+
+Ghostfire pollen, native to the feudal world Iocanthus, is used as the main ingredient of frenzon in the Calixis Sector. The drug is produced through a variety of distillation and moderating procedures - the pollen itself is a fairly small portion of the final product. However, exceptionally motivated - or irrational - warriors have been known to inject pure pollen extract directly, which sends them into a frothing berserker state that makes a user of "common" frenzon look mildly disgruntled in comparison. The use of ghostfire pollen is strictly forbidden in the Imperial Guard and most planetary militias as it is considered far too great of a risk to the user - which, considering the dangers of a battlefield, should be a suitable warning as to its capabilities.
 
 A character who uses ghostfire pollen extract immediately falls under its effects, gaining all the benefits and penalties of the Frenzy talent along with the Unnatural Strength (x2) and Unnatural Agility (x2) traits. However, the user also takes 1 point of Damage (which ignores Armour and Toughness) due to system shock as the pollen takes over and the user begins to sweat blood. Should the user kill all enemies before the drug's effect wears off he must then attack any nearby characters or creatures, possibly including his allies. In absence of any other potential character or creature to attack the frenzied character must then assault any nearby objects (trees, rocks, walls, and so forth) until the drug's effects wear off. A dose of ghostfire pollen lasts for 2d10+5 minutes. If the character spends more than 10 minutes under the effects of ghostfire pollen, he must pass a Challenging (+0) Toughness Test once it wears off or gain a level of Fatigue as massive overexertion takes its toll.
 
-### BUILDING IMMUNITY
 
-Some drugs, especially those that profoundly affect the user's physiology, can quickly cause the user to develop an immunity to their effects. If an Acolyte takes more than one dose of a drug that is subject to immunity within a 24 hour period he must make a Challenging (+0) Toughness Test. Success indicates the drug has the desired effect, while failure causes the Acolyte's body to reject the substance. Subsequent use of the same drug during any 24 hour period forces a cumulative increase in the difficulty in the Toughness Test, regardless of whether or not the previous Test was a success (a third dose would force a Difficult (-10) Toughness Test, while a fourth would force a Hard (-20) Toughness Test, and so on).
-
-#### Halo (Drug)
+### Halo (Drug)
 
 This drug induces a mild state of psychosis in the user - the effects are similar to a highly diluted dose of frenzon, though the stuff takes far longer to break down once in the bloodstream. Most believe that halo was originally developed for use in penal legions of the Imperial Guard, but its use is surprisingly widespread among a variety of worlds and social classes - the only constant is that the user desires a bit of fortification against a particularly unpleasant stimulus. A character under the effects of halo finds long vertical drops, narrow passages full of skittering vermin, enemy bunkers, and possibly even ominous stacks of paper- and slatework to be somewhat less frightening than before, though this suppression of natural repulsive emotions does tend to make the user somewhat less alert as a result.
 
@@ -464,129 +463,111 @@ Smoking a lho-stick puts the user in a mildly relaxed state for about an hour. N
 
 Lho-stick smoking is addictive, but getting hooked usually takes several months of regular use. A character is more likely to enter play already addicted to lho-sticks, or the GM may adjudicate a smoking character becoming addicted over the course of a campaign. Once addicted, the user suffers a -5 penalty to Agility and Fellowship-based Skill Tests on any day in which he hasn't smoked at least 1d5 lho-sticks. It takes two weeks of abstinence for a character to overcome a lho-stick addiction.
 
-#### Obscura (Drug)
+### Obscura (Drug)
 
 Though almost universally proscribed and the subject of enforcer crackdowns, this drug is nearly as widespread as it is potent. Obscura induces a peaceful dream-like state in the user that can last anywhere from a few hours to all day depending on the purity of the substance, but tends to leave the user feeling deeply depressed or despondent once the drug wears off. Whether this is a chemical reaction of the drug itself or simply the user suffering from being returned to reality is a subject of fierce debate. Obscura comes in a variety of forms, all of which have strongly addictive qualities. The crystallized powder is typically smoked or inhaled into the nostrils, but users wanting a more intense effect will often use organic acids to distil the powder into a condensed liquid and inject it directly into the bloodstream. Though relatively inexpensive to manufacture, the "street price" tends to have a massive mark-up due to its illegality. The producers, smugglers, and dealers who supply the stuff can make a very comfortable living off of their addicted clients, though the risk of an enforcer - or worse, Arbitrator - kill team kicking down the door is a constant companion.
 
 A dose of obscura sends the user into a euphoric trance filled with pleasant visions; cut obscura lasts for 1d5 hours, while the pure drug lasts for an additional 5 hours. While under its effects the character suffers a -20 penalty to any Perception, Intelligence, or Willpower-based Tests, but is also considered to have the Fearless talent as they are unable to actually rationalise danger or peril. Once the drug wears off the user suffers a -10 penalty to his Willpower and Toughness for the next 1d10 hours as he goes through a general malaise unless another dose of obscura is taken. Using de-tox will end the primary effects of obscura but cannot nullify its secondary consequences.
 
-A character who takes three or more doses of cut obscura in a weeklong period must pass a Difficult (-10) Willpower Test or become addicted; if using pure obscura, the Test becomes Hard (-20) instead. Once addicted, the user starts each day with one level of Fatigue that can only be removed by taking a dose. It takes three weeks of abstinence to overcome an obscura addiction.
+A character who takes three or more doses of cut obscura in a week long period must pass a Difficult (-10) Willpower Test or become addicted; if using pure obscura, the Test becomes Hard (-20) instead. Once addicted, the user starts each day with one level of Fatigue that can only be removed by taking a dose. It takes three weeks of abstinence to overcome an obscura addiction.
 
-#### Ploin Juice
+### Ploin Juice
 
 Juice from the ploin fruit, which grows like a weed on some worlds in the Calixis Sector, is an almost ubiquitous drink for voidfarers and explorers as the oddly-shaped fruit itself never seems to become rotten. Though mild in flavour, ploin juice contains a variety of minerals and vitamins that are often sorely lacking in cheap shipboard rations. That it combats common void illnesses while also possessing an extreme longevity is viewed as something of a miracle by seasoned void-masters and ratings alike, and many discharged crewmen have often settled for good near starports and shipyards simply so they have ready access to more of the stuff. "Flatlanders" who choose to try ploin juice are often baffled as to its nearly religious appeal among voidfarers as it is something of an acquired taste.
 
-#### Recaf
+### Recaf
 
 Recaf is a popular hot beverage that exists in many permutations throughout the Imperium the only universal constant is that is tends to contain a mild stimulant such as caffeine or pharamoxine. Crushed and cured leaves from certain plants are the most common variety, but baked or roasted seeds ground into powder and brewed can be found on most worlds as well. Varying grades of recaf exist and virtually all levels of Imperial society take part in it, whether from simple tin mugs or elegant ceramic cups.
 
-#### Rotgut
+### Rotgut
 
 This catch-all term covers a broad array of cheap brewed or malted alcoholic drinks commonly consumed by labourers, soldiers, and other members of the lower classes of Imperial society, though only a few ironic brands would actually describe their product as such. Most rotgut tends to be produced in vast quantities by the same megaguilds and agri-trusts that supply the Calixis Sector's hive worlds with processed foodstuffs - pilgrims and travellers can often take a small amount of solace when stepping onto a new world that the same drink they've had on their homeworld will likely be available at their present destination. A minority come from smaller brew-plants and houses which are often endemic to a single world or region, some of which is surprisingly tolerable. Though considered something of a social blunder, a few labels are even enjoyed by Malfian hive nobles, and the trend is beginning to appear within exclusive circles on Scintilla as well.
 
-#### Slaught (Drug)
+### Slaught (Drug)
 
 Short for "onslaught", this drug powerfully affects the consumer's nervous and respiratory system, making them both physically and mentally faster. Slaught is most commonly used in military situations where a final push or fierce attack is about to be launched - troops under its effect can cross enemy kill zones and other types of "no man's land" much quicker, giving them a better chance of making it to their objective and unleashing the Emperor's fury upon the enemy. Extended use of slaught can badly overtax the consumer's vital humours and innards, often resulting in nerve damage or growth of tumours. Most commanders will not issue it regularly for this reason, although depending on the conflict, a Guardsman could well have much bigger things to worry about than possible long-term consequences. Its use outside of the Imperial Guard and other armed forces is fairly rare. Slaught can be ingested or injected directly into the bloodstream - injecting it results in more immediate effect but tends to have worse side effects once the drug runs its course.
 
 Slaught takes one minute to become effective after being ingested. If injected instead the drug takes only one Round to take effect. Regardless of how it is taken, a dose of slaught increases the user's Agility and Perception by +30 for 3d10 Rounds, during which time the user feels extraordinarily jumpy and restless if he isn't engaged in some type of physical activity. Once the drug wears off the user must make a Challenging (+0) Toughness Test or suffer a level of Fatigue as his body catches up with the drug's effects and leaves him exhausted. If the character injected slaught the difficulty of the Test becomes Difficult (-10) with failure inflicting 1d5 levels of Fatigue. Failure by three or more degrees also reduces the user's Agility by 1d5 points - if the user injected slaught, this Characteristic Damage is permanent.
 
-#### Spook (Drug)
+### Spook (Drug)
 
 Spook is an incredibly unusual drug that fills the user with strange visions of heightened perception, ultimate power, or some other such delusion. However, this is no mere hallucination - spook actually enables the user to manifest a limited form of psychic energy, which can be extremely useful (or extremely dangerous...) in the right situation. Spook is derived from rare mutagenic substances that can sometimes be found naturally amassing in the lowest depths of Imperial hive cities. These sickly-looking greenish puddles, typically sprouting luminescent fungi, contain a vast concentration of human protein - likely the result of waste and effluent from above as well as the decaying remains of underhivers, mutants, and even more unspeakable things congealing together. It is thought that the presence of this human genetic material in such a condensed form is what causes the drug's psy-reactive effect, but the exact method of action remains a mystery. Regardless of how the stuff comes to be, it is an incredibly feared and reviled substance that is almost universally proscribed across the breadth of the Imperium. The enforcer crackdowns that target the makers and distributors of spook more closely resemble military offensives than ganger busts, which all but ensures a high price for the drug - and a veritable fortune to be made for those with the guile and conniving to partake in its trade. Only a few, however, are cunning or lucky enough to outlive their ill-gotten wealth.
 
 Spook takes effect immediately as soon as it touches the user's lips, and has markedly different effects based on whether a character has a Psy Rating or not. A user without a Psy Rating must make a Challenging (+0) Willpower Test - failure indicates that the drug is unable to find the user's "psychic mind" and simply bestows terrible, nightmarish visions instead, inflicting 1d5 Insanity Points in the process. Should the character succeed he gains a random psychic power (see Table 5-15 on page 149 of _Dark Heresy_). If the character succeeds by two or more degrees, the character may instead simply gain a single minor psychic power of his choice. The character has access to the power for a number of hours equal to his Willpower Bonus and manifests it by succeeding on another Willpower Test.
 
-If the user happens to be a psyker - in other words, has a Psy Rating - they must also make a Challenging (+0) Willpower Test as they take the dose. Success adds 2 to all Power Rolls for a
+If the user happens to be a psyker - in other words, has a Psy Rating - they must also make a Challenging (+0) Willpower Test as they take the dose. Success adds 2 to all Power Rolls for a number of hours equal to the psyker's Willpower Bonus, while failure causes the psyker to gain a single Insanity Point as they are subjected to some of the same horrible sights that the nonpsyker would. Regardless of success or failure, add +20 to any rolls made on the Psychic Phenomena table; this secondary effect lasts until the drug runs its course, even if the psyker failed his Willpower Test.
 
-number of hours equal to the psyker's Willpower Bonus, while failure causes the psyker to gain a single Insanity Point as they are subjected to some of the same horrible sights that the nonpsyker would. Regardless of success or failure, add +20 to any rolls made on the Psychic Phenomena table; this secondary effect lasts until the drug runs its course, even if the psyker failed his Willpower Test.
-
-#### Spur (Drug)
+### Spur (Drug)
 
 This drug is most commonly used by unsavoury types who earn their keep through violence. It is highly unusual in its method of action in that the initial effect is delayed - the strong stimulants and proteins remain inert in the user's bloodstream until they are activated by adrenaline, at which time the user is hit by an abrupt rush of energy and vigour. Because of these qualities, a user can "dose up" in anticipation of a fight, saving them from fumbling with an injector or skin patch while a foe is drawing weapons. A spur user can endure almost any pain or injury, fighting through wounds or exhaustion that would leave an unassisted man on the ground wheezing for mercy. Twitchy, paranoid, and shockingly difficult to subdue short of a shotgun blast to the head, spur addicts are especially despised by most enforcers.
 
 A dose of spur takes one Round to become active, but it does not actually take effect until the user becomes engaged in combat. Spur can remain in the user's body for up to 10 hours - if the user does not engage in combat during this time the drug dissipates and another dose must be taken in order to gain its effects. Once a character enters into combat (rolls Initiative or Surprises an enemy) the drug becomes effective for 2d10 minutes. A character under the effect of spur cannot be Stunned or take any levels of Fatigue while the drug is effective. Once the effect ends the user suffers a -20 penalty to any Toughness- or Agility-based Tests for one hour. The user also gains one level of Fatigue for every two levels that he ignored due to taking spur (if the character ignored one level of Fatigue then he takes none when the spur wears off).
 
-Taking more than four doses of spur in a weeklong period can cause addiction - the character must succeed on a Hard (-20) Willpower Test to fight it off. A spur addict suffers from deranged paranoia, compulsively dosing up every day out of fear that he will be caught in a battle without it. On any day in which the addict doesn't take a dose he gains a +10 bonus to Perception-based Tests, but also reduces his Intelligence, Willpower, and Fellowship Characteristics by 10; additionally, if
+Taking more than four doses of spur in a weeklong period can cause addiction - the character must succeed on a Hard (-20) Willpower Test to fight it off. A spur addict suffers from deranged paranoia, compulsively dosing up every day out of fear that he will be caught in a battle without it. On any day in which the addict doesn't take a dose he gains a +10 bonus to Perception-based Tests, but also reduces his Intelligence, Willpower, and Fellowship Characteristics by 10; additionally, if another character or creature startles or surprises the withdrawing addict he must make an Ordinary (+10) Willpower Test. With success, the addict may act normally – failure causes him to either reflexively attack whatever startled him, or treat it as though it had a Fear Rating of 3 for the next 1d5 rounds (addict's choice). It takes three weeks of abstinence to overcome a spur addiction.
 
-### GETTING ADDICTED
-
-While any stimulating or allaying substance could be potentially habit-forming, some are so compelling that their users cannot help but want more and will often go to great lengths to satiate their need. Those of strong will may withstand these temptations, at least for a time, but chronic use can erode and debase even the most stalwart of hearts and minds.
-
-Even the most cloying or pernicious narcotics can usually be taken from time to time with minimal risk of becoming an addict. Especially addictive drugs will specify a certain number of doses which, if taken over a certain timeframe, can "hook" the user. The user must then make a Willpower Test, with failure indicating the user has become addicted to the drug in question.
-
-An addict generally feels compelled to consume at least one dose of their drug per day; the addict can resist this urge with a successful Routine (+20) Willpower Test, although this Test has a cumulative -5 modifier for every dose of the drug the user has taken in the last week. Should the user succeed he can fight off his addiction for the day, but will now suffer a penalty specific to each drug as he goes through withdrawal. These withdrawal effects persist until the addict either gives in and doses up or successfully overcomes his addiction.
-
-Overcoming addiction is deceptively simple: the addict need only avoid the drug in question for a length of time specified in the drug's description, after which it clears his system. This can be accomplished through the user's force of will alone or via physical separation from the drug (a specialised de-tox hospice or a precinct-fort's holding cell being equally effective). Once the requisite period of time has elapsed the user no longer suffers from withdrawal symptoms and can be considered "clean" again. However, recovered addicts can still slip back into the habit quite easily: if he begins using the same drug again in the future, any Willpower Tests to avoid becoming addicted once more suffer a -10 penalty.
-
-another character or creature startles or surprises the withdrawing addict he must make an Ordinary (+10) Willpower Test. With success, the addict may act normally – failure causes him to either reflexively attack whatever startled him, or treat it as though it had a Fear Rating of 3 for the next 1d5 rounds (addict's choice). It takes three weeks of abstinence to overcome a spur addiction.
-
-#### Stimm (Drug)
+### Stimm (Drug)
 
 Stimm is a generic term for a voluminous amount of fast-acting drugs that are meant to suppress pain and invigorate the user, allowing him to fight on (or flee faster...) in spite of terrible wounds or crushing exhaustion. Stimm is most commonly encountered in military situations, but anyone who fights for a living would be well served to have a stimm or two on their person, and they are an integral part of any field medikit. A stimm's effect is short-lived, but being able to move when a victim would ordinarily be consigned to a slow death on the ground has no doubt spared innumerable souls from an early reunion with the God-Emperor.
 
 Stimm takes effect immediately and lasts for 3d10 Rounds. During this time the user cannot be Stunned or knocked unconscious and ignores the negative effects of Fatigue. Should the character have suffered Critical Damage, a dose of stimm allows him to ignore any negative effects to his physical Characteristics, though broken and lost limbs or blinded eyes are still just as useless.
 
-#### Tranq
+### Tranq
 
 An unusual type of booze to say the least, this brew (if it can be called as such) is indigenous to the low hives of worlds in the Golgenna Reach, but press-ganged ratings and hard-nosed security proctors aboard voidships have spread it throughout the Calixis Sector. The exact method of preparation varies from recipe to recipe, but all involve a variety of chemical distillates being mixed and prepared into a drink that produces a feeling of numbing relaxation which lasts for hours. This tranquilising effect, which begets the stuff's name, is a welcome escape for many who eek out a paltry existence doing drudging work, though those who are used to the drunkenness that amasec or rotgut creates have referred to tranq's own inebriation as being remarkably depressing. The flavour varies widely depending on its individual constitution, with a few being regarded as "not disagreeable".
 
-#### Truth Serum (Drug)
+### Truth Serum (Drug)
 
 Often regarded as an indispensible tool by enforcer cadres, Arbitrators, and even agents of the Holy Ordos, truth serums are a wide array of drugs and draughts that are designed to make a subject more compliant to questioning and inquiry. Most types of truth serum will typically work by depressing the resistive areas of the user's mind, loosening their grip on things that they might ordinarily be very inclined to keep private. Though very effective at making the mind more docile, truth serum can also cause the user to ramble and divulge all kinds of information which, while truthful, may not be of any actual use to their questioner. This particular effect does much to offset the view of a novice interrogator that a truth serum is a sort of panacea to any kind of closely guarded secret; most take quickly to heart the strengths and limitations of such methods after tediously sitting through hours upon hours of inane prattle by heavily drugged-up subjects. Truth serum is known by a variety of names in various circles; the Inquisition and Adeptus Arbites often refers to these types of drugs as "The Truth Revealed", while Scintillan enforcers are more likely to call it "Verity". Among gangers and lowhive scum, the common names are notably more callous and vulgar.
 
 Truth serums of all types must be injected into the subject and become effective after 2d10 minutes. The drug remains in the subject's body for 3d5 hours minus a number of hours equal to the suject's Toughness Bonus (minimum 0). During this time, the subject takes a -30 penalty to all Tests made to resist Interrogation Tests being made against them. However, the interrogator also suffers a -10 penalty to their Interrogation Tests to sort out the useless babble from the information they're actually looking for. If the subject also has the Blather Talent, this penalty increases to -20. If the interrogator uses the Inquiry Skill instead of Interrogation (see Lines of Inquiry on page 232 of _The Inquisitor's Handbook_), the subject's penalty to resisting the interrogation increases to -50, the serum leaving them much more pliant to this form of verbal explication.
 
-#### Wideawake (Drug)
+### Wideawake (Drug)
 
 Wideawake, as the name implies, is intended to ward off feelings of sleepiness in those who keep long hours. This drug is composed of longacting psychostimulants compressed into small tablets that break down slowly once ingested, providing a feeling of alertness and focus that is normally lost once the wearer begins to suffer from sleep deprivation. Though effective, it is a cheap substance designed for the masses, so its effects are limited in situations more stressful than running an all-night watch or heavy cogitator manipulation. The tablets themselves are typically found in small sealed packets that can be easily stuffed into a pocket or bag, and are so ubiquitous in certain lines of work that automat machines which usually stock cheap foodstuffs and refreshments can dispense the little plastek packets too.
 
 A dose of wideawake takes 20 minutes to become effective and lasts for 2d5 hours. During this time the character can ignore the effects of Fatigue on his mental Characteristics (Intelligence, Perception, Willpower, and Fellowship), though taking too many levels of Fatigue will still result in unconsciousness. When the drug wears off the character gains a level of Fatigue as the over-worked portions of his mind begin to demand rest; note that this can push an already-exhausted user into unconsciousness, as more than a few adepts have learned after waking up at their stations with a runeboard's tactiles temporarily embedded in their faces.
 
-## Frontier Consumables
+### Frontier Consumables
 
-Those travelling to the undeveloped fringes of the Calixis Sector - missionaries, explorers, huntsmen, mercenaries, and so forth - will typically find a whole new spectrum of things to eat and drink, some of which may even be palatable. Worlds that are largely untouched by the sprawling domestic industries of Imperial society typically have extremely insular culture and this extends to all matters of consumables, making each new world an explorer happens to set foot on likely more bizarre than the last. This section highlights some of the more unusual examples that can be found on the lessdeveloped worlds of the Sector.
+Those travelling to the undeveloped fringes of the Calixis Sector - missionaries, explorers, huntsmen, mercenaries, and so forth - will typically find a whole new spectrum of things to eat and drink, some of which may even be palatable. Worlds that are largely untouched by the sprawling domestic industries of Imperial society typically have extremely insular culture and this extends to all matters of consumables, making each new world an explorer happens to set foot on likely more bizarre than the last. This section highlights some of the more unusual examples that can be found on the less developed worlds of the Sector.
 
 Note that the Availability of any consumable whose name lists it as being found on certain worlds only applies on that same world - it may be much rarer or totally nonexistent elsewhere.
 
 | Frontier Consumables                                                         |        |      |              |
 | ---------------------------------------------------------------------------- | ------ | ---- | ------------ |
 | Name                                                                         | Wt     | Cost | Availability |
-| Belly-Churn (pouch)                                                          | 1kg    | 10   | Average      |
-| Dryas (dose)                                                                 | -      | 50   | Rare         |
-| Ration Grubs (day)                                                           | -      | 15   | Average      |
-| Sleep Dust (dose)                                                            | 0.25kg | 100  | Rare         |
-| Sour Mud† (dose)                                                             | 3kg    | 45   | Scarce       |
-| Spirit Tonic† (dose)                                                         | 0.1kg  | 12   | Common       |
-| Styger Milk† (bottle)                                                        | 1kg    | 75   | Very Rare    |
+| [[#Belly-Churn]] (pouch)                                                     | 1kg    | 10   | Average      |
+| [[#Dryas (Drug)]] (dose)                                                     | -      | 50   | Rare         |
+| [[#Ration Grubs]] (day)                                                      | -      | 15   | Average      |
+| [[#Sleep Dust (Drug)]](dose)                                                 | 0.25kg | 100  | Rare         |
+| [[#Endrite Sour Mud]]† (dose)                                                | 3kg    | 45   | Scarce       |
+| [[#Munsk Spirit Tonic (Drug?)]]† (dose)                                      | 0.1kg  | 12   | Common       |
+| [[#Fervious Styger Milk]]† (bottle)                                          | 1kg    | 75   | Very Rare    |
 | †This consumable is typically only found on worlds listed in its description |        |      |              |
 
-### Belly-Churn
+#### Belly-Churn
 
 This is a staple of nomadic riders that inhabit worlds like Balecaster and Fervious. The food gets its name from the use of a slain animal's stomach as part of the preparation. The organ is removed and washed out, then filled with milk and sewn shut so it curdles during the natural movement of the stomach when slung over a trotting mount. If it is allowed to develop long enough - which is sometimes not an option if the nomads can't find more sources of fresh food the cheese within becomes a true delicacy that is highly nutritious and keeps for a surprisingly long time. Even some off-world explorers and Imperial missionaries have commented that the belly-churn's final product is surprisingly tasty.
 
-## Dryas (Drug)
+#### Dryas (Drug)
 
 Dryas is a compound that is derived from desert-dwelling reptiles native to the agri-world Dreah. These skittish creatures have an incredible resilience to the arid environment in which they inhabit, and it is said that consuming one can sustain a lost traveller in the desert for days. Mechanicus explorators have, at great effort, discovered a method to derive an extract from the Drean fauna that provides similar effects without the need to chase one down and eat it. A dose of dryas causes sharp though temporary changes in the user's biochemistry, allowing them to survive with a drastically lower water intake and making them less susceptible to death from heat exhaustion. There are some undesirable side-effects, however, which include degraded senses and a nauseating sense of weakness. Few would willingly take dryas unless the alternative is a slow demise.
 
 A dose of dryas takes about an hour to become effective and lasts for 1d10 days minus the user's Toughness Bonus (minimum 3). During that time the user gains a +20 bonus to any Survival Tests made to withstand arid conditions and needs only half as much his usual water intake. However, the drug's lassitude imparts a -10 penalty to any Strength- and Perception-based Tests the user might undertake, and also reduces the user's Fellowship by 1d5 points due to his slurred speech and absent manner.
 
-## Ration Grubs
+#### Ration Grubs
 
 A native fauna of the infamous death world Dusk, these small and wiggly larvae have an incredible nutritional content that puts even the best-engineered of high-energy rations to shame. It is unknown who first attempted to voluntarily eat one of lanet's well-known e to human life of the Ad eir va bs lo a Dusk's insects, giving that p reputation for being hostil , but once representatives eptus Mechanicus became aware of th lue a thriving industry in harvesting the gru b ssomed there. Once preserved through special freeze-drying process, the so-called ration grubs will keep for years without losing any nutritional value. Just one of these thumbsized creatures can sustain a grown man for an entire day regardless of his level of physical activity, essentially making it the ultimate in light-travelling sustenance. The flavour, however, is unspeakably bad, leading to some quips that the Dusk-born creature is at least lethal to one's appetite. Aside from the taste, it is known that the grubs mature into a sinister winged insect with a deadly sting - residual toxicity in the grub's flesh probably makes it a poor choice for long-term consumption.
 
-#### S leep Dust (Drug)
+#### Sleep Dust (Drug)
 
-common red-and-black flower into a fine duces a substance with profoundly soporific quali A str hif er s, while in tion o gestio stuff will drop a fully grown man of average constitution in sen ing them off into a ul sleep fo ours. O the d rs off character will likely awaken (unless seriously At some point in the recent past, native apothecaries from Zillman's Domain discovered - quite by accident - that crushing the seeds of a powder pro ties. ong w f can flutt eyelid hala r in n of the minutes, d restf r h nce ust wea the
+At some point in the recent past, native apothecaries from Zillman's Domain discovered - quite by accident - that crushing the seeds of a common red-and-black flower into a fine powder produces a substance with profoundly soporific qualities. A strong whiff can flutter eyelids, while inhalation or  ingestion stuff will drop a fully grown man of average constitution in minutes, sending them off into a restful sleep for hours. Once the dust wears off character will likely awaken (unless seriously sleep deprives beforehand), feeling some what drowsy for a few more hours but otherwise suffering no ill effects. The powder is tasteless, and if ground adequately, can be mixed into food without perceptible alteration of the flavor or texture. Those who export sleep dust from Zillman's Domain would like to think that they are simply helping the restless get some badly needed shut-eye, though many user then to have less honorable intention for ampules of capsules of the power.  
 
-badly needed shut-eye, though many users tend honourable intentions for am sleep deprived beforehand), feeling somewhat drowsy for a few more hours but otherwise suffering no ill effects. The powder is tasteless, and if ground adequately, can be mixed into food without a perceptible alteration of the flavour or texture. Those who export sleep dust from Zillman's Domain would like to think that they are simply helping the restless get some to have far less poules or capsules of the powder.
-
-A character who inhales sleep dust, such as having an ampoule broken open under their nose or a handful blown in their face, must make a Challenging (+0) Toughness Test or pass out, falling into a deep sleep for 1d5 hours minus the victim's Toughness Bonus. Ingesting the powder magnifies its effects, though they take about 20 minutes to become active - the Toughness Test becomes Hard (-20) and the victim does not reduce the duration of his sleep. If the character succeeds on his Toughness Test he suffers no perceptible effects and will remain unaware of his attempted drugging, although a face full of strange powder might provoke other questions for the would-be assailant.
+A character who inhales sleep dust, such as having an ampule broken open under their nose or a handful blown in their face, must make a Challenging (+0) Toughness Test or pass out, falling into a deep sleep for 1d5 hours minus the victim's Toughness Bonus. Ingesting the powder magnifies its effects, though they take about 20 minutes to become active - the Toughness Test becomes Hard (-20) and the victim does not reduce the duration of his sleep. If the character succeeds on his Toughness Test he suffers no perceptible effects and will remain unaware of his attempted drugging, although a face full of strange powder might provoke other questions for the would-be assailant.
 
 #### Endrite Sour Mud
 
-Feral shamans and witch doctors native to the planet Endrite scoop this vicious and sticky substance out of dormant tar pits which line vast stretches of that world. Many feral healer remedies can be more dangerous than the ills
-
-they claim to cure, but the so-called "sour mud" is actually laden with minerals and enzymes that have strong antibacterial and immunogenic qualities. Sour mud is most often used to staunch bleeding - simply plastering some of the stuff on a wound and then working it into a putty-like mass causes rapid coagulation and staves off infection. However, it also has other medicinal qualities - if diluted and boiled, it can be ingested to reduce fevers and diarrhoea, though the taste is extremely bitter (hence the name). Because of these miraculous qualities, some of which border on well-developed Imperial technology, several corporations and commercia guilds have expressed interest in creating a large-scale packaging and export operation on Endrite to get the sour mud into circulation throughout the sector. Finding a means to keep the mud fresh, however, has proven elusive.
+Feral shamans and witch doctors native to the planet Endrite scoop this vicious and sticky substance out of dormant tar pits which line vast stretches of that world. Many feral healer remedies can be more dangerous than the ills they claim to cure, but the so-called "sour mud" is actually laden with minerals and enzymes that have strong antibacterial and immunogenic qualities. Sour mud is most often used to staunch bleeding - simply plastering some of the stuff on a wound and then working it into a putty-like mass causes rapid coagulation and staves off infection. However, it also has other medicinal qualities - if diluted and boiled, it can be ingested to reduce fevers and diarrhoea, though the taste is extremely bitter (hence the name). Because of these miraculous qualities, some of which border on well-developed Imperial technology, several corporations and commercia guilds have expressed interest in creating a large-scale packaging and export operation on Endrite to get the sour mud into circulation throughout the sector. Finding a means to keep the mud fresh, however, has proven elusive.
 
 A character can use a handful of sour mu immediately end ongo d to ing Blood Loss by sp ending a Full Action to massage the mud into the bleeding injury. Additionally, medics attempting to treat certain diseases and fevers gain a +20 bonus on any Medicae Tests when using sour mud as part of the treatment.
 
@@ -602,53 +583,52 @@ king to the thick drink, consuming it as a matter of etiquette (and allies) due 
 
 A character consuming Styger milk finds it coating his throat and stomach - this somewhat unpleasant feeling imparts a +20 bonus on any Toughness Tests made to resist ingested poisons or toxins. The protective quality lasts 1d5+5 hours, though the sticky sensation (and taste) lingers for a while longer. Consuming two or more doses of Styger milk in a 24 hour period can be dangerous to the digestive organs - the character must pass a Challenging (+0) Toughness Test or suffer one point of Toughness Damage. Failure by two or more degrees results in this Damage being permanent.
 
-## Specialty Consumables
+### Specialty Consumables
 
 Some things just aren't made for most men. Whether very costly, unobtainable, areaspecific, or serving only a very narrow purpose, consumable items in this section are typically not encountered by most Imperial citizens. An Acolyte of the Emperor's Inquisition, however, would do well to familiarise himself with such oddities and unusual finds - a lack of prior knowledge is a poor excuse for failure.
+
+| Specialty Consumables                                                           |       |       |                |
+| ------------------------------------------------------------------------------- | ----- | ----- | -------------- |
+| Name                                                                            | Wt    | Cost  | Availability   |
+| [[#Blush]] (bottle)                                                             | 1kg   | 75    | Rare           |
+| [[#Civilian Relief Rations]] (box of 30)                                        | 10kg  | 15    | Plentiful      |
+| [[#Clear (Drug)]] (dose)                                                        | -     | 20    | Scarce         |
+| [[#Countersepts (Drug)]] (dose)                                                 | -     | 8     | Common         |
+| [[#Combat Ration Pack]] (day)                                                   | 1kg   | 2     | Plentiful      |
+| [[#Eazielle (Drug)]] (dose)                                                     | -     | 200   | Very Rare      |
+| [[#Gorsk White Gyn]] (bottle)                                                   | 1.3kg | 5     | Common         |
+| [[#Holdfast]] (dose)                                                            | -     | 100   | Very Rare      |
+| [[#Hyperexia (Drug)]] (12 doses)                                                | -     | 80    | Scarce         |
+| [[#Night Dust (Drug)]]† (dose)                                                  | -     | 25    | Very Rare      |
+| [[#Panimmune (Drug)]] (dose)                                                    | -     | 30    | Average        |
+| [[#Painimmune (Drug)]] (dose)                                                   | -     | 5     | Common         |
+| [[#Quaddis Wine]] (bottle)                                                      | 1.5kg | 300   | Very Rare      |
+| [[#Golden Tokay]] (bottle)                                                      | 1kg   | 1000  | Extremely Rare |
+| [[#Kataline Malmsey]] (bottle)                                                  | 1kg   | 20000 | Near Unique    |
+| [[#Sorrowful Vintage]] (bottle)                                                 | 1.5kg | 200   | Rare           |
+| [[#Raenka]] (bottle)                                                            | 1kg   | 70    | Scarce         |
+| [[#Rainbow (Drug)]](dose)                                                       | -     | 75    | Rare           |
+| [[#Sandstone (Drug)]]† (dose)                                                   | -     | 100   | Scarce         |
+| [[#Scav-Glysten (Drug)]] (dose)                                                 | -     | 70    | Rare           |
+| [[#Scrapper-Ripper (Drug)]]† (dose)                                             | -     | 100   | Scarce         |
+| [[#Slam (Drug)]], diluted† (dose)                                               | -     | 50    | Very Rare      |
+| [[#Slam (Drug)]], pure† (dose)                                                  | -     | 175   | Extremely Rare |
+| [[#Somna (Drug)]] (dose)                                                        | -     | 350   | Very Rare      |
+| [[#The Tears of the Dragon]]                                                    | -     | 6000  | Extremely Rare |
+| [[#Theosophist's Philtre]] (bottle)                                             | 1.3kg | 100   | Rare           |
+| [[#Verita (Drug)]]‡ (dose)                                                      | -     | 300   | Very Rare      |
+| [[#White Void (Drug)]]†‡ (20 sticks' worth)                                     | -     | 100   | Scarce         |
+| [[#Zumthorian Greyve (Drug)]]†‡ (dose)                                          |       | 300   | Rare           |
+| †_A user can develop immunity to this drug; see Building Immunity sidebar_      |       |       |                |
+| ‡ _This drug is addictive; see Getting Addicted sidebar and drug's description_ |       |       |                |
 
 #### Blush
 
 This expensive though remarkably smooth libation is derived from small yellow fruits that inexplicably grow on several distantly dispersed worlds near the edge of the Malfian Sub-Sector. Once mashed into juice and pulp, the sicklysweet mixture is fermented in stone vats before being packaged in elegant and shapely bottles for later consumption. The drink has a complex and warm sapor which imparts a pleasantly glowing feeling as it infiltrates the drinker's bloodstream. The glow, however, is quite literal - while intoxication sets in the drinker actually begins to emit a reddish-pinkish hue that increases in intensity when more blush is consumed. Likewise, the aura fades in much the same way when sobriety reasserts itself. These secondary qualities make blush exceedingly popular with debauched young nobles who often make games over seeing who can glow the brightest before joining their fellow revellers on the floor.
 
-### Civilian Relief Rations
+#### Civilian Relief Rations
 
-Starvation is often one of the most effective weapons that can be wielded against a human population centre, a fact which is not lost on the enemies of mankind. Civilian relief rations are a special type of food product created by the Departmento Munitorum and issued to Imperial Guard units tasked with defending or liberating cities, hives, and other urban areas threatened with siege by the enemy. Designed to be durable enough to be thrown out
-
-| Specialty Consumables               |       |       |                |
-| ----------------------------------- | ----- | ----- | -------------- |
-| Name                                | Wt    | Cost  | Availability   |
-| Blush (bottle)                      | 1kg   | 75    | Rare           |
-| Civilian Relief Rations (box of 30) | 10kg  | 15    | Plentiful      |
-| Clear (dose)                        | -     | 20    | Scarce         |
-| Countersepts (dose)                 | -     | 8     | Common         |
-| Combat Ration Pack (day)            | 1kg   | 2     | Plentiful      |
-| Eazielle (dose)                     | -     | 200   | Very Rare      |
-| Gorsk White Gyn (bottle)            | 1.3kg | 5     | Common         |
-| Holdfast (dose)                     | -     | 100   | Very Rare      |
-| Hyperexia (12 doses)                | -     | 80    | Scarce         |
-| Night Dust† (dose)                  | -     | 25    | Very Rare      |
-| Panimmune (dose)                    | -     | 30    | Average        |
-| Painimmune (dose)                   | -     | 5     | Common         |
-| Quaddis Wine (bottle)               | 1.5kg | 300   | Very Rare      |
-| Golden Tokay (bottle)               | 1kg   | 1000  | Extremely Rare |
-| Kataline Malmsey (bottle)           | 1kg   | 20000 | Near Unique    |
-| Sorrowful Vintage (bottle)          | 1.5kg | 200   | Rare           |
-| Raenka (bottle)                     | 1kg   | 70    | Scarce         |
-| Rainbow (dose)                      | -     | 75    | Rare           |
-| Sandstone† (dose)                   | -     | 100   | Scarce         |
-| Scav-Glysten (dose)                 | -     | 70    | Rare           |
-| Scrapper-Ripper† (dose)             | -     | 100   | Scarce         |
-| Slam, diluted† (dose)               | -     | 50    | Very Rare      |
-| Slam, pure† (dose)                  | -     | 175   | Extremely Rare |
-| Somna (dose)                        | -     | 350   | Very Rare      |
-| The Tears of the Dragon             | -     | 6000  | Extremely Rare |
-| Theosophist's Philtre (bottle)      | 1.3kg | 100   | Rare           |
-| Verita‡ (dose)                      | -     | 300   | Very Rare      |
-| White Void†‡ (20 sticks' worth)     | -     | 100   | Scarce         |
-| Zumthorian Greyve†‡ (dose)          |       | 300   | Rare           |
-|                                     |       |       |                |
-
-†_A user can develop immunity to this drug; see Building Immunity sidebar_ ‡ _This drug is addictive; see Getting Addicted sidebar and drug's description_ of flyers or even launched by artillery in special canisters, relief rations take the form of unappealing bricks of recycled food waste, processed synth-protein, or just about any other form of organic matter that has some nutritional content. The individually wrapped parcels are waterproof and small enough to be stuffed into a pocket or satchel and contain enough food energy to keep a man alive for a day. The flavour ranges from "bad" to "horrendous", but this is a minor consideration when the alternative is death by malnourishment or enslavement by the unspeakable armies of mankind's enemies.
+Starvation is often one of the most effective weapons that can be wielded against a human population centre, a fact which is not lost on the enemies of mankind. Civilian relief rations are a special type of food product created by the Departmento Munitorum and issued to Imperial Guard units tasked with defending or liberating cities, hives, and other urban areas threatened with siege by the enemy. Designed to be durable enough to be thrown out of flyers or even launched by artillery in special canisters, relief rations take the form of unappealing bricks of recycled food waste, processed synth-protein, or just about any other form of organic matter that has some nutritional content. The individually wrapped parcels are waterproof and small enough to be stuffed into a pocket or satchel and contain enough food energy to keep a man alive for a day. The flavour ranges from "bad" to "horrendous", but this is a minor consideration when the alternative is death by malnourishment or enslavement by the unspeakable armies of mankind's enemies.
 
 #### Clear (Drug)
 
@@ -656,15 +636,15 @@ Sometimes sold as an "imbiber's aid", this substance bestows a remarkable endura
 
 Clear takes about 20 minutes to become effective, and thereafter the user gains the Decadence talent if they did not already possess it as well as a +30 bonus to Toughness-based Tests to resist falling unconscious due to consumption of alcohol or other poisons (either due to excessive Fatigue or drugs that specifically cause a "knock-out" effect). This resistance lasts for roughly three hours, after which the drug wears off; if the user still has more levels of Fatigue than they would normally be able to withstand, they fall unconscious as normal. Once the drug wears off, the character is afflicted by a debilitating headache and suffers a -20 penalty to any Intelligence, Perception, Willpower, or Fellowship-based Tests for 1d5+1 hours. Additional doses of Clear taken in succession increase this duration by another 2 hours for each dose.
 
-### Countersepts (Drug)
+#### Countersepts (Drug)
 
 Short for "counterseptics", these innocuous tablets are a gift from the Emperor Himself to soldiers, explorers, pilgrims, and others who find themselves in suddenly foetid conditions. Each contain broad-spectrum chemical, mineral, and probiotic ingredients that help stave off infection or disease, which can often be just as deadly as a hot bullet or a long fall. Countersepts are standard-issue kit to Guardsmen operating in foul environments, and those travelling to unknown regions would be well advised to bring a few doses in the event of complications.
 
 Countersepts provide a +20 bonus to any Toughness Tests made to resist initial contraction of diseases and infections, but have no benefit on an already existent condition. One dose is good for an entire day.
 
-## Eazielle (Drug)
+#### Eazielle (Drug)
 
-Known informally as "Eaze", this potent mindaffecting substance is brought into the Calixis Sector through Port Wander; there does not appear to be any definitive evidence of its source, though hushed whispers have suggested it is alien in origin. Once ingested, Eaze has a pronounced effect on reducing the user's inhibitions, imparting a relaxed and nonchalant state without negatively affecting perception and physical ability as other drugs often can. The results are staggering, often allowing users to brush off or simply accept illicit and depraved actions or scenes that would induce horror or sickness in any moral Imperial citizen. The ability to totally suppress one's conscience and engage in the most base desires makes Eazielle a common sight among nobles and guilder elites that have become truly debauched. However, a far more insidious application comes from wellfunded cults that use this drug to help introduce new members to the fold. Because of this association with corrupting agents of the Ruinous Powers, some Inquisitors of the Ordo Hereticus deem this drug to be "Heresy in a vial" and aggressively seek and persecute its distributors, often as a stepping stone to uncovering the cult leaders that foist it on the unsuspecting citizenry. Repeated use of Eazielle tends to prolong its effects; in some cases, the user's personality can become permanently warped, turning them into deranged cretins unphased by any atrocity.
+Known informally as "Eaze", this potent mind affecting substance is brought into the Calixis Sector through Port Wander; there does not appear to be any definitive evidence of its source, though hushed whispers have suggested it is alien in origin. Once ingested, Eaze has a pronounced effect on reducing the user's inhibitions, imparting a relaxed and nonchalant state without negatively affecting perception and physical ability as other drugs often can. The results are staggering, often allowing users to brush off or simply accept illicit and depraved actions or scenes that would induce horror or sickness in any moral Imperial citizen. The ability to totally suppress one's conscience and engage in the most base desires makes Eazielle a common sight among nobles and guilder elites that have become truly debauched. However, a far more insidious application comes from wellfunded cults that use this drug to help introduce new members to the fold. Because of this association with corrupting agents of the Ruinous Powers, some Inquisitors of the Ordo Hereticus deem this drug to be "Heresy in a vial" and aggressively seek and persecute its distributors, often as a stepping stone to uncovering the cult leaders that foist it on the unsuspecting citizenry. Repeated use of Eazielle tends to prolong its effects; in some cases, the user's personality can become permanently warped, turning them into deranged cretins un-phased by any atrocity.
 
 Eazielle must be injected and becomes effective in one Round. For the next 1d5 hours, the user gains the Jaded talent if they did not already possess it, automatically succeeds on any Fear Tests against a Fear Rating of 2 or less, and will freely ignore the dictates of morality; the user must succeed on an Ordinary (+10) Willpower Test to ignore baser instincts and urges. What circumstances call for such Tests are highly situational and ultimately up to the GM.
 
@@ -672,9 +652,7 @@ The duration of Eazielle's effect is increased by 1 hour for each dose the user 
 
 #### Gorsk White Gyn
 
-Gorsk White is an incredibly stiff spirit that is partly distilled from modified engine coolant, hence the play on words for "gin". The original vintages, if they can be called that, were first popularized in the Magnagorsk hive on Fenksworld, but now many hive worlds have an industry of producing the caustic and ice-cloudy drink in a variety of local styles. Though inexpensive and often thought of as an intoxicant for drudging masses, "gyn mixers" have been seen in the halls of the upper classes too - a desire for booze with more kick than triple-stilled amasec apparently is not limited to the fringes of Imperial society. Aside from
-
-making the drinker feel as though his head's been staved in, Gorsk White and its peers can be diluted and used to mitigate the effects of some tainted food and water thanks to their antibacterial qualities.
+Gorsk White is an incredibly stiff spirit that is partly distilled from modified engine coolant, hence the play on words for "gin". The original vintages, if they can be called that, were first popularized in the Magnagorsk hive on Fenksworld, but now many hive worlds have an industry of producing the caustic and ice-cloudy drink in a variety of local styles. Though inexpensive and often thought of as an intoxicant for drudging masses, "gyn mixers" have been seen in the halls of the upper classes too - a desire for booze with more kick than triple-stilled amasec apparently is not limited to the fringes of Imperial society. Aside from making the drinker feel as though his head's been staved in, Gorsk White and its peers can be diluted and used to mitigate the effects of some tainted food and water thanks to their antibacterial qualities.
 
 Drinking unmixed gyn of any kind requires a Hard (-20) Carouse Test if the drinker wants to try and resist intoxication.
 
@@ -698,11 +676,9 @@ Once a character uses a dose of night dust they immediately begin to experience 
 
 #### Panimmune (Drug)
 
-Panimmune is a powerful medicinal compound that gives the user a massive boost to their natural resistance against toxins, contamination, parasites, and other infectious agents, making it a highly sought-after item for explorers and travellers as well as enforcers and agents pursuing targets into foetid hiding spots. The drug takes the form of a disposable hypospray tube that administers the panimmune via a tiny high-pressure jet into the user's neck. The strong mixture of counterseptics and inert toxin-absorbing compounds can be a literal lifesaver in situations where even light injuries or switching re-breather canisters can be fatal, but it is extremely dangerous to use over a long term period as the potent mixture can upset the user's bodily humours - possibly with fatal results. Panimmune should never be confused with painimmune; though similar in name, the effects are wholly different, and a mistake in dosage between the two could be catastrophic.
+Panimmune is a powerful medicinal compound that gives the user a massive boost to their natural resistance against toxins, contamination, parasites, and other infectious agents, making it a highly sought-after item for explorers and travellers as well as enforcers and agents pursuing targets into fetid hiding spots. The drug takes the form of a disposable hypospray tube that administers the panimmune via a tiny high-pressure jet into the user's neck. The strong mixture of counter septics and inert toxin-absorbing compounds can be a literal lifesaver in situations where even light injuries or switching re-breather canisters can be fatal, but it is extremely dangerous to use over a long term period as the potent mixture can upset the user's bodily humours - possibly with fatal results. Panimmune should never be confused with painimmune; though similar in name, the effects are wholly different, and a mistake in dosage between the two could be catastrophic.
 
-Once injected a dose of panimmune immediately provides a +30 bonus on Toughness Tests made to withstand most poisons, diseases, toxins and infections. An unintended side effect, this bonus also applies to Carouse Tests as well. The effect lasts for 1d5+5 hours. Once the drug wears off, the user takes a -
-
-10 penalty on the same Toughness Tests as their body's natural defences are somewhat weakened by the loss of the drug's fortifying effect. The user can re-dose immediately, but taking more than one dose without first having a full night's rest (about 8 hours) to allow their humours to "reset" can be perilous. In this case, the user must pass a Challenging (+0) Toughness Test or permanently lose 1 point of Toughness and Willpower. Characters that do not sleep, such as heavily augmented Tech-Priests, may be active during this period as normal, though taking a second dose in any 8 hour period still has the same consequences.
+Once injected a dose of panimmune immediately provides a +30 bonus on Toughness Tests made to withstand most poisons, diseases, toxins and infections. An unintended side effect, this bonus also applies to Carouse Tests as well. The effect lasts for 1d5+5 hours. Once the drug wears off, the user takes a -10 penalty on the same Toughness Tests as their body's natural defences are somewhat weakened by the loss of the drug's fortifying effect. The user can re-dose immediately, but taking more than one dose without first having a full night's rest (about 8 hours) to allow their humours to "reset" can be perilous. In this case, the user must pass a Challenging (+0) Toughness Test or permanently lose 1 point of Toughness and Willpower. Characters that do not sleep, such as heavily augmented Tech-Priests, may be active during this period as normal, though taking a second dose in any 8 hour period still has the same consequences.
 
 #### Painimmune (Drug)
 
@@ -720,11 +696,17 @@ The rules described above refer to individual doses of painimmune meant to be us
 
 The world of Quaddis is something of a mystery in and of itself. It does not appear on many star charts, and the area of space it inhabits is notably desolate. There are also no stable warp lanes to or from the isolated planet, putting it off limits from chartist captains and other voidfarers who lack Navigators. Many members of the Sector's lower classes would simply assume that the world is a legend or a byword for fantasy, but there are those that know better - though many wouldn't admit it. In reality, Quaddis' more temperate regions are highly fertile, and the privately-owned fiefdoms that carve out much of these areas have turned some of their pleasure grounds over to the production of fine beverages. A number of fabulously rich and flavourful vintages originate on Quaddis - many of these bottles never leave, being consumed by their growers or spilled on the bodies of wild revellers in the perpetually debauched planetary capital of Xicarph, but there is a hot market among rich off-world collectors and connoisseurs. Maintaining a steady supply can be an endeavour in and of itself, even for those who have the funds to do so. Between shipping difficulties, and the fact that Quaddis' brutal winters often kill off a large number of the wine-producing vineyards, it is advisable to stock up when you can.
 
-Golden Tokay: This rich and flavourful wine has tiny gold shavings added to the casks as it ferments, giving the final product a barelyperceptible metallic tone that neatly complements a slightly sweet and nutty character. The gold particles go out with the bottles, and it is generally considered a good omen to find a bit of gold in the bottom of one's glass once the wine itself has been drunk.
+##### Golden Tokay
 
-Kataline Malmsey: Unquestionably a head above its peers, the Kataline Malmsey is an especially exquisite wine famed for its smoothness and subtle yet satisfying flavours with a bouquet "reminiscent of newly-fallen rain and nostalgic memories". The vineyards that produce this exceptional variety are annihilated annually by metres of snow and ice, resulting in each vintage being different than the last. Some especially storied years are said to be of a particularly incredible quality, imparting a sort of euphoric intoxication that has literally killed a few drinkers who dared to overindulge in such a singular libation. Whether this effect is truly a death resultant from pure pleasure or simply a cardiac infarction in a more corpulent consumer is unknown, though it does make fine table talk.
+This rich and flavourful wine has tiny gold shavings added to the casks as it ferments, giving the final product a barelyperceptible metallic tone that neatly complements a slightly sweet and nutty character. The gold particles go out with the bottles, and it is generally considered a good omen to find a bit of gold in the bottom of one's glass once the wine itself has been drunk.
 
-Sorrowful Vintage: "Sorrowful Vintage" is a broad term applied to wines that have all the qualities of a fine Quaddis vintage but which, through careful inspection, turn out to be imitations or mixed bottles of less spectacular wines. Though immediately less valuable than a true Quaddis original - both in terms of wealth material as well as social - Sorrowful Vintages are still an exquisite drink in and of themselves and remain highly desirable among aficionados. Many have even made a deliberate sport of the stuff, entertaining guests and their fellows with exaggerated tales of the tragedy of discovering the bottle's imperfect origins.
+###### Kataline Malmsey
+
+Unquestionably a head above its peers, the Kataline Malmsey is an especially exquisite wine famed for its smoothness and subtle yet satisfying flavours with a bouquet "reminiscent of newly-fallen rain and nostalgic memories". The vineyards that produce this exceptional variety are annihilated annually by metres of snow and ice, resulting in each vintage being different than the last. Some especially storied years are said to be of a particularly incredible quality, imparting a sort of euphoric intoxication that has literally killed a few drinkers who dared to overindulge in such a singular libation. Whether this effect is truly a death resultant from pure pleasure or simply a cardiac infarction in a more corpulent consumer is unknown, though it does make fine table talk.
+
+###### Sorrowful Vintage
+
+"Sorrowful Vintage" is a broad term applied to wines that have all the qualities of a fine Quaddis vintage but which, through careful inspection, turn out to be imitations or mixed bottles of less spectacular wines. Though immediately less valuable than a true Quaddis original - both in terms of wealth material as well as social - Sorrowful Vintages are still an exquisite drink in and of themselves and remain highly desirable among aficionados. Many have even made a deliberate sport of the stuff, entertaining guests and their fellows with exaggerated tales of the tragedy of discovering the bottle's imperfect origins.
 
 #### Raenka
 
@@ -760,103 +742,79 @@ Scav-Glysten becomes effective 10 minutes after being injected and thereafter la
 
 #### Scrapper-Ripper (Drug)
 
-More commonly known as Ripper, this drug is manufactured using compounds that are extracted from rare, hideous creatures that live in the lowest depths of certain hive cities in the Golgenna Reach. Once refined through a long
+More commonly known as Ripper, this drug is manufactured using compounds that are extracted from rare, hideous creatures that live in the lowest depths of certain hive cities in the Golgenna Reach. Once refined through a long alchemical process, Ripper can be injected into the bloodstream where it quickly travels to the user's reactive centres and effectively supercharges their nervous system. A user under the effect of Ripper is able to make sharp, sudden movements with incredible quickness (sometimes even to the detriment of the rest of their body...) that often leaves observers gaping in surprise. However, any Ripper user would be well advised to remember that while the drug does drastically accelerate their ability to make quick manoeuvres, there is no corresponding boost to the user's sensory and perceptive centres. Aside from leaving the user extremely "twitchy", they become prone to reacting violently to almost any kind of external stimuli; there are countless tales of Ripper users brutally accosting their fellows or bystanders from some perceived threat, the user only realizing they've attacked after the blow has been struck. Because of this drug's close association with underhive Scrapper gangs, the principal distributors of the stuff to other gangers and up-hive heavies alike, the drug is more formally known as Scrapper-Ripper in official parlance.
 
-alchemical process, Ripper can be injected into the bloodstream where it quickly travels to the user's reactive centres and effectively supercharges their nervous system. A user under the effect of Ripper is able to make sharp, sudden movements with incredible quickness (sometimes even to the detriment of the rest of their body...) that often leaves observers gaping in surprise. However, any Ripper user would be well advised to remember that while the drug does drastically accelerate their ability to make quick manoeuvres, there is no corresponding boost to the user's sensory and perceptive centres. Aside from leaving the user extremely "twitchy", they become prone to reacting violently to almost any kind of external stimuli; there are countless tales of Ripper users brutally accosting their fellows or bystanders from some perceived threat, the user only realizing they've attacked after the blow has been struck. Because of this drug's close association with underhive Scrapper gangs, the principal distributors of the stuff to other gangers and up-hive heavies alike, the drug is more formally known as Scrapper-Ripper in official parlance.
+A dose of Scrapper-Ripper becomes effective in 1d5 Rounds and lasts for 1d5 hours. While under its effects, the user gains a +30 bonus to all Agility-based Tests made as part of a Reaction, although the hyper-stimulating effects of the drug also reduce the user's Perception and Willpower Characteristics by 10 points for the same length of time. Additionally, the user must succeed on a Hard (-20) Willpower Test to avoid brutally attacking anything or anyone that surprise s or startles them. 
 
-s or startles them. A dose of Scrapper-Ripper becomes effective in 1d5 Rounds and lasts for 1d5 hours. While under its effects, the user gains a +30 bonus to all Agility-based Tests made as part of a Reaction, although the hyper-stimulating effects of the drug also reduce the user's Perception and Willpower Characteristics by 10 points for the same length of time. Additionally, the user must succeed on a Hard (-20) Willpower Test to avoid brutally attacking anything or anyone that surprise
+#### Slam (Drug)
 
-#### S lam (Drug)
+Slam is unquestionably the worst, most destructive kind of combat drug imaginable. It should therefore be no surprise that the horrid stuff originated on Fenksworld's nightmarish Hive Volg. Its manufacture is similarly unpleasant. The raw materials are chemical residue gathered from the digestive tracts of hulking corpse roaches that infest the meat sumps in Volg's worst districts. The gooey and caustic substance is crystallized in an alkaline bath and then ground into a bile yellow powder before being diluted in what's hopefully water. Moments after being injected, slam causes a rapid biological change in the user, creating hyperactive muscular growth that often causes the user to visibly bulge and spasm. The user's nerves are greatly deadened during the process, leaving them to feel only a monstrous rush of power and energy that is frequently accompanied by an intense urge to commit violence. Diluted slam can easily cause long term damage to the user's circulatory and nervous system, even in small doses. Those who hail from Volg would consider this a small price to pay when faced with the choice of being devoured by a ravenous maw-fluke or dosing up and then ripping its jaws off with their bare hands. Use of slam is a matter of survival on Volg, but a thriving black market for the drug exists on other worlds where users take the destructive substance to wreak havoc on their enemies, often with little concern (or perhaps understanding) of the consequences. Pure slam, still suspended in an alkaline solution, can be injected as well - the results are almost inevitably fatal for the user, but the sheer destruction that a "slammed" hiver can create before their organs ru ture is a spectacle in and of itself.
 
-Slam is unquestionably the worst, most destructive kind of combat drug imaginable. It should therefore be no surprise that the horrid stuff originated on Fenksworld's nightmarish Hive Volg. Its manufacture is similarly unpleasant. The raw materials are chemical residue gathered from the digestive tracts of hulking corpse roaches that infest the meat sumps in Volg's worst districts. The gooey and caustic substance is crystallized in an alkaline bath and then ground into a bile yellow powder before being diluted in what's hopefully water. Moments after being injected, slam causes a rapid biological change in the user, creating hyperactive muscular growth that often causes the user to visibly bulge and spasm. The user's nerves are greatly deadened during the process, leaving them to feel only a monstrous rush of power and energy that is frequently accompanied by an intense urge to commit violence. Diluted slam can easily cause long term damage to the user's circulatory and nervous system, even in small doses. Those who hail from Volg would consider this a small price to pay when faced with the choice of being devoured by a ravenous maw-fluke or dosing up and then ripping its jaws off with their bare hands. Use of slam is a matter of survival on Volg, but a thriving black market for the drug exists on other worlds where users take the destructive substance to wreak havoc on their enemies, often with little concern (or perhaps understanding) of the consequences. Pure slam, still suspended in an alkaline solution, can be injected as well - the results are almost inevitably fatal for the user, but the sheer destruction that a "slammed" hiver can create before their organs ru pture is a spectacle in and of itself.
+A dose of diluted slam becomes effective in one Round and grants the user the Unnatural Strength (x2) and Unnatural Toughness (x2) traits for 1d5+TB Rounds. The user must pass an Ordinary (+10) Willpower Test or enter into a violent rage as if they'd taken a dose of frenzon, though the effect only lasts as long as the slam itself. When the drug wears off, the character must pass an Arduous (-40) Toughness Test or permanently reduce their Strength haracteristics by 1d5 points each.
 
-and Agility C A dose of diluted slam becomes effective in one Round and grants the user the Unnatural Strength (x2) and Unnatural Toughness (x2) traits for 1d5+TB Rounds. The user must pass an Ordinary (+10) Willpower Test or enter into a violent rage as if they'd taken a dose of frenzon, though the effect only lasts as long as the slam itself. When the drug wears off, the character must pass an Arduous (-40) Toughness Test or permanently reduce their Strength haracteristics by 1d5 points each.
+Pure slam is even more dangerous. The drug takes effect immediately, with the character gaining the Unnatural Strength (x3), Unnatural Toughness (x3), and Unnatural Speed traits for a number of Rounds equal to twice their Toughness Bonus. The character goes completely berserk as if under the effects of ghostfire pollen extract, crushing friend and foe alike. Once this time has passed the drug begins to "wear off" - the effects do not actually end until twice again the user's Toughness Bonus in Rounds have passed, however. During this latter phase the character must pass a Very Hard (- 30) Toughness Test each Round or gain a level of Fatigue (ignoring its effects per the Frenzy talent). If the user accumulates more levels of Fatigue than his Toughness Bonus he drops dead from catastrophic cardiac failure. In the unlikely event the user survives until the pure slam works its way through him he immediately falls unconscious for 1d5-TB hours (minimum 1) and must pass an Arduous (-40) Toughness Test or permanently reduce his Strength characteristics by 1d5 points each.
 
-Pure slam is even more dangerous. The drug takes effect immediately, with the character gaining the Unnatural Strength (x3), Unnatural Toughness (x3), and Unnatural Speed traits for a number of Rounds equal to twice their Toughness Bonus. The character goes
+Note that this accumulated Fatigue cannot be removed in any way until the drug wears off - even de-tox is ineffective against pure slam's terrible effects.
 
-and Agility C completely berserk as if under the effects of ghostfire pollen extract, crushing friend and foe alike. Once this time has passed the drug begins to "wear off" - the effects do not actually end until twice again the user's Toughness Bonus in Rounds have passed, however. During this latter phase the character must pass a Very Hard (- 30) Toughness Test each Round or gain a level of Fatigue (ignoring its effects per the Frenzy talent). If the user accumulates more levels of Fatigue than his Toughness Bonus he drops dead from catastrophic cardiac failure. In the unlikely event the user survives until the pure slam works its way through him he immediately falls unconscious for 1d5-TB hours (minimum 1) and must pass an Arduous (-40) Toughness Test or permanently reduce his Strength haracteristics by 1d5 points each.
+#### Somna (Drug)
 
-ineffective against pure slam's rrible effects. Note that this accumulated Fatigue cannot be removed in any way until the drug wears off even de-tox is te
+An unusual and curious drug to say the least, somna is created from a synthesized extract of the Nephys Orchid of Iocanthus. When properly refined and condensed, somna instils a wave of shifts in the user's bodily humours, inducing a coma-like state and very nearly shutting their biological processes down. The character hovers on the very brink of death, their consciousness plunged into a bottomless abyss far beyond even the deepest sleep, while their body can survive without food or water and on an imperceptible amount of air for up to several weeks. Like clockwork, the user will apparently rise from the dead a predetermined amount of time later, possibly feeling ravenously hungry but otherwise suffering no ill effects. A man under the effects of somna appears to be dead for all intents and purposes - an auspex scan reports a corpse, while all but the most skilled medicae will write the user off as well. Somna can even fool the soulscouring powers of a trained psyker, making the stuff immensely useful for deep infiltration and high-risk operations. As with almost all things, Malfian society has found a twisted and sinister application for somna in the form of elaborate murders and disappearances where a drugged user awakens to find himself buried alive or marooned on the notoriously perilous feral world of Dusk. An adulterated form of somna is used as a lacing agent for a particularly potent variety of obscura known as "black spiral", which so far has only turned up on Scintilla. This suggests that the narco-gangs in Hive Sibellus have come into some kind of reliable supply of somna, which has sparked all sorts of speculation and intrigue among the hive's enforcers and citizens. Many have thought that the enigmatic and behemoth chartist ship known as the _Misericord_ has some role to play, while others have whispered that the Lord Sector or even the Inquisition itself are involved.
 
-#### S omna (Drug)
+Somna must be carefully measured and administered to a user by a trained medicae in order to receive the desired result. Dosing a user requires a second character to make a Difficult (-10) Medicae Test which takes about an hour for both characters. On a success the user enters into a state of apparent death for between one and twenty days (chosen by the character making the Medicae Test) - if the test is a failure then the duration is random (2d10 days), though the character making the Medicae Test is unaware of the failure (with potentially disastrous consequences!). A failure by four or more degrees results in a catastrophic reaction that kills the user, the death becoming quite real sometime before the user was to awaken.
 
-An unusual and curious drug to say the least, somna is created from a synthesized extract of the Nephys Orchid of Iocanthus. When properly refined and condensed, somna instils a wave of shifts in the user's bodily humours, inducing a coma-like state and very nearly shutting their biological processes down. The character hovers on the very brink of death, their consciousness plunged into a bottomless abyss far beyond even the deepest sleep, while their body can survive without food or water and on an imperceptible amount of air for up to several weeks. Like clockwork, the user will apparently rise from the dead a predetermined amount of time later, possibly feeling ravenously hungry but otherwise suffering no ill effects. A man under the effects of somna appears to be dead for all intents and purposes - an auspex scan reports a corpse, while all but the most skilled medicae will write the user off as well. Somna can even fool the soulscouring powers of a trained psyker, making the stuff immensely useful for deep infiltration and high-risk operations. As with almost all things, Malfian society has found a twisted and sinister application for somna in the form of elaborate murders and disappearances where a drugged user awakens to find himself buried alive or marooned on the notoriously perilous feral world of Dusk. An adulterated form of somna is used as a lacing agent for a particularly potent variety of obscura known as "black spiral", which so far has only turned up on Scintilla. This suggests that the narco-gangs in Hive Sibellus have come into some kind of reliable supply of somna, which has sparked all sorts of speculation and intrigue among the hive's enforcers and citizens. Many have thought that the enigmatic and behemoth chartist ship known as the _Misericord_ has some role to play, while others have whispered that the Lord Sector or ev en the Inquisition itself are involved.
+Regardless of the outcome of the Medicae Test, a character under the effect of somna appears to be dead. Medicae or Awareness Tests made with an auspex, medispex, or similar device show the user as being dead, while Psychic Powers that can detect or identify living creatures simply fail to recognise the user. However, a successful Very Hard (-30) Medicae Test made only with the medicae's own senses - no other gear or equipment that grants a bonus may be used - can reveal the ruse.
 
-ite real so Somna must be carefully measured and administered to a user by a trained medicae in order to receive the desired result. Dosing a user requires a second character to make a Difficult (-10) Medicae Test which takes about an hour for both characters. On a success the user enters into a state of apparent death for between one and twenty days (chosen by the character making the Medicae Test) - if the test is a failure then the duration is random (2d10 days), though the character making the Medicae Test is unaware of the failure (with potentially disastrous consequences!). A failure by four or more degrees results in a catastrophic reaction that kills the user, the death becoming qu metime before the user was to awaken.
+A character can be awoken early from a somna-induced state by administering a stimm to the user's heart or a major artery, but this is an extremely dangerous action that can have lethal consequences. The somna user must succeed on a Challenging (+0) Toughness Test to wake up, in which case the drug's effect ends normally. Failure means that the stimm causes the user to suffer a fatal infarction, though to outside observers it simply appear to be a gauche attempt to revive a cadaver.
 
-nts a b Regardless of the outcome of the Medicae Test, a character under the effect of somna appears to be dead. Medicae or Awareness Tests made with an auspex, medispex, or similar device show the user as being dead, while Psychic Powers that can detect or identify living creatures simply fail to recognise the user. However, a successful Very Hard (-30) Medicae Test made only with the medicae's own senses - no other gear or equipment that gra onus may be used - can reveal the ruse.
+#### The Tears of the Dragon
 
-A character can be awoken early from a somna-induced state by administering a stimm
+Artificial psycho-viral infections, better known as "meme-viruses", are a brand of technowizardry that is only truly understood by the Adeptus Mechanicus, and the red-robed priests make extensive use of them as part of a broad array of psycho-conditioning both of their helots and servants as well as members of their own ranks. The most widely used meme-virus within the Priesthood is known as "The Tears of the Dragon" and is most commonly used on the elite Centurions of the Skitarii Tech-Guard as well as the most warlike of the Magos Ordinatos. Infection by the meme-virus results in the user being subjected to feverish recorded visions and senses of the worst horrors that the Mechanicus has borne witness to in its very long history. Some emerge with their minds irreparably broken, possibly making them candidates for mind-cleansing, or in the worst cases, servitor conversion. Those that retain their senses have demonstrated their ability to purge the frail trappings of human sanity and fear, bringing them closer to singularity with the calculating and rational perfection of the Machine God.
 
-s to be a gauche attempt to revive a cadaver. to the user's heart or a major artery, but this is an extremely dangerous action that can have lethal consequences. The somna user must succeed on a Challenging (+0) Toughness Test to wake up, in which case the drug's effect ends normally. Failure means that the stimm causes the user to suffer a fatal infarction, though to outside observers it simply appear
+Once infected, the character must succeed on a Difficult (-10) Willpower Test or suffer 1d10+10 Insanity Points as the pre-programmed visions run amok in their minds. With a success the character gains the Fearless and Jaded talents - as well as the approval of their peers in the Mechanicus - but also permanently reduces their Fellowship by 1d10 points. Because a memevirus never actually leaves a character's mind, any attempts to re-infect oneself at a later date automatically fail.
 
-#### T he Tears of the Dragon
+#### Theosophist's Philtre
 
-ing an Artificial psycho-viral infections, better known as "meme-viruses", are a brand of technowizardry that is only truly understood by the Adeptus Mechanicus, and the red-robed priests make extensive use of them as part of a broad array of psycho-conditioning both of their helots and servants as well as members of their own ranks. The most widely used meme-virus within the Priesthood is known as "The Tears of the Dragon" and is most commonly used on the elite Centurions of the Skitarii Tech-Guard as well as the most warlike of the Magos Ordinatos. Infection by the meme-virus results in the user being subjected to feverish recorded visions and senses of the worst horrors that the Mechanicus has borne witness to in its very long history. Some emerge with their minds irreparably broken, possibly making them candidates for mind-cleansing, or in the worst cases, servitor conversion. Those that retain their senses have demonstrated their ability to purge the frail trappings of human sanity and fear, bringing them closer to singularity with the calculat d rational perfection of the Machine God.
+This strong and heady liquor is produced on Archaos, a hive world famed for its cultural affectation for philosophy. With a rich, syrupy complexion, the philtre's sweet and floral flavour is followed by an astringent aftertaste - the juxtaposition supposedly providing a good clarity for battling mental conundrums. Paradoxically, the stuff is actually forbidden on Archaos itself due to an ancient pre-Angevin law, but enforcement is pitifully lax - typically only in the event of one making too many enemies at the oratorium. Theosophist's philtre has broad appeal among the more cerebral nobles and other rich drinkers in the Calixis Sector, where it advertises the drinker's cultural affinity more than just his wealth. Whether or not it actually has mind-altering powers to give the drinker expanded lucidity, or if the drinker simply experiences a sense of mystique due to the bottle's curious existence, is debatable. 
 
--infect oneself at a later date automatically fail. Once infected, the character must succeed on a Difficult (-10) Willpower Test or suffer 1d10+10 Insanity Points as the pre-programmed visions run amok in their minds. With a success the character gains the Fearless and Jaded talents - as well as the approval of their peers in the Mechanicus - but also permanently reduces their Fellowship by 1d10 points. Because a memevirus never actually leaves a character's mind, any attempts to re
+#### Verita (Drug)
 
-#### T heosophist's Philtre
+The very existence of this potent narcotic is unknown to most drug users, and because of its strong and singular effects, the powers that be - including the Inquisition's Calixian Conclave - are keen on keeping it that way. Verita is an incredibly powerful hallucinogenic substance that must be drunk to be effective. After ingesting it, the user's senses are slowly subdued by verita's profound psychotropic effects - his perception slowly shifts, revealing the cosmic interplay of fates and history, with some addicts claiming that they can "see through time", gaining insight to unknown truths and incredible visions. Most would assume that verita's gifts are simply an incredibly vivid hallucination, but investigators from Scintilla's ruling houses as well as the Inquisition have hypothesised that the drug may well bestow the user with immersive visions that transcend the mortal perception of time. As a result, the drug is incredibly illegal, with the act of distribution being deemed a Moral Threat and carrying the harshest of penalties. Verita's composition is totally unknown, and careful chem-analysis reveal a bewildering array of trace constituents that defy identification. The substance itself typically takes the form of a thick blue liquid in a sealed ampoule - if cracked open, a smell of unknown flowering blossoms mixed with subtle undertone of decay will permeate the room long after the drug has been swallowed.
 
-ue to existence, is debatable. This strong and heady liquor is produced on Archaos, a hive world famed for its cultural affectation for philosophy. With a rich, syrupy complexion, the philtre's sweet and floral flavour is followed by an astringent aftertaste - the juxtaposition supposedly providing a good clarity for battling mental conundrums. Paradoxically, the stuff is actually forbidden on Archaos itself due to an ancient pre-Angevin law, but enforcement is pitifully lax - typically only in the event of one making too many enemies at the oratorium. Theosophist's philtre has broad appeal among the more cerebral nobles and other rich drinkers in the Calixis Sector, where it advertises the drinker's cultural affinity more than just his wealth. Whether or not it actually has mind-altering powers to give the drinker expanded lucidity, or if the drinker simply experiences a sense of mystique d the bottle's curious
+A dose of verita takes about 20 minutes to become effective, after which the user finds himself slowly immersed in alien visions and sensations that can show all matters of mind blowing weirdness. For the duration of the drug' effect, these vivid perceptions impose a -20 penalty on all Perception-based Tests and reduce the user's Willpower by 10 points. Verita lasts for 3d10 hours, after which the user must succeed on a Challenging (+0) Willpower Test or else gain 1d5 Insanity Points from a vision that was particularly terrifying or unsettling. If the character gained any Insanity as a result of failing the Test they also have a 20% chance of gaining 1d5 Corruption Points as they take a little too much of their hallucinations to heart. Because of the incredibly vivid nature of verita induced visions, the GM may wish to award that character some form of insight or foreknowledge of future threats or events relevant to that character's own challenges or efforts.
 
-#### V erita (Drug)
-
-The very existence of this potent narcotic is unknown to most drug users, and because of its strong and singular effects, the powers that be -
-
-a su are keen on keeping it that way. Verita is an incredibly powerful hallucinogenic substance that must be drunk to be effective. After ingesting it, the user's senses are slowly subdued by verita's profound psychotropic effects - his perception slowly shifts, revealing the cosmic interplay of fates and history, with some addicts claiming that they can "see through time", gaining insight to unknown truths and incredible visions. Most would assume that verita's gifts are simply an incredibly vivid hallucination, but investigators from Scintilla's ruling houses as well as the Inquisition have hypothesised that the drug may well bestow the user with immersive visions that transcend the mortal perception of time. As a result, the drug is incredibly illegal, with the act of distribution being deemed a Moral Threat and carrying the harshest of penalties. Verita's composition is totally unknown, and careful chem-analysis reveal a bewildering array of trace constituents that defy identification. The substance itself typically takes the form of a thick blue liquid in a sealed ampoule - if cracked open, a smell of unknown flowering blossoms mixed with including the Inquisition's Calixian Conclave - room long after the drug has been swallowed. btle undertone of decay will permeate the
-
-A dose of verita takes about 20 minutes to become effective, after which the user finds himself slowly immersed in alien visions and sensations that can show all matters of mindblowing weirdness. For the duration of the drug' effect, these vivid perceptions impose a -20 penalty on all Perception-based Tests and reduce the user's Willpower by 10 points. Verita lasts for 3d10 hours, after which the user must succeed on a Challenging (+0) Willpower Test or else gain 1d5 Insanity Points from a vision that was particularly terrifying or unsettling. If the character gained any Insanity as a result of failing the Test they also have a 20% chance of gaining 1d5 Corruption Points as they take a little too much of their hallucinations to heart. Because of the incredibly vivid nature of veritainduced visions, the GM may wish to award that ch aracter some form of insight or foreknowledge of future threats or events relevant to that character's own challenges or efforts.
-
-Fellowship) each day he goes without another dose, up to a maximum of -20. stinence to overcome a ve Verita is addictive, but possesses a unique addiction mechanic. If a user ever spends more than 20 hours under the effect of one dose of verita he becomes addicted, suffering a gradually more debilitating malaise until he can witness more insight into future unknowns. The addict can function normally for a number of days equal to his Willpower Bonus, after which he suffers a cumulative -5 penalty to his mental Characteristics (Intelligence, Perception, Willpower, and It takes a full month of ab rita addiction.
+Verita is addictive, but possesses a unique addiction mechanic. If a user ever spends more than 20 hours under the effect of one dose of verita he becomes addicted, suffering a gradually more debilitating malaise until he can witness more insight into future unknowns. The addict can function normally for a number of days equal to his Willpower Bonus, after which he suffers a cumulative -5 penalty to his mental Characteristics (Intelligence, Perception, Willpower, and Fellowship) each day he goes without another dose, up to a maximum of -20. It takes a full month of abstinence to overcome a verita addiction.
 
 #### White Void (Drug)
 
-White void is a notably popular drug that sends the user into a peacefully hazy state where they are comforted by nondescript feelings of beatific well-being. The stuff is fairly simple to make and appears to be derived entirely from synthetic medicinal compounds that can be easily acquired on just about any developed Imperial world. Unlike many drugs, white void cannot be taken on its own - the powdery product is typically dissolved in water into which
+White void is a notably popular drug that sends the user into a peacefully hazy state where they are comforted by nondescript feelings of beatific well-being. The stuff is fairly simple to make and appears to be derived entirely from synthetic medicinal compounds that can be easily acquired on just about any developed Imperial world. Unlike many drugs, white void cannot be taken on its own - the powdery product is typically dissolved in water into which a pack of lho-sticks are immersed. When the water dries out - evaporation works best, but it can be boiled in a pinch - the white void-laced lho sticks are smoked normally. Long-term usage of white void tends to cause discoloration of the eyes, eventually leaving the user's oculars totally colorless and appearing nothing more than black pupils on a vast expanse of white. White void is extremely addictive and can hook regular users with the utmost of ease, but it is no more deleterious to one's constitution than smoking regular lho-sticks.
 
-ictive and can hook re a pack of lho-sticks are immersed. When the water dries out - evaporation works best, but it can be boiled in a pinch - the white void-laced lho sticks are smoked normally. Long-term usage of white void tends to cause discoloration of the eyes, eventually leaving the user's oculars totally colourless and appearing nothing more than black pupils on a vast expanse of white. White void is extremely add gular users with the utmost of ease, but it is no more deleterious to one's constitution than smoking regular lho-sticks.
+Once smoked, white void takes 1d5+5 minutes to become effective. A character smoking a lho-stick laced with white void gains a +20 bonus on any Willpower-based Tests for 1d10 minutes. After the initial high expires, the user's improved mood and feelings of confidence still impart a +5 bonus on Tests made to resist Fear and Pinning for another 1d5 hours. When the drug completely wears off, the user finds himself left with a surly and dour attitude, suffering a -20 penalty to any Fellowship-based Tests for the same amount of time that he was under white void's effect.
 
-nd dour attitude, suffering a -20 pe Once smoked, white void takes 1d5+5 minutes to become effective. A character smoking a lhostick laced with white void gains a +20 bonus on any Willpower-based Tests for 1d10 minutes. After the initial high expires, the user's improved mood and feelings of confidence still impart a +5 bonus on Tests made to resist Fear and Pinning for another 1d5 hours. When the drug completely wears off, the user finds himself left with a surly a nalty to any Fellowship-based Tests for the same amount of time that he was under white void's effect.
-
-e e weeks of ab A character who takes three or more doses of white void in a weeklong period must pass a Hard (-20) Willpower Test or become addicted, thereafter starting each day with on level of Fatigue that cannot be removed except by taking a dose. It takes thre stinence to overcome a white void addiction.
+A character who takes three or more doses of white void in a week long period must pass a Hard (-20) Willpower Test or become addicted, thereafter starting each day with on level of Fatigue that cannot be removed except by taking a dose. It takes three weeks of abstinence to overcome a white void addiction.
 
 #### Zumthorian Greyve (Drug)
 
-This drug was virtually unknown in the broader Calixis Sector until after the Tranch Insurrection, the flow of refugees and escaped mutants from that world settling on the lonely frontier planet Zumthor discovering "the Greyve" and helping spread it to nearby worlds. Made from mashed-up purplish flowers that grow like weeds, Greyve induces an incredibly powerful relaxing and sedative effect that seems to detach the user from the world around him. On a neural level, the user becomes shrouded in a thick fog that blots out most external stimuli. What's more, the drug appears to actually pass on some resistive effects to the user's biologics
+This drug was virtually unknown in the broader Calixis Sector until after the Tranch Insurrection, the flow of refugees and escaped mutants from that world settling on the lonely frontier planet Zumthor discovering "the Greyve" and helping spread it to nearby worlds. Made from mashed-up purplish flowers that grow like weeds, Greyve induces an incredibly powerful relaxing and sedative effect that seems to detach the user from the world around him. On a neural level, the user becomes shrouded in a thick fog that blots out most external stimuli. What's more, the drug appears to actually pass on some resistive effects to the user's biologics too, making them curiously resilient to physical stress and fatigue as well as blunt trauma. However, the user must exert great effort to do anything but laze about until he's "out of the Greyve", with most lacking the fortitude to do much more than idly hum or fiddle with their own anatomy. While fairly simple to manufacture, only limited amounts of prepared Greyve make it off Zumthor on a regular basis, and as a result it has a markedly higher street price than even the most potent obscura. Combined with its highly addictive qualities, trading in Greyve is a very lucrative business for the nacro-gangers cutthroat enough to engage in trafficking it and connected enough to obtain the stuff in the first place. On Zumthor itself, however, the prepared drug is worth only slightly more than a cup of recaf, with many more indolent citizens growing it in private plots for their own indulgence.
 
-t enough to engage in tr too, making them curiously resilient to physical stress and fatigue as well as blunt trauma. However, the user must exert great effort to do anything but laze about until he's "out of the Greyve", with most lacking the fortitude to do much more than idly hum or fiddle with their own anatomy. While fairly simple to manufacture, only limited amounts of prepared Greyve make it off Zumthor on a regular basis, and as a result it has a markedly higher street price than even the most potent obscura. Combined with its highly addictive qualities, trading in Greyve is a very lucrative business for the nacro-gangers cutthroa afficking it and connected enough to obtain the stuff in the first place. On Zumthor itself, however, the prepared drug is worth only slightly more than a cup of recaf, with many more indolent citizens growing it in private plots for their own indulgence.
+Depending on preparation, Zumthorian Greyve can be injected or smoked, becoming effective in 3d10 Rounds or 1d5 minutes, respectively. Its effects last for 2d5 hours, during which time the user becomes completely immune to Fatigue, Fear, Stunning, Pinning, and automatically succeeds on any Tests to resist Interrogation. Additionally, should the user sustain any Impact-based Critical Damage that requires a Toughness Test to resist, they gain a +20 bonus to that Test. However, the drug also reduces their Intelligence and Perception Characteristics by 30 for the duration, and they must succeed on a Hard (-30) Willpower Test any time they wish to take any actions other than loafing around or some other pointless idling.
 
-fective in 3d10 Rounds or 1d5 minutes, respectively. Its effects last for 2d5 hours, during which time the user becomes completely immune to Fatigue, Fear, Stunning, Pinning, and Depending on preparation, Zumthorian Greyve can be injected or smoked, becoming ef
-
-o re automatically succeeds on any Tests to resist Interrogation. Additionally, should the user sustain any Impact-based Critical Damage that requires a Toughness Test to resist, they gain a +20 bonus to that Test. However, the drug als duces their Intelligence and Perception Characteristics by 30 for the duration, and they must succeed on a Hard (-30) Willpower Test any time they wish to take any actions other than loafing around or some other pointless idling.
-
-bat, infiltration, or meeting with tedious people, they must succeed on an Ordinary (+10) Willpower Test or suffer a -10 penalty to the aforementioned Skill Test. It takes three weeks of abstinence to overcome a Greyve addiction. If the user takes more than three doses of Zumthorian Greyve within a week of one another he must pass a Hard (-20) Willpower Test or become addicted. An addict can go up to 1d5-1 days (minimum 1) before starting to suffer withdrawals that gift them an irritable and easily agitated demeanour. Until the addict gets back "in the Greyve" they suffer a -10 penalty to Fellowship-based Skill Tests; additionally, any time the addict must make a Skill Test in a stressful situation, such as during com
+If the user takes more than three doses of Zumthorian Greyve within a week of one another he must pass a Hard (-20) Willpower Test or become addicted. An addict can go up to 1d5-1 days (minimum 1) before starting to suffer withdrawals that gift them an irritable and easily agitated demeanour. Until the addict gets back "in the Greyve" they suffer a -10 penalty to Fellowship-based Skill Tests; additionally, any time the addict must make a Skill Test in a stressful situation, such as during combat, infiltration, or meeting with tedious people, they must succeed on an Ordinary (+10) Willpower Test or suffer a -10 penalty to the aforementioned Skill Test. It takes three weeks of abstinence to overcome a Greyve addiction. 
 
 ## Tools & Equipment
 
 Many pieces of gear don't readily fall into a more specific classification or purpose. This section covers a broad spectrum of equipment that is generally designed to perform a certain task or aid the user in a specific endeavour. More generic tools and equipment are listed first, while specialised and region/world-specific bits of gear follow in subsequent categories.
 
-### Arms Coffer
-
-These heavy-duty lockers and cases are designed to safely transport weapons in noncombat situations, protecting their machine spirits from disgruntling conditions as well as an at tractive finish from being scuffed or beaten around. They tend to take the form of flat, oblong containers with reinforcement ribbing and sturdy latches and hinges that communicate a sense of durability - the insides are typically lined with polyfoam, rubber, or some other material that provides cushioning and impact resistance. An arms coffer includes the necessary hardware to attach locking mechanisms, be they simple tension-shackles or advanced gene-locks, and most form an airtight seal to protect the weapons within from the environment as well as pilfering hands.
-
-chine oil, removable gun sights, and so forth. Unless r will float if im With some variances, an arms coffer can typically carry either two Basic weapons or six Pistols weapons and "enough" ammunition for the same, along with other sundry items such as a maintenance kit, bottles of sacred ma drastically overloaded, an arms coffe mersed in most liquids.
-
-#### Auspex/Scanner
-
-"Auspex" is a general term for a category of sensor and scanning devices that can detect energy emissions, motion and movement, and
-
 | Tools & Equipment                                          |          |        |              |     |
 | ---------------------------------------------------------- | -------- | ------ | ------------ | --- |
 | Name                                                       | Wt       | Cost   | Availability |     |
-| Arms Coffer                                                | 6kg      | 100    | Average      |     |
-| Auspex/Scanner                                             | 0.5kg    | 145    | Scarce       |     |
-| Auto-Quill                                                 | 3kg      | 150    | Scarce       |     |
-| Cast Spray                                                 | 0.4kg    | 60     | Average      |     |
-| Cognomen                                                   | -        | Varies | Plentiful    |     |
-| Combi-Tool                                                 | 1kg      | 200    | Rare         |     |
-| Compass/Orienter                                           | -        | 25     | Scarce       |     |
-| Data-Slate†                                                | 0.5kg    | 20     | Common       |     |
+| [[#Arms Coffer]]                                           | 6kg      | 100    | Average      |     |
+| [[#Auspex/Scanner]]                                        | 0.5kg    | 145    | Scarce       |     |
+| [[#Auto-Quill]]                                            | 3kg      | 150    | Scarce       |     |
+| [[#Cast Spray]]                                            | 0.4kg    | 60     | Average      |     |
+| [[#Cognomen]]                                              | -        | Varies | Plentiful    |     |
+| [[#Combi-Tool]]                                            | 1kg      | 200    | Rare         |     |
+| [[#Compass/Orienter]]                                      | -        | 25     | Scarce       |     |
+| [[#Data-Slate]]†                                           | 0.5kg    | 20     | Common       |     |
 | Glow-Globe/Lamp Pack                                       | 0.5kg    | 15     | Abundant     |     |
 | Grapnel                                                    | 2kg      | 30     | Common       |     |
 | Igniter                                                    | -        | 10     | Abundant     |     |
@@ -888,6 +846,16 @@ chine oil, removable gun sights, and so forth. Unless r will float if im With so
 | Writing Kit                                                | 2kg      | 20     | Common       |     |
 | †This item's Craftsmanship has one or more special effects |          |        |              |     |
 
+#### Arms Coffer
+
+These heavy-duty lockers and cases are designed to safely transport weapons in noncombat situations, protecting their machine spirits from disgruntling conditions as well as an at tractive finish from being scuffed or beaten around. They tend to take the form of flat, oblong containers with reinforcement ribbing and sturdy latches and hinges that communicate a sense of durability - the insides are typically lined with polyfoam, rubber, or some other material that provides cushioning and impact resistance. An arms coffer includes the necessary hardware to attach locking mechanisms, be they simple tension-shackles or advanced gene-locks, and most form an airtight seal to protect the weapons within from the environment as well as pilfering hands.
+
+With some variances, an arms coffer can typically carry either two Basic weapons or six Pistols weapons and "enough" ammunition for the same, along with other sundry items such as a maintenance kit, bottles of sacred machine oil, removable gun sights, and so forth. Unless drastically overloaded, an arms coffer will float if immersed in most liquids.
+
+#### Auspex/Scanner
+
+"Auspex" is a general term for a category of sensor and scanning devices that can detect energy emissions, motion and movement, and
+
 biological life signs. Auspex units come in a range of sizes, with smaller types being able to fit in a modest belt pouch with a wire connection to a wrist- or visor-mounted display while heavier vehicular models might be the size of a man's torso. Larger auspex units generally have a greater scanning distance and can more easily detect hidden objects. Though eminently useful during exploration and scouting endeavours, an auspex must be carefully manipulated in order to achieve the desired effect - a unit whose machine spirit is not adequately mollified will often report the presence of nonexistent objects or threats.
 
 Common handheld auspex units take the form of a single housing about the size of a large dataslate or a two-piece affair with a cable-connected display. An auspex can be used in an automatic scan mode or can be manually activated to do more intensive examination of the area. In automatic mode, an auspex grants the user a +20 bonus to Opposed Awareness Tests against other characters or creatures using the Concealment Skill or benefitting from environmental concealment such as smoke or brush. In manual mode, the user must succeed on an Ordinary (+10) Tech-Use Test, with success revealing the presence of living creatures and most types of weapons, moving objects larger than common
@@ -896,33 +864,25 @@ insects, and potentially other hidden dangers such as radiation or toxic gases i
 
 #### Auto-Quill
 
-An esoteric though undoubtedly useful device, auto-quills are a boon to adepts and anyone else who must deal with written records for any period of time. Auto-quills typically take the form of small metallic or wooden cabinets large enough to feed reams of paper or rolls of parchment through, with a runeboard or keypad attached to one end not unlike a personal cogitator. The other end feeds the paper in where one or two pairs of small servo-arms convert the user's keystrokes into written words and prose on the chosen medium. Using an auto-quill requires some training before useful copies and prints can be made - the user must become very judicious in his finger-tapping as an auto-quill happily duplicates errors just as
+An esoteric though undoubtedly useful device, auto-quills are a boon to adepts and anyone else who must deal with written records for any period of time. Auto-quills typically take the form of small metallic or wooden cabinets large enough to feed reams of paper or rolls of parchment through, with a runeboard or keypad attached to one end not unlike a personal cogitator. The other end feeds the paper in where one or two pairs of small servo-arms convert the user's keystrokes into written words and prose on the chosen medium. Using an auto-quill requires some training before useful copies and prints can be made - the user must become very judicious in his finger-tapping as an auto-quill happily duplicates errors just as well, and there of minor rites that must be fore using the device in order to ensure reliable transfer. Once a user has "gotten the stroke of it", however, many wonder how they wrote at all before using one.
 
-> are a handful s that must be fore using the device in order to ensure sfer. Once a user the stroke of it", however, many wonder how ll before using well, and there of minor rite observed be reliable tran has "gotten they wrote at a one.
+A character using an auto-quill gains a +10 bonus to Trade (Copyist) Test in any situation where the written material can be used with an auto-quill. a Good Craftsmanship auto-quill grants a +20 bonus as well as producing written text that will fool all but the most discerning eye into thinking it was written by hand.
 
-ter using an auto- +10 bonus to yist) Tests in any here the written be used with an auto-quill. A Good auto-quill bonus as well as g written text that A charac quill gains a Trade (Cop situation w material can Craftsmanship grants a +20 producin
+#### Cast Spray
 
-46
+As the name suggests, this handy metallic can contains an aerosol spray that hardens into a sturdy and impact-resistant mass suitable for bracing a broken bone. The spray is also laced with procoagulants and antibacterial agents which help greatly in preventing infection in perilous compound fractures. Cast spray is frequently added to medikits to improve the capability of the medic to treat broken bones, but can also be carried and used by itself as its application is fairly intuitive.
 
-will fool into thinking it all but the most discerning eye was written by hand.
-
-#### Cast S pray
-
-As th c can ontains into a e name suggests, this handy metalli c an aerosol spray that hardens sturdy and impact-resistant mass suitable for bracing a broken bone. The spray is also laced with procoagulants and antibacterial agents which help greatly in preventing infection in perilous compound fractures. Cast spray is frequently added to medikits to improve the capability of the medic to treat broken bones, but can also be carried and used by itself as its application is fairly intuitive.
-
-cast spray allows the victim of a A medic using broken bone to roll twice and choose the more favourable result when making the Toughness Test to retain the limb (see _Dark Heresy_, page 211 for more information on Broken Limbs and their treatment). It also provides a +20 bonus to any Tests made to stop Blood Loss, though it may leave the character partly immobilised even if they don't have a broken bone at all. One can of cast spray is sufficient for three applications, after which it is usually discarded. Using cast spray is a Full Action.
+A medic using cast spray allows the victim of a broken bone to roll twice and choose the more favourable result when making the Toughness Test to retain the limb (see _Dark Heresy_, page 211 for more information on Broken Limbs and their treatment). It also provides a +20 bonus to any Tests made to stop Blood Loss, though it may leave the character partly immobilised even if they don't have a broken bone at all. One can of cast spray is sufficient for three applications, after which it is usually discarded. Using cast spray is a Full Action.
 
 #### Cognomen
 
-ia of the issuing hive, the owner belongs to. A "Cognomen" is the official Administratum designation for standardised forms of citizen identification used on most developed worlds in the Calixis Sector. These take a variety of forms ranging from thin plastek cards with raised text and possibly an etched pict or other visual aid to small implants in the user's hand or arm that can be read by a compatible scanner from a short distance away. The most common variety are used on hive worlds and invariably take the form of a small metal card with a unique series of punches removed from the upper half while the lower half bears the insign guild, or Adepta that hiver's cognomen is a frighteningly important item - depending on the world and the citizen's specific condition, the cognomen may well be the owner's entire life and legal identity.
+A "Cognomen" is the official Administratum designation for standardised forms of citizen identification used on most developed worlds in the Calixis Sector. These take a variety of forms ranging from thin plastek cards with raised text and possibly an etched pict or other visual aid to small implants in the user's hand or arm that can be read by a compatible scanner from a short distance away. The most common variety are used on hive worlds and invariably take the form of a small metal card with a unique series of punches removed from the upper half while the lower half bears the insignia of the issuing hive, guild, or Adepta that the owner belongs to. A hiver's cognomen is a frighteningly important item - depending on the world and the citizen's specific condition, the cognomen may well be the owner's entire life and legal identity.
 
-bit a block or dormitory, be served in refectories and cafetoriums, and even simply to enter their workplace and conduct labour are all granted by the flash or swipe of a cognomen, making losing one a terrifying process. Without any proof of their status or identity, a hiver could well face starvation, abandonment, arrest, being forced to recidivism, or - possibly worst of all - seeking refuge in the underhive. Procedures exist for a hiver to petition for a replacement cognomen, but the length of time involved can sometimes be astronomical when compared to the immediate needs of food and housing. Because of their great importance, leading to expressions like "you are your 'cog'", there is a thriving black market in stolen and fraudulent cognomen, with the price reaching up into the thousands for more comfortable occupations (manufactorum foremen, hab supervisors and public inspectors tend to be the most highly sought). Of course, the penalty for such impropriety can be steep. Authorisation to inha
+Authorisation to inhabit a block or dormitory, be served in refectories and cafetoriums, and even simply to enter their workplace and conduct labour are all granted by the flash or swipe of a cognomen, making losing one a terrifying process. Without any proof of their status or identity, a hiver could well face starvation, abandonment, arrest, being forced to recidivism, or - possibly worst of all - seeking refuge in the underhive. Procedures exist for a hiver to petition for a replacement cognomen, but the length of time involved can sometimes be astronomical when compared to the immediate needs of food and housing. Because of their great importance, leading to expressions like "you are your 'cog'", there is a thriving black market in stolen and fraudulent cognomen, with the price reaching up into the thousands for more comfortable occupations (manufactorum foremen, hab supervisors and public inspectors tend to be the most highly sought). Of course, the penalty for such impropriety can be steep. 
 
 #### Combi-Tool
 
-Combi-Tools are immeasurably serviceable pieces of equipment that improve their owner's ability to manipulate many different types of machines and other forms of tech. A combi-tool can be found in innumerable patterns and shapes, but the most common variety take the form of a sturdy metal box that scissors open to reveal a plethora of attached implements that can be folded out and put to work. Combi-tools will typically include a full set of bits and drivers, small-size sockets and adjustable wrench heads, pliers and tongs, several blades, probes, a current detector, magnetic attractor, accessor-tines for use with cogitator maintenance, and probably a few other attachments as well. Outside of the Mechanicus, where ornate combi-tools are given to initiate enginseers as a mark of merit and accomplishment, it is likely that most owners of a combi-tool aren't sure what at least one of its attachments is meant to be used for. Regardless of their type, however, a combi-tool will invariably have at least one reinforced and hardened strike-plate for the sole purpose of
-
-thwacking sacred runes to awaken a machine's slumbering spirit.
+Combi-Tools are immeasurably serviceable pieces of equipment that improve their owner's ability to manipulate many different types of machines and other forms of tech. A combi-tool can be found in innumerable patterns and shapes, but the most common variety take the form of a sturdy metal box that scissors open to reveal a plethora of attached implements that can be folded out and put to work. Combi-tools will typically include a full set of bits and drivers, small-size sockets and adjustable wrench heads, pliers and tongs, several blades, probes, a current detector, magnetic attractor, accessor-tines for use with cogitator maintenance, and probably a few other attachments as well. Outside of the Mechanicus, where ornate combi-tools are given to initiate enginseers as a mark of merit and accomplishment, it is likely that most owners of a combi-tool aren't sure what at least one of its attachments is meant to be used for. Regardless of their type, however, a combi-tool will invariably have at least one reinforced and hardened strike-plate for the sole purpose of thwacking sacred runes to awaken a machine's slumbering spirit.
 
 A character using a combi-tool gain a +10 bonus to Tech-Use and Trade (Technomat) Tests when working with Imperial tech and mechanisms, though they may also be compatible with machinery of unknown or xeno provenance as well. Note that a combi-tool can't be used in all situations, and generally requires the user to have both hands free to manipulate the combi-tool and the item it is being used on.
 
@@ -934,15 +894,16 @@ When used in conjunction with a map or personal geographic knowledge a compass o
 
 #### Data-Slate
 
-more durable th typically powered depending on t construction, a dat for days or weeks connected to a p reserves. In most information it ca has no power. The function can typically be cat Item Craftsmanshi considerable varian Data-slates are a nearly ubiquitous sight across much of the Imperium, and it is often said that there are likely more styles and patterns of these humble devices than there are worlds under the God-Emperor's gaze. In general, a data-slate is designed to display some form of media typically text or graphs, but more advanced models can also be used to render vox or vidrecordings, with some costly patterns even incorporating a hololith or projector. The core components of a data-slate belong to wellunderstood STCs and as a result they can be produced in staggering quantities with minimal e used simply because they're an paper. Data-slates are off of an internal charge cell he quality of the slate's a-slate may be able to be used at a time before it must be ower source to replenish its cases, a data-slate retains rried even when it s and utility of a data-slate egorized on the same scale as p, but even then there can be ce:
+Data-slates are a nearly ubiquitous sight across much of the Imperium, and it is often said that there are likely more styles and patterns of these humble devices than there are worlds under the God-Emperor's gaze. In general, a data-slate is designed to display some form of media typically text or graphs, but more advanced models can also be used to render vox or vidrecordings, with some costly patterns even incorporating a hololith or projector. The core components of a data-slate belong to well understood STCs and as a result they can be produced in staggering quantities with minimal expense - many are used simply because they're more durable than paper. Data-slates are off of an internal charge cell - depending on the quality of the slate's construction, a data-slate may be able to be used for days or weeks at a time before it must be connect to a power source to replenish its reserves. In most cases, a data-slate retains the information it carried even when it has no power. The functions and utility of a data-slate can typically be categorized on the same scale as Item Craftsmanship, but even then there can be considerable variance:
 
-Poor: A simple encountered in an alloy housing. The designed to display be used to do anyt monotask example typically inexpensive plastek or soft se very basic slates are only text, and by and large cannot hing but display the data that is initially printed into them. Some can be repurposed later, but most use cheap "single use" data-coils that can only be written to once.
+**Poor:** A simple mono task example typically encountered in an inexpensive plastic or soft alloy housing. These very basic slates are only designed to display only text, and by and large cannot be used to do anything but display the data that is initially printed into them. Some can be repurposed later, but most use cheap "single use" data-coils that can only be written to once.
 
-hese slates appear to be similar to th or an additional 10 T Common: T e Poor Craftsmanship version described above, but have denser data-coils that are doubled up in the slightly thicker housing. This allows the contained text to be cleared out and filled again when connected to a cogitator, dataloom, or other device capable of recording text. Even cheap slates usually have enough memory to store quite a bit of text on it, with some models able to store an entire volume of the Psalms of Saint Drusus in a package that can be slipped into a pants pocket. F hrones, data-slates of Common Craftsmanship (or better) can be obtained with a built-in microvox that can receive data from the public info-nets that exist in some grander hive cities.
+**Common:** These slates appear to be similar to the Poor Craftsmanship version described above, but have denser data-coils that are doubled up in the slightly thicker housing. This allows the contained text to be cleared out and filled again when connected to a cogitator, dataloom, or other device capable of recording text. Even cheap slates usually have enough memory to store quite a bit of text on it, with some models able to store an entire volume of the Psalms of Saint Drusus in a package that can be slipped into a pants pocket. For an additional 10 thrones, data-slates of Common Craftsmanship (or better) can be obtained with a built-in microvox that can receive data from the public info-nets that exist in some grander hive cities.
 
--slates of this type tend to be larger than their lesser brethren, boasting a screen that's about the size of a Good: No longer a simple device to merely store text, a Good Craftsmanship data-slate is capable of storing and replaying picts, vids and voxlogs as well, making it a truly multipurpose device. The higher cost and workmanship is typically represented by a shiny alloy housing that is often finished with brass or copper around the edges. Data large and clear roll of parchment. A minority are the inverse, however, with high-quality components that allow the slate to be barely larger than a deck of cards - this style is often favoured by those that must travel light, though the tiny screen can be hard to read at times.
 
-Best: Top-of-the-line patterns begin to blur the line between data-slate and personal cogitator, and are often constructed with a finely lacquered wooden housing, though brushed or chromed metal examples can also be found. These data-slates are both durable and functional, often containing built-in pict- or vidstealers and almost always including a vox pickup for taking verbal notations. A data-slate of this quality might also have such features as a gene-lock so only assigned users can access its information, an emergency purge feature that completely wipes the slate's data-coils, and even a miniature thermal-writer that can transfer text or picts stored on the slate to a small-size roll of special heat-reactive paper. For twice the cost, a Best Craftsmanship data-slate may be fitted with a hololith display or projector suitable for displaying its contents to an audience.
+**Good:** No longer a simple device to merely store text, a Good Craftsmanship data-slate is capable of storing and replaying picts, vids and voxlogs as well, making it a truly multipurpose device. The higher cost and workmanship is typically represented by a shiny alloy housing that is often finished with brass or copper around the edges. Data-slates of this type tend to be larger than their lesser brethren, boasting a large and clear screen that's about the size of a roll of parchment. A minority are the inverse, however, with high-quality components that allow the slate to be barely larger than a deck of cards - this style is often favoured by those that must travel light, though the tiny screen can be hard to read at times.
+
+**Best:** Top-of-the-line patterns begin to blur the line between data-slate and personal cogitator, and are often constructed with a finely lacquered wooden housing, though brushed or chromed metal examples can also be found. These data-slates are both durable and functional, often containing built-in pict- or vidstealers and almost always including a vox pickup for taking verbal notations. A data-slate of this quality might also have such features as a gene-lock so only assigned users can access its information, an emergency purge feature that completely wipes the slate's data-coils, and even a miniature thermal-writer that can transfer text or picts stored on the slate to a small-size roll of special heat-reactive paper. For twice the cost, a Best Craftsmanship data-slate may be fitted with a hololith display or projector suitable for displaying its contents to an audience.
 
 #### Glow-globe/Lamp Pack
 
@@ -954,9 +915,9 @@ This sample example provides illumination in a 10 to 15 metre radius for about t
 
 When you need to reach a vertically distant area or object, a grapnel is often the quickest and easiest way to make the ascent. The most common examples used on developed worlds (and by explorers on regional backwaters) take the form of a crossbow or gas-gun with a metallic frame that fires a hooked or magnetic anchor trailing a long length of wire (most have a spool that will go about 100 metres). Once the grapnel has secured itself to the desired location, the firer can climb the line or winch himself up using the grapnel's own spool mechanism. Grapnels are commonly thought of as being a tool for explorers blazing trails through perilous feral jungles and mountains, but they are just as commonly used by manufactorum workers to ascend tall gantries or the support ribbing of industrial vaults, while particularly bold recidivists (and assassins...) have been more rarely known to use a grapnel to make their way up the exterior of hive spires, sometimes for several levels or more, to reach an exposed balcony or window belonging to their target.
 
-Firing a grapnel does not require a Test unless the user wishes to hit a specific target, such as a single outcropping, pipe, or window ledge, in which case the user makes a Ballistic Skill Test which can benefit from the Aim Action. A drug into the user's blood stream. grapnel has a range of 50m but cannot be fired at
+Firing a grapnel does not require a Test unless the user wishes to hit a specific target, such as a single outcropping, pipe, or window ledge, in which case the user makes a Ballistic Skill Test which can benefit from the Aim Action. A drug into the user's blood stream. grapnel has a range of 50m but cannot be fired at an angle, giving it a maximum 
 
-ange, giving it a maximum ra grapnel unless he is using it in conjunction Long or Extreme R nge of 100m. A character can climb the extended cable, but the difficulty of the Climb Test is one step higher than if they were using knotted rope due to the smoothness of the cable. The grapnel's user can also employ the winch to ascend, in which case he can reel himself up at a rate of 5 metres per Round. No Tests are necessary to climb in this way, though the user must keep both hands on the with a clip/drop harness.
+ra grapnel unless he is using it in conjunction Long or Extreme R nge of 100m. A character can climb the extended cable, but the difficulty of the Climb Test is one step higher than if they were using knotted rope due to the smoothness of the cable. The grapnel's user can also employ the winch to ascend, in which case he can reel himself up at a rate of 5 metres per Round. No Tests are necessary to climb in this way, though the user must keep both hands on the with a clip/drop harness.
 
 #### Igniter
 
@@ -1008,7 +969,7 @@ lmost instantly by merely p Best: Also known as "magnacles", these finelycrafted
 
 Magnacles impose a -40 penalty on Contortionist and Security Tests made to escape, and each Test takes at least three times as long as usual to attempt. A character can force a magnacle open by succeeding on five successive Hellish (-60) Strength Tests.
 
-#### M antle-Shrine
+#### Mantle-Shrine
 
 can turn to an easily movable mantle-shrine to While resplendent to behold and humbling to enter, grand churches and cathedrals dedicated to the God-Emperor of Man are sorely lacking in portability. When a visit to a sanctioned chapel or church isn't possible, faithful Imperial citizens
 
@@ -1128,7 +1089,7 @@ A vox-caster is an invaluable tool for longdistance communication. Typically jus
 
 s those fo has been made, subsequent ke a Full Action. Depending on environmental conditions, such as ambient weather and the presence of large structures, a portable vox-caster can be used to communicate with other vox-casters up to 3,000 kilometres away. Larger vox units, such a und in Imperial Guard vehicles, may have a range two or three times higher. In all cases, using a vox-caster requires a successful Ordinary (+10) Tech-Use Test, with failure indicating the character only hears static. Establishing a connection to a given frequency takes one minute, though this time can be reduced by ten seconds for every degree of success on the operator's Tech-Use Test. Once the initial contact activations ta
 
-#### W eapon Maintenance Kit
+#### Weapon Maintenance Kit
 
 This is an essential kit for those who use guns and powered melee weapons and who can't have an ordained tech-priest tend to their weapons every night. Though it cannot fully replace the proper liturgical rituals and invocations, a weapon maintenance kit contains a variety of tools and items that will keep a weapon's machine spirit cooperative and eager between proper servicing. Common gear include lubricating oils and solvents, swabbing cloths, brushes and rod-handles, cleansing spray, and a silica towel to restore sheen and lustre on external parts. Imperial Guard-issued kits will often include other components specific to the maintenance of lasguns or pistols, such as barrel
 
@@ -1140,28 +1101,28 @@ on the world and societal level, a writing kit will contain s of animal vellum o
 
 A writing kit is generally necessary to make Trade (Copyist or Scrimshawer) Tests.
 
+### Primitive World Gear
+
 The Imperium of Man has lifted countless billions from the depths of savagery into civilised society where all bathe in the reflected glory of the God-Emperor. For various circumstances, though, many worlds remain in lower states of development. Most are simply waiting for the proper elevation and growth of Administratum and other Adepta, bringing industry and social indoctrination with them, though a minority have been deliberately left as they are for a variety of moral, social, or economic reasons. type have much less evolved tech th Worlds of this an other Imperial planets, but local gear and equipment can still be the margin between success and failure (perhaps life and death as well!) just as they are in the tallest of hive cities. Explorers and missionaries spending long periods of time on less-developed planets will often bring arsenals of tools and gear from proper Imperial stocks, but there are some who believe in truly absorbing the native existence and making do with only locally-available kit.
 
-Note that the Availability of any gear whose name lists it as being found on certain worlds only applies on that same world - it may be
+Note that the Availability of any gear whose name lists it as being found on certain worlds only applies on that same world - it may be  much rarer or totally nonexistent elsewhere.
 
-| Prim<br>itive World Gear |       |      |                                                            |
-| ------------------------ | ----- | ---- | ---------------------------------------------------------- |
-| Nam<br>e                 | Wt    | Cost | Availability                                               |
-| Caltrops                 | 1kg   | 5    | Common                                                     |
-| Capsican Trap†           | 3kg   | 20   | Scarce                                                     |
-| Glo-Slug†                | 0.1kg | 8    | Rare                                                       |
-| Kill Sticks              | 0.5kg | 1    | Plentiful                                                  |
-| Powder Bomb†             | 1.5kg | 15   | Scarce                                                     |
-| Skeleton Key             | -     | 100  | Near Unique                                                |
-| Skem Net†                | 2kg   | 85   | Rare                                                       |
-| Smoke Flare              | 0.4kg | 10   | Scarce                                                     |
-| Spark Rocks†             | -     | 5    | Common                                                     |
-| Stink Bomb               | 1kg   | 7    | Common                                                     |
-| †This ge<br>ar i         |       |      | s typically only found on worlds listed in its description |
+| Primitive World Gear                                                   |       |      |              |
+| ---------------------------------------------------------------------- | ----- | ---- | ------------ |
+| Name                                                                   | Wt    | Cost | Availability |
+| Caltrops                                                               | 1kg   | 5    | Common       |
+| Capsican Trap†                                                         | 3kg   | 20   | Scarce       |
+| Glo-Slug†                                                              | 0.1kg | 8    | Rare         |
+| Kill Sticks                                                            | 0.5kg | 1    | Plentiful    |
+| Powder Bomb†                                                           | 1.5kg | 15   | Scarce       |
+| Skeleton Key                                                           | -     | 100  | Near Unique  |
+| Skem Net†                                                              | 2kg   | 85   | Rare         |
+| Smoke Flare                                                            | 0.4kg | 10   | Scarce       |
+| Spark Rocks†                                                           | -     | 5    | Common       |
+| Stink Bomb                                                             | 1kg   | 7    | Common       |
+| †This gear is typically only found on worlds listed in its description |       |      |              |
 
-ally nonexistent elsewhere. much rarer or tot
-
-### Caltrops
+#### Caltrops
 
 Something of a primitive world's land mine, a caltrop is a length of twisted nail or spines ending in sharp tips. When thrown on the ground, a caltrop is designed to embed several of its sharp points into the soil, always leaving one pointing straight up. Caltrops are effective at disrupting the movement of enemy troops and beast-borne cavalry. Aside from the sharp point, particularly devious siege-planners have been known to coat large quantities of caltrops in venom or toxic spores to further magnify their effect as an area-denial weapon.
 
@@ -1223,19 +1184,13 @@ a victim's olfactory senses is a co dung-bloom" flo Assaulting mmon recourse for
 
 rown up to 10 metres. Provided it lands on any kind of solid surface, the air with an un A stink bomb can be th the bomb ruptures and fills believably foul smell. Anyone within 1d5+5 metres of the bomb's impact point must succeed on a Challenging (+0) Toughness Test every Round or gain a level of Fatigue from severe nausea - a character who can't get away from the miasma could pass out from the olfactory devastation alone. The stink persists for an hour outdoors and three times as long in an enclosed area. Characters who cannot smell, such as men who may be wearing filter plugs or victims of a sensory-depriving injury are entirely immune to a stink bomb's effects.
 
-## Infantry Gear
+### Infantry Gear
 
 It is said that all a Guardsman needs to win a battle is a guts and a lasgun, and while this may be true in spirit, it is a gross oversimplification of battlefield logistics, not to mention something of a slap in the face to the Imperial Guard's dutiful and stalwart quartermasters and logisters. Beyond a weapon and body armour, soldiers of various types, be they a Planetary Defence Force, a noble's house guards, naval armsmen, or one among billions in the Hammer of the Imperium itself, all tend to have a variety of kit at their disposal for the multitude of tasks and assignments they carry out.
 
 Whether it is intended for the rigours of combat or the vapidity of garrison duty, infantry gear all tends to have some kind of militaristic any pieces are catalogued purpose, and m inventory of the Departmento Munitorum. Infantry gear is typically found in the employment of military situations and groups, but accounting for the massive production base of the Imperial war machine, along with the often overtly militarised and jingoistic aspects of society and culture, it is not surprising to find pieces of infantry gear in the hands of citizens, largely including those who aren't demobilised Guard veterans, too.
 
-#### t Tool 9-70 Entrenchmen
-
-This handy shovel - 9 centimetres wide and 70 centimetres long - is a part of the standard kit of many Guard regiments where, despite its name, the tool's primary purpose is found in the filling of sandbags. However, units that lack access to proper excavation tools and equipment will sometimes use their 9-70s to dig boltholes and trenches - this is generally discouraged as the tool isn't quite long enough to effectively shovel dirt, but only a few NCOs would prefer regulations over having good cover in a firefight. The 9-70's alloy blade and handle make it quite light yet also very sturdy - aside from moving soil, it can also be used as a nasty improvised weapon, and some regiments have taken a particular liking to eschewing bayonets and knives in favour of their trusty 9-70s when handto-hand combat is inevitable.
-
-lee weapon, dealing 1d10 po If the edges have been sharpened to a point against Munitorum regulations but widely practiced anyway - a 9-70 Entrenchment Tool can be used as a me ints of Rending Damage with the Primitive and Unbalanced qualities.
-
-| nfantry Gear<br>I       |       |      |              |     |     |     |
+| Infantry Gear           |       |      |              |     |     |     |
 | ----------------------- | ----- | ---- | ------------ | --- | --- | --- |
 | Name                    | Wt    | Cost | Availability |     |     |     |
 | 9-70 Entrenchment Tool  | 2kg   | 15   | Average      |     |     |     |
@@ -1250,6 +1205,12 @@ lee weapon, dealing 1d10 po If the edges have been sharpened to a point against 
 | Tent                    | 9kg   | 35   | Average      |     |     |     |
 | Tool Kit                | 0.8kg | 15   | Common       |     |     |     |
 
+#### 9-70 Entrenchment Tool
+
+This handy shovel - 9 centimetres wide and 70 centimetres long - is a part of the standard kit of many Guard regiments where, despite its name, the tool's primary purpose is found in the filling of sandbags. However, units that lack access to proper excavation tools and equipment will sometimes use their 9-70s to dig boltholes and trenches - this is generally discouraged as the tool isn't quite long enough to effectively shovel dirt, but only a few NCOs would prefer regulations over having good cover in a firefight. The 9-70's alloy blade and handle make it quite light yet also very sturdy - aside from moving soil, it can also be used as a nasty improvised weapon, and some regiments have taken a particular liking to eschewing bayonets and knives in favour of their trusty 9-70s when handto-hand combat is inevitable.
+
+lee weapon, dealing 1d10 po If the edges have been sharpened to a point against Munitorum regulations but widely practiced anyway - a 9-70 Entrenchment Tool can be used as a me ints of Rending Damage with the Primitive and Unbalanced qualities.
+
 #### Bedroll
 
 Not everyone can look forward to sleeping on a cot or bed, especially in the field - in many cases, a soldier who desires something more comfortable than the dirt must bring it with him. Bedrolls are designed to be folded and rolled into a tight bundle that can sit atop or below a backpack, taking up a minimum of space and weight. Bedrolls tend to be generously cut so even the brawniest of Guardsmen can fully ensconce themselves in warm synth-fibre. Aside from sleeping, a bedroll can also be laid out to cushion a sniper's elbows and knees when lying prone, flung over the top of a bolthole to act as improvised camouflage from enemy flyers, and being flame-retardant - used to beat out small fires. Munitorum-issued bedrolls tend to be impregnated with poisons meant to kill small pests, though this effect wears off over time and may be entirely lost in second-hand examples.
@@ -1258,7 +1219,7 @@ Not everyone can look forward to sleeping on a cot or bed, especially in the fie
 
 Many military organisations maintain some form of grooming standards that everyone from front-line troops to supply officers and tacticians must adhere to. This is often due to local preference and a desire for a "professional" look, but in many cases serves a practical application as well, such as ensuring a close fit of a gas mask or helmet. A grooming kit will provide all the usual tools necessary for personal hygiene, such as shaving razors and soaps, dental brushes and pastes, counterseptic washes, and lotions or shampoos with antifungal or antiparasitic agents. Local and regimental variations abound, such as compact scissors for the tidy trimming of beards in groups where facial hair is common.
 
-## The Imperial Infantryman's Uplifting Primer
+#### The Imperial Infantryman's Uplifting Primer
 
 Equal parts field manual, prayer book, and identification, The Imperial Infantryman's Uplifting Primer is a small and sturdy publication printed in massive quantities for the Departmento Munitorum. When a Guardsman is first sworn to service he is issued a fresh copy of the primer and must keep it on his person at all times (failure to produce the issued Primer at the request of an officer is a disciplinary offence). The Primer contains several chapters on the regulations and policies of the Imperial Guard, an explanation of command structures (including a sizeable portion dedicated to instilling fear and respect of the Commissariat), and a large segment regarding the maintenance and utility of various pieces of issued equipment. The second half of the book is filled with useful field information, such as basic pointers on survival and foraging, a treatise on different types of foul xenos that a Guardsman may have to fight, and a sizeable portion of prayers, hymns, litanies and catechisms to reinforce the Guardsman's spirit and motivation. The rear cover contains biographical information about its owner - should the Guardsman be felled in combat, this page is torn out to verify its owner's death for regimental records and assist in informing next of kin (when feasible).
 
@@ -1268,7 +1229,7 @@ Each Guardsman's Primer is his main form of identification in formal circumstanc
 
 This variation on standard stab-lights is more robustly constructed with an armaplas housing and double-thickness focusing lens. The shape of an infantry lamp allows it to be held in the hand or tucked into a uniform pocket, and a special slot down the side means it can be securely fastened to the melee attachment lug found on most patterns of lasgun. Guardsmen moving in darkness are well served by such a configuration, as it allows them to illuminate a target and then promptly mow it down. Of course, it also gives away the user's position quite clearly, and veteran troops will often prefer to make do with their own natural night-vision if at all possible for just this reason.
 
-### Melta Bomb
+#### Melta Bomb
 
 va tes a simple manual omb detonates with incredible r, leaving the rget y us f it bee a melta weapon. Using a melta bomb very ste an and ed for diers attempt g to ive e ve F tely, elv de ned ite can withstand a lot of abuse without neous detonati owing the to thin arm's r of. Few handheld demolition tools are as destructive as a melta bomb. These cylindrical devices are designed to be dir riety of solid and otherwise impassable objects, such as bunkers, reinforced bulkheads, or the hulls of armoured vehicles, and include large magnetic or adhesive bands down the length of the device for this purpose. Once attached, the sapper activa detonator and must then find cover immediately before the b powe ta ver likely a smouldering ruin j t as i had n hit by large requires a ady h d measur response, especially knock out an act sol nemy in hicle. ortuna melta bombs thems es are sig to be qu stable and sponta on, all wielder fully focus on the multi-ton death machine he must get wi each
 
@@ -1360,11 +1321,7 @@ A Munitorum tool kit provides a +5 bonus to Trade (Technomat) Tests made when re
 
 "bomb" is set and can't be removed in any way. Moreover, poorly made or old cans can develop leaks, which slowly turn storage cases - or trouser pockets! - into bombs themselves with alarming efficiency. Because of this peril, bomb spray is rarely used for its original intended purpose, but the stuff is still manufactured for those intending more "destructive" effects, such as sabotage and laying stealthy traps.
 
-Applying bomb spray is a Full Action that coats a roughly 50 centimetre square with a matte orange colour. The bomb spray dries in three Rounds, after which any type of sharp impact causes it to explode. The detonation deals 1d5+3 points of Explosive Damage in a two metre blast. Additional applications of bomb spray increases the Damage by a further 1d5 and the Blast quality by 1. Attempting to apply a fourth dose of bomb spray causes the first layer
-
-72
-
-to detonate, so it is not possible to use more than three applications. A single can has enough aerosol for five applications of bomb spray. Good Craftsmanship bomb spray produces the same effect but the spray is a neutral colour that is far less obvious than the demolitions orange.
+Applying bomb spray is a Full Action that coats a roughly 50 centimetre square with a matte orange colour. The bomb spray dries in three Rounds, after which any type of sharp impact causes it to explode. The detonation deals 1d5+3 points of Explosive Damage in a two metre blast. Additional applications of bomb spray increases the Damage by a further 1d5 and the Blast quality by 1. Attempting to apply a fourth dose of bomb spray causes the first layer to detonate, so it is not possible to use more than three applications. A single can has enough aerosol for five applications of bomb spray. Good Craftsmanship bomb spray produces the same effect but the spray is a neutral colour that is far less obvious than the demolitions orange.
 
 #### Cogitator
 
@@ -1440,7 +1397,9 @@ crossing a line into medicae and chem-oriented solutions, which are often more d
 
 Disguise kits of this type grant a +30 bonus to Disguise Tests based on appearance, but only if the character using the kit also possesses the Medicae skill.
 
-riginal appearance, including a somewhat "w Best: These kits are broadly similar to lesser styles in use, but contain even more advanced tools and substances to completely bury the user's o atered-down" version of the infamous drug polymorphine. Giving enough time and talent, an infiltrator can disguise their form to resemble almost any other human, including changing gender quite convincingly, and some are even able to create an appearance more suggesting of a humanoid xenos-creature, though the kit's limits can't make up for those with substantially different biology (radically altered posture and large variances in physical dimension, for example). Those making use of these powerful and frankly dangerous tools have, on occasion, been known to become so thoroughly committed to their disguise that they begin to suffer from personality disorders, literally believing that they _are_ their disguise.
+riginal appearance, including a somewhat "w 
+
+Best: These kits are broadly similar to lesser styles in use, but contain even more advanced tools and substances to completely bury the user's o atered-down" version of the infamous drug polymorphine. Giving enough time and talent, an infiltrator can disguise their form to resemble almost any other human, including changing gender quite convincingly, and some are even able to create an appearance more suggesting of a humanoid xenos-creature, though the kit's limits can't make up for those with substantially different biology (radically altered posture and large variances in physical dimension, for example). Those making use of these powerful and frankly dangerous tools have, on occasion, been known to become so thoroughly committed to their disguise that they begin to suffer from personality disorders, literally believing that they _are_ their disguise.
 
 subterfuge is decreased by one step. If the user already has the Mimic talent then the difficulty of any Opposed Scrutiny Tests increases by one step instead. Depending on circumstances, a thoroughly disguised character may be able to fool gene-locks and other devices meant to measure biometric data. Top level disguise kits grant a +30 bonus to Disguise Tests, and also allow a disguised character to speak in a radically different fashion - the character is treated as if they had the Mimic talent, though the difficulty of Opposed Scrutiny Tests to detect the
 
@@ -1472,7 +1431,7 @@ if a vi due to a sudden infarction. An An excruciator grants the user a +30 bonu
 
 excruciator takes about an hour to set up due to its finicky machine spirits requiring lengthy rites and burning of incense before they will cooperate with the user. An excruciator's operator must have both the Medicae and Tech Use skills to make use of the sinister device.
 
-#### F orgery Kit A forgery kit is designed for one thing only: creating or modifying documents with false
+#### Forgery Kit A forgery kit is designed for one thing only: creating or modifying documents with false
 
 information or credentials. Typically thought of as being the purview of scummers and recidivists taking advantage of the Imperium's heavily bureaucratic nature, a forgery kit can be just as readily used by the forces of justice and retribution to sidestep normal formalities and observances as well as to infiltrate highlydeveloped organisations and cults. Depending on a forgery kit's level of sophistication and versatility, it may be used on existing writs and certifications on paper all the way up to purposemade data-slates and cognomen, though some especially sophisticated forms of security may well be immutable by even the best forger. Forgery is very often a capital offence on many worlds, especially those with a strong Administratum presence, and as a result skilled fo rgers are usually few and far between: the less talented of their ilk frequently winding up as scribe-servitors once their crimes are exposed.
 
@@ -1546,7 +1505,7 @@ bles and lines in abundance, whether for use in stabilising a ing an insulative 
 
 A line ascender can be attached to any reasonably smooth rope, cable, wire, or line that is free of obstructions and knots. Once attached, the user can grip the line ascender (using both hands) and ride it safely at a speed of up to their Agility Bonus in metres every round regardless of whether the ascender is moving up or down, horizontally or vertically. The ascender itself can move much faster, but the strong vibration and risk of getting caught up in the cable or mechanism can lead to disastrous accidents. A character can move up to twice his Agility Bonus by succeeding on an Ordinary (+10) Acrobatics Test or Challenging (+0) Agility Test, with failure indicating that he loses his grip on the ascender. As a safety feature, a line ascender will stop if it meets any kind of obstruction on the line that might inadvertently disengage the wheels. Attaching a line ascender is a Full Action and removing it is a Half Action.
 
-### Melta Gel
+#### Melta Gel
 
 d reactive pastes meant to fuse and cut metallic objects, unt of the intensity of A blanket term for highly compresse melta gel is so named on acco its white-hot reactions are akin to the results of a melta gun's discharge. Melta gel is most often used by the crews of voidships to perform
 
@@ -1614,9 +1573,9 @@ p When grasped in the hand, a psy-focus grants a +10 bonus to a psyker's Invocat
 
 b moky grey crystals e rked These strange quartz-like minerals began to appear in the Calixis Sector after the Koronus Expanse was opened. Initially considered to be little more than attractive conversation pieces, demand picked up considerably after it was found that the normally s gan to glow with a deep purple aura when in the presence of warp energies. These can be used for a variety of purposes - one whimsical touch is on the famous liner _Andrea Graza_ where the crystals are integrated into the halls of the passenger decks to indicate to the emba
 
-> ns when the vessel is in the warp - but by far the most sought-after application is in the detection of psykers themselves. Those who seek out and acquire these unusual and provocative items tend to have a deep-seated fear or concern that those with extraordinary powers may be spying on their activities, or worse, lurking around corners with nefarious intentio in mind. The fact that psycrystals tend to be found on barren, dead worlds that once hosted verdant life before some sort of cataclysmic event obliterated the biosphere (a worryingly common occurrence in the Koronus Expanse) has given them a slightly disquieting reputation in spite of their obvious utility, with some suggesting that the crystals themselves are cursed.
+ns when the vessel is in the warp - but by far the most sought-after application is in the detection of psykers themselves. Those who seek out and acquire these unusual and provocative items tend to have a deep-seated fear or concern that those with extraordinary powers may be spying on their activities, or worse, lurking around corners with nefarious intentio in mind. The fact that psycrystals tend to be found on barren, dead worlds that once hosted verdant life before some sort of cataclysmic event obliterated the biosphere (a worryingly common occurrence in the Koronus Expanse) has given them a slightly disquieting reputation in spite of their obvious utility, with some suggesting that the crystals themselves are cursed.
 
-> sufficient. The crystal gives off a rich A psycrystal requires no activation or input from its wielder whatsoever simply having it where it can be seen is
+sufficient. The crystal gives off a rich A psycrystal requires no activation or input from its wielder whatsoever simply having it where it can be seen is
 
 purple hue about as bright as a candle when any of the following exists or occurs within a five m sed on anyone or anything. Much m etre radius: a creature or character with a Psy Rating or under the effects of Spook; an object or item recently held by a psyker or which has a strong psychic attunement; or a psychic power or effect is u ore powerful psychic effects, such as a voidship entering the warp or the summoning of a greater daemon may cause a psycrystal to flare up even if it is occurring significantly further away. Psykers seem to have an innate dislike of psycrystals, finding them to be uncomfortably hot to the touch and generally off-putting in an indescribable way. Sustained contact with one for more than a few moments will begin to cause burns that will increase in severity until the psyker begins taking actual Energy Damage.
 
@@ -1672,7 +1631,7 @@ The vox-tracker itself weighs 6kg - the remaining 5kg is the interceptor array, 
 
 success gives the di returns an even more positive result, entifying the exact distance out to a 1d5 metre ell as the exact angle and bearing. Fa environment is tricky or there are other hazards to negotiate. Once armed, the operator can make a Challenging (+0) Tech-Use Test to reveal the origins of local vox transmissions, which it can search out to an absolute maximum of five kilometres (conditions permitting). A simple success merely indicates the presence of voxcasters and their direction from the tracker, while one or more degrees of stance to the nearest hundred metre increment as well as a more precise direction (generally within a 10 degree cone). Three or more degrees of success id radius as w ilure simply displays a blank screen as if no vox traffic was present in the area.
 
-### Ward Accessor
+#### Ward Accessor
 
 There are many areas of Imperial hive cities, forge complexes, voidships, and other built-up areas that are off-limits to most passers-by but which typically can't be staffed by armed guards to gently nudge the overly curious away. A ward accessor is a type of techno-key that is used to gain entry to a given area or areas that utilise more complex electrical or logis-controlled locking and security mechanisms. The shape and style of these devices varies from world to world - more common types include alloy or plastek cards or coins that are read or passed through a scanner, holo wafers that display a specific shape recognized by an electric eye, and small circuit disks that interface with a simple cogitator and carry current at a specific power and modulation that the system expects. Of course, much more grandiose or eccentric varieties exist, including the placing and removal of great seals, inserting staffs or sceptres into ornate receptacles, and so forth, though these are often intended to convey a grandiose sense of awe rather than for any sort of improved security means.
 
@@ -1684,17 +1643,6 @@ As an organisation that moves through shadows and blends seamlessly in with the 
 
 ve ng ly, ly Despite the Inquisition's diligence, there ha been a few instances of these reliquaries turni up in the hands of outsiders - alarming almost always those who would oppose the Ho Ordos.
 
-#### Badge of Office
-
-ir nd d , o e, s Many lowly Acolytes never actually meet the masters, carrying on their work in secrecy a convening cells when they receive a code transmission or find a sealed message tube at a dead-drop. Those who have risen in favour however, may find themselves summoned t become a more integrated part of the Conclav meeting with their betters and taking orders to investigate and destroy far more dangerous foe of man. These valued minions are often
-
-g the Acolytes w entrusted with a Badge of Office that bears the seal of the Inquisition, providin ith a very positive form of identification along with a measure of the awesome power that their Inquisitor wields - something that is best employed with discretion. Revealing a Badge of Office unequivocally states "I am in the employ of an Inquisitor - stand in my way at your peril." "Bearing the seal" is thus a common expression within the Holy Ordos meaning that a situation has come to a head.
-
-grasped by its owner, the Badge displays the unmistakable symbol of the Inquisition and can also offer up certified credentials of the bearer's identity. Less common examples may include an actual badge that displays a holo when activated, an electoo hidden on the arms or torso, and so forth - the only real limit is the Inquisitor's imagination and preferences. A Badge of Office typically takes the form of a slate grey or jet black data-slate that is genelocked to the Acolyte it has been issued to. When
-
-#### Calixian Black Grimoire
-
-Penned and annotated by a number of illustrious Inquisitors of the Calixian Conclave's Ordo Xenos, this volume is nothing less than an encyclopaedic field manual on the nature of known aliens and creatures that threaten the
 
 | Inquisitorial Equipment                                    |        |             |                |     |
 | ---------------------------------------------------------- | ------ | ----------- | -------------- | --- |
@@ -1712,6 +1660,18 @@ Penned and annotated by a number of illustrious Inquisitors of the Calixian Conc
 | Stealth Suit                                               | 5kg    | Issued Only | Near Unique    |     |
 | Witch Cage                                                 | 7kg    | 3000        | Very Rare      |     |
 | †This item's Craftsmanship has one or more special effects |        |             |                |     |
+
+#### Badge of Office
+
+ir nd d , o e, s Many lowly Acolytes never actually meet the masters, carrying on their work in secrecy a convening cells when they receive a code transmission or find a sealed message tube at a dead-drop. Those who have risen in favour however, may find themselves summoned t become a more integrated part of the Conclav meeting with their betters and taking orders to investigate and destroy far more dangerous foe of man. These valued minions are often
+
+g the Acolytes w entrusted with a Badge of Office that bears the seal of the Inquisition, providin ith a very positive form of identification along with a measure of the awesome power that their Inquisitor wields - something that is best employed with discretion. Revealing a Badge of Office unequivocally states "I am in the employ of an Inquisitor - stand in my way at your peril." "Bearing the seal" is thus a common expression within the Holy Ordos meaning that a situation has come to a head.
+
+grasped by its owner, the Badge displays the unmistakable symbol of the Inquisition and can also offer up certified credentials of the bearer's identity. Less common examples may include an actual badge that displays a holo when activated, an electoo hidden on the arms or torso, and so forth - the only real limit is the Inquisitor's imagination and preferences. A Badge of Office typically takes the form of a slate grey or jet black data-slate that is genelocked to the Acolyte it has been issued to. When
+
+#### Calixian Black Grimoire
+
+Penned and annotated by a number of illustrious Inquisitors of the Calixian Conclave's Ordo Xenos, this volume is nothing less than an encyclopaedic field manual on the nature of known aliens and creatures that threaten the
 
 Calixis Sector. The work is as decidedly factual as anything written by the hands of men. It contains the most reliable information available on how to identify, communicate, combat, and destroy a plethora of beings from beyond - with hardly any of the usual inspiring and vindictive tropes that permeate most written material concerning the abominable entities. While it is presumed that the Inquisitor and his retinue will "fill in" all the applicable hatred, the fact that the Black Grimoire is so devoid of condemnation and spite - indeed, whole chapters are dedicated to xenos which can be reasoned and negotiated with - makes it an extremely contentious item within the Conclave itself. Representatives of the Ordo Malleus have demanded that the tomes be e security to prevent their co kept under clos ntents from becoming known among the masses, with many arguing that it belongs alongside their own tracts on daemons and the warp inside the hermetic vaults. The witch hunters of the Ordo Hereticus have made even more of an issue of the volume, claiming that to even pen such damning filth is a grand heresy in and of itself, the firebrands even going so far as to threaten their peers in the Ordo Xenos who bear copies of the folios. Ever the ones to walk dangerous lines, the Xenos agents themselves who happen to obtain a Grimoire have taken to wearing them openly in Conclave communions merely to antagonize their fellows.
 
@@ -1823,23 +1783,23 @@ Poor: While rudimentary in function, a cheap bionic arm is still vastly preferab
 
 lty may not apply in certain Poor bionic arms halve the bearer's Agility when used to make Tests requiring fine manipulation, such as positioning thin wires into a conduit, and impose a -5 penalty to Weapon and Ballistic Skill Tests made using that arm. This pena situations, such as using the off hand to steady a basic ranged weapon.
 
-| Bion<br>ics                |       |        |       |                  |
-| -------------------------- | ----- | ------ | ----- | ---------------- |
-| Name                       |       | Cost   | Test  | Availab<br>ility |
-| Bionic Arm†                |       | 1000   | +0    | Scarce           |
-| Bionic Cardiac System†     |       | 2700   | -20   | Rare             |
-| Bionic Locomotion†         |       | 1500   | -10   | Scarce           |
-| Bionic Respiratory System† |       | 800    | -20   | Rare             |
-| Bionic Weapon Attachment   |       | 350    | -10†† | Scarce           |
-| Cybernetic Senses†         |       | -      | -     | -                |
-|                            | Sight | 1500   | -10   | Scarce           |
-|                            | Smell | 1600   | -20   | Rare             |
-|                            | Sound | 1300   | -10   | Scarce           |
-|                            | Taste | 1750   | -30   | Very Rare        |
-|                            | Touch | 1700   | -20   | Rare             |
-| Gastral Bionics†           |       | 1100   | -20   | Rare             |
-| Rite of Setesh             |       | 100000 | -40   | Near Unique      |
-|                            |       |        |       |                  |
+| Bionics                    |       |        |       |              |
+| -------------------------- | ----- | ------ | ----- | ------------ |
+| Name                       |       | Cost   | Test  | Availability |
+| Bionic Arm†                |       | 1000   | +0    | Scarce       |
+| Bionic Cardiac System†     |       | 2700   | -20   | Rare         |
+| Bionic Locomotion†         |       | 1500   | -10   | Scarce       |
+| Bionic Respiratory System† |       | 800    | -20   | Rare         |
+| Bionic Weapon Attachment   |       | 350    | -10†† | Scarce       |
+| Cybernetic Senses†         |       | -      | -     | -            |
+|                            | Sight | 1500   | -10   | Scarce       |
+|                            | Smell | 1600   | -20   | Rare         |
+|                            | Sound | 1300   | -10   | Scarce       |
+|                            | Taste | 1750   | -30   | Very Rare    |
+|                            | Touch | 1700   | -20   | Rare         |
+| Gastral Bionics†           |       | 1100   | -20   | Rare         |
+| Rite of Setesh             |       | 100000 | -40   | Near Unique  |
+|                            |       |        |       |              |
 
 †_This item's Craftsmanship has one or more special effects_
 
@@ -1943,9 +1903,6 @@ ty Points as they gr The Rite of Setesh is performed over 3d10+10 days as the ch
 
 ty well-developed worlds, while others are As the name suggests, this type of augmetic is pically inserted or nestled into the bearer's flesh rather than outright replacing it entirely. A bewildering array of implants can be encountered in the Imperium, with the only real constant between them being that they add some kind of capability or use that the bearer did not have before. Some implant systems can be almost common sights within certain groups on fantastically rare and esoteric that are usually made only on a commissioned basis.
 
-#### Auger Implants
-
-Compact yet sophisticated sensorum suites can be physically integrated with the nervous system and brain, granting the bearer enhanced perceptive abilities beyond the fundamental senses. Fibre-thin wires are carefully inserted into different areas of the brain and connected to a tiny logis stack implanted in the base of the
 
 | Implants                                                                   |      |      |                |     |
 | -------------------------------------------------------------------------- | ---- | ---- | -------------- | --- |
@@ -1978,6 +1935,10 @@ Compact yet sophisticated sensorum suites can be physically integrated with the 
 | Voxplant                                                                   | 300  | +0   | Scarce         |     |
 | †This item's Craft<br>smanship has one or more special effects             |      |      |                |     |
 | ††Attaching this bionic requires a Tech-Use Test instead of a Medicae Test |      |      |                |     |
+
+#### Auger Implants
+
+Compact yet sophisticated sensorum suites can be physically integrated with the nervous system and brain, granting the bearer enhanced perceptive abilities beyond the fundamental senses. Fibre-thin wires are carefully inserted into different areas of the brain and connected to a tiny logis stack implanted in the base of the
 
 , the bearer might sport a few sm " fin ngs - those who bear these augmetics should gement when their implant an skull to process the additional flow of sensory data. Externally all metallic studs or ports on their head, but on the whole the implant is unobtrusive unless the bearer desires a more dramatic effect (techpriests are particularly wont to do this, sometimes bearing additional cybernetic eyes or glowing vox detectors). The bearer can activate their augers simply through mental concentration, augmenting or subsuming their normal senses briefly to consult what others could never perceive without the aid of an auspex. Of course, like many other types of scanner, an auger implant isn't infallible and can be prone to interference and "false positive di reserve their best jud d biological senses sharply contradict.
 
