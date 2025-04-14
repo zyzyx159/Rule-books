@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cbb3a30d6bc9b347",
@@ -170,11 +171,11 @@
   },
   "active": "d10f7ed88c86bf30",
   "lastOpenFiles": [
-    "Core Rulebook.md",
     "Poisons and Toxins.md",
-    "Inquisitors Handbook.md",
-    "Galaxy of Guns.md",
     "Tools of the Trade.md",
+    "Core Rulebook.md",
+    "Galaxy of Guns.md",
+    "Inquisitors Handbook.md",
     "Backpack.md"
   ]
 }
