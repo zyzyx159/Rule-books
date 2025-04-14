@@ -86,7 +86,8 @@ Some weapons can be fired in more than one mode. If this is the case each of its
 
 **Rld (Reload):** How many Actions the weapon takes to reload. This is generally Half (for a Half Action) or Full (for a Full Action). Some weapons can take a number of Actions over several Rounds. The number of Rounds is given as a number, for example 2 Full means that reloading takes 2 Full Rounds.
 
-**Special:** This tells you if the weapon has any special qualities, such as creating a blast when fired or needing to recharge between shots.
+**Special:** This tells you if the weapon has any special qualities, such as creating a blast when fired or needing to recharge between shots.Origins
+8
 
 **Wt (Weight):** Represents how much the weapon weighs, normally in kg (kilograms).
 

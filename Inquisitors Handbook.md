@@ -1,11 +1,11 @@
 
-**ROLEPLAYING IN THE GRIM DARKNESS OF THE 41ST MILLENNIUM**
+**ROLE PLAYING IN THE GRIM DARKNESS OF THE 41ST MILLENNIUM**
 
 ISBN 978-1-58994-457-2 Product Code DH04 Print ID: 582
 
 #### **[INTRODUCTION](#page-5-0)**
 
-| CHAPTERI –ADVANCEDCHARACTERCREATION                   |
+| CHAPTER I –ADVANCED CHARACTER CREATION                |
 |-------------------------------------------------------|
 | Origins<br>8                                          |
 | Forge Worlds<br>8                                     |
