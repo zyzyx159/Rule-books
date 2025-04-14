@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rulebook.md",
+                "file": "Tools of the Trade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Rulebook"
+              "title": "Tools of the Trade"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cbb3a30d6bc9b347",
@@ -170,10 +171,12 @@
   },
   "active": "d10f7ed88c86bf30",
   "lastOpenFiles": [
+    "Poisons and Toxins.md",
+    "Tools of the Trade.md",
+    "Core Rulebook.md",
     "Galaxy of Guns.md",
     "Core Rulebook.md",
     "Inquisitors Handbook.md",
-    "Tools of the Trade.md",
-    "Poisons and Toxins.md"
+    "Backpack.md"
   ]
 }
