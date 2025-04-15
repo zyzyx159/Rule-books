@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cbb3a30d6bc9b347",
@@ -175,7 +174,6 @@
     "Tools of the Trade.md",
     "Core Rulebook.md",
     "Galaxy of Guns.md",
-    "Core Rulebook.md",
     "Inquisitors Handbook.md",
     "Backpack.md"
   ]
