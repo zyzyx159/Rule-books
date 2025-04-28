@@ -87,7 +87,6 @@ Some weapons can be fired in more than one mode. If this is the case each of its
 **Rld (Reload):** How many Actions the weapon takes to reload. This is generally Half (for a Half Action) or Full (for a Full Action). Some weapons can take a number of Actions over several Rounds. The number of Rounds is given as a number, for example 2 Full means that reloading takes 2 Full Rounds.
 
 **Special:** This tells you if the weapon has any special qualities, such as creating a blast when fired or needing to recharge between shots.Origins
-8
 
 **Wt (Weight):** Represents how much the weapon weighs, normally in kg (kilograms).
 
@@ -101,7 +100,7 @@ USING WEAPONS WITHOUT A TALENT
 
 Many of the weapons described in this chapter require a Talent to use them effectively; lacking the necessary ability makes weapons particularly dangerous to employ. Still, there are bound to be circumstances when a character needs to use a weapon for which he does not have the Talent. Doing so imposes a –20 penalty on the relevant Test. If the weapon has the Flame special quality, the target is granted a +30 to his Agility Test to avoid being hit. In addition, when a ranged weapon is used untrained, it counts as having the Unreliable quality, increasing its chance of jamming.
 
-#### WEAPON CRAFTSMANSHIP
+## WEAPON CRAFTSMANSHIP
 
 All the weapons detailed here are of Common craftsmanship. For weapons of better or worse manufacture use the following modifiers:
 
@@ -111,7 +110,7 @@ Good: More carefully constructed and finished, these weapons are consequently mo
 
 Best: A work of art as much as a weapon, these items are created by skilled artisans and are often very old. Ranged weapons of Best craftsmanship never suffer from jamming or overheating when using normal ammunition. If a roll would result in either of these occurrences, simply count it as a miss instead. Melee weapons of Best craftsmanship add a +10 bonus to tests made to attack and add 1 to the Damage they inflict.
 
-#### WEAPON SPECIAL QUALITIES
+## WEAPON SPECIAL QUALITIES
 
 Some weapons possess special qualities to represent such things as special damage or unusual effects.
 
@@ -153,9 +152,7 @@ Weapons with this quality are either badly designed, woefully assembled, or simp
 
 #### Overheats
 
-Certain weapons are prone to overheating, either because of poor design, reckless overcharging, or
-
-the use of superheated ammunition. When a weapon overheats, the wielder suffers Energy Damage equal to the weapon's damage with a Penetration of 0 to the arm location holding the weapon (if the weapon was being held in both hands, the wielder is assumed to have taken damage to both arms, but does not suffer twice the Damage). The wielder may choose to avoid taking this Damage by dropping the overheating weapon; it lands somewhere within a 1 metre radius of the wielder. This is a Free Action. A weapon that has overheated must spend the Round afterwards cooling down and may not be fired again until the second round after overheating. A weapon with this Quality does not Jam, and any effect that would cause the weapon to Jam (i.e., sabotage, certain psychic powers) instead causes the weapon to overheat.
+Certain weapons are prone to overheating, either because of poor design, reckless overcharging, or the use of superheated ammunition. When a weapon overheats, the wielder suffers Energy Damage equal to the weapon's damage with a Penetration of 0 to the arm location holding the weapon (if the weapon was being held in both hands, the wielder is assumed to have taken damage to both arms, but does not suffer twice the Damage). The wielder may choose to avoid taking this Damage by dropping the overheating weapon; it lands somewhere within a 1 metre radius of the wielder. This is a Free Action. A weapon that has overheated must spend the Round afterwards cooling down and may not be fired again until the second round after overheating. A weapon with this Quality does not Jam, and any effect that would cause the weapon to Jam (i.e., sabotage, certain psychic powers) instead causes the weapon to overheat.
 
 #### Power Field
 
@@ -233,7 +230,7 @@ Huge and often top-heavy or slow to attack, Unwieldy weapons are too awkward to 
 
 This weapon has a tendency to inflict savage, ruinous injuries due to its great power or simply from an innate lust for battle. Whenever a Vicious weapon has a chance to score Righteous Fury (that is, rolls maximum Damage on one of its dice) the extra Damage occurs automatically; there is no need for a second Weapon Skill or Ballistic Skill Test to confirm the extra Damage.
 
-#### A GALAXY OF BULLETS...
+## A GALAXY OF BULLETS...
 
 Lasguns, with a few exceptions, can be powered by a charge pack made just about anywhere in the Imperium. Slug-throwers have no such benefit, often featuring a bewildering range and variety of bullets, cartridges, and rounds of ammunition that could fill entire tomes just from the guns made on a single forge world, nevermind an entire sector. The following is a general rule-of-thumb for Acolytes to consider when choosing a solid projectile weapon.
 
@@ -1650,53 +1647,53 @@ Used With: Thrown, GL
 A web grenade is really little more than a highly compressed webber canister which splits open while still in flight, showering the area around it with a cascade of sticky web filaments as though the area had been hit by a webber attack. Although they can easily be thrown, the principal use is typically via a launcher as a means to circumvent the very low clip capacity of most web weapons.
 
 See the section on Exotic Weapons for more information on the use of web weapons.
+### Frag Missile/Shell
 
-| Missiles and Shells   |           |     |                     |       |      |              |
-| --------------------- | --------- | --- | ------------------- | ----- | ---- | ------------ |
-| Name                  | Dam       | Pen | Special             | Wt    | Cost | Availability |
-| Frag                  | 2d10+2 X  | 4   | Blast (6)           | 1kg   | 75   | Average      |
-| Krak                  | 3d10+10 X | 10  | -                   | 1.5kg | 150  | Scarce       |
-| Minefield             | 2d10 X    | 1   | Blast (1)           | 2kg   | 100  | Rare         |
-| Scatter               | Special   | 0   | Blast (10)          | 3kg   | 175  | Very Rare    |
-| Starflare             | -         | -   | Special             | 1kg   | 60   | Scarce       |
-| TunnellingTorpedo | 2d10+3 X  | 2   | Blast (4), Shocking | 3kg   | 200  | Very Rare    |
-| Web                   | -         | -   | Blast (6), Snare    | 2kg   | 200  | Rare         |
-#### Frag Missile/Shell
-
+| Missiles and Shells |           |     |                     |       |      |              |
+| ------------------- | --------- | --- | ------------------- | ----- | ---- | ------------ |
+| Name                | Dam       | Pen | Special             | Wt    | Cost | Availability |
+| Frag                | 2d10+2 X  | 4   | Blast (6)           | 1kg   | 75   | Average      |
+| Krak                | 3d10+10 X | 10  | -                   | 1.5kg | 150  | Scarce       |
+| Minefield           | 2d10 X    | 1   | Blast (1)           | 2kg   | 100  | Rare         |
+| Scatter             | Special   | 0   | Blast (10)          | 3kg   | 175  | Very Rare    |
+| Starflare           | -         | -   | Special             | 1kg   | 60   | Scarce       |
+| TunnellingTorpedo   | 2d10+3 X  | 2   | Blast (4), Shocking | 3kg   | 200  | Very Rare    |
+| Web                 | -         | -   | Blast (6), Snare    | 2kg   | 200  | Rare         |
+​
 #### Used With: Missile Launcher/Mortar
 
 A large-size fragmentation device meant to obliterate exposed enemies. Frag missiles and shells are fairly similar to one another, each incorporating what looks like an inflated frag grenade attached to a rocket motor or propellant charge depending on which launcher will be firing it. The greatly increased explosive charge as well as shrapnel quantity makes a blast from a frag round far more deadly, even for well-armoured targets. Although they use the same warhead, frag missiles and shells are not interchangeable.
 
-#### Krak Missile
+##### Krak Missile
 Used With: Missile Launcher
 
 Krak missiles offer superb armour penetration thanks to their very large focusing charge and a detonator rod in the nose that ignites the warhead at the optimum moment to ensure maximum destruction of the target. Krak missiles are typically used against enemy tanks due to their ability to defeat even heavy armour, but they also make fine choices to demolish bunkers and create openings in buildings too.
 
-#### Minefield Missile/Shell
+##### Minefield Missile/Shell
 Used With: Missile Launcher/Mortar
 
 This type of weapon is a handy method to quickly and safely deploy a large number of mines at once. Minefield rounds are designed to explode at a pre-determined point along their trajectory and shower the ground with tiny submunitions that arm on impact and patiently wait until an unfortunate victim walks across them. Minefield rounds are thus an easy way to deny access to a given area to opposing forces, and can be used defensively to set up an explosive cordon around a strategic location.
 
 Minefield rounds saturate the ground with miniature mines in a 10 metre radius from their point of landing. Anything passing through this area that is larger than Puny sets off mines which attack with the listed values, once for every metre the trespasser attempts to move through the area. Each 1 metre area of the minefield has sufficient mines to attack 5 times before all mines are expended. Aside from using specialized mine removal equipment, mines can be quickly cleared away by attacks from weapons with the Flame quality.
 
-#### Scatter Missile/Shell
+##### Scatter Missile/Shell
 Used With: Missile Launcher/Mortar
 
 Also known as cluster bombs, rounds of this type spread a large amount of grenade-sized bomblets over a huge area, and timely deployment of a scatter round can utterly obliterate an entire enemy company at once. The sound of dozens upon dozens of bomblets going off in sequence is more akin to the report of a Vulcan Mega-bolter than any explosive, and the only thing more satisfying than the sight of the round's detonation is observing the total carnage left behind on one's enemies.
 
 A scatter shell deploys bomblets equivalent to a frag grenade into every 1 metre area within its blast area. These are considered multiple attacks for the purposes of attempting to avoid the individual blasts.
 
-#### Starflare Shell
+##### Starflare Shell
 Used With: Mortar
 
 This is an extremely scaled-up version of a starflare grenade and works on roughly the same principles. After exploding at altitude, a starflare shell provides bright illumination in a 300 metre radius and shadowy illumination out to a total of 500 metres, and takes roughly five minutes to burn out as it nears the ground.
 
-#### Tunnelling Torpedo
+##### Tunnelling Torpedo
 Used With: Mole Mortar
 
 A specialty munition to be certain, a tunnelling torpedo is designed to be used with a mole mortar. Once fired it uses a powerful boring drill backed up by a miniature power field to rapidly tunnel through earth, stone, and anything else that might be in its way before reversing course and exploding just beneath the feet of its unsuspecting victims.
 
-#### Web Missile
+##### Web Missile
 Used With: Missile Launcher
 
 Instead of an explosive payload, a web missile's distended body contains a brace of webber canisters that are scattered over a wide area while the missile is still airborne, ensuring a very generous dispersion of sticky web filaments. While less precise than a webber and ill-suited for close quarters or indoors use, a missile launcher armed with a web missile represents a very efficient means to immobilize a group of enemies at once from far outside the effective range of other web weapons. Further, the choice of a missile as the delivery means can create other opportunities for a creative shooter, such as sending one through an open window into a room full of miscreants and scraping the whole mess out at once to sort out at leisure.

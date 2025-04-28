@@ -1,0 +1,5 @@
+- [ ] Core Rule book
+- [ ] Galaxy of Guns
+- [ ] Inquisitor's Handbook
+- [x] Poisons and Toxins
+- [x] Tools of the Trade
