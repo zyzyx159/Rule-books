@@ -3877,37 +3877,37 @@ The mind of the Scholar Empyrean ranges free, even whilst their will is securely
 
 *You may take this Talent up to four times at this Rank.*
 
-| Advance                                                       | Cost | Type | Prerequisites                |
-|---------------------------------------------------------------|------|------|------------------------------|
-| Ciphers (Occult) +20                                          | 100  | S    | Ciphers (Occult) +10         |
-| Common Lore (Tech) +10                                        | 100  | S    | Common Lore (Tech)           |
-| Forbidden Lore (Mutants) +10                                  | 100  | S    | Forbidden Lore (Mutants)     |
-| Inquiry +20                                                   | 100  | S    | Inquiry +10                  |
-| Lip Reading                                                   | 100  | S    | —                            |
-| Psyniscience +20                                              | 100  | S    | Psyniscience +10             |
-| Scholastic Lore (Archaic) +10                                 | 100  | S    | Scholastic Lore (Archaic)    |
-| Scholastic Lore (Heraldry) +10                                | 100  | S    | Scholastic Lore (Heraldry)   |
-| Scholastic Lore (Legend) +20                                  | 100  | S    | Scholastic Lore (Legend) +10 |
-| Scholastic Lore (Philosophy)                                  | 100  | S    | —                            |
-| Scrutiny +10                                                  | 100  | S    | Scrutiny                     |
-| Trade (Soothsayer) +20                                        | 100  | S    | Trade (Soothsayer) +10       |
-| Mental Fortress                                               | 100  | T    | WP 50, Strong Minded         |
-| Minor Psychic Power‡                                          | 100  | T    | —                            |
-| Psychic Power †                                               | 100  | T    | —                            |
-| Resistance (Fear)                                             | 100  | T    | —                            |
-| Forbidden Lore (Cults)                                        | 200  | S    | —                            |
-| Forbidden Lore (Inquisition)                                  | 200  | S    | —                            |
-| Dark Soul                                                     | 200  | T    | —                            |
-| Discipline Focus (choose one)                                 | 200  | T    | Psy Rating 3                 |
-| Melee Weapon Training (Chain)                                 | 200  | T    | —                            |
-| Melee Weapon Training (Power)                                 | 200  | T    | —                            |
-| Peer (Inquisition)                                            | 200  | T    | Fel 30                       |
-| Psy Rating 5                                                  | 200  | T    | Psy Rating 4                 |
-| Sound Constitution                                            | 200  | T    | —                            |
-| Forbidden Lore (Daemonology)                                  | 300  | S    | —                            |
-| Forbidden Lore (Heresy) +10                                   | 300  | S    | Forbidden Lore (Heresy)      |
-| † You may take this Talent up to two times at this Rank.      |      |      |                              |
-| ‡ You may take this Talent up to three times at this Rank.    |      |      |                              |
+| Advance                                                    | Cost | Type | Prerequisites                |
+| ---------------------------------------------------------- | ---- | ---- | ---------------------------- |
+| Ciphers (Occult) +20                                       | 100  | S    | Ciphers (Occult) +10         |
+| Common Lore (Tech) +10                                     | 100  | S    | Common Lore (Tech)           |
+| Forbidden Lore (Mutants) +10                               | 100  | S    | Forbidden Lore (Mutants)     |
+| Inquiry +20                                                | 100  | S    | Inquiry +10                  |
+| Lip Reading                                                | 100  | S    | —                            |
+| Psyniscience +20                                           | 100  | S    | Psyniscience +10             |
+| Scholastic Lore (Archaic) +10                              | 100  | S    | Scholastic Lore (Archaic)    |
+| Scholastic Lore (Heraldry) +10                             | 100  | S    | Scholastic Lore (Heraldry)   |
+| Scholastic Lore (Legend) +20                               | 100  | S    | Scholastic Lore (Legend) +10 |
+| Scholastic Lore (Philosophy)                               | 100  | S    | —                            |
+| Scrutiny +10                                               | 100  | S    | Scrutiny                     |
+| Trade (Soothsayer) +20                                     | 100  | S    | Trade (Soothsayer) +10       |
+| Mental Fortress                                            | 100  | T    | WP 50, Strong Minded         |
+| Minor Psychic Power‡                                       | 100  | T    | —                            |
+| Psychic Power †                                            | 100  | T    | —                            |
+| Resistance (Fear)                                          | 100  | T    | —                            |
+| Forbidden Lore (Cults)                                     | 200  | S    | —                            |
+| Forbidden Lore (Inquisition)                               | 200  | S    | —                            |
+| Dark Soul                                                  | 200  | T    | —                            |
+| Discipline Focus (choose one)                              | 200  | T    | Psy Rating 3                 |
+| Melee Weapon Training (Chain)                              | 200  | T    | —                            |
+| Melee Weapon Training (Power)                              | 200  | T    | —                            |
+| Peer (Inquisition)                                         | 200  | T    | Fel 30                       |
+| Psy Rating 5                                               | 200  | T    | Psy Rating 4                 |
+| Sound Constitution                                         | 200  | T    | —                            |
+| Forbidden Lore (Daemonology)                               | 300  | S    | —                            |
+| Forbidden Lore (Heresy) +10                                | 300  | S    | Forbidden Lore (Heresy)      |
+| † You may take this Talent up to two times at this Rank.   |      |      |                              |
+| ‡ You may take this Talent up to three times at this Rank. |      |      |                              |
 
 | Advance                                                                                                                                                  | Cost                                   | Type                       | Prerequisites                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
