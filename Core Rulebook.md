@@ -1961,26 +1961,26 @@ Few secrets remain hidden from the mind of a sage.
 | Psy Rating 3                                                  | 500  | T    | Psy Rating 2  |
 | ‡You may take this Talent up to three times at this Rank. |      |      |               |
 
-| Advance                                  | Cost    | Type | Prerequisites                            |
-|------------------------------------------|---------|------|------------------------------------------|
-| Common Lore (Adeptus Arbites) +20        | 100     | S    | Common Lore (Adeptus Arbites) +20        |
-| Forbidden Lore (Cults) +20               | 100     | S    | Forbidden Lore (Cults) +10               |
-| Forbidden Lore (Heresy) +20              | 100     | S    | Forbidden Lore (Heresy) +10              |
-| Forbidden Lore (Inquisition) +20         | 100     | S    | Forbidden Lore (Inquisition) +10         |
-| Forbidden Lore (Mutants) +20             | 100     | S    | Forbidden Lore (Mutants) +10             |
-| Scholastic Lore (Tactica Imperialis) +20 | 100     | S    | Scholastic Lore (Tactica Imperialis) +10 |
-| Mental Fortress                          | 100     | T    | WP 50, Strong Minded                     |
-| Peer (Nobility)                          | 100     | T    | Fel 30                                   |
-| Command +20                              | 200     | S    | Command +10                              |
-| Exotic Weapon Training (Web Pistol)      | 200     | T    | —                                        |
-| Quick Draw                               | 200     | T    | —                                        |
-| Rapid Reload                             | 200     | T    | —                                        |
-| Talented (Command)                       | 200     | T    | Command                                  |
-| Concealment                              | 300     | S    | —                                        |
-| Forbidden Lore (Archeotech) +10          | 300     | S    | Forbidden Lore (Archeotech)              |
-| Peer (Adeptus Arbites)                   | 300     | T    | Fel 30                                   |
-| Sound Constitution                       | 300     | T    | —                                        |
-| Unnatural Intelligence                   | 500     | —    | —                                        |
+| Advance                                  | Cost | Type | Prerequisites                            |
+| ---------------------------------------- | ---- | ---- | ---------------------------------------- |
+| Common Lore (Adeptus Arbites) +20        | 100  | S    | Common Lore (Adeptus Arbites) +20        |
+| Forbidden Lore (Cults) +20               | 100  | S    | Forbidden Lore (Cults) +10               |
+| Forbidden Lore (Heresy) +20              | 100  | S    | Forbidden Lore (Heresy) +10              |
+| Forbidden Lore (Inquisition) +20         | 100  | S    | Forbidden Lore (Inquisition) +10         |
+| Forbidden Lore (Mutants) +20             | 100  | S    | Forbidden Lore (Mutants) +10             |
+| Scholastic Lore (Tactica Imperialis) +20 | 100  | S    | Scholastic Lore (Tactica Imperialis) +10 |
+| Mental Fortress                          | 100  | T    | WP 50, Strong Minded                     |
+| Peer (Nobility)                          | 100  | T    | Fel 30                                   |
+| Command +20                              | 200  | S    | Command +10                              |
+| Exotic Weapon Training (Web Pistol)      | 200  | T    | —                                        |
+| Quick Draw                               | 200  | T    | —                                        |
+| Rapid Reload                             | 200  | T    | —                                        |
+| Talented (Command)                       | 200  | T    | Command                                  |
+| Concealment                              | 300  | S    | —                                        |
+| Forbidden Lore (Archeotech) +10          | 300  | S    | Forbidden Lore (Archeotech)              |
+| Peer (Adeptus Arbites)                   | 300  | T    | Fel 30                                   |
+| Sound Constitution                       | 300  | T    | —                                        |
+| Unnatural Intelligence                   | 500  | —    | —                                        |
 
 # Arbitrator Arbitrator
 
@@ -2029,25 +2029,25 @@ A Trooper is drilled in combat and his duties to the Imperium: he is stout of he
 
 An Enforcer is taught how to keep order in the most desperate situations, stand ing shoulder to shoulder with his fellow Arbitrators.
 
-| Advance                                                       | Cost     | Type     | Prerequisites                 |  |
-|---------------------------------------------------------------|----------|----------|-------------------------------|--|
-| Awareness                                                     | 100      | S        | —                             |  |
-| Common Lore (Adeptus Arbites) +10                             | 100      | S        | Common Lore (Adeptus Arbites) |  |
-| Drive (Ground Vehicle)                                        | 100      | S        | —                             |  |
-| Drive (Hover Vehicle)                                         | 100      | S        | —                             |  |
-| Inquiry +10                                                   | 100      | S        | Inquiry                       |  |
-| Scrutiny                                                      | 100      | S        | —                             |  |
-| Swim                                                          | 100      | S        | —                             |  |
-| Basic Weapon Training (Primitive)                             | 100      | T        | —                             |  |
-| Basic Weapon Training (SP)                                    | 100      | T        | —                             |  |
-| Melee Weapon Training (Primitive)                             | 100      | T        | —                             |  |
-| Pistol Training (Las)                                         | 100      | T        | —                             |  |
-| Pistol Training (Primitive)                                   | 100      | T        | —                             |  |
-| Pistol Training (SP)                                          | 100      | T        | —                             |  |
-| Rapid Reload                                                  | 100      | T        | —                             |  |
-| Sound Constitution‡                                       | 100      | T        | —                             |  |
-| Thrown Weapon Training (Primitive)                            | 100      | T        | —                             |  |
-| ‡You may take this Talent up to three times at this Rank. |          |          |                               |  |
+| Advance                                                   | Cost | Type | Prerequisites                 |     |
+| --------------------------------------------------------- | ---- | ---- | ----------------------------- | --- |
+| Awareness                                                 | 100  | S    | —                             |     |
+| Common Lore (Adeptus Arbites) +10                         | 100  | S    | Common Lore (Adeptus Arbites) |     |
+| Drive (Ground Vehicle)                                    | 100  | S    | —                             |     |
+| Drive (Hover Vehicle)                                     | 100  | S    | —                             |     |
+| Inquiry +10                                               | 100  | S    | Inquiry                       |     |
+| Scrutiny                                                  | 100  | S    | —                             |     |
+| Swim                                                      | 100  | S    | —                             |     |
+| Basic Weapon Training (Primitive)                         | 100  | T    | —                             |     |
+| Basic Weapon Training (SP)                                | 100  | T    | —                             |     |
+| Melee Weapon Training (Primitive)                         | 100  | T    | —                             |     |
+| Pistol Training (Las)                                     | 100  | T    | —                             |     |
+| Pistol Training (Primitive)                               | 100  | T    | —                             |     |
+| Pistol Training (SP)                                      | 100  | T    | —                             |     |
+| Rapid Reload                                              | 100  | T    | —                             |     |
+| Sound Constitution‡                                       | 100  | T    | —                             |     |
+| Thrown Weapon Training (Primitive)                        | 100  | T    | —                             |     |
+| ‡You may take this Talent up to three times at this Rank. |      |      |                               |     |
 
 | Advance                           | Cost     | Type     | Prerequisites                     |
 |-----------------------------------|----------|----------|-----------------------------------|
@@ -4011,18 +4011,18 @@ An Inquisitor does not pick just any felon he happens to stumble across to becom
 
 Having lived and survived in such tough conditions means that it will frequently be the Scum that is the source of some acrimony and he does not always get on with other Acolytes in the cell. His moral values and reasons for participating may be entirely different from the others and so make him a source of contention. Reasons why such a character may join the employ of an Inquisitor in the first place are manifold: some do it for the sheer thrill, some as sentence for some past crime, some are being paid, whilst others have the skills an Inquisitor needs and so are ordered or threatened to participate. For an Inquisitor it matters little what the motive is, as long as they fulfil their part in the mission. Inquisitors can, and will, use all tools necessary to carry out their duties, they do not care if that is using the highest-born noble or the most inhuman villain—it is the end goal that is important, not the method in achieving it.
 
-| Table 2-8: Scum Characteristic Advances |        |              |         |        |  |
-|-----------------------------------------|--------|--------------|---------|--------|--|
-| Characteristic                          | Simple | Intermediate | Trained | Expert |  |
-| Weapon Skill                            | 250    | 500          | 750     | 1,000  |  |
-| Ballistic Skill                         | 100    | 250          | 500     | 750    |  |
-| Strength                                | 500    | 750          | 1,000   | 2,500  |  |
-| Toughness                               | 500    | 750          | 1,000   | 2,500  |  |
-| Agility                                 | 100    | 250          | 500     | 500    |  |
-| Intelligence                            | 250    | 500          | 750     | 1,000  |  |
-| Perception                              | 250    | 500          | 750     | 1,000  |  |
-| Willpower                               | 250    | 500          | 750     | 1,000  |  |
-| Fellowship                              | 100    | 250          | 500     | 750    |  |
+| Table 2-8: Scum Characteristic Advances |        |              |         |        |     |
+| --------------------------------------- | ------ | ------------ | ------- | ------ | --- |
+| Characteristic                          | Simple | Intermediate | Trained | Expert |     |
+| Weapon Skill                            | 250    | 500          | 750     | 1,000  |     |
+| Ballistic Skill                         | 100    | 250          | 500     | 750    |     |
+| Strength                                | 500    | 750          | 1,000   | 2,500  |     |
+| Toughness                               | 500    | 750          | 1,000   | 2,500  |     |
+| Agility                                 | 100    | 250          | 500     | 500    |     |
+| Intelligence                            | 250    | 500          | 750     | 1,000  |     |
+| Perception                              | 250    | 500          | 750     | 1,000  |     |
+| Willpower                               | 250    | 500          | 750     | 1,000  |     |
+| Fellowship                              | 100    | 250          | 500     | 750    |     |
 
 #### **Dreg Advances**
 
@@ -4036,44 +4036,44 @@ Beggars, thieves and baseborn scum: the dregs of society are nevertheless hardy 
 
 An Outcast has survived long enough outside the bounds of society to develop a certain rapport with the seedier side of life—as well as an ability to slink into the background when trouble comes their way.
 
-| Advance                                                     | Cost     | Type     | Prerequisites |  |
-|-------------------------------------------------------------|----------|----------|---------------|--|
-| Awareness +10                                               | 100      | S        | Awareness     |  |
-| Barter                                                      | 100      | S        | —             |  |
-| Charm                                                       | 100      | S        | —             |  |
-| Dodge                                                       | 100      | S        | —             |  |
-| Drive (Ground Vehicle)                                      | 100      | S        | —             |  |
-| Navigation (Surface)                                        | 100      | S        | —             |  |
-| Swim                                                        | 100      | S        | —             |  |
-| Basic Weapon Training (Primitive)                           | 100      | T        | —             |  |
-| Pistol Training (Las)                                       | 100      | T        | —             |  |
-| Pistol Training (Primitive)                                 | 100      | T        | —             |  |
-| Ambidextrous                                                | 100      | T        | Ag 30         |  |
-| Unremarkable                                                | 100      | T        | —             |  |
-| Sound Constitution †                                        | 100      | T        | —             |  |
-| Thrown Weapon Training (Primitive)                          | 100      | T        | —             |  |
-| † You may take this Talent up to two times at this Rank.    |          |          |               |  |
+| Advance                                                  | Cost | Type | Prerequisites |     |
+| -------------------------------------------------------- | ---- | ---- | ------------- | --- |
+| Awareness +10                                            | 100  | S    | Awareness     |     |
+| Barter                                                   | 100  | S    | —             |     |
+| Charm                                                    | 100  | S    | —             |     |
+| Dodge                                                    | 100  | S    | —             |     |
+| Drive (Ground Vehicle)                                   | 100  | S    | —             |     |
+| Navigation (Surface)                                     | 100  | S    | —             |     |
+| Swim                                                     | 100  | S    | —             |     |
+| Basic Weapon Training (Primitive)                        | 100  | T    | —             |     |
+| Pistol Training (Las)                                    | 100  | T    | —             |     |
+| Pistol Training (Primitive)                              | 100  | T    | —             |     |
+| Ambidextrous                                             | 100  | T    | Ag 30         |     |
+| Unremarkable                                             | 100  | T    | —             |     |
+| Sound Constitution †                                     | 100  | T    | —             |     |
+| Thrown Weapon Training (Primitive)                       | 100  | T    | —             |     |
+| † You may take this Talent up to two times at this Rank. |      |      |               |     |
 
-| Advance                     | Cost     | Type     | Prerequisites |
-|-----------------------------|----------|----------|---------------|
-| Ciphers (Acolyte)           | 100      | S        | —             |
-| Common Lore (Underworld)    | 100      | S        | —             |
-| Concealment                 | 100      | S        | —             |
-| Inquiry                     | 100      | S        | —             |
-| Secret Tongue (Gutter)      | 100      | S        | —             |
-| Security                    | 100      | S        | —             |
-| Sleight of Hand             | 100      | S        | —             |
-| Swim +10                    | 100      | S        | Swim          |
-| Light Sleeper               | 100      | T        | Per 30        |
-| Peer (Workers)              | 100      | T        | Fel 30        |
-| Peer (Underworld)           | 100      | T        | Fel 30        |
-| Quick Draw                  | 100      | T        | —             |
-| Sound Constitution          | 100      | T        | —             |
-| Deceive +10                 | 200      | S        | Deceive       |
-| Medicae                     | 200      | S        | —             |
-| Wrangling                   | 200      | S        | —             |
-| Basic Weapon Training (Las) | 200      | T        | —             |
-| Literacy                    | 300      | S        | —             |
+| Advance                     | Cost | Type | Prerequisites |
+| --------------------------- | ---- | ---- | ------------- |
+| Ciphers (Acolyte)           | 100  | S    | —             |
+| Common Lore (Underworld)    | 100  | S    | —             |
+| Concealment                 | 100  | S    | —             |
+| Inquiry                     | 100  | S    | —             |
+| Secret Tongue (Gutter)      | 100  | S    | —             |
+| Security                    | 100  | S    | —             |
+| Sleight of Hand             | 100  | S    | —             |
+| Swim +10                    | 100  | S    | Swim          |
+| Light Sleeper               | 100  | T    | Per 30        |
+| Peer (Workers)              | 100  | T    | Fel 30        |
+| Peer (Underworld)           | 100  | T    | Fel 30        |
+| Quick Draw                  | 100  | T    | —             |
+| Sound Constitution          | 100  | T    | —             |
+| Deceive +10                 | 200  | S    | Deceive       |
+| Medicae                     | 200  | S    | —             |
+| Wrangling                   | 200  | S    | —             |
+| Basic Weapon Training (Las) | 200  | T    | —             |
+| Literacy                    | 300  | S    | —             |
 
 # **Outlaw Advances**
 
