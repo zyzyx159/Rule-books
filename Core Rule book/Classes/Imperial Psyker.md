@@ -1,4 +1,4 @@
-Imperial Psyker*"Imagine knowing there was a door to the realm of Daemons, and the slightest inattention on your behalf would see them batter it down and rip you to shreds. Now imagine that door is inside your head. That's what being a psyker is like."* — Castus Lupa, Savant Adjunct.
+Imperial Psyker *"Imagine knowing there was a door to the realm of Daemons, and the slightest inattention on your behalf would see them batter it down and rip you to shreds. Now imagine that door is inside your head. That's what being a psyker is like."* — Castus Lupa, Savant Adjunct.
 
 N No one knows when the first human psykers appeared; that information has been lost to the ravages of time, but one thing is certain, their emergence changed the fate of mankind forever. Psykers are both the greatest boon and curse that has afflicted humanity. The Emperor Himself is the most powerful psyker the human race has ever seen. Even ten thousand years after the Emperor was inducted into His sarcophagus, psykers continue to fuel the Imperium. Each day, innumerable souls are shipped to Terra in the Black Ships of the Inquisition. Once there they have the honour of becoming one with the Emperor's Golden Throne, thus allowing His light to spread across the galaxy that the Imperium may endure.
 
@@ -21,6 +21,19 @@ Psykers have always been used as agents for the Inquisition. Their abilities var
 | Willpower                                          | 100    | 250          | 500     | 750    |     |
 | Fellowship                                         | 500    | 750          | 1,000   | 2,500  |     |
 
+```mermaid
+graph TD
+A[Sanctionite 0-499] --> B[Neonate 500-999];
+B --> C[Aspirant 1,000-1,999];
+C --> D{Renegae 2,000-2,999};
+D -- > E[Rouge 3,000-5,999];
+E -- Violance --> F[Cutter 6.000-7,999]
+F --> G[Stubjack 8,000-9,9999]
+G --> H[Gang Lord 10,000-14,999]
+E -- Talking --> I[Fixer 6,000-7999]
+I --> J[Shark 8,000-9,999]
+J --> K[Charlatan 10,000-14,999]
+```
 #### **Sanctionite Advances**
 
 *"Throne knows what them sanctioneers do to 'em when they get to Earth, but I ain't never met a normal psyker yet."*
@@ -193,40 +206,39 @@ The Imperial Guard often use the Savants Militant, putting their destructive pow
 
 The Scholar Medicae has learnt well the lessons of base matter, and now turns his powers to understanding the mysteries of flesh, bone and the living being.
 
-| Advance                                                  | Cost | Type | Prerequisites               |     |
-| -------------------------------------------------------- | ---- | ---- | --------------------------- | --- |
-| Awareness +20                                            | 100  | S    | Awareness +10               |     |
-| Barter                                                   | 100  | S    | —                           |     |
-| Carouse                                                  | 100  | S    | —                           |     |
-| Chem-Use +20                                             | 100  | S    | Chem-Use +10                |     |
-| Deceive                                                  | 100  | S    | —                           |     |
-| Forbidden Lore (Mutants)                                 | 100  | S    | —                           |     |
-| Inquiry +10                                              | 100  | S    | Inquiry                     |     |
-| Literacy +20                                             | 100  | S    | Literacy +10                |     |
-| Medicae +10                                              | 100  | S    | Medicae                     |     |
-| Scholastic Lore (Archaic)                                | 100  | S    | —                           |     |
-| Scholastic Lore (Chymistry) +10                          | 100  | S    | Scholastic Lore (Chymistry) |     |
-| Scholastic Lore (Imperial Creed)                         | 100  | S    | —                           |     |
-| Scrutiny                                                 | 100  | S    | —                           |     |
-| Trade (Agri)                                             | 100  | S    | —                           |     |
-| Trade (Apothecary)                                       | 100  | S    | —                           |     |
-| Trade (Embalmer)                                         | 100  | S    | —                           |     |
-| Crippling Strike                                         | 100  | T    | WS 50                       |     |
-| Crushing Blow                                            | 100  | T    | S 40                        |     |
-| Decadence                                                | 100  | T    | T 30                        |     |
-| Jaded                                                    | 100  | T    | WP 30                       |     |
-| Master Chirurgeon                                        | 100  | T    | Medicae +10                 |     |
-| Minor Psychic Power †                                    | 100  | T    | —                           |     |
-| †Psychic Power                                           | 100  | T    | —                           |     |
-| Street Fighting                                          | 100  | T    | —                           |     |
-| Two-Weapon Wielder (Ballistic)                           | 100  | T    | —                           |     |
-| Two-Weapon Wielder (Melee)                               | 100  | T    | —                           |     |
-| Corpus Conversion                                        | 200  | T    | Psy Rating 2                |     |
-| Discipline Focus                                         | 200  | T    | Psy Rating 3                |     |
-| Melee Weapon Training (Shock)                            | 200  | T    | —                           |     |
-| Psy Rating 4                                             | 200  | T    | Psy Rating 3                |     |
-| Sound Constitution                                       | 200  | T    | —                           |     |
-| † You may take this Talent up to two times at this Rank. |      |      |                             |     |
+| Advance                                                  | Cost | Type | Prerequisites               |
+| -------------------------------------------------------- | ---- | ---- | --------------------------- |
+| Awareness +20                                            | 100  | S    | Awareness +10               |
+| Barter                                                   | 100  | S    | —                           |
+| Carouse                                                  | 100  | S    | —                           |
+| Chem-Use +20                                             | 100  | S    | Chem-Use +10                |
+| Deceive                                                  | 100  | S    | —                           |
+| Forbidden Lore (Mutants)                                 | 100  | S    | —                           |
+| Inquiry +10                                              | 100  | S    | Inquiry                     |
+| Literacy +20                                             | 100  | S    | Literacy +10                |
+| Medicae +10                                              | 100  | S    | Medicae                     |
+| Scholastic Lore (Archaic)                                | 100  | S    | —                           |
+| Scholastic Lore (Chymistry) +10                          | 100  | S    | Scholastic Lore (Chymistry) |
+| Scholastic Lore (Imperial Creed)                         | 100  | S    | —                           |
+| Scrutiny                                                 | 100  | S    | —                           |
+| Trade (Agri)                                             | 100  | S    | —                           |
+| Trade (Apothecary)                                       | 100  | S    | —                           |
+| Trade (Embalmer)                                         | 100  | S    | —                           |
+| Crippling Strike                                         | 100  | T    | WS 50                       |
+| Crushing Blow                                            | 100  | T    | S 40                        |
+| Decadence                                                | 100  | T    | T 30                        |
+| Jaded                                                    | 100  | T    | WP 30                       |
+| Master Chirurgeon                                        | 100  | T    | Medicae +10                 |
+| Minor Psychic Power †                                    | 100  | T    | —                           |
+| †Psychic Power                                           | 100  | T    | —                           |
+| Street Fighting                                          | 100  | T    | —                           |
+| Two-Weapon Wielder (Ballistic)                           | 100  | T    | —                           |
+| Two-Weapon Wielder (Melee)                               | 100  | T    | —                           |
+| Corpus Conversion                                        | 200  | T    | Psy Rating 2                |
+| Discipline Focus                                         | 200  | T    | Psy Rating 3                |
+| Psy Rating 4                                             | 200  | T    | Psy Rating 3                |
+| Sound Constitution                                       | 200  | T    | —                           |
+| † You may take this Talent up to two times at this Rank. |      |      |                             |
 
 # **Scholar Materium Advances**
 
@@ -379,7 +391,6 @@ The Savant Adjunct has the power to bend flesh and metal, to send his mind forth
 | Invocation +10                           | 200  | S    | Invocation                           |
 | Sound Constitution                       | 200  | T    | —                                    |
 | Command +10                              | 300  | S    | Command                              |
-| Literacy +10                             | 300  | S    | Literacy                             |
 | Scrutiny +10                             | 300  | S    | Scrutiny                             |
 | Pistol Training (Plasma)                 | 300  | T    | —                                    |
 | Power Well                               | 200  | T    | Psy Rating 2                         |
