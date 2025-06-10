@@ -69,7 +69,7 @@ Having taken an Alternate Rank means that your character has deviated from the r
 | Warden/Divisio Immoralis                                                          | Arbitrator                                            | 1    |
 | † Denotes the lowest Rank where the Alternative Career Rank becomes<br>available. |                                                       |      |
 
-#### **Black Priest of Maccabeus** Black Priest of Maccabeus
+## **Black Priest of Maccabeus** Black Priest of Maccabeus
 
 *"I walk in the footsteps of the Blessed Saint Drusus and I go about the Emperor's work. At my word the unclean spirit baulks and the heretic withers in shame. Who, then, are you to stand against me?"*
 
@@ -133,7 +133,7 @@ The Encarta Maleficarum is treated as an Elite Advance (see page 229 of Dark Her
 
 This heavy price buys fearful knowledge and armours you against the whiles of the Daemon: your character gains the Forbidden Lore (Ordo Malleus) skill and the Insanely Faithful talent. Also you gain a +10 bonus on all Tests made to resist torture and interrogation, attempts to read or control your mind and any form of possession. In addition, if an attempt to possess you does succeed, but by less than three degrees of success, the assault or intrusion is blocked by the wards within your mind—it fails and you collapse in a catatonic state for 1d10 minutes.
 
-#### **Bonded Emissary** Bonded Emissary
+## **Bonded Emissary** Bonded Emissary
 
 *"My masters regret that your harvest has failed governor and unrest stirs your little world. Perhaps you should seek assistance from the free captains as you did three years ago when you turned down our last generous offer, and with it the protection of our friendship… no? Well, unfortunately things have grown harsher in the sub-sector of late and our price now is regrettably somewhat higher…"*
 
@@ -193,7 +193,7 @@ Inquisitors have need of skilled individuals other than trained killers, mind-be
 
 **Required Career:** Adept or Tech-Priest. **Alternate Rank:** 4 or higher (2,000 xp). **Other requirements:** Intelligence 30 and Fellowship 30.
 
-#### **Calixian Xeno-Arcanist**
+## **Calixian Xeno-Arcanist**
 
 *"Yes, you were right to call me in Lord Marshal. The runic symbols are indeed of xeno-origin, yes the dying ones… but the inscription is not in their usual form… this rune here, for example, does indicate a warning, but not against trespass as one might expect but… oh… I say…. ahem, I must consult some texts, erm, off world, very important—if my passage could be arranged quickly… perhaps now?"*
 
@@ -238,7 +238,7 @@ Becoming a Xeno-Arcanist is more a matter of inclination and opportunity than an
 
 **Required Career:** Adept. **Alternate Rank:** Rank 4 or higher (2,000 xp). **Other Requirements:** Intelligence 40.
 
-#### **Chaliced Commissariat Operative** 
+## **Chaliced Commissariat Operative** 
 
 *"They have nothing to fear—unless they have something to fear."*
 
@@ -348,7 +348,7 @@ Death worlds come in many varied forms, but each is ultimately inimical to human
 
 Some Death worlds are inhabited regardless of the risk owing to the presence of valuable resources, or held at all costs for strategic reasons. One such world is Haddrak on the edge of the Adrantis Nebula, a world where vast sulphurous seas have poisoned the land and acid storms driven by hurricane-force winds can strip flesh from bone in moments. Yet even on Haddrak life endures. Here the Adeptus Mechanicus of the Sollex sect are based, drawn to the world by its unique crystalline deposits, their black basalt fortress stabs up through to burning skies like a clawed hand. Life, needless to say, for the unfortunates born, stationed or shipped to a death world is unutterably hard and perilous, and almost without exception only those strong both in body and mind survive.
 
-#### **Legate Investigator**
+## **Legate Investigator**
 
 *"Did you receive the heretics into your company? Did you swear to them any service? Did you, knowing that they are the foulest of traitors, aid them by deliberate act, by tolerating their presence, or by the sin of silence when knowing of heresy?"*
 
@@ -430,7 +430,7 @@ Once this Rank has been taken, the character has permanent access to its Advance
 
 **Other Requirements:** You must have the Literacy skill. In addition, you can only select this Alternate Rank if your Inquisitor offers it to you.
 
-#### **Malfian Bloodsworn**
+## **Malfian Bloodsworn**
 
 *"Now be a nice gent and come here and bleed on this warrant for me, eh? Then I'll make it quick for ye, otherwise I'll get a bit put out, and well… I hate swabbing the floor and getting nice parchment dirty. Seems so… undignified like."*
 
@@ -498,7 +498,7 @@ Becoming part of the Blood Guild is deceptively simple: the candidates must make
 
 **Special Elite Advance: Bloodsworn Charter** Upon successfully entering this career path, the character gains a Bloodsworn Charter and the privileges and rights outlined in the Alternate Rank description.
 
-#### **Mechanicus Secutor** Mechanicus Secutor
+## **Mechanicus Secutor** Mechanicus Secutor
 
 "…++CORPUS FINIS+MACHINA MAGNUS+ SANCTUS METALLUM+POTESTAS OMNISSIAH, OMNISSIAH VULT+DEATH TO THE ENEMIES OF THE MACHINE GOD++CORPUS FIN…"
 
@@ -604,7 +604,7 @@ These were created during the Dark Age of Technology to provide all the technica
 
 Today there are no known surviving STC systems and only a very few examples of first-generation texts. For thousands of years the Adeptus Mechanicus has pursued all information about the STC. Any scrap of information is eagerly sought out and jealously hoarded. Any rumour of a functional system is followed up and investigated in force.
 
-#### **Metallican Gunslinger** Metallican Gunslinger
+## **Metallican Gunslinger** Metallican Gunslinger
 
 *"They say he's fast, like chain lightning fast. I don't believe 'em, no one's that fast."*
 
@@ -656,7 +656,7 @@ Note this means you may opt to specify this at character creation as your Advanc
 
 Metallican Gunslingers are notoriously proud of their skill with pistols and eschew all other ranged weapons. With this Trait, you may not acquire new Basic or Heavy Weapon Training talents and may only take Exotic Weapon Training for pistols. If you already have training in ranged weapons that are not pistols, you may still use these Talents, but you take a –10 penalty on Ballistic Skill Tests.
 
-#### **Moritat Reaper**
+## **Moritat Reaper**
 
 *"I never saw the killer fully, though I thank the Saviour-Emperor for her. We'd lost half the squad and Proctor Aeldred had just gone down with his throat bit open. I fired off the last round from my Puritan and had nothing left but my boot knife and a prayer on my lips when this dark shape dropped from the gantry above. The carrionates, well, the rotted things just came apart, black clotted blood and rancid flesh everywhere. The one in front of me went down in five twitching chunks and I swear I didn't see a single sword stroke fall… a miracle sir. The Emperor's own bloody work—like a death angel from the old hive tales."*
 
@@ -826,7 +826,7 @@ Oblatia are accorded a respectful distance and honoured place in the prayers of 
 | Duty Unto Death (see sidebar) | 300  | T    | WP 45         |
 | Fearless                      | 300  | T    | —             |
 
-#### **Becoming a Sister Oblatia**
+## **Becoming a Sister Oblatia**
 
 Most Oblatia come to their vows through spiritual revelation or after deep meditation of the nature of their holy vocation, although some few may have the oath in mind as the central cause of becoming Sororitas in the first place. Regardless of reason, only fully ordained Sisters may take the oath, and they must go before a specially convened synod of their superiors who judge the oath's validity and purity of intent, to ensure it owes nothing to hubris or vanity. The Oblatia must then undergo ritual fasting, mortification, and a symbolic severance from her life and Order before taking up the blade and making her vows before the God-Emperor; turning her back on her Sisters as a requiem mass is sung for her as if she were already dead. Most Sister Oblatia come from the ranks of the Orders Militant, but it not unknown for others to undertake the oath, often choosing to put their particular skills to lethal use in tracking down and defeating the enemies of the faith.
 
