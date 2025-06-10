@@ -1,4 +1,4 @@
-*"Imagine knowing there was a door to the realm of Daemons, and the slightest inattention on your behalf would see them batter it down and rip you to shreds. Now imagine that door is inside your head. That's what being a psyker is like."* — Castus Lupa, Savant Adjunct.
+Imperial Psyker*"Imagine knowing there was a door to the realm of Daemons, and the slightest inattention on your behalf would see them batter it down and rip you to shreds. Now imagine that door is inside your head. That's what being a psyker is like."* — Castus Lupa, Savant Adjunct.
 
 N No one knows when the first human psykers appeared; that information has been lost to the ravages of time, but one thing is certain, their emergence changed the fate of mankind forever. Psykers are both the greatest boon and curse that has afflicted humanity. The Emperor Himself is the most powerful psyker the human race has ever seen. Even ten thousand years after the Emperor was inducted into His sarcophagus, psykers continue to fuel the Imperium. Each day, innumerable souls are shipped to Terra in the Black Ships of the Inquisition. Once there they have the honour of becoming one with the Emperor's Golden Throne, thus allowing His light to spread across the galaxy that the Imperium may endure.
 
@@ -8,19 +8,18 @@ The psykers who are traced and gathered upon the foreboding Black Ships of the I
 
 Psykers have always been used as agents for the Inquisition. Their abilities vary from prognostication, to telepathy, to pyromancy and telekinesis, amongst many others. A psyker Acolyte is most likely still discovering his powers and as he progresses, so he can go deeper and unlock latent abilities and more fearsome powers. The Inquisitor and his fellow Acolytes are both the guide and possible executioner, because as more power flows to the psyker, so too does the lure of Chaos and the attention of Daemons who lurk hungrily in the warp.
 
-| Table 2-7: Imperial Psyker Characteristic Advances |              |         |        |  |  |
-|----------------------------------------------------|--------------|---------|--------|--|--|
-| Simple                                             | Intermediate | Trained | Expert |  |  |
-| 500                                                | 750          | 1,000   | 2,500  |  |  |
-| 250                                                | 500          | 750     | 1,000  |  |  |
-| 250                                                | 500          | 750     | 1,000  |  |  |
-| 250                                                | 500          | 750     | 1,000  |  |  |
-| 500                                                | 750          | 1,000   | 2,500  |  |  |
-| 100                                                | 250          | 500     | 750    |  |  |
-| 100                                                | 250          | 500     | 750    |  |  |
-| 100                                                | 250          | 500     | 750    |  |  |
-| 500                                                | 750          | 1,000   | 2,500  |  |  |
-|                                                    |              |         |        |  |  |
+| Table 2-7: Imperial Psyker Characteristic Advances |        |              |         |        |     |
+| -------------------------------------------------- | ------ | ------------ | ------- | ------ | --- |
+| Characteristic                                     | Simple | Intermediate | Trained | Expert |     |
+| Weapon Skill                                       | 500    | 750          | 1,000   | 2,500  |     |
+| Ballistic Skill                                    | 250    | 500          | 750     | 1,000  |     |
+| Strength                                           | 250    | 500          | 750     | 1,000  |     |
+| Toughness                                          | 250    | 500          | 750     | 1,000  |     |
+| Agility                                            | 500    | 750          | 1,000   | 2,500  |     |
+| Intelligence                                       | 100    | 250          | 500     | 750    |     |
+| Perception                                         | 100    | 250          | 500     | 750    |     |
+| Willpower                                          | 100    | 250          | 500     | 750    |     |
+| Fellowship                                         | 500    | 750          | 1,000   | 2,500  |     |
 
 #### **Sanctionite Advances**
 
@@ -34,28 +33,7 @@ Sanctionites are bound to the Emperor's will, yet even then, they must be watche
 
 Neonates serve as appren tices, servants and bonds men to elder psykers or such bodies as the Adeptus Astra Telepathica deems suitable. During this time, they learn humility, obedience and the true price of their powers.
 
-| Advance                            | Cost    | Type | Prerequisites |
-|------------------------------------|---------|------|---------------|
-| Awareness                          | 100     | S    | —             |
-| Common Lore (Imperial Creed)       | 100     | S    | —             |
-| Common Lore (Imperium)             | 100     | S    | —             |
-| Drive (Ground Vehicle)             | 100     | S    | —             |
-| Forbidden Lore (Warp)              | 100     | S    | —             |
-| Scholastic Lore (Occult)           | 100     | S    | —             |
-| Swim                               | 100     | S    | —             |
-| Trade (Soothsayer)                 | 100     | S    | —             |
-| Chem Geld                          | 100     | T    | —             |
-| Flagellant                         | 100     | T    | —             |
-| Hatred (Daemons)                   | 100     | T    | —             |
-| Meditation                         | 100     | T    | —             |
-| Minor Psychic Power                | 100     | T    | —             |
-| Pistol Training (Las)              | 100     | T    | —             |
-| Pistol Training (Primitive)        | 100     | T    | —             |
-| Pistol Training (SP)               | 100     | T    | —             |
-| Quick Draw                         | 100     | T    | —             |
-| Unremarkable                       | 100     | T    | —             |
-| Thrown Weapon Training (Primitive) | 100     | T    | —             |
-| Sound Constitution                 | 200     | T    | —             |
+
 
 | Advance                                                       | Cost    | Type | Prerequisites |
 |---------------------------------------------------------------|---------|------|---------------|
