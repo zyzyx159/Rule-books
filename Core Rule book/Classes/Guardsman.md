@@ -32,12 +32,13 @@ A[Conscript 0-499] --> B[Guard 500-999];
 B --> C[Armsman 1,000-1,999];
 C --> D[Sergant 2,000-2,999];
 D --> E{Veteran 3,000-5,999}
-E -- Violance --> F[Cutter 6.000-7,999]
-F --> G[Stubjack 8,000-9,9999]
-G --> H[Gang Lord 10,000-14,999]
-E -- Talking --> I[Fixer 6,000-7999]
-I --> J[Shark 8,000-9,999]
-J --> K[Charlatan 10,000-14,999]
+E -- Heavy Weapons --> F[Assult Veteran 6.000-7,999]
+F --> G[Shock Trooper 8,000-9,9999]
+G --> H[Storm Trooper 10,000-14,999]
+E -- Command --> I[Lieutant 6,000-7999]
+I --> J[Captian 8,000-9,999]
+J --> K[Commaqnder 10,000-14,999]
+E -- Stealth --> [Scout 6,000-7,999]
 ```
 
 #### **Conscript Advances**
