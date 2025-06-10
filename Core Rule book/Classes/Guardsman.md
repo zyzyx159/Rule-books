@@ -38,7 +38,9 @@ G --> H[Storm Trooper 10,000-14,999]
 E -- Command --> I[Lieutant 6,000-7999]
 I --> J[Captian 8,000-9,999]
 J --> K[Commaqnder 10,000-14,999]
-E -- Stealth --> [Scout 6,000-7,999]
+E -- Stealth --> L[Scout 6,000-7,999]
+L --> M[Marksman 8,000-9,999]
+M --> N[Sniper 10,000-14,999]
 ```
 
 #### **Conscript Advances**
