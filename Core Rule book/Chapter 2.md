@@ -16,17 +16,17 @@ Your character's Career Path is decided during the character creation process. Y
 
 Each Career Path has its own dedicated section within this chapter. Once you know what path your character is following, take the time to have a good read through the appropriate section. This will tell you all the important things you need to know about playing your character, and how you can expect them to develop over time.
 
-| Table 2-1: Careers |                                          |                   |  |  |
-|--------------------|------------------------------------------|-------------------|--|--|
-| Career             | Description                              | PageReference |  |  |
-| Adept              | Knowledgeablescholars and logisters  | 44                |  |  |
-| Arbitrator         | Investigators and lawmen                 | 50                |  |  |
-| Assassin           | Skilled killers                          | 56                |  |  |
-| Cleric             | Priests, diplomats andleaders of men | 62                |  |  |
-| Guardsman          | Warriors, soldiersand brawlers       | 68                |  |  |
-| Imperial Psyker    | Practitioners ofpsychic disciplines  | 74                |  |  |
-| Scum               | Thieves, outcasts and,well, scum     | 82                |  |  |
-| Tech-Priest        | Keepers of mysterioustechnology      | 88                |  |  |
+| Table 2-1: Careers |                                      |
+| ------------------ | ------------------------------------ |
+| Career             | Description                          |
+| Adept              | Knowledgeable scholars and logisters |
+| Arbitrator         | Investigators and lawmen             |
+| Assassin           | Skilled killers                      |
+| Cleric             | Priests, diplomats andleaders of men |
+| Guardsman          | Warriors, soldiersand brawlers       |
+| Imperial Psyker    | Practitioners ofpsychic disciplines  |
+| Scum               | Thieves, outcasts and, well, scum    |
+| Tech-Priest        | Keepers of mysterious technology     |
 
 # **CAREER PATH FORMAT**
 
