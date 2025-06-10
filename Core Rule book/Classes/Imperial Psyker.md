@@ -28,11 +28,13 @@ B --> C{Aspirant 1,000-1,999};
 C --> D[Savant Militant 2,000-2,999];
 D --> E[Savant Warrent 3,000-5,999];
 E --> F[Lieutenant Savant 6.000-7,999]
-F --> G[Stubjack 8,000-9,9999]
-G --> H[Gang Lord 10,000-14,999]
-E -- Talking --> I[Fixer 6,000-7999]
-I --> J[Shark 8,000-9,999]
-J --> K[Charlatan 10,000-14,999]
+F --> G[Savant Adjunct 8,000-9,9999]
+G --> H[Preceptor Savant 10,000-14,999]
+C --> I[Scholar Materium 2,000-2,999]
+I --> J[Scholar Medicae 3,000-5999]
+J --> K[Scholar Arcanum 6,000-7999]
+K --> L[Scholar Obscurus 8,000-9,999]
+L --> M[Scholar Empyrean 10,000-14,999]
 ```
 #### **Sanctionite Advances**
 
