@@ -26,7 +26,8 @@ Having lived and survived in such tough conditions means that it will frequently
 | Willpower                               | 250    | 500          | 750     | 1,000  |
 | Fellowship                              | 100    | 250          | 500     | 750    |
 ```mermaid
-A[start] --> 
+graph TD
+A[Dreg 0-499] --> B[outcast 500-999];
 ```
 ## **Dreg Advances**
 
