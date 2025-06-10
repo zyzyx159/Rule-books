@@ -31,7 +31,10 @@ A[Dreg 0-499] --> B[outcast 500-999];
 B --> C[Outlaw 1,000-1,999];
 C --> D[Renegae 2,000-2,999];
 D --> E{Rouge 3,000-5,999}
-
+E -- Violance --> F[Cutter 6.000-7,999]
+F --> G[Stubjack 8,000-9,9999]
+G --> H[Gang Lord 10,000-14,999]
+E -- Talking
 ```
 ## **Dreg Advances**
 
