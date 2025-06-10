@@ -34,7 +34,9 @@ D --> E{Rouge 3,000-5,999}
 E -- Violance --> F[Cutter 6.000-7,999]
 F --> G[Stubjack 8,000-9,9999]
 G --> H[Gang Lord 10,000-14,999]
-E -- Talking
+E -- Talking --> I[Fixer 6,000-7999]
+I --> J[Shark 8,000-9,999]
+J --> K[Charlatan 10,000-14,999]
 ```
 ## **Dreg Advances**
 
