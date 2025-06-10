@@ -25,6 +25,9 @@ Having lived and survived in such tough conditions means that it will frequently
 | Perception                              | 250    | 500          | 750     | 1,000  |
 | Willpower                               | 250    | 500          | 750     | 1,000  |
 | Fellowship                              | 100    | 250          | 500     | 750    |
+
+## Advancement Tree
+
 ```mermaid
 graph TD
 A[Dreg 0-499] --> B[outcast 500-999];

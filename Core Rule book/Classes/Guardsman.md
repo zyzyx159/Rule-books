@@ -26,26 +26,40 @@ Not all Guardsmen—or the role the Inquisitors define by that label—actually 
 | Fellowship                                   | 500     | 750      | 1,000   | 2,500   |  |  |
 |                                              |         |              |         |         |  |  |
 
+```mermaid
+graph TD
+A[Conscript 0-499] --> B[Guard 500-999];
+B --> C[Armsman 1,000-1,999];
+C --> D[Sergant 2,000-2,999];
+D --> E{Veteran 3,000-5,999}
+E -- Violance --> F[Cutter 6.000-7,999]
+F --> G[Stubjack 8,000-9,9999]
+G --> H[Gang Lord 10,000-14,999]
+E -- Talking --> I[Fixer 6,000-7999]
+I --> J[Shark 8,000-9,999]
+J --> K[Charlatan 10,000-14,999]
+```
+
 #### **Conscript Advances**
 
 *"If they can bleed and run, they can hold a gun."*
 
 Conscripts learn the raw basics of combat: the charge, the way of the gun and the blade. They may be fresh from an Imperial Guard founding, pressed into service or serving a penal sentence.
 
-| Advance                                                       | Cost    | Type | Prerequisites |  |
-|---------------------------------------------------------------|---------|------|---------------|--|
-| Awareness                                                     | 100     | S    | —             |  |
-| Drive (Ground Vehicle)                                        | 100     | S    | —             |  |
-| Swim                                                          | 100     | S    | —             |  |
-| Basic Weapon Training (Las)                                   | 100     | T    | —             |  |
-| Basic Weapon Training (Primitive)                             | 100     | T    | —             |  |
-| Basic Weapon Training (SP)                                    | 100     | T    | —             |  |
-| Pistol Training (Las)                                         | 100     | T    | —             |  |
-| Pistol Training (Primitive)                                   | 100     | T    | —             |  |
-| Pistol Training (SP)                                          | 100     | T    | —             |  |
-| ‡Sound Constitution                                       | 100     | T    | —             |  |
-| Thrown Weapon Training (Primitive)                            | 100     | T    | —             |  |
-| ‡You may take this Talent up to three times at this Rank. |         |      |               |  |
+| Advance                                                   | Cost | Type | Prerequisites |     |
+| --------------------------------------------------------- | ---- | ---- | ------------- | --- |
+| Awareness                                                 | 100  | S    | —             |     |
+| Drive (Ground Vehicle)                                    | 100  | S    | —             |     |
+| Swim                                                      | 100  | S    | —             |     |
+| Basic Weapon Training (Las)                               | 100  | T    | —             |     |
+| Basic Weapon Training (Primitive)                         | 100  | T    | —             |     |
+| Basic Weapon Training (SP)                                | 100  | T    | —             |     |
+| Pistol Training (Las)                                     | 100  | T    | —             |     |
+| Pistol Training (Primitive)                               | 100  | T    | —             |     |
+| Pistol Training (SP)                                      | 100  | T    | —             |     |
+| ‡Sound Constitution                                       | 100  | T    | —             |     |
+| Thrown Weapon Training (Primitive)                        | 100  | T    | —             |     |
+| ‡You may take this Talent up to three times at this Rank. |      |      |               |     |
 
 #### **Guard Advances**
 
