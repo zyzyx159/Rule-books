@@ -1,5 +1,7 @@
 - [ ] Core Rule book
-- [x] Galaxy of Guns
+	- [ ] Split the book into files by chapters
+- [ ] Galaxy of Guns
+	- [ ] Need to do the links
 - [ ] Inquisitor's Handbook
 	- [x] Splitting the book into files by chapters
 - [x] Poisons and Toxins
