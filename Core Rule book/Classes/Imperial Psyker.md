@@ -24,10 +24,10 @@ Psykers have always been used as agents for the Inquisition. Their abilities var
 ```mermaid
 graph TD
 A[Sanctionite 0-499] --> B[Neonate 500-999];
-B --> C[Aspirant 1,000-1,999];
-C --> D{Renegae 2,000-2,999};
-D -- > E[Rouge 3,000-5,999];
-E -- Violance --> F[Cutter 6.000-7,999]
+B --> C{Aspirant 1,000-1,999};
+C --> D[Savant Militant 2,000-2,999];
+D --> E[Savant Warrent 3,000-5,999];
+E --> F[Lieutenant Savant 6.000-7,999]
 F --> G[Stubjack 8,000-9,9999]
 G --> H[Gang Lord 10,000-14,999]
 E -- Talking --> I[Fixer 6,000-7999]
