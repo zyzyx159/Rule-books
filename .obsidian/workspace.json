@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "where I left off.md",
+                "file": "Core Rulebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "where I left off"
+              "title": "Core Rulebook"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "20433a98eaa7a227",
   "lastOpenFiles": [
-    "Galaxy of Guns.md",
     "where I left off.md",
+    "Galaxy of Guns.md",
     "Tools of the Trade.md",
     "Poisons and Toxins.md",
     "Inquisitors Handbook/Chapter 9 - Life as an Acolyte.md",
