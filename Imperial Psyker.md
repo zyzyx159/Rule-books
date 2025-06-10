@@ -429,42 +429,41 @@ The mind of the Scholar Empyrean ranges free, even whilst their will is securely
 
 *You may take this Talent up to four times at this Rank.*
 
-| Advance                                                                                                                                  | Cost               | Type   | Prerequisites                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ | --------------------------------------------------------------------------------------------------------------------- |
-| Blather +20                                                                                                                              | 100                | S      | Blather +10                                                                                                           |
-| Common Lore (Tech) +20                                                                                                                   | 100                | S      | Common Lore (Tech) +10                                                                                                |
-| Deceive +10                                                                                                                              | 100                | S      | Deceive                                                                                                               |
-| Evaluate +10                                                                                                                             | 100                | S      | Evaluate                                                                                                              |
-| Forbidden Lore (Archeotech)                                                                                                              | 100                | S      | —                                                                                                                     |
-| Forbidden Lore (Mutants) +20                                                                                                             | 100                | S      | Forbidden Lore (Mutants) +10                                                                                          |
-| Forbidden Lore (Xenos) +10                                                                                                               | 100                | S      | Forbidden Lore (Xenos)                                                                                                |
-| Logic +10                                                                                                                                | 100                | S      | Logic                                                                                                                 |
-| Medicae +20                                                                                                                              | 100                | S      | Medicae +10                                                                                                           |
-| Scholastic Lore (Astromancy) +20                                                                                                         | 100                | S      | Scholastic Lore (Astromancy) +10                                                                                      |
-| Scholastic Lore (Chymistry) +20                                                                                                          | 100                | S      | Scholastic Lore (Chymistry) +10                                                                                       |
-| Scholastic Lore (Heraldry) +20                                                                                                           | 100                | S      | Scholastic Lore (Heraldry) +10                                                                                        |
-| Scholastic Lore (Imperial Creed) +20                                                                                                     | 100                | S      | Scholastic Lore (Imperial Creed) +10                                                                                  |
-| Scholastic Lore (Judgement)                                                                                                              | 100                | S      | —                                                                                                                     |
-| Scrutiny +20                                                                                                                             | 100                | S      | Scrutiny +10                                                                                                          |
-| Trade (Artist)                                                                                                                           | 100                | S      | —                                                                                                                     |
-| Air of Authority                                                                                                                         | 100                | T      | Fel 30                                                                                                                |
-| armor of Contempt                                                                                                                        | 100                | T      | WP 40                                                                                                                 |
-| Discipline Focus (choose one)                                                                                                            | 100                | T      | Psy Rating 3                                                                                                          |
-| Fearless                                                                                                                                 | 100                | T      | —                                                                                                                     |
-| Logis Implant                                                                                                                            | 100                | T      | —                                                                                                                     |
-| Master Orator                                                                                                                            | 100                | T      | Fel 30                                                                                                                |
-| Minor Psychic Power¥                                                                                                                     | 100                | T      | —                                                                                                                     |
-| Nerves of Steel                                                                                                                          | 100                | T      | —                                                                                                                     |
-| Peer (Government)                                                                                                                        | 100                | T      | Fel 30                                                                                                                |
-| Psychic Power†                                                                                                                           | 100                | T      | —                                                                                                                     |
-|                                                                                                                                          |                    |        |                                                                                                                       |
-|                                                                                                                                          |                    |        |                                                                                                                       |
-| Psy Rating 6                                                                                                                             |                    |        |                                                                                                                       |
-|                                                                                                                                          |                    |        |                                                                                                                       |
-|                                                                                                                                          |                    |        |                                                                                                                       |
-|                                                                                                                                          |                    |        |                                                                                                                       |
-| †You may take this Talent up to two times at this Rank.                                                                                  |                    |        |                                                                                                                       |
-| Forbidden Lore (Cults) +10Forbidden Lore (Inquisition) +10Good Reputation (Inquistion)Sound ConstitutionForbidden Lore (Daemonology) +10 | 200200200200200300 | SSTTTS | Forbidden Lore (Cults)Forbidden Lore (Inquisition)Psy Rating 5Fel 50, Peer (Inquisition)—Forbidden Lore (Daemonology) |
+| Advance                                                 | Cost               | Type   | Prerequisites                        |
+| ------------------------------------------------------- | ------------------ | ------ | ------------------------------------ |
+| Blather +20                                             | 100                | S      | Blather +10                          |
+| Common Lore (Tech) +20                                  | 100                | S      | Common Lore (Tech) +10               |
+| Deceive +10                                             | 100                | S      | Deceive                              |
+| Evaluate +10                                            | 100                | S      | Evaluate                             |
+| Forbidden Lore (Archeotech)                             | 100                | S      | —                                    |
+| Forbidden Lore (Mutants) +20                            | 100                | S      | Forbidden Lore (Mutants) +10         |
+| Forbidden Lore (Xenos) +10                              | 100                | S      | Forbidden Lore (Xenos)               |
+| Logic +10                                               | 100                | S      | Logic                                |
+| Medicae +20                                             | 100                | S      | Medicae +10                          |
+| Scholastic Lore (Astromancy) +20                        | 100                | S      | Scholastic Lore (Astromancy) +10     |
+| Scholastic Lore (Chymistry) +20                         | 100                | S      | Scholastic Lore (Chymistry) +10      |
+| Scholastic Lore (Heraldry) +20                          | 100                | S      | Scholastic Lore (Heraldry) +10       |
+| Scholastic Lore (Imperial Creed) +20                    | 100                | S      | Scholastic Lore (Imperial Creed) +10 |
+| Scholastic Lore (Judgement)                             | 100                | S      | —                                    |
+| Scrutiny +20                                            | 100                | S      | Scrutiny +10                         |
+| Trade (Artist)                                          | 100                | S      | —                                    |
+| Air of Authority                                        | 100                | T      | Fel 30                               |
+| armor of Contempt                                       | 100                | T      | WP 40                                |
+| Discipline Focus (choose one)                           | 100                | T      | Psy Rating 3                         |
+| Fearless                                                | 100                | T      | —                                    |
+| Logis Implant                                           | 100                | T      | —                                    |
+| Master Orator                                           | 100                | T      | Fel 30                               |
+| Minor Psychic Power¥                                    | 100                | T      | —                                    |
+| Nerves of Steel                                         | 100                | T      | —                                    |
+| Peer (Government)                                       | 100                | T      | Fel 30                               |
+| Psychic Power†                                          | 100                | T      | —                                    |
+| Forbidden Lore (Cults) +10                              | 200                | S      | Forbidden Lore (Cults)               |
+| Forbidden Lore (Inquisition) +10                        | 200                | S      | Forbidden Lore (Inquisition)         |
+| Psy Rating 6                                            | 200                | T      | Psy Rating 5                         |
+| Good Reputation (Inquistion)                            | 200                | T      | Fel 50, Peer (Inquisition)           |
+| Sound Constitution                                      | 200                | T      | —                                    |
+| Forbidden Lore (Daemonology) +10                        | 300                | S      | Forbidden Lore (Daemonology)         |
+| †You may take this Talent up to two times at this Rank. |                    |        |                                      |
 
 # **Preceptor-Savant Advances**
 
