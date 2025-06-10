@@ -8,18 +8,18 @@ The psykers who are traced and gathered upon the foreboding Black Ships of the I
 
 Psykers have always been used as agents for the Inquisition. Their abilities vary from prognostication, to telepathy, to pyromancy and telekinesis, amongst many others. A psyker Acolyte is most likely still discovering his powers and as he progresses, so he can go deeper and unlock latent abilities and more fearsome powers. The Inquisitor and his fellow Acolytes are both the guide and possible executioner, because as more power flows to the psyker, so too does the lure of Chaos and the attention of Daemons who lurk hungrily in the warp.
 
-| Table 2-7: Imperial Psyker Characteristic Advances |        |              |         |        |     |
-| -------------------------------------------------- | ------ | ------------ | ------- | ------ | --- |
-| Characteristic                                     | Simple | Intermediate | Trained | Expert |     |
-| Weapon Skill                                       | 500    | 750          | 1,000   | 2,500  |     |
-| Ballistic Skill                                    | 250    | 500          | 750     | 1,000  |     |
-| Strength                                           | 250    | 500          | 750     | 1,000  |     |
-| Toughness                                          | 250    | 500          | 750     | 1,000  |     |
-| Agility                                            | 500    | 750          | 1,000   | 2,500  |     |
-| Intelligence                                       | 100    | 250          | 500     | 750    |     |
-| Perception                                         | 100    | 250          | 500     | 750    |     |
-| Willpower                                          | 100    | 250          | 500     | 750    |     |
-| Fellowship                                         | 500    | 750          | 1,000   | 2,500  |     |
+| Table 2-7: Imperial Psyker Characteristic Advances |        |              |         |        |
+| -------------------------------------------------- | ------ | ------------ | ------- | ------ |
+| Characteristic                                     | Simple | Intermediate | Trained | Expert |
+| Weapon Skill                                       | 500    | 750          | 1,000   | 2,500  |
+| Ballistic Skill                                    | 250    | 500          | 750     | 1,000  |
+| Strength                                           | 250    | 500          | 750     | 1,000  |
+| Toughness                                          | 250    | 500          | 750     | 1,000  |
+| Agility                                            | 500    | 750          | 1,000   | 2,500  |
+| Intelligence                                       | 100    | 250          | 500     | 750    |
+| Perception                                         | 100    | 250          | 500     | 750    |
+| Willpower                                          | 100    | 250          | 500     | 750    |
+| Fellowship                                         | 500    | 750          | 1,000   | 2,500  |
 
 ```mermaid
 graph TD

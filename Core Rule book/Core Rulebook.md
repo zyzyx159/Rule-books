@@ -7,7 +7,7 @@
 
 P S Part of the fun of Dark Heresy is deciding which Skills to develop and learn during the career of your character. This chapter contains all the detailed information you might need to help you use Skills to their full effect. See **Chapter VII: Playing the Game** on **[page](#page-182-0) [182](#page-182-0)**, for details on Skill Tests, Characteristics and how they are made.
 
-# Gaining Skills GAINING SKILLS
+# GAINING SKILLS
 
 *"Foolish are those who fear nothing, yet claim to know everything."*
 
@@ -23,7 +23,7 @@ Sometimes you will have the opportunity to acquire the same Skill more than once
 
 *Mordechai has the Interrogation skill. At a later date his Arbitrator Career Path gives him the opportunity to acquire the Skill again. As he already has the Skill, he gains Skill Mastery, granting him a +10 bonus to any Skill Tests made with Interrogation.*
 
-# Basic & Advan ced Skills BASIC & ADVANCED SKILLS
+# BASIC & ADVANCED SKILLS
 
 *"Even the lowest trade is blessed, if it is done in the Emperor's name."*
 
@@ -31,15 +31,15 @@ Sometimes you will have the opportunity to acquire the same Skill more than once
 
 Skills are divided into two categories: Basic and Advanced. This distinction defines which Skills you can use without special training and which Skills you can't.
 
-# Basic Skills **BASIC SKILLS**
+# **BASIC SKILLS**
 
 Basic Skills are those common to citizens throughout the Imperium, and simply growing up on a world under Imperial rule exposes characters to the rudiments of the Skill. As a result, you can make Skill Tests using Basic Skills even if you don't have the Skill in question. Since you are relying on natural aptitude rather than any sort of formal training, you make the test at half (round down) your Characteristic.
 
-# Advanced Skills **ADVANCED SKILLS**
+# **ADVANCED SKILLS**
 
 Advanced Skills are those that require training and experience in order to master and understand. If you do not have an Advanced Skill, you cannot attempt it. No matter how intelligent you are, for instance, you will not be able to access an encrypted cogitator engine without some formal training.
 
-# Skill Descriptions **SKILL DESCRIPTORS**
+# SKILL DESCRIPTORS**
 
 Some Skills are flagged with special descriptors such as combat, crafting, interaction, investigation, movement or operator. These Skills use special rules that are described in **Chapter VII: Playing the Game** and **Chapter VIII: The Game Master.** In summary, Crafting skills are those used to create items from scratch and spare parts. Interaction skills are those used when interacting with NPCs. Investigation skills are those used to ferret out additional information about a subject. Movement skills offer alternative means to get around your environment. And finally, Operator skills allow you to operate a vehicle.
 
