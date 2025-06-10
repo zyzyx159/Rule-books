@@ -143,50 +143,46 @@ Veterans hold their own upon the battlefield, inspiring others with their prowes
 | Basic Weapon Training (Melta)                            | 100                                                                                     | T             | —                                |
 | Basic Weapon Training (Plasma)                           | 100                                                                                     | T             | —                                |
 | Bulging Biceps                                           | 100                                                                                     | T             | S 45                             |
-| Die Hard                                                 | 100                                                                                     |               |                                  |
-| Hard Target                                              | 100                                                                                     |               |                                  |
-| Heavy Weapon Training (Bolt)                             | 100                                                                                     |               |                                  |
-| Heavy Weapons Training (Las)                             | 100                                                                                     |               |                                  |
-| Heavy Weapons Training (Launcher)                        | 100                                                                                     |               |                                  |
-| True Grit                                                | 100                                                                                     |               |                                  |
-| Climb                                                    |                                                                                         |               |                                  |
-| Gamble +10                                               |                                                                                         |               |                                  |
-| Medicae                                                  |                                                                                         |               |                                  |
-| Search                                                   |                                                                                         |               |                                  |
-| Hatred (Xeno—choose one)                                 |                                                                                         |               |                                  |
-| Iron Jaw                                                 |                                                                                         |               |                                  |
-| Sound Constitution†                                      |                                                                                         |               |                                  |
+| Die Hard                                                 | 100                                                                                     | T             | WP 40                            |
+| Hard Target                                              | 100                                                                                     | T             | Ag 40                            |
+| Heavy Weapon Training (Bolt)                             | 100                                                                                     | T             | —                                |
+| Heavy Weapons Training (Las)                             | 100                                                                                     | T             | —                                |
+| Heavy Weapons Training (Launcher)                        | 100                                                                                     | T             | —                                |
+| True Grit                                                | 100                                                                                     | T             | T 40                             |
+| Climb                                                    | 200                                                                                     | S             | —                                |
+| Gamble +10                                               | 200                                                                                     | S             | Gamble                           |
+| Medicae                                                  | 200                                                                                     | S             | —                                |
+| Search                                                   | 200                                                                                     | S             | —                                |
+| Hatred (Xeno—choose one)                                 | 200                                                                                     | T             | —                                |
+| Iron Jaw                                                 | 200                                                                                     | T             | T 40                             |
+| Sound Constitution†                                      | 200                                                                                     | T             | —                                |
 | † You may take this Talent up to two times at this Rank. |                                                                                         |               |                                  |
-|                                                          | 100    100    100    100    100    100    200    200    200    200    200    200    200 | TTTTTTSSSSTTT | WP 40Ag 40———T 40—Gamble———T 40— |
 #### **Assault Veteran Advances**
 
 *"It's going to get close and messy lads, stay close to me and don't be afraid to get it on ya…"*
 
 Freedom is bought at the point of a blade, and Assault Veterans know this all too well. In the close press of fighting, they wield their chainblades with deadly efficiency.
 
+| Advance                          | Cost | Type | Prerequisites                      |
+| -------------------------------- | ---- | ---- | ---------------------------------- |
+| Common Lore (Imperial Creed) +10 | 100  | S    | Common Lore (Imperial Creed        |
+| Demolition +20                   | 100  | S    | Demolition +10                     |
+| Survival +20                     | 100  | S    | Survival +10                       |
+| Blademaster                      | 100  | T    | WS 30, Melee Weapon Training (any) |
+| Combat Master                    | 100  | T    | WS 30                              |
+| Frenzy                           | 100  | T    | —                                  |
+| Furious Assault                  | 100  | T    | WS 35                              |
+| Leap Up                          | 100  | T    | Ag 30                              |
+| Melee Weapon Training (Power)    | 100  | T    | —                                  |
+| Chem-Use                         | 200  | S    | —                                  |
+| Dodge +20                        | 200  | S    | Dodge +10                          |
+| Sound Constitution               | 200  | T    | —                                  |
+| Lightning Attack                 | 300  | T    | Swift Attack                       |
 #### **Lieutenant Advances**
 
 *"Watch your formation and stay sharp!"*
 
 Lieutenants lead their men into glorious battle. It falls to an officer to accept the weight of command and responsibilities for success of failure on the battlefield.
-
-
-
-| Advance                          | Cost    | Type | Prerequisites                      |
-|----------------------------------|---------|------|------------------------------------|
-| Common Lore (Imperial Creed) +10 | 100     | S    | Common Lore (Imperial Creed        |
-| Demolition +20                   | 100     | S    | Demolition +10                     |
-| Survival +20                     | 100     | S    | Survival +10                       |
-| Blademaster                      | 100     | T    | WS 30, Melee Weapon Training (any) |
-| Combat Master                    | 100     | T    | WS 30                          |
-| Frenzy                           | 100     | T    | —                                  |
-| Furious Assault                  | 100     | T    | WS 35                          |
-| Leap Up                          | 100     | T    | Ag 30                          |
-| Melee Weapon Training (Power)    | 100     | T    | —                                  |
-| Chem-Use                         | 200     | S    | —                                  |
-| Dodge +20                        | 200     | S    | Dodge +10                          |
-| Sound Constitution               | 200     | T    | —                                  |
-| Lightning Attack                 | 300     | T    | Swift Attack                       |
 
 | Advance                              | Cost    | Type | Prerequisites                |
 |--------------------------------------|---------|------|------------------------------|
@@ -209,33 +205,14 @@ Lieutenants lead their men into glorious battle. It falls to an officer to accep
 | Charm                                | 300     | S    | —                            |
 | Deceive                              | 300     | S    | —                            |
 | Evaluate                             | 300     | S    | —                            |
-
 # **Scout Advances**
 
 *"I swear dead men make more noise than that bastard."*
 
 Scouts are adept at locating the enemy in all terrain. They are keen observers, and skilled in the art of stealth.
 
-# **Shock Trooper Advances**
-
-*"The heretics were still reeling from the door charges when the shock troopers hit them."*
-
-Shock Troopers know how to storm bunkers and lay down their life for the Emperor. They are well armed, well trained, and well feared.
-
-# **Captain Advances**
-
-*"Squad Five! I want suppressing fire on that blockhouse! Squad Seven, move into flanking positions!"*
-
-Captains command large formations and battle groups. The skill of a bold Captain is vital to any successful attack or defence.
-
-# **Marksman Advances**
-
-*"I may not look much but I can take out your left eye with this baby from a thousand yards."*
-
-Most Imperial forces include a Marksman to support the rest of its members with accurate long-range fire support. They are adept at digging in and picking off the enemy.
-
 | Advance                       | Cost | Type | Prerequisites            |
-|-------------------------------|------|------|--------------------------|
+| ----------------------------- | ---- | ---- | ------------------------ |
 | Awareness +10                 | 100  | S    | Awareness                |
 | Navigation (Surface) +20      | 100  | S    | Navigation (Surface) +10 |
 | Deadeye Shot                  | 100  | T    | BS 30                    |
@@ -249,55 +226,70 @@ Most Imperial forces include a Marksman to support the rest of its members with 
 | Leap Up                       | 200  | T    | Ag 30                    |
 | Melee Weapon Training (Power) | 200  | T    | —                        |
 | Sound Constitution            | 200  | T    | —                        |
+# **Shock Trooper Advances**
 
-| Advance                                                     | Cost | Type | Prerequisites                 |
-|-------------------------------------------------------------|------|------|-------------------------------|
-| Carouse +10                                                 | 200  | S    | Carouse                       |
-| Chem-Use +10                                                | 200  | S    | Chem-Use                      |
-| Concealment                                                 | 200  | S    | —                             |
-| Cleanse and Purify                                          | 200  | T    | Basic Weapon Training (Flame) |
-| Hardy                                                       | 200  | T    | T 40                          |
-| Heavy Weapon Training (Melta)                               | 200  | T    | —                             |
-| Heavy Weapon Training (Plasma)                              | 200  | T    | —                             |
-| Sound Constitution†                                         | 200  | T    | —                             |
-| Talented (Chem-Use)                                         | 200  | T    | Chem-Use                      |
-| †You may take this Talent up to two times at this Rank.     |      |      |                               |
+*"The heretics were still reeling from the door charges when the shock troopers hit them."*
 
-| Advance                                                     | Cost | Type | Prerequisites                        |
-|-------------------------------------------------------------|------|------|--------------------------------------|
-| Interrogation +10                                           | 100  | S    | Interrogation                        |
-| Scholastic Lore (Imperial Creed)                            | 100  | S    | Common Lore (Imperial Creed) +10     |
-| Scholastic Lore (Tactica Imperialis) +10                    | 100  | S    | Scholastic Lore (Tactica Imperialis) |
-| Secret Tongue (Military) +20                                | 100  | S    | Secret Tongue (Military) +10         |
-| Air of Authority                                            | 100  | T    | Fel 30                               |
-| Hatred (Psykers)                                            | 100  | T    | —                                    |
-| Pistol Training (Melta)                                     | 100  | T    | —                                    |
-| Strong-minded                                               | 100  | T    | WP 30, Resistance (Psychic Powers)   |
-| Exotic Weapon Training (Web Pistol)                         | 200  | T    | —                                    |
-| Iron Discipline                                             | 200  | T    | WP 30, Command                       |
-| Nerves of Steel                                             | 200  | T    | —                                    |
-| Sound Constitution†                                         | 200  | T    | —                                    |
-| Talented (Blather)                                          | 200  | T    | Blather                              |
-| Talented (Charm)                                            | 200  | T    | Charm                                |
-| Logic                                                       | 300  | S    | —                                    |
-| Lightning Attack                                            | 300  | T    | Swift Attack                         |
-| Resistance (Psychic Powers)                                 | 300  | T    | —                                    |
-| †You may take this Talent up to two times at this Rank.     |      |      |                                      |
+Shock Troopers know how to storm bunkers and lay down their life for the Emperor. They are well armed, well trained, and well feared.
 
-| Advance                                                     | Cost | Type | Prerequisites       |
-|-------------------------------------------------------------|------|------|---------------------|
-| Survival +20                                                | 100  | S    | Survival +10        |
-| Mighty Shot                                                 | 100  | T    | BS 40               |
-| Chem-Use                                                    | 200  | S    | —                   |
-| Concealment +10                                             | 200  | S    | Concealment         |
-| Security +10                                                | 200  | S    | Security            |
-| Lightning Reflexes                                          | 200  | T    | —                   |
-| Sharpshooter                                                | 200  | T    | BS 40, Deadeye Shot |
-| Sound Constitution†                                         | 200  | T    | —                   |
-| Talented (Shadowing)                                        | 200  | T    | Shadowing           |
-| Disguise                                                    | 300  | S    | —                   |
-| Shadowing                                                   | 300  | S    | —                   |
-| †You may take this Talent up to two times at this Rank.     |      |      |                     |
+| Advance                                                 | Cost | Type | Prerequisites                 |
+| ------------------------------------------------------- | ---- | ---- | ----------------------------- |
+| Carouse +10                                             | 200  | S    | Carouse                       |
+| Chem-Use +10                                            | 200  | S    | Chem-Use                      |
+| Concealment                                             | 200  | S    | —                             |
+| Cleanse and Purify                                      | 200  | T    | Basic Weapon Training (Flame) |
+| Hardy                                                   | 200  | T    | T 40                          |
+| Heavy Weapon Training (Melta)                           | 200  | T    | —                             |
+| Heavy Weapon Training (Plasma)                          | 200  | T    | —                             |
+| Sound Constitution†                                     | 200  | T    | —                             |
+| Talented (Chem-Use)                                     | 200  | T    | Chem-Use                      |
+| †You may take this Talent up to two times at this Rank. |      |      |                               |
+# **Captain Advances**
+
+*"Squad Five! I want suppressing fire on that blockhouse! Squad Seven, move into flanking positions!"*
+
+Captains command large formations and battle groups. The skill of a bold Captain is vital to any successful attack or defence.
+
+| Advance                                                 | Cost | Type | Prerequisites                        |
+| ------------------------------------------------------- | ---- | ---- | ------------------------------------ |
+| Interrogation +10                                       | 100  | S    | Interrogation                        |
+| Scholastic Lore (Imperial Creed)                        | 100  | S    | Common Lore (Imperial Creed) +10     |
+| Scholastic Lore (Tactica Imperialis) +10                | 100  | S    | Scholastic Lore (Tactica Imperialis) |
+| Secret Tongue (Military) +20                            | 100  | S    | Secret Tongue (Military) +10         |
+| Air of Authority                                        | 100  | T    | Fel 30                               |
+| Hatred (Psykers)                                        | 100  | T    | —                                    |
+| Pistol Training (Melta)                                 | 100  | T    | —                                    |
+| Strong-minded                                           | 100  | T    | WP 30, Resistance (Psychic Powers)   |
+| Exotic Weapon Training (Web Pistol)                     | 200  | T    | —                                    |
+| Iron Discipline                                         | 200  | T    | WP 30, Command                       |
+| Nerves of Steel                                         | 200  | T    | —                                    |
+| Sound Constitution†                                     | 200  | T    | —                                    |
+| Talented (Blather)                                      | 200  | T    | Blather                              |
+| Talented (Charm)                                        | 200  | T    | Charm                                |
+| Logic                                                   | 300  | S    | —                                    |
+| Lightning Attack                                        | 300  | T    | Swift Attack                         |
+| Resistance (Psychic Powers)                             | 300  | T    | —                                    |
+| †You may take this Talent up to two times at this Rank. |      |      |                                      |
+# **Marksman Advances**
+
+*"I may not look much but I can take out your left eye with this baby from a thousand yards."*
+
+Most Imperial forces include a Marksman to support the rest of its members with accurate long-range fire support. They are adept at digging in and picking off the enemy.
+
+| Advance                                                 | Cost | Type | Prerequisites       |
+| ------------------------------------------------------- | ---- | ---- | ------------------- |
+| Survival +20                                            | 100  | S    | Survival +10        |
+| Mighty Shot                                             | 100  | T    | BS 40               |
+| Chem-Use                                                | 200  | S    | —                   |
+| Concealment +10                                         | 200  | S    | Concealment         |
+| Security +10                                            | 200  | S    | Security            |
+| Lightning Reflexes                                      | 200  | T    | —                   |
+| Sharpshooter                                            | 200  | T    | BS 40, Deadeye Shot |
+| Sound Constitution†                                     | 200  | T    | —                   |
+| Talented (Shadowing)                                    | 200  | T    | Shadowing           |
+| Disguise                                                | 300  | S    | —                   |
+| Shadowing                                               | 300  | S    | —                   |
+| †You may take this Talent up to two times at this Rank. |      |      |                     |
 
 #### **Storm Trooper Advances**
 
@@ -305,62 +297,60 @@ Most Imperial forces include a Marksman to support the rest of its members with 
 
 Storm Troopers create utter destruction. Often regarded by the regular Guard as vain parade apes, they nonethe less have a well-deserved reputation for being the best of the best.
 
+| Advance                                                 | Cost | Type | Prerequisites  |
+| ------------------------------------------------------- | ---- | ---- | -------------- |
+| Intimidate +20                                          | 100  | S    | Intimidate +10 |
+| Berserk Charge                                          | 100  | T    | —              |
+| Exotic Weapon Training (Web Pistol)                     | 200  | T    | —              |
+| Exotic Weapon Training (Webber)                         | 200  | T    | —              |
+| Fearless                                                | 200  | T    | —              |
+| Insanely Faithful                                       | 200  | T    | —              |
+| Pistol Training (Launcher)                              | 200  | T    | —              |
+| Pistol Training (Melta)                                 | 200  | T    | —              |
+| Pistol Training (Plasma)                                | 200  | T    | —              |
+| †Sound Constitution                                     | 300  | T    | —              |
+| †You may take this Talent up to two times at this Rank. |      |      |                |
 # **Commander Advances**
 
 *"Men of the Imperium stand tall, for you are the favoured of the Emperor!"*
 
 Commanders control the entire flow of battle, from planning to execution. Imperial Commanders have at their disposal the greatest armies in the known galaxy, and the cold, hard determination to use them.
 
+| Advance                                                 | Cost | Type | Prerequisites                            |
+| ------------------------------------------------------- | ---- | ---- | ---------------------------------------- |
+| Command +20                                             | 100  | S    | Command +10                              |
+| Scholastic Lore (Tactica Imperialis) +20                | 100  | S    | Scholastic Lore (Tactica Imperialis) +10 |
+| Frenzy                                                  | 100  | T    | —                                        |
+| Hatred (Cult: Choose One)                               | 100  | T    | —                                        |
+| Talented (Deceive)                                      | 100  | T    | Deceive                                  |
+| Total Recall                                            | 100  | T    | Int 30                                   |
+| Unshakable Faith                                        | 100  | T    | —                                        |
+| Carouse +10                                             | 200  | S    | Carouse                                  |
+| Concealment                                             | 200  | S    | —                                        |
+| Into the Jaws of Hell                                   | 200  | T    | Iron Discipline                          |
+| Leap Up                                                 | 200  | T    | Ag 30                                    |
+| Litany of Hate                                          | 200  | T    | Hatred (any)                             |
+| Master Orator                                           | 200  | T    | Fel 30                                   |
+| Sound Constitution†                                     | 300  | T    | —                                        |
+| †You may take this Talent up to two times at this Rank. |      |      |                                          |
 # **Sniper Advances**
 
 *"There's something really satisfying about making a man's head explode like a blood melon. All in the name of the Emperor of course."*
 
 Snipers are masters of their art, able to kill at a distance, then melt away from view. They are silent, skilled and often have a grim sense of humour. Many find them hard to understand.
 
-| Advance                                                     | Cost     | Type     | Prerequisites  |
-|-------------------------------------------------------------|----------|----------|----------------|
-| Intimidate +20                                              | 100      | S        | Intimidate +10 |
-| Berserk Charge                                              | 100      | T        | —              |
-| Exotic Weapon Training (Web Pistol)                         | 200      | T        | —              |
-| Exotic Weapon Training (Webber)                             | 200      | T        | —              |
-| Fearless                                                    | 200      | T        | —              |
-| Insanely Faithful                                           | 200      | T        | —              |
-| Pistol Training (Launcher)                                  | 200      | T        | —              |
-| Pistol Training (Melta)                                     | 200      | T        | —              |
-| Pistol Training (Plasma)                                    | 200      | T        | —              |
-| †Sound Constitution                                         | 300      | T        | —              |
-| †You may take this Talent up to two times at this Rank.     |          |          |                |
-
-| Advance                                                     | Cost     | Type     | Prerequisites                            |
-|-------------------------------------------------------------|----------|----------|------------------------------------------|
-| Command +20                                                 | 100      | S        | Command +10                              |
-| Scholastic Lore (Tactica Imperialis) +20                    | 100      | S        | Scholastic Lore (Tactica Imperialis) +10 |
-| Frenzy                                                      | 100      | T        | —                                        |
-| Hatred (Cult: Choose One)                                   | 100      | T        | —                                        |
-| Talented (Deceive)                                          | 100      | T        | Deceive                                  |
-| Total Recall                                                | 100      | T        | Int 30                               |
-| Unshakable Faith                                            | 100      | T        | —                                        |
-| Carouse +10                                                 | 200      | S        | Carouse                                  |
-| Concealment                                                 | 200      | S        | —                                        |
-| Into the Jaws of Hell                                       | 200      | T        | Iron Discipline                          |
-| Leap Up                                                     | 200      | T        | Ag 30                                    |
-| Litany of Hate                                              | 200      | T        | Hatred (any)                             |
-| Master Orator                                               | 200      | T        | Fel 30                               |
-| Sound Constitution†                                         | 300      | T        | —                                        |
-| †You may take this Talent up to two times at this Rank.     |          |          |                                          |
-
-| Advance                                                     | Cost     | Type     | Prerequisites |
-|-------------------------------------------------------------|----------|----------|---------------|
-| Awareness +20                                               | 100      | S        | Awareness +10 |
-| Talented (Disguise)                                         | 100      | T        | Disguise      |
-| Talented (Tracking)                                         | 100      | T        | Tracking      |
-| Chem-Use +10                                                | 200      | S        | Chem-Use      |
-| Silent Move +10                                             | 200      | S        | Silent Move   |
-| Pistol Training (Melta)                                     | 200      | T        | —             |
-| Pistol Training (Plasma)                                    | 200      | T        | —             |
-| Tracking                                                    | 300      | S        | —             |
-| Crack Shot                                                  | 300      | T        | BS 40         |
-| Exotic Weapon Training (Needle Rifle)                       | 300      | T        | —             |
-| Lightning Attack                                            | 300      | T        | Swift Attack  |
-| Sound Constitution†                                         | 300      | T        | —             |
-| †You may take this Talent up to two times at this Rank.     |          |          |               |
+| Advance                                                 | Cost | Type | Prerequisites |
+| ------------------------------------------------------- | ---- | ---- | ------------- |
+| Awareness +20                                           | 100  | S    | Awareness +10 |
+| Talented (Disguise)                                     | 100  | T    | Disguise      |
+| Talented (Tracking)                                     | 100  | T    | Tracking      |
+| Chem-Use +10                                            | 200  | S    | Chem-Use      |
+| Silent Move +10                                         | 200  | S    | Silent Move   |
+| Pistol Training (Melta)                                 | 200  | T    | —             |
+| Pistol Training (Plasma)                                | 200  | T    | —             |
+| Tracking                                                | 300  | S    | —             |
+| Crack Shot                                              | 300  | T    | BS 40         |
+| Exotic Weapon Training (Needle Rifle)                   | 300  | T    | —             |
+| Lightning Attack                                        | 300  | T    | Swift Attack  |
+| Sound Constitution†                                     | 300  | T    | —             |
+| †You may take this Talent up to two times at this Rank. |      |      |               |
