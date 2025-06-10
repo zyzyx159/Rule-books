@@ -13,24 +13,26 @@ An Inquisitor does not pick just any felon he happens to stumble across to becom
 
 Having lived and survived in such tough conditions means that it will frequently be the Scum that is the source of some acrimony and he does not always get on with other Acolytes in the cell. His moral values and reasons for participating may be entirely different from the others and so make him a source of contention. Reasons why such a character may join the employ of an Inquisitor in the first place are manifold: some do it for the sheer thrill, some as sentence for some past crime, some are being paid, whilst others have the skills an Inquisitor needs and so are ordered or threatened to participate. For an Inquisitor it matters little what the motive is, as long as they fulfil their part in the mission. Inquisitors can, and will, use all tools necessary to carry out their duties, they do not care if that is using the highest-born noble or the most inhuman villain—it is the end goal that is important, not the method in achieving it.
 
-| Table 2-8: Scum Characteristic Advances |        |              |         |        |     |
-| --------------------------------------- | ------ | ------------ | ------- | ------ | --- |
-| Characteristic                          | Simple | Intermediate | Trained | Expert |     |
-| Weapon Skill                            | 250    | 500          | 750     | 1,000  |     |
-| Ballistic Skill                         | 100    | 250          | 500     | 750    |     |
-| Strength                                | 500    | 750          | 1,000   | 2,500  |     |
-| Toughness                               | 500    | 750          | 1,000   | 2,500  |     |
-| Agility                                 | 100    | 250          | 500     | 500    |     |
-| Intelligence                            | 250    | 500          | 750     | 1,000  |     |
-| Perception                              | 250    | 500          | 750     | 1,000  |     |
-| Willpower                               | 250    | 500          | 750     | 1,000  |     |
-| Fellowship                              | 100    | 250          | 500     | 750    |     |
-
+| Table 2-8: Scum Characteristic Advances |        |              |         |        |
+| --------------------------------------- | ------ | ------------ | ------- | ------ |
+| Characteristic                          | Simple | Intermediate | Trained | Expert |
+| Weapon Skill                            | 250    | 500          | 750     | 1,000  |
+| Ballistic Skill                         | 100    | 250          | 500     | 750    |
+| Strength                                | 500    | 750          | 1,000   | 2,500  |
+| Toughness                               | 500    | 750          | 1,000   | 2,500  |
+| Agility                                 | 100    | 250          | 500     | 500    |
+| Intelligence                            | 250    | 500          | 750     | 1,000  |
+| Perception                              | 250    | 500          | 750     | 1,000  |
+| Willpower                               | 250    | 500          | 750     | 1,000  |
+| Fellowship                              | 100    | 250          | 500     | 750    |
+```mermaid
+A[start] --> 
+```
 ## **Dreg Advances**
 
 *"Don't look at the dreg, Tarquis, you'll only encourage them."*
 
-Beggars, thieves and baseborn scum: the dregs of society are nevertheless hardy and surprisingly capable.
+Beggars, thieves and base born scum: the dregs of society are nevertheless hardy and surprisingly capable.
 
 | Advance                                                  | Cost | Type | Prerequisites |
 | -------------------------------------------------------- | ---- | ---- | ------------- |
