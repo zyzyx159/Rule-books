@@ -39,7 +39,7 @@ Basic Skills are those common to citizens throughout the Imperium, and simply gr
 
 Advanced Skills are those that require training and experience in order to master and understand. If you do not have an Advanced Skill, you cannot attempt it. No matter how intelligent you are, for instance, you will not be able to access an encrypted cogitator engine without some formal training.
 
-# SKILL DESCRIPTORS**
+# **SKILL DESCRIPTORS**
 
 Some Skills are flagged with special descriptors such as combat, crafting, interaction, investigation, movement or operator. These Skills use special rules that are described in **Chapter VII: Playing the Game** and **Chapter VIII: The Game Master.** In summary, Crafting skills are those used to create items from scratch and spare parts. Interaction skills are those used when interacting with NPCs. Investigation skills are those used to ferret out additional information about a subject. Movement skills offer alternative means to get around your environment. And finally, Operator skills allow you to operate a vehicle.
 
@@ -108,7 +108,7 @@ Some of the listed Skills are actually groups of related abilities. Skill groups
 | Wrangling                   | Advanced | Intelligence   | —                       |
 | †Denotes a Skill Group. |          |                |                         |
 
-# Skill Descrip tions SKILL DESCRIPTIONS
+# SKILL DESCRIPTIONS
 
 *"Educate men without faith and you make them nothing more than clever devils."* — Kross Vorgt, Drill Abbot.
 
@@ -532,22 +532,22 @@ The Scholastic Lore skill grants you knowledge of a particular scholarly subject
 
 You make Scholastic Lore Tests to identify an object, creature or place that falls under your particular area of expertise. A successful Test about a subject related to your speciality reveals the basic information. Each degree of success reveals more information as follows:
 
-| Degrees       |                                  |  |  |
-|---------------|----------------------------------|--|--|
-| of Success | Result                           |  |  |
-| Standard      | Reveals basic information        |  |  |
-| success       | known to people of your          |  |  |
-|               | training.                        |  |  |
-| One           | Reveals uncommonly known         |  |  |
-|               | information,evenamong    |  |  |
-|               | your peers.                      |  |  |
-| Two           | Reveals obscure information      |  |  |
-|               | aboutthesubject.Such |  |  |
-|               | information is known to but      |  |  |
-|               | a few scholars.                  |  |  |
-| Three+        | Reveals extremely obscure        |  |  |
-|               | information, known only to       |  |  |
-|               | a handful of experts.            |  |  |
+| Degrees    |                             |
+| ---------- | --------------------------- |
+| of Success | Result                      |
+| Standard   | Reveals basic information   |
+| success    | known to people of your     |
+|            | training.                   |
+| One        | Reveals uncommonly known    |
+|            | information,evenamong       |
+|            | your peers.                 |
+| Two        | Reveals obscure information |
+|            | aboutthesubject.Such        |
+|            | information is known to but |
+|            | a few scholars.             |
+| Three+     | Reveals extremely obscure   |
+|            | information, known only to  |
+|            | a handful of experts.       |
 
 In some areas, Scholastic Lore overlaps with Common Lore and Forbidden Lore, but almost always represents a far greater—and more academic—level of study. A character with Common Lore (Imperial Creed) might understand the day-to-day rituals and prayers gained from living under the creed, whereas a character with Scholastic Lore (Imperial Creed) might be able to explain why such rituals exist and how they have changed over the millennia.
 
