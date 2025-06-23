@@ -20,17 +20,18 @@ Psykers have always been used as agents for the Inquisition. Their abilities var
 | Perception                                         | 100    | 250          | 500     | 750    |
 | Willpower                                          | 100    | 250          | 500     | 750    |
 | Fellowship                                         | 500    | 750          | 1,000   | 2,500  |
+|                                                    |        |              |         |        |
 
 ```mermaid
 graph TD
 A[Sanctionite 0-499] --> B[Neonate 500-999];
 B --> C{Aspirant 1,000-1,999};
-C --> D[Savant Militant 2,000-2,999];
+C -- Spell Sword --> D[Savant Militant 2,000-2,999];
 D --> E[Savant Warrent 3,000-5,999];
 E --> F[Lieutenant Savant 6.000-7,999]
 F --> G[Savant Adjunct 8,000-9,9999]
 G --> H[Preceptor Savant 10,000-14,999]
-C --> I[Scholar Materium 2,000-2,999]
+C -- Wizard --> I[Scholar Materium 2,000-2,999]
 I --> J[Scholar Medicae 3,000-5999]
 J --> K[Scholar Arcanum 6,000-7999]
 K --> L[Scholar Obscurus 8,000-9,999]
