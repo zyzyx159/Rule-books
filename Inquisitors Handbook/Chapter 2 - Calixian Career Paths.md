@@ -498,7 +498,7 @@ Becoming part of the Blood Guild is deceptively simple: the candidates must make
 
 **Special Elite Advance: Bloodsworn Charter** Upon successfully entering this career path, the character gains a Bloodsworn Charter and the privileges and rights outlined in the Alternate Rank description.
 
-## **Mechanicus Secutor** Mechanicus Secutor
+## **Mechanicus Secutor**
 
 "…++CORPUS FINIS+MACHINA MAGNUS+ SANCTUS METALLUM+POTESTAS OMNISSIAH, OMNISSIAH VULT+DEATH TO THE ENEMIES OF THE MACHINE GOD++CORPUS FIN…"
 
@@ -604,7 +604,7 @@ These were created during the Dark Age of Technology to provide all the technica
 
 Today there are no known surviving STC systems and only a very few examples of first-generation texts. For thousands of years the Adeptus Mechanicus has pursued all information about the STC. Any scrap of information is eagerly sought out and jealously hoarded. Any rumour of a functional system is followed up and investigated in force.
 
-## **Metallican Gunslinger** Metallican Gunslinger
+## **Metallican Gunslinger**
 
 *"They say he's fast, like chain lightning fast. I don't believe 'em, no one's that fast."*
 
