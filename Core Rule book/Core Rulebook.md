@@ -1190,38 +1190,38 @@ Use this power to hurl a burst of tangible mental force at your opponent. Test W
 
 # **Precision**
 
-| Telekinesis                       |             |
-| --------------------------------- | ----------- |
-| Threshold:                        | 23          |
-| Focus Time:                       | Half Action |
-| Sustain:                          | Yes         |
-| Range:                            | 10m         |
-| If Telekinesis is a sledgehammer, |             |
-| then Precision Telekinesis is     |             |
-| a scalpel. This ability allows    |             |
-| you to achieve far more subtle    |             |
-| effects with telekinetic force.   |             |
-| At its most basic, this power     |             |
-| can pull the pins on grenades,    |             |
-| triggers,<br>press buttons, jog   |             |
-| undo latches and direct small     |             |
-| projectiles to deadly effect.     |             |
-| Essentially, with this power, you |             |
-| can manipulate objects as if you  |             |
-| were physically handling them.    |             |
-| In any situation where the task   |             |
-| would call for a Characteristic   |             |
-| Test you substitute your          |             |
-| Willpower instead.                |             |
-
+| Telekinesis                      |             |
+| -------------------------------- | ----------- |
+| Threshold:                       | 23          |
+| Focus Time:                      | Half Action |
+| Sustain:                         | Yes         |
+| Range:                           | 10m         |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+|                                  |             |
+| can manipulate objects as if you |             |
+| were physically handling them.   |             |
+| In any situation where the task  |             |
+| would call for a Characteristic  |             |
+| Test you substitute your         |             |
+| Willpower instead.               |             |
+If Telekinesis is a sledgehammer, then Precision Telekinesis is a scalpel. This ability allows you to achieve far more subtle effects with telekinetic force. At its most basic, this power can pull the pins on grenades, triggers, press buttons, jog undo latches and direct small projectiles to deadly effect.
 # **Psychic Blade**
 
-| Threshold:  | 19          |  |
-|-------------|-------------|--|
-| Focus Time: | Half Action |  |
-| Sustained:  | Yes         |  |
-| Range:      | You         |  |
-|             |             |  |
+| Threshold:  | 19          |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | Yes         |
+| Range:      | You         |
+
 
 A phenomenally complicated ability to master, this power allows you to project your will as a blade of psychic force. Because the blade is formed of psychic energy, it can be formed almost impossibly thin, as little as a molecule thick. A Psychic Blade can thus shear through almost any physical object with ease, and is capable of cutting through most forms of armor as if they were made of cloth. The Psychic Blade is a terribly dangerous weapon to use, though, for any stray thoughts can misdirect it with devastating effect.
 
@@ -1241,11 +1241,11 @@ You can direct your Telekinetic power directly against your opponents, wrapping 
 
 # **Push**
 
-| Threshold:  | 13          |  |
-|-------------|-------------|--|
-| Focus Time: | Half Action |  |
-| Sustained:  | No          |  |
-| Range:      | 10m         |  |
+| Threshold:  | 13          |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | No          |
+| Range:      | 10m         |
 
 You gather a ball of telekinetic energy and direct it against any single target within range. Make an Opposed Test, pitting your Willpower against your target's Strength. If you beat your opponent, you knock them to the ground. For each degree of success, you also deal one level of Fatigue.
 
@@ -1307,11 +1307,10 @@ target's. If you succeed, the target must follow your command. The nature of the
 # **Dominate**
 
 | Threshold:  | 24          |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Half Action |
 | Sustain:    | Yes         |
 | Range:      | 8m          |
-|             |             |
 
 One of the most infamous of all telepathic abilities, you reach out with your mind to seize control of another's body. Make an Opposed Test, pitting your Willpower against the target's. If you succeed, you control your target's body as if it were a puppet. For as long as the power remains active, you may divide up your Actions between yourself and your target. For example, on your Turn, you might spend a Half Action to fire your laspistol at an Ork and then for your other Half Action, order your puppet to fire his bolter at the Ork. The dominated target uses its own Characteristics, but takes a –10 penalty to all Tests because it is controlled. Any action that could be deemed as suicidal grants the target a new Willpower Test to try and break your hold.
 
@@ -1326,22 +1325,20 @@ Aside from making enemies for himself, the telepath also risks mental contaminat
 # **Inspire**
 
 | Threshold:  | 9           |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Half Action |
 | Sustain:    | Yes         |
 | Range:      | 6m          |
-|             |             |
 
 You bolster your comrades by subtly implanting images of great courage, and masking various negative emotional stimuli, allowing them to swiftly shake off fears and doubts. A number of targets equal to your Willpower Bonus immediately overcome the effects of Pinning and Fear, and remain impervious to these effects for as long as they stay within Range and for as long as you sustain the power. Such psychic propaganda is frequently used amongst the Imperial Guard.
 
 # **Mind Scan**
 
 | Threshold:  | 23              |
-|-------------|-----------------|
+| ----------- | --------------- |
 | Focus Time: | Extended Action |
 | Sustain:    | No              |
 | Range:      | Touch           |
-|             |                 |
 
 With this power, you can read a target's mind, probing whatever secrets are hidden therein. You must touch the target for this power to work, which, unless clever methods are employed, means you must successfully Test Weapon Skill. If you manage to touch the target, you may enter a contest of wills in order to pierce your target's mental barriers and discover all sorts of information.
 
@@ -1387,28 +1384,25 @@ You can send out your disembodied mind and spirit, allowing you to touch other m
 
 # **Psychic Shriek**
 
-| Threshold:                         | 18          |
-|------------------------------------|-------------|
-| Focus Time:                        | Half Action |
-| Sustain:                           | No          |
-| Range:                             | 10m         |
-| A voice's volume is limited to the |             |
-| realities of vocal capacity and a  |             |
+| Threshold:  | 18          |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustain:    | No          |
+| Range:      | 10m         |
 
-listener's ability to hear. Minds have no such limitations. With this power, you gather your will and launch it as a blast of screaming mental energy designed to overload nervous systems and knock one or more targets unconscious. All creatures within Range that you specify must succeed on a Willpower Test or suffer a number of levels of Fatigue equal to your Willpower Bonus.
+A voice's volume is limited to the realities of vocal capacity and a listener's ability to hear. Minds have no such limitations. With this power, you gather your will and launch it as a blast of screaming mental energy designed to overload nervous systems and knock one or more targets unconscious. All creatures within Range that you specify must succeed on a Willpower Test or suffer a number of levels of Fatigue equal to your Willpower Bonus.
 
 **Overbleed:** For every 10 points by which you exceed the power's Threshold, you may extend the Range by 10 metres.
 
 # **See Me Not**
 
-| Threshold:                             | 14          |
-|----------------------------------------|-------------|
-| Focus Time:                            | Half Action |
-| Sustain:                               | Yes         |
-| Range:                                 | 20m         |
-| You erase your presence from the minds |             |
+| Threshold:  | 14          |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustain:    | Yes         |
+| Range:      | 20m         |
 
-of others. This power is more than just "invisibility"; targets that this power has been used successfully on literally cannot perceive you at all. While they may suspect that someone else is present, they can only react to the effects of what you do. For example, you could punch a guard while using See Me Not. The guard would know that he had been hit by "something" and would certainly do his best to find the source of the attack, in hopes of stopping a second blow, but he would look "right through you" while he was searching.
+You erase your presence from the minds of others. This power is more than just "invisibility"; targets that this power has been used successfully on literally cannot perceive you at all. While they may suspect that someone else is present, they can only react to the effects of what you do. For example, you could punch a guard while using See Me Not. The guard would know that he had been hit by "something" and would certainly do his best to find the source of the attack, in hopes of stopping a second blow, but he would look "right through you" while he was searching.
 
 Upon manifesting this power, select a number of targets within Range equal to your Willpower Bonus. Each target must succeed on a Willpower Test or they can no longer perceive you for as long as you sustain the power. Lack of perception means they cannot directly attack you: they cannot see, hear, smell or perceive you in any way.
 
