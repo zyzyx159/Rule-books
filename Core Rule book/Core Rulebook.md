@@ -331,13 +331,13 @@ Fear comes into effect when the Acolytes are confronted with scenes of atrocity 
 
 Some things are clearly more frightening than others; for an Acolyte, having a gun waved in his face by a ganger, although obviously dangerous, is not sufficient to call for a Fear Test. However, having a gun waved at him by the walking corpse of his dead brother, while luminous white spiders scurry in and out of his bloodless open wounds—that calls for a somewhat severe one. The **Table 8-3: Fear Test Difficulties,** offers some guidelines on the severity of Fear Tests.
 
-| Table 8–3: Fear Test Difficulties |          |                                                     |
-|-----------------------------------|----------|-----------------------------------------------------|
-| Severity of Fear                  | Test Mod | ExampleAdversaries                              |
-| Fear (1) Disturbing               | (0)      | Nightwing, Revenant,Synofian Bore Worm          |
-| Fear (2) Frightening (–10)        |          | Carnosaur,Dusk Stalker,Murder Gholam        |
+| Table 8–3: Fear Test Difficulties |          |                                             |
+| --------------------------------- | -------- | ------------------------------------------- |
+| Severity of Fear                  | Test Mod | ExampleAdversaries                          |
+| Fear (1) Disturbing               | (0)      | Nightwing, Revenant,Synofian Bore Worm      |
+| Fear (2) Frightening              | (–10)    | Carnosaur,Dusk Stalker,Murder Gholam        |
 | Fear (3) Horrifying               | (–20)    | Incarnate Daemon,Astral Spectre,Psychneuein |
-| Fear (4) Terrifying               | (–30)    | The King in Ragsand Tatters                     |
+| Fear (4) Terrifying               | (–30)    | The King in Ragsand Tatters                 |
 
 # **Failing the Fear Test**
 
@@ -379,7 +379,7 @@ Fear Tests in non-combat situations are very much the GM's call as to when and w
 
 **Terrifying** (–30) Experiencing a full-scale Daemonic incursion, discovering your failure is responsible for the deaths of millions, staring unprotected into the warp.
 
-# Going Insan e GOING INSANE
+# Going Insane
 
 Characters in Dark Heresy are at the centre of terrible events: battling indescribable horrors, uncovering shocking truths and engaging in desperate struggles where perhaps the lives and souls of countless innocents hang in the balance. Such are the stresses and terror involved that the slow slide into insanity is a constant threat. No human mind, not even one hardened by the harsh rigours of life in the Imperium, is immune to the slow erosion of sanity by the horrors of the 41st Millennium, and Acolytes are no exception.
 
@@ -393,7 +393,7 @@ A character is classified as having a certain degree of madness depending on how
 
 Mental Trauma represents the relatively short-term damage to a character's state of mind that he suffers after experiencing a horrific or supernatural event. Each time the character gains 10 Insanity Points he must make a Trauma Test. This is a Willpower Test, modified in difficulty by how many Insanity Points the character has accrued in total (see **Table 8–5: The Insanity Track**). If the Test is passed the character manages to cope with his experience without extra ill effect. If the Test is failed roll d100, adding 10 for every degree of failure, comparing the result to **Table 8–6: Mental Traumas**. The result is applied to the character in the aftermath of any encounter that inflicted the Insanity Points on him.
 
-# Gaining Me n tal Disorders **GAINING MENTAL DISORDERS**
+# Gaining Mental Disorders 
 
 Mental disorders reflect the permanent, long-term effects on a character's mind of exposure to things horrific and unnatural. A new disorder (or a more severe version of an existing disorder) is automatically gained each time the character has enough Insanity Points to increase his degree of madness by one stage as shown on **Table 8–5: The Insanity Track**. When a character acquires a disorder, the severity of that disorder will depend on his new degree of madness, as shown.
 
@@ -403,45 +403,35 @@ A character must have the preceding severity of a disorder for it to get worse, 
 
 *Beam Rollings becomes unhinged after witnessing the horrifying Beast of Solomon. He already has a Minor Delusion of Invulnerability and so the GM decides to increase the level of the delusion to Severe rather than give him a new disorder.*
 
-| Table 8–5: The Insanity Track |                   |                                               |            |
-|-------------------------------|-------------------|-----------------------------------------------|------------|
-| Insanity Points               | Degree of Madness | Trauma Modifier                               | Disorders  |
-| 0–9                           | Stable            | n/a                                           | None       |
-| 10–19                         | Unsettled         | +10                                           | —          |
-| 20–29                         | Unsettled         | +10                                           | —          |
-| 30–39                         | Unsettled         | +10                                           | —          |
-| 40–49                         | Disturbed         | +0                                            | 1st–Minor  |
-| 50–59                         | Disturbed         | +0                                            | —          |
-| 60–69                         | Unhinged          | –10                                           | 2nd–Severe |
-| 70–79                         | Unhinged          | –10                                           | —          |
-| 80–89                         | Deranged          | –20                                           | 3rd–Acute  |
-| 90–99                         | Deranged          | –20                                           | —          |
-| 100+                          |                   | Terminally Insane—character retires from play |            |
+| Table 8–5: The Insanity Track |                   |                 |            |
+| ----------------------------- | ----------------- | --------------- | ---------- |
+| Insanity Points               | Degree of Madness | Trauma Modifier | Disorders  |
+| 0–9                           | Stable            | n/a             | None       |
+| 10–19                         | Unsettled         | +10             | —          |
+| 20–29                         | Unsettled         | +10             | —          |
+| 30–39                         | Unsettled         | +10             | —          |
+| 40–49                         | Disturbed         | +0              | 1st–Minor  |
+| 50–59                         | Disturbed         | +0              | —          |
+| 60–69                         | Unhinged          | –10             | 2nd–Severe |
+| 70–79                         | Unhinged          | –10             | —          |
+| 80–89                         | Deranged          | –20             | 3rd–Acute  |
+| 90–99                         | Deranged          | –20             | —          |
+| 100+                          |                   |                 |            |
+Terminally Insane—character retires from play
 
-|                                                     | Table 8–6: Mental Traumas                                                                                           |  |
-|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--|
-| Roll 1d100 and add +10 for every degree of failure. |                                                                                                                     |  |
-| 01–40                                               | The character becomes withdrawn and quiet. The character is at –10 to all Fellowship-based Tests. This lasts        |  |
-|                                                     | for 3d10 hours.                                                                                                     |  |
-| 41–70                                               | The character must compulsively perform an action such as fevered praying, frantically cleaning a weapon,           |  |
-|                                                     | reciting verse, and so on, and pays little attention to anything else. All Tests that are based on Intelligence,    |  |
-|                                                     | Fellowship or Perception suffer a –10 penalty. This effect lasts for 3d10 hours.                                    |  |
-| 71–100                                              | The character is constantly fearful, seeing danger everywhere and extremely jumpy. The character gains a            |  |
-|                                                     | +10 bonus to all Perception-based Tests and is at –10 penalty to his Willpower for the next 1d5 days.               |  |
-| 101–120                                             | The character suffers from a temporary severe phobia (see Disorders, page 235). This effect lasts for 1d5           |  |
-|                                                     | days.                                                                                                               |  |
-| 121–130                                             | The character reacts to the slightest stress or pressure by becoming extremely agitated. When performing            |  |
-|                                                     | any task that involves a Test, the character must first pass a Willpower Test or suffer a –10 modifier to the       |  |
-|                                                     | Test. If the character gets into combat, all Tests during combat automatically suffer a –10 modifier. This          |  |
-|                                                     | effect lasts for 1d5 days.                                                                                          |  |
-| 131–140                                             | The character suffers vivid and extreme nightmares whenever they try to sleep. The next day and for the next 1d10   |  |
-|                                                     | days the character will be exhausted by lack of sleep and gains a level of fatigue. This effect lasts for 1d5 days. |  |
-| 141–150                                             | The character is struck dumb and is unable to speak. This lasts for 1d5 days.                                       |  |
-| 151–160                                             | Extremely distressed and unfocused, the character refuses to eat or drink and looks in a terrible state. The        |  |
-|                                                     | character takes a –10 penalty to all Characteristics (no Characteristic can be reduced below 1) for 1d10 days.      |  |
-| 161–170                                             | The character temporarily becomes hysterically blind or deaf. This effect lasts for 1d10 days.                      |  |
-| 171+                                                | The character becomes completely traumatised and virtually unresponsive. He can't initiate actions but may          |  |
-|                                                     | be gently led. This effect lasts for 1d10 days.                                                                     |  |
+| Table 8–6:                                          | Mental Traumas                                                                                                                                                                                                                                                                                                                                               |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Roll 1d100 and add +10 for every degree of failure. |                                                                                                                                                                                                                                                                                                                                                              |
+| 01–40                                               | The character becomes withdrawn and quiet. The character is at –10 to all Fellowship-based Tests. This lasts for 3d10 hours.                                                                                                                                                                                                                                 |
+| 41–70                                               | The character must compulsively perform an action such as fevered praying, frantically cleaning a weapon, reciting verse, and so on, and pays little attention to anything else. All Tests that are based on Intelligence, Fellowship or Perception suffer a –10 penalty. This effect lasts for 3d10 hours.                                                  |
+| 71–100                                              | The character is constantly fearful, seeing danger everywhere and extremely jumpy. The character gains a +10 bonus to all Perception-based Tests and is at –10 penalty to his Willpower for the next 1d5 days.                                                                                                                                               |
+| 101–120                                             | The character suffers from a temporary severe phobia (see Disorders, page 235). This effect lasts for 1d5 days.                                                                                                                                                                                                                                              |
+| 121–130                                             | The character reacts to the slightest stress or pressure by becoming extremely agitated. When performing any task that involves a Test, the character must first pass a Willpower Test or suffer a –10 modifier to the Test. If the character gets into combat, all Tests during combat automatically suffer a –10 modifier. This effect lasts for 1d5 days. |
+| 131–140                                             | The character suffers vivid and extreme nightmares whenever they try to sleep. The next day and for the next 1d10 days the character will be exhausted by lack of sleep and gains a level of fatigue. This effect lasts for 1d5 days.                                                                                                                        |
+| 141–150                                             | The character is struck dumb and is unable to speak. This lasts for 1d5 days.                                                                                                                                                                                                                                                                                |
+| 151–160                                             | Extremely distressed and unfocused, the character refuses to eat or drink and looks in a terrible state. The character takes a –10 penalty to all Characteristics (no Characteristic can be reduced below 1) for 1d10 days.                                                                                                                                  |
+| 161–170                                             | The character temporarily becomes hysterically blind or deaf. This effect lasts for 1d10 days.                                                                                                                                                                                                                                                               |
+| 171+                                                | The character becomes completely traumatised and virtually unresponsive. He can't initiate actions but may be gently led. This effect lasts for 1d10 days.                                                                                                                                                                                                   |
 
 # **THE SEVERITY OF DISORDERS**
 
@@ -523,13 +513,11 @@ The character believes his choices are right and justified, no matter what the c
 
 The character suffers from vivid and reoccurring nightmares; trying to run from a black sun in the sky, or being imprisoned in an endless machine, for example. After any stressful day, the character must pass a Willpower Test in order not to succumb to his terrors while asleep. If he fails, the character will suffer from a single level of Fatigue (see **Fatigue, [page 200](#page-200-0)**) on the following day.
 
-# **Only the**
-
-# **Insane Shall Prosper…**
+# **Only the Insane Shall Prosper…**
 
 The more insane a character becomes the less horrific things seem. After all, what are the monsters of reality compared to those one sees whenever one closes one's eyes? If the first digit of a character's Insanity total is double or more a thing's Fear Rating (see **[page 325](#page-325-0)**) the character is unaffected by it and does not need to make a Fear Test.
 
-# Removing Insan ity Po i n tsFr o m Your Character **REMOVING INSANITY POINTS FROM YOUR CHARACTER**
+# Removing Insanity Points From Your Character 
 
 With the GMs permission, a character may use xp to remove Insanity Points. It costs 100 xp to remove a single Insanity Point. A character may never go down a degree of madness and so will never lose their disorders. All buying back of Insanity Points should be properly represented as time and effort spent by the character in game. Possible ways of representing the removal of Insanity are:
 
@@ -580,59 +568,56 @@ Evil acts done in the furtherance of a malignancy, or in pursuit of forbidden lo
 
 Many Daemons and cult leaders are masters of insidious temptation and of sowing the seeds of doubt in a faithful heart. Their words and arguments can corrupt where force alone would fail.
 
-| Table 8–7: The Corruption Track |                         |                                    |             |
-|---------------------------------|-------------------------|------------------------------------|-------------|
-| CP Total                        | Degree ofCorruption | MalignancyTest                 | Mutation    |
-| 01–30                           | Tainted                 | +0                                 | —           |
-| 31–60                           | Soiled                  | –10                                | First Test  |
-| 61–90                           | Debased                 | –20                                | Second Test |
-| 91–99                           | Profane                 | –30                                | Third Test  |
-| 00                              |                         | Damned—Character removed from play |             |
-
+| Table 8–7: The Corruption Track |                     |                |             |
+| ------------------------------- | ------------------- | -------------- | ----------- |
+| CP Total                        | Degree ofCorruption | MalignancyTest | Mutation    |
+| 01–30                           | Tainted             | +0             | —           |
+| 31–60                           | Soiled              | –10            | First Test  |
+| 61–90                           | Debased             | –20            | Second Test |
+| 91–99                           | Profane             | –30            | Third Test  |
+| 100+                            |                     |                |             |
+Damned—Character removed from play
 # **THE MALIGNANCY TEST**
 
 For every 10 Corruption Points a character gains, he must Test Willpower to see if his corruption has manifested as literal damage to his body and soul. This roll is modified depending on the number of CPs the character already possesses as noted on **Table 8-7: The Corruption Track**. If the Test is failed, the character's corruption of spirit is given form. These metaphysical and psychosomatic scars are called Malignancies, and are randomly rolled on **Table 8-8: Malignancies**. If a player rolls a result that he has previously suffered for failing a previous Malignancy Test, he must roll again.
 
-| Table 8–8: Malignancies |                                                                                                                                                                            |  |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| Roll                    | Effect                                                                                                                                                                     |  |
-| 01–10                   | Palsy: The character suffers from numerous minor tics, shakes and tremors with no medical cause. Reduce his Agility                                                        |  |
-|                         | by 1d10.                                                                                                                                                                   |  |
-| 11–15                   | Dark-hearted: The character grows increasingly cruel, callous and vindictive. Reduce his Fellowship by 1d10.                                                               |  |
-| 16–20                   | Ill-fortuned: Whenever the character uses a Fate Point roll a d10. On a score of 7, 8, 9 or 10 it has no effect                                                            |  |
-|                         | but it is lost anyway.                                                                                                                                                     |  |
-| 21–22                   | Skin Afflictions: The character is plagued by boils, scabs, weeping sores and the like. He takes a –20penalty to all Charm Tests.                                      |  |
-| 23–25                   | Night Eyes: Light pains the character, and unless he shields his eyes, he suffers a –10 penalty on all Testswhen in an area of bright light.                           |  |
-| 26–30                   | Morbid: The character finds it hard to concentrate as his mind is filled with macabre visions and tortured,                                                                |  |
-|                         | gloom-filled trains of thought. The character's Intelligence is reduced by 1d10.                                                                                           |  |
-| 31–33                   | Witch-mark: The character develops some minor physical deformity or easily concealable mutation. It is small,                                                              |  |
-|                         | but perhaps enough to consign him to the stake if found out by a fanatical witch hunter. He must hide it well!                                                             |  |
-| 34–45                   | Fell Obsession: This is the same as the Obsession Disorder (see page 237). However, in this case the character                                                             |  |
-|                         | is obsessed by a sinister or malign focus, such as collecting finger-bone trophies, ritual scarification, carrying                                                         |  |
-|                         | out meaningless vivisections, etc.                                                                                                                                         |  |
-| 46–50                   | Hatred: The character develops an implacable hatred of a single group, individual or social class. The character                                                           |  |
-|                         | will never side with or aid them without explicit orders or other vital cause, and even then grudgingly.                                                                   |  |
-| 51–55                   | Irrational Nausea: The character feels sick at the sight or sound of some otherwise innocuous thing such                                                                   |  |
-|                         | as prayer books and holy items, bare flesh, human laughter, fresh food, shellfish, etc. When he encounters                                                                 |  |
-|                         | the object of his revulsion, he must Test Toughness or suffer a –10 penalty to all Tests as long as he remains                                                             |  |
-|                         | in its presence.                                                                                                                                                           |  |
-| 56–60                   | Wasted Frame: The character's pallor becomes corpse-like and his muscles waste away. The character's                                                                       |  |
-|                         | Strength is reduced by 1d10.                                                                                                                                               |  |
-| 61–63                   | Night Terrors: The character is plagued by Daemonic visions in his sleep. See Horrific Nightmares, page237 for details.                                                |  |
-| 64–70                   | Poor Health: The character constantly suffers petty illnesses and phantom pains, and his wounds neverseem to heal fully. The character's Toughness is reduced by 1d10. |  |
-| 71–75                   | Distrustful: The character cannot conceal the distrust and antipathy he has for others. He must take a –10                                                                 |  |
-|                         | penalty to Fellowship Tests when dealing with strangers.                                                                                                                   |  |
-| 76–80                   | Malign Sight: The world seems to darken, tarnish and rot if the character looks too long at anything. Thecharacter's Perception is reduced by 1d10.                    |  |
-| 81–83                   | Ashen Taste: Food and drink hold disgusting tastes and little sustenance for the character, and he can                                                                     |  |
-|                         | barely stomach eating. The character doubles the negative effects for levels of Fatigue.                                                                                   |  |
-| 84–90                   | Bloodlust: Murderous rage is never far from the character's mind. After being wounded in combat, he must Test                                                              |  |
-|                         | Willpower to incapacitate or allow his enemies to flee, rather than kill them outright, even if his intent is otherwise.                                                   |  |
-| 91–93                   | Blackouts: The character suffers from inexplicable blackouts. When they occur and what happens during                                                                      |  |
-|                         | them is up to the GM.                                                                                                                                                      |  |
-| 94–00                   | Strange Addiction: The character is addicted to some bizarre and unnatural substance, such as eating rose                                                                  |  |
-|                         | petals, drinking blood, the taste of widows' tears etc. This acts like a Minor Compulsion (see Disorders,                                                                  |  |
-|                         | page 237), but is freakish enough to cause serious suspicion if found out.                                                                                                 |  |
-|                         |                                                                                                                                                                            |  |
+| Table 8–8: Malignancies |                                                                                                                                                                                                                              |     |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Roll                    | Effect                                                                                                                                                                                                                       |     |
+| 01–10                   | Palsy: The character suffers from numerous minor tics, shakes and tremors with no medical cause. Reduce his Agility by 1d10.                                                                                                 |     |
+| 11–15                   | Dark-hearted: The character grows increasingly cruel, callous and vindictive. Reduce his Fellowship by 1d10.                                                                                                                 |     |
+| 16–20                   | Ill-fortuned: Whenever the character uses a Fate Point roll a d10. On a score of 7, 8, 9 or 10 it has no effect but it is lost anyway.                                                                                       |     |
+| 21–22                   | Skin Afflictions: The character is plagued by boils, scabs, weeping sores and the like. He takes a –20penalty to all Charm Tests.                                                                                            |     |
+| 23–25                   | Night Eyes: Light pains the character, and unless he shields his eyes, he suffers a –10 penalty on all Testswhen in an area of bright light.                                                                                 |     |
+| 26–30                   | Morbid: The character finds it hard to concentrate as his mind is filled with macabre visions and tortured, gloom-filled trains of thought. The character's Intelligence is reduced by 1d10.                                 |     |
+| 31–33                   | Witch-mark: The character develops some minor physical deformity or easily concealable mutation. It is small, but perhaps enough to consign him to the stake if found out by a fanatical witch hunter. He must hide it well! |     |
+|                         |                                                                                                                                                                                                                              |     |
+| 34–45                   | Fell Obsession: This is the same as the Obsession Disorder (see page 237). However, in this case the character                                                                                                               |     |
+|                         | is obsessed by a sinister or malign focus, such as collecting finger-bone trophies, ritual scarification, carrying                                                                                                           |     |
+|                         | out meaningless vivisections, etc.                                                                                                                                                                                           |     |
+| 46–50                   | Hatred: The character develops an implacable hatred of a single group, individual or social class. The character                                                                                                             |     |
+|                         | will never side with or aid them without explicit orders or other vital cause, and even then grudgingly.                                                                                                                     |     |
+| 51–55                   | Irrational Nausea: The character feels sick at the sight or sound of some otherwise innocuous thing such                                                                                                                     |     |
+|                         | as prayer books and holy items, bare flesh, human laughter, fresh food, shellfish, etc. When he encounters                                                                                                                   |     |
+|                         | the object of his revulsion, he must Test Toughness or suffer a –10 penalty to all Tests as long as he remains                                                                                                               |     |
+|                         | in its presence.                                                                                                                                                                                                             |     |
+| 56–60                   | Wasted Frame: The character's pallor becomes corpse-like and his muscles waste away. The character's                                                                                                                         |     |
+|                         | Strength is reduced by 1d10.                                                                                                                                                                                                 |     |
+| 61–63                   | Night Terrors: The character is plagued by Daemonic visions in his sleep. See Horrific Nightmares, page237 for details.                                                                                                      |     |
+| 64–70                   | Poor Health: The character constantly suffers petty illnesses and phantom pains, and his wounds neverseem to heal fully. The character's Toughness is reduced by 1d10.                                                       |     |
+| 71–75                   | Distrustful: The character cannot conceal the distrust and antipathy he has for others. He must take a –10                                                                                                                   |     |
+|                         | penalty to Fellowship Tests when dealing with strangers.                                                                                                                                                                     |     |
+| 76–80                   | Malign Sight: The world seems to darken, tarnish and rot if the character looks too long at anything. Thecharacter's Perception is reduced by 1d10.                                                                          |     |
+| 81–83                   | Ashen Taste: Food and drink hold disgusting tastes and little sustenance for the character, and he can                                                                                                                       |     |
+|                         | barely stomach eating. The character doubles the negative effects for levels of Fatigue.                                                                                                                                     |     |
+| 84–90                   | Bloodlust: Murderous rage is never far from the character's mind. After being wounded in combat, he must Test                                                                                                                |     |
+|                         | Willpower to incapacitate or allow his enemies to flee, rather than kill them outright, even if his intent is otherwise.                                                                                                     |     |
+| 91–93                   | Blackouts: The character suffers from inexplicable blackouts. When they occur and what happens during                                                                                                                        |     |
+|                         | them is up to the GM.                                                                                                                                                                                                        |     |
+| 94–00                   | Strange Addiction: The character is addicted to some bizarre and unnatural substance, such as eating rose                                                                                                                    |     |
+|                         | petals, drinking blood, the taste of widows' tears etc. This acts like a Minor Compulsion (see Disorders,                                                                                                                    |     |
+|                         | page 237), but is freakish enough to cause serious suspicion if found out.                                                                                                                                                   |     |
+|                         |                                                                                                                                                                                                                              |     |
 
 # **MUTATION**
 
