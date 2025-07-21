@@ -783,7 +783,7 @@ Regardless, it is wise for an Acolyte with such abilities and history to avoid t
 
 **Other Requirements:** Int 30 and you must be from a Hive World, Forge World or Void Born Origin.
 
-#### **Sister Oblatia** Sister Oblatia
+#### **Sister Oblatia**
 
 *"If I must die, I shall welcome Death as an old friend, and wrap mine arms around it."*
 
@@ -936,7 +936,7 @@ Any Advances purchased for these Characteristics prior to taking the Alternative
 | Step Aside                       | 300  | T    | Ag 40, Dodge                       |
 | Wall of Steel                    | 300  | T    | Ag 35                              |
 
-#### **Tyrantine Shadow Agent** Tyrantine Shadow Agent
+#### **Tyrantine Shadow Agent**
 
 *"Lest the truth devour all."* 
 
