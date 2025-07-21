@@ -1973,7 +1973,7 @@ Huge and often top-heavy, Unwieldy weapons are too awkward to be used defensivel
 Many of the weapons described in this chapter require a Talent to use them effectively; lacking the necessary ability makes weapons particularly dangerous to employ. Still, there are bound to be circumstances when a character needs to use a weapon for which he does not have the Talent. Doing so imposes a –20 penalty on the relevant Test. If the weapon has the Flame special quality, the target is granted a +30 to his Agility Test to avoid being hit. In addition, when a ranged weapon is used untrained, it counts as having the Unreliable quality, increasing its chance of jamming.
 
 | Table 5–7:Ranged Weapons  |        |       |        |           |     |      |       |                          |        |       |              |
-|---------------------------|--------|-------|--------|-----------|-----|------|-------|--------------------------|--------|-------|--------------|
+| ------------------------- | ------ | ----- | ------ | --------- | --- | ---- | ----- | ------------------------ | ------ | ----- | ------------ |
 | Las Weapons               |        |       |        |           |     |      |       |                          |        |       |              |
 | Name                      | Class  | Range | RoF    | Dam       | Pen | Clip | Rld   | Special                  | Wt     | Cost  | Availability |
 | Laspistol                 | Pistol | 30m   | S/–/–  | 1d10+2 E  | 0   | 30   | Full  | Reliable                 | 1.5kg  | 50    | Common       |
@@ -2002,7 +2002,6 @@ Many of the weapons described in this chapter require a Talent to use them effec
 | Boltgun                   | Basic  | 90m   | S/2/–  | 1d10+5 X  | 4   | 24   | Full  | —                        | 7 kg   | 500   | Very Rare    |
 | Heavy Bolter              | Heavy  | 120m  | –/–/10 | 2d10 X    | 5   | 60   | 2Full | —                        | 40 kg  | 2,000 | Very Rare    |
 |                           |        |       |        |           |     |      |       |                          |        |       |              |
-|                           |        |       |        |           |     |      |       |                          |        |       |              |
 | Melta Weapons             |        |       |        |           |     |      |       |                          |        |       |              |
 | Name                      | Class  | Range | RoF    | Dam       | Pen | Clip | Rld   | Special                  | Wt     | Cost  | Availability |
 | Inferno Pistol            | Pistol | 10m   | S/–/–  | 2d10+4 E  | 12  | 3    | Full  | —                        | 2.5 kg | 7,500 | Very Rare    |
@@ -2010,11 +2009,8 @@ Many of the weapons described in this chapter require a Talent to use them effec
 |                           |        |       |        |           |     |      |       |                          |        |       |              |
 | Plasma Weapons            |        |       |        |           |     |      |       |                          |        |       |              |
 | Name                      | Class  | Range | RoF    | Dam       | Pen | Clip | Rld   | Special                  | Wt     | Cost  | Availability |
-| Plasma Pistol             | Pistol | 30m   | S/–/–  | 1d10+6 E  | 6   | 10   | 4Full | Recharge,                | 4 kg   | 4,000 | Very Rare    |
-|                           |        |       |        |           |     |      |       | Overheats                |        |       |              |
-| Plasma Gun                | Basic  | 90m   | S/2/–  | 1d10+6 E  | 6   | 20   | 8Full | Recharge,                | 11 kg  | 3,000 | Very Rare    |
-|                           |        |       |        |           |     |      |       | Overheats                |        |       |              |
-|                           |        |       |        |           |     |      |       |                          |        |       |              |
+| Plasma Pistol             | Pistol | 30m   | S/–/–  | 1d10+6 E  | 6   | 10   | 4Full | Recharge, Overheats      | 4 kg   | 4,000 | Very Rare    |
+| Plasma Gun                | Basic  | 90m   | S/2/–  | 1d10+6 E  | 6   | 20   | 8Full | Recharge,Overheats       | 11 kg  | 3,000 | Very Rare    |
 
 # **LAS WEAPONS**
 
@@ -3294,7 +3290,7 @@ There are many that believe psykers represent a gross perversion of all that hum
 
 — Officer Training, Gunmetallicus 104th.
 
-# Typ es of Psy ker **TYPES OF PSYKER**
+# Types of Psykers
 
 There are many roles within the Imperium that utilise psykers in some way or another. Some of these roles are revered and vital, whilst others are reviled utterly. However people feel about psykers, they are as much a part of the vast Imperium of Man as the Imperial Guard, the Administratum and even the Emperor Himself.
 
@@ -3462,7 +3458,7 @@ In addition to any other effects, whenever a Psyker invokes the Perils of the Wa
 
 A Psyker sometimes channels more warp energy than he requires to manifest a power. In most cases he bleeds off the excess into the immaterium and it is lost. However, with some powers it is possible to funnel this energy directly into manifesting greater effects. If a Psyker beats the power's Psychic Threshold by a certain amount he will gain extra effects, such as increased Range, Damage or Duration. If a power has this ability, it is mentioned in the entry along with the extra effects of Overbleed.
 
-# Sustaining Psy c hic Abilities **SUSTAINING PSYCHIC ABILITIES**
+# Sustaining Psychic Abilities 
 
 There are a number of Psychic Powers that are worth "keeping on" for an extended length of time. Powers that can be used in such manner are referred to as being "sustainable", which is noted in their entries. Sustaining a Psychic Power for an extended period of time is very taxing and only the most proficient Psykers can accomplish it. Every 10 Rounds a power is active, the Psyker must make a Power Roll to maintain it—just as if he were rolling to manifest it. Unlike a normal Power Roll, this is performed as a Free Action at the start of the Psyker's Turn and cannot invoke either Psychic Phenomena or the Perils of the Warp.
 
@@ -3474,11 +3470,11 @@ A Psyker can sustain a single Psychic Power without much effort once properly ac
 
 Modifiers, Characteristic Bonuses, and other benefits generated by Psychic Powers do not stack. If two powers provide the same kind of bonus, such as an increase in Strength, then only the highest applies.
 
-# Detecting Psy c hic Powers **DETECTING PSYCHIC POWERS**
+# Detecting Psychic Powers 
 
 All Psykers can, to a greater or lesser degree, feel the movements of the immaterium about them. They are very sensitive to the warp's ebb and flow, often feeling when others of their ilk reach out to touch the psychic currents about them. All Psykers can Test Psyniscience when Psychic Powers are used in their presence in order to help determine the source (see **Chapter I[II: Skills](#page-105-0)**, **page 105** for details on this Skill).
 
-# Psy c hi c Powe rs PSYCHIC POWERS
+# Psychic Powers
 
 *"Power Corrupts?"*
 
@@ -3486,11 +3482,11 @@ All Psykers can, to a greater or lesser degree, feel the movements of the immate
 
 T The remainder of this chapter presents an assortment of the most common Psychic Powers found in the Imperium. These are certainly not all of the powers that might be found, even within the specific Disciplines. The Imperium is a vast and strange place and nearly anything is possible.
 
-# Min or Psy c hic Powers **MINOR PSYCHIC POWERS**
+# Minor Psychic Powers
 
 While Psykers may aspire to mastering the Psychic Disciplines, the reality is that most never rise far above only being able to manifest minor powers and effects. This plethora of lesser abilities is collectively known as Minor Psychic Powers and often forms the standard arsenal of most Psykers. Unlike the more powerful Disciplines, these powers are relatively easy to learn and use. Minor Psychic Powers can be purchased by spending Experience Points on the relevent Talents (see **Chapter IV: Talents**).
 
-# The Psy c hic Discip lin es **THE PSYCHIC DISCIPLINES**
+# The Psychic Disciplines
 
 There are a number of different groupings of psychic abilities, which are referred to as Psychic Disciplines by the savants of the Imperium. Because each Psychic Discipline requires a certain type of training and well, discipline, it is easier by far for a Psyker to learn multiple powers from one Discipline then try to learn from another. Mastering a specific Psychic Discipline is considered to be a great milestone for a Psyker.
 
@@ -3508,7 +3504,7 @@ There are a number of different groupings of psychic abilities, which are referr
 
 Once you have learnt ten or more powers of a particular Discipline, you are said to have mastered it. When manifesting any power within the Discipline reduce the power's PT by 5. Those who have mastered a Discipline are extraordinarily powerful, capable of manifesting powers quickly and efficiently.
 
-# Power Format **POWER FORMAT**
+# Power Format
 
 All powers use the following format.
 
@@ -3524,7 +3520,7 @@ All powers use the following format.
 
 **Overbleed:** If the power has additional effects for exceeding the threshold, it is listed here. Otherwise this entry is absent.
 
-# Min or Powers **MINOR POWERS**
+# Minor Powers
 
 Minor Psychic Powers are tricks and knacks that those with even a shadow of psychic ability can learn. They are nothing compared to the "true" Disciplines, but are useful nonetheless.
 
@@ -3716,11 +3712,11 @@ You cause a person to be wracked with agony, filling their minds with unspeakabl
 
 # **Inspiring Aura**
 
-| Threshold:  | 6           |  |
-|-------------|-------------|--|
-| Focus Time: | Full Action |  |
-| Sustained:  | Yes         |  |
-| Range:      | You         |  |
+| Threshold:  | 6           |
+| ----------- | ----------- |
+| Focus Time: | Full Action |
+| Sustained:  | Yes         |
+| Range:      | You         |
 
 You seem to glow with an inner light and all those around you are filled with confidence. While this power is active, all allies that can see you gain a +20 bonus to Tests made to resist Fear and Pinning. They may also feel compelled to say nice things about you. Which is nice.
 
@@ -3736,11 +3732,11 @@ You tap into your unconscious to awaken a deeper understanding of your capabilit
 
 # **Lucky**
 
-| Threshold:  | 6           |  |
-|-------------|-------------|--|
-| Focus Time: | Half Action |  |
-| Sustained:  | No          |  |
-| Range:      | You         |  |
+| Threshold:  | 6           |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | No          |
+| Range:      | You         |
 
 It is said that luck acts strangely around Psykers, no doubt in part to powers like this one. When you manifest this power, any time before the end of your next Turn, you may re-roll any one roll of your dice (including Damage rolls).
 
@@ -3776,15 +3772,12 @@ You create mental wards to shield your mind from the malign denizens of the warp
 
 # **Sense Presence**
 
-| Threshold:                               | 7              |
-|------------------------------------------|----------------|
-| Focus Time:                              | Half Action    |
-| Sustained:                               | Yes            |
-| Range:                                   | 50m (see text) |
-| Reaching out with your mind, you get a   |                |
-| vague inkling of other life forms within |                |
-
-range. You automatically detect all living creatures in the area. Walls in excess of 1 metre thick block this power.
+| Threshold:  | 7              |
+| ----------- | -------------- |
+| Focus Time: | Half Action    |
+| Sustained:  | Yes            |
+| Range:      | 50m (see text) |
+Reaching out with your mind, you get a vague inkling of other life forms within range. You automatically detect all living creatures in the area. Walls in excess of 1 metre thick block this power.
 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you extend the Range by an additional 10 metres.
 
