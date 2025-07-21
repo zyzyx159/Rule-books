@@ -1,5 +1,3 @@
-## **Black Priest of Maccabeus**
-
 *"I walk in the footsteps of the Blessed Saint Drusus and I go about the Emperor's work. At my word the unclean spirit baulks and the heretic withers in shame. Who, then, are you to stand against me?"*
 
 — Prior Cornelius Agrippa, Maccabean Exorcist.
@@ -10,7 +8,7 @@ Black Priests are selected from promising candidates taken from the Ministorum's
 
 In appearance and demeanour, Maccabean Black Priests live up to their name, dressing in simple black or ashen robes, and eschewing any form of ornamentation or extravagance of appearance other than religious icons and relics—often rendered in simple iron or steel. Likewise weapons and armour are likely to be blackened with pyre ash and their manner is likely to be grim, unforgiving and humourless (although a bleak gallows wit is evident in some). They are fanatics in their cause, but, unlike the firebrand ranting of a Redemptionist, their zealotry often has the quality of cold unyielding stone and dire certainty.
 
-#### **Becoming a Black Priest of Maccabeus**
+## **Becoming a Black Priest of Maccabeus**
 
 In order to qualify for this path, the character must be a Cleric who either originates from Maccabeus Quintus, or with the permission (or at the behest) of their Inquisitorial masters is sent to train there during "downtime" between adventures. This Career Path is particularly suited to Clerics who want a more directly combative role against the powers of the warp, or who in their character's past have survived encounters with the Daemonic.
 
@@ -54,7 +52,7 @@ In order to qualify for this path, the character must be a Cleric who either ori
 | Encarta Maleficarum†             | 500  | Special | T 40                            |
 | † See sidebar for details.       |      |         |                                 |
 
-#### **Special: Encarta Maleficarum (Elite Advance)**
+## **Special: Encarta Maleficarum (Elite Advance)**
 
 Some Black Priests, in order to aid them as holy exorcists, are subjected to a secret ritual that Ordo Malleus calls the Encarta Maleficarum. During this ritual, forbidden knowledge is burned deep into their minds, shackled with wards inscribed by occult means directly into the cerebral cortex. This procedure rare and considered a radical one even by the most ardent of Daemonhunters, as the survival rate is not high and, even if successful, the recipient's life expectancy can be seriously reduced and their sanity eroded.
 

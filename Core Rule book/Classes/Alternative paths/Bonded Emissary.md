@@ -1,5 +1,3 @@
-## **Bonded Emissary**
-
 *"My masters regret that your harvest has failed governor and unrest stirs your little world. Perhaps you should seek assistance from the free captains as you did three years ago when you turned down our last generous offer, and with it the protection of our friendship… no? Well, unfortunately things have grown harsher in the sub-sector of late and our price now is regrettably somewhat higher…"*
 
 — Adept-Assayer Alisha Zhou, Emissary of the Machenko Dynasty.
@@ -51,8 +49,7 @@ In the Calixis Sector, as in much of the Imperium, Emissaries go by numerous nam
 | Sleight of Hand                  | 300  | S    | —                            |
 | Peer (Noble)                     | 300  | T    | Fel 30                       |
 | Peer (Underworld)                | 300  | T    | Fel 30                       |
-
-#### **Becoming a Bonded Emissary**
+## **Becoming a Bonded Emissary**
 
 Inquisitors have need of skilled individuals other than trained killers, mind-bending psykers, and dogged investigators. They often need liars and dissemblers, individuals whose perception allows them to read the subtle ebb and flow of the interplay of a noble's court, and men and women who can detect the subtle taint of madness beneath a genial façade. Emissaries are perfect for such tasks, and an Acolyte with these skills can be confidently relied upon to act as the cornerstone of any covert investigation, often with the backing of false identities and cover provided by the Holy Ordos. Those that meet them, while in one of their cover identities, rarely guess their true master unless they decide to reveal it.
 
