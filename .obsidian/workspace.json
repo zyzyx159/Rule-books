@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Core Rulebook"
             }
+          },
+          {
+            "id": "a1c3eed555efae72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rule book/Core Rulebook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core Rulebook"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,12 +240,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3e2006bb4e8af1b",
+  "active": "a1c3eed555efae72",
   "lastOpenFiles": [
+    "Notes.md",
+    "Untitled.md",
+    "Core Rule book/Core Rulebook.md",
     "Core Rule book/Chapter 6.md",
     "Core Rule book/Chapter 5.md",
-    "Core Rule book/Core Rulebook.md",
-    "Untitled.md",
     "Core Rule book/Chapter 4.md",
     "Core Rule book/Chapter 3.md",
     "Core Rule book/Chapter 2.md",
@@ -255,7 +270,6 @@
     "Inquisitors Handbook/Chapter 7 - The Holy Ordos.md",
     "Inquisitors Handbook/Chapter 6 - War Zones.md",
     "Inquisitors Handbook/Chapter 5 - Frontier Worlds & The Void.md",
-    "Inquisitors Handbook/Chapter 3 - Feral & Feudal Worlds.md",
     "Pics/Adepta Sororitas Ranks.png",
     "Pics",
     "Inquisitors Handbook"

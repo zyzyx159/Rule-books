@@ -156,7 +156,7 @@ Characters can assist each other in most tasks but there are limits:
 
 A All Player Characters begin play with a number of Fate Points. The number of Fate Points a character receives is decided during character creation. Fate Points are what separates Acolytes from the ordinary people of the Imperium. PCs have destinies and the Emperor has marked them for greater things. While their ultimate fate is a mystery, with no guarantees that it will be glorious, enriching or pleasant, they are a cut above the rest.
 
-# Using Fate Poin ts **USING FATE POINTS**
+# Using Fate Points
 
 Fate Points allow you to turn luck to your advantage, hitting with that bolter shot when you would have otherwise missed, or cracking the security code on a door just in time to make a hasty escape. Using these twists of fate, you can take a few more risks, which makes the game faster and far more exciting than would otherwise be the case.
 
@@ -168,13 +168,13 @@ That said, you have a limited pool of Fate Points and whenever you spend a Fate 
 - Instantly recover 1d5 Wounds.
 - Recover from being Stunned.
 
-# Bur n ing Fate **BURNING FATE**
+# Burning Fate
 
 Sometimes a re-roll or an extra degree of success is not going to be enough to save a character's life. In these instances, the character may choose to burn a Fate Point and permanently reduce their Fate Points by 1. The result is that the character survives whatever it was that would have killed him, but only just. So for example, if the character was shot with a lascannon and suffered a Critical Hit that would have killed him, instead he will only be horribly wounded, hideously burnt and rendered unconscious on 0 Wounds. In more extreme circumstances, such as being trapped on a space ship during a warp drive implosion, it is up to the player and the GM to work out just how the character makes his escape.
 
 Note that you may burn a Fate Point even if you have already used all of your Fate Points for that gaming session. This just means that at the start of the next session, when your points are restored, you will have 1 less Fate Point.
 
-# Gaining Addition al The Role Fate Poin ts **GAINING ADDITIONAL FATE POINTS**
+# Gaining Additional The Role Fate Points 
 
 Since Fate Points are an expendable resource, you may be reluctant to burn them for fear of never gaining more. However, as your character undertakes adventures, he may gain additional Fate Points to replenish those that have been burnt away. Your GM may grant Fate Points for particular acts of heroism, cunning or good role playing. See **Chapter VIII: The Game Master** for details.
 
@@ -188,7 +188,7 @@ Since Fate Points are an expendable resource, you may be reluctant to burn them 
 
 A Another key element of Dark Heresy games is, of course, investigation. Over the course of an adventure, you are likely to spend a fair amount of time pouring through dusty libraries, searching through forbidden texts or chatting with the locals to uncover the heresy you seek. **Chapter III: Skills** offers a number of Investigation skills, such as Inquiry, Scholastic Lore, Forbidden Lore and so on, to help you through this process.
 
-# Using Investig ation Skills **USING INVESTIGATION SKILLS**
+# Using Investigation Skills 
 
 In many cases, clues come as a result of achieving certain objectives in the game. You might travel to another planet to search through ancient xenos ruins, before heading on to a hive-city to find someone who knows a bit about what you found, only to head back to a shrine world to find the corrupted priest who heads up a cult to the Dark Powers. All of these instances can result from knowing where to look, who to talk to, and where to go once you find the information you seek. Sometimes, though, you may need to roll up your sleeves and do some digging to discover the truth. Examples of investigation could be to find out the background to a forbidden planet, to learn more information about a xenos, or to research a particularly famous figure in the history of the Imperium. Luckily, all Investigation skills work the same way.
 
@@ -202,7 +202,7 @@ Investigation should never be used to replace role playing or participating in a
 
 M Make no mistake: the Imperium is a dangerous place. Over the course of their investigations, explorations and travels, the characters are bound to encounter those who would see them dead. Unless the characters plan to spend their lives running away from their enemies, they will have to make a stand and fight. As a result, combat can form a key component in your Dark Heresy game. Being familiar with the ins and outs of battle can only improve your chances of survival.
 
-# Roun ds, Tur ns & Tim e **ROUNDS, TURNS & TIME**
+# Rounds, Turns & Time
 
 For most occasions whilst playing Dark Heresy , the GM simply describes the scene or situation and asks the players how they react. Time is flexible, and is subject to the GM's decision based on the choices the characters make. Whilst the GM should have an idea about how much time approximately passes, it's not necessary to track the passage of time down to the exact second, or even the minute or hour. It is enough to say that "it takes about an hour to reach the spectral vestibule" or "after about fifteen minutes of walking, you come upon a crashed Aquila Lander". This sort of approach is known as "game time" or "Narrative Time".
 
@@ -333,7 +333,7 @@ A character attempting an Extended Action must continue with that Action until i
 *Hybris, a Tech-Priest, needs to reload his heavy stubber, which takes two Full Actions. He starts on his next Turn, taking one Full Action. On his following Turn, he finishes reloading by spending another Full Action. If he had chosen to abandon his reloading efforts after the first Round, the Extended Action would have been aborted and he'd have to start the process all over again later, if he still wanted to reload.*
 
 | Attack Actions   |        |                                                                            |
-|------------------|--------|----------------------------------------------------------------------------|
+| ---------------- | ------ | -------------------------------------------------------------------------- |
 | Action           | Type   | Description                                                                |
 | All Out Attack   | Full   | +20 to WS, cannot Dodge or Parry.                                          |
 | Charge           | Full   | Must move 4 metres, +10 to WS.                                             |
@@ -353,7 +353,6 @@ A character attempting an Extended Action must continue with that Action until i
 | Move Actions     |        |                                                                            |
 | Action           | Type   | Description                                                                |
 | Disengage        | Full   | Break off from melee and move.                                             |
-|                  |        |                                                                            |
 
 | Jump/Leap        | Full      | Leap or Jump (see page 214).                                                       |
 |------------------|-----------|------------------------------------------------------------------------------------|
@@ -932,11 +931,11 @@ Characters suffering from Fatigue are at a –10 penalty to all Tests.
 
 If left alone, Fatigue goes away in time. Each hour of rest which includes no combat, no Psychic Powers and nothing strenuous, removes one level of Fatigue. Eight consecutive hours of rest remove all levels of Fatigue.
 
-# Be coming Stun n ed **BECOMING STUNNED**
+# Becoming Stunned
 
 In addition to Wound loss and other sorts of Damage, characters may also become Stunned. A character can become Stunned due to the effects of some Psychic Powers, Critical Hits, or the Takedown talent. Weapon Skill and Ballistic Skill Tests to hit Stunned characters are considered Routine (+20). In addition, Stunned characters cannot take Actions of any kind, even free ones like Dodge.
 
-# Characteristic Damag e **CHARACTERISTIC DAMAGE**
+# Characteristic Damage
 
 Some Psychic Powers, poisons, diseases and other hazards circumvent your Wounds and deal Damage directly to your Characteristic. Characteristic loss cannot reduce a Characteristic below 0. Unless otherwise specified, Characteristic Damage is never permanent and you recover lost points at a rate of one each hour. Remember, penalties to Characteristics as well as Characteristic Damage may also affect the Characteristic's bonus. Should the Damage or penalty reduce the tens digit of a Characteristic, the associated bonus also drops by 1.
 
@@ -1004,30 +1003,25 @@ Treat this as a lost foot, but you cannot use the Dodge skill. Losing both legs 
 
 You cannot hear at all, or at least not well enough to communicate with others. Until you recover or have this disability repaired, you will automatically fail any Skill or Characteristic Test that relies on sound. Apart from also having trouble communicating with your fellow Acolytes, the GM is free to decide whenever being deaf will have an effect in the game.
 
-| Table 7-11: Energy Critical Effects – Head |                                                                                                                  |  |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------------|--|
-| Critical Damage                            | Effect                                                                                                           |  |
-| 1                                          | A grazing blow to the head frazzles the target's senses, imposing a –10 penalty to all Tests (except             |  |
-|                                            | Toughness) for 1 Round.                                                                                          |  |
-| 2                                          | The blast of energy dazzles the target, leaving him blinded for 1 Round.                                         |  |
-| 3                                          | The attack cooks off the target's ear, leaving him Stunned for 1 Round and inflicting 1 level of Fatigue.        |  |
-| 4                                          | The energy attack burns away all of the hairs on the target's head as well as leaving him reeling from the       |  |
-|                                            | injury. The attack deals 2 levels of Fatigue and the target is blinded for 1d5 Rounds.                           |  |
-| 5                                          | A blast of energy envelopes the target's head, burning his face and hair, and causing him to scream like a stuck |  |
-|                                            | Grox. In addition to losing his hair, he is blinded for 1d10 Rounds and takes 3 levels of Fatigue.               |  |
-| 6                                          | The attack cooks the target's face, melting his features and damaging his eyes. The target is blinded            |  |
-|                                            | for the next 1d10 hours and permanently reduces his Fellowship characteristic by 1d10 points. The                |  |
-|                                            | target also takes 1d5 levels of Fatigue.                                                                         |  |
-| 7                                          | In a gruesome display, the flesh is burned from the target's head, exposing charred bone and muscle              |  |
-|                                            | underneath. The target is blinded permanently and takes 1d10 levels of Fatigue. Also, roll 1d10. This is the     |  |
-|                                            | target's new Fellowship, unless their Fellowship is already 10 or less, in which case nobody really notices      |  |
-|                                            | the difference.                                                                                                  |  |
-| 8                                          | The target's head is destroyed in a convocation of fiery death. He does not survive.                             |  |
-| 9                                          | Superheated by the attack, the target's brain explodes, tearing apart his skull and sending flaming              |  |
-|                                            | chunks of meat flying at those nearby. The target is no more.                                                    |  |
-| 10+                                        | As above, except the target's entire body catches fire and runs off headless 2d10 metres in a random             |  |
-|                                            | direction (use the Scatter Diagram on page 196). Anything flammable it passes, including characters,             |  |
-|                                            | must make an Agility Test or catch fire (see Special Damage).                                                    |  |
+| Table 7-11: Energy Critical Effects – Head |                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Damage                            | Effect                                                                                                                                                                                                                                                                                                                       |
+| 1                                          | A grazing blow to the head frazzles the target's senses, imposing a –10 penalty to all Tests (except Toughness) for 1 Round.                                                                                                                                                                                                 |
+| 2                                          | The blast of energy dazzles the target, leaving him blinded for 1 Round.                                                                                                                                                                                                                                                     |
+| 3                                          | The attack cooks off the target's ear, leaving him Stunned for 1 Round and inflicting 1 level of Fatigue.                                                                                                                                                                                                                    |
+| 4                                          | The energy attack burns away all of the hairs on the target's head as well as leaving him reeling from the injury. The attack deals 2 levels of Fatigue and the target is blinded for 1d5 Rounds.                                                                                                                            |
+| 5                                          | A blast of energy envelopes the target's head, burning his face and hair, and causing him to scream like a stuck Grox. In addition to losing his hair, he is blinded for 1d10 Rounds and takes 3 levels of Fatigue.                                                                                                          |
+| 6                                          | The attack cooks the target's face, melting his features and damaging his eyes. The target is blinded for the next 1d10 hours and permanently reduces his Fellowship characteristic by 1d10 points. The target also takes 1d5 levels of Fatigue.                                                                             |
+| 7                                          | In a gruesome display, the flesh is burned from the target's head, exposing charred bone and muscle underneath. The target is blinded permanently and takes 1d10 levels of Fatigue. Also, roll 1d10. This is the target's new Fellowship, unless their Fellowship is already 10 or less, in which case nobody really notices |
+|                                            |                                                                                                                                                                                                                                                                                                                              |
+|                                            |                                                                                                                                                                                                                                                                                                                              |
+|                                            |                                                                                                                                                                                                                                                                                                                              |
+| 8                                          | The target's head is destroyed in a convocation of fiery death. He does not survive.                                                                                                                                                                                                                                         |
+| 9                                          | Superheated by the attack, the target's brain explodes, tearing apart his skull and sending flaming                                                                                                                                                                                                                          |
+|                                            | chunks of meat flying at those nearby. The target is no more.                                                                                                                                                                                                                                                                |
+| 10+                                        | As above, except the target's entire body catches fire and runs off headless 2d10 metres in a random                                                                                                                                                                                                                         |
+|                                            | direction (use the Scatter Diagram on page 196). Anything flammable it passes, including characters,                                                                                                                                                                                                                         |
+|                                            | must make an Agility Test or catch fire (see Special Damage).                                                                                                                                                                                                                                                                |
 
 | Table 7-12: Energy Critical Effects – Arm |                                                                                                               |
 |-------------------------------------------|---------------------------------------------------------------------------------------------------------------|
