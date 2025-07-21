@@ -1317,22 +1317,14 @@ Each time you use this Talent, you gain a level of Fatigue.
 
 You have learnt how to lend your life force to technology. On a successful Toughness Test you may use your bio-electrical field to recharge or power machinery. This takes one minute of meditation and ritual incantation to activate. The Difficulty of the Toughness Test varies depending on the nature of the technology, as follows:
 
-| Difficulty       | Example                  |
-|------------------|--------------------------|
-| Ordinary (+10)   | Chemical battery, glow   |
-|                  | globe.                   |
-| Challenging (+0) | Las gun charge pack,     |
-|                  | data-slate, personal     |
-|                  | heater.                  |
-| Difficult (–10)  | Overcharge pack, air     |
-|                  | conditioning unit, servo |
-|                  | skull.                   |
-| Hard (–20)       | Land speeder engine,     |
-|                  | lascannoncharge      |
-|                  | pack, servitor.          |
-| Very Hard (–30)  | Industrial press, cogita |
-|                  | tor engine, xenos tech.  |
-|                  |                          |
+| Difficulty       | Example                                                |
+| ---------------- | ------------------------------------------------------ |
+| Ordinary (+10)   | Chemical battery, glow globe.                          |
+| Challenging (+0) | Las gun charge pack, data-slate, personal heater.      |
+| Difficult (–10)  | Overcharge pack, air conditioning unit, servo skull.   |
+| Hard (–20)       | Land speeder engine, las cannon charge pack, servitor. |
+| Very Hard (–30)  | Industrial press, cogita tor engine, xenos tech.       |
+
 
 Note that at the GM's discretion, some technology is simply too arcane, broken or power-hungry for you to be able to activate. Each time you use this Talent, you gain a level of Fatigue.
 
@@ -1654,11 +1646,11 @@ Your blades are so quick that they form a wall of impenetrable steel. You may ma
 
 **[Money](#page-124-0) • [Availability](#page-125-0) • [Craftsmanship](#page-126-0) • [Weapons](#page-127-0) • [armor](#page-144-0) • [Gear](#page-146-0) • [Cybernetics](#page-153-0)**
 
-# </span> Chap ter V: Money armory Chapter V: armory
+# Chapter V: Money armory Chapter V: armory
 
 *"Place your faith in the Emperor, and always carry a big gun."* — Mordechai Voght, High Marshall.
 
-T The 41st Millennium is a dangerous place, rife with war and conflict, and if an Acolyte hopes to survive he must make sure that he is well armed and equipped. This chapter deals with some of the many types of weapons, armor and gear that exist within the Imperium. Equipment, especially weapons and armor, make up a vital part of an Acolyte's resources and the difference between success and failure on a mission can often come down to having the right gear.
+The 41st Millennium is a dangerous place, rife with war and conflict, and if an Acolyte hopes to survive he must make sure that he is well armed and equipped. This chapter deals with some of the many types of weapons, armor and gear that exist within the Imperium. Equipment, especially weapons and armor, make up a vital part of an Acolyte's resources and the difference between success and failure on a mission can often come down to having the right gear.
 
 # **A Dark Age of Technology**
 
@@ -1770,24 +1762,24 @@ Not all goods are of the same quality. In the vastness of the Imperium, and beyo
 
 Normally, Craftsmanship has little effect on game play for regular goods and services. As a general rule items of Poor Craftmanship are more prone to failure and breaking while Good and Best Craftsmanship are more durable, though it is up to the GM how and when these effects might enter play. In the case of weaponry and armor, there are effects on the item's performance or weight (as detailed later), but in cases of general goods and services, differences of quality are merely descriptive. The GM may reduce the Difficulty of certain tests, but it is entirely at his discretion. Unless specifically stated, the Craftsmanship of any object is considered Common.
 
-| Table 5–4: Availability by PopulationDifficulty by Population |                 |              |               |                 |  |  |  |  |  |
-|-------------------------------------------------------------------|-----------------|--------------|---------------|-----------------|--|--|--|--|--|
-| Availability                                                      | Below 1,000     | Below 10,000 | Below 100,000 | 100,000 or more |  |  |  |  |  |
-| Abundant                                                          | Routine         | Easy         | Automatic     | Automatic       |  |  |  |  |  |
-| Plentiful                                                         | Ordinary        | Routine      | Easy          | Automatic       |  |  |  |  |  |
-| Common                                                            | Challenging     | Ordinary     | Routine       | Easy            |  |  |  |  |  |
-| Average                                                           | Difficult       | Challenging  | Ordinary      | Routine         |  |  |  |  |  |
-| Scarce                                                            | Hard            | Difficult    | Challenging   | Ordinary        |  |  |  |  |  |
-| Rare                                                              | Very Hard       | Hard         | Difficult     | Challenging     |  |  |  |  |  |
-| Very Rare                                                         | GM's discretion | Very Hard    | Hard          | Difficult       |  |  |  |  |  |
+| Table 5–4: Availability by PopulationDifficulty by Population |                 |              |               |                 |
+| ------------------------------------------------------------- | --------------- | ------------ | ------------- | --------------- |
+| Availability                                                  | Below 1,000     | Below 10,000 | Below 100,000 | 100,000 or more |
+| Abundant                                                      | Routine         | Easy         | Automatic     | Automatic       |
+| Plentiful                                                     | Ordinary        | Routine      | Easy          | Automatic       |
+| Common                                                        | Challenging     | Ordinary     | Routine       | Easy            |
+| Average                                                       | Difficult       | Challenging  | Ordinary      | Routine         |
+| Scarce                                                        | Hard            | Difficult    | Challenging   | Ordinary        |
+| Rare                                                          | Very Hard       | Hard         | Difficult     | Challenging     |
+| Very Rare                                                     | GM's discretion | Very Hard    | Hard          | Difficult       |
 
-| Table 5–5: Availability and TimeDifficulty by Population (Base Time by Availability) |            |            |            |            |            |            |            |  |  |  |
-|------------------------------------------------------------------------------------------|------------|------------|------------|------------|------------|------------|------------|--|--|--|
-| Population                                                                               | Very Rare  | Rare       | Scarce     | Average    | Common     | Plentiful  | Abundant   |  |  |  |
-| Below 1,000                                                                              | 1d10 hours | 1 hour     | 30 minutes | 15 minutes | 10 minutes | 5 minutes  | 1 minute   |  |  |  |
-| Below 10,000                                                                             | 1d10 days  | 1d10 hours | 1 hour     | 30 minutes | 15 minutes | 10 minutes | 5 minutes  |  |  |  |
-| Below 100,000                                                                            | 1d10 weeks | 1d10 days  | 1d10 hours | 1 hour     | 30 minutes | 15 minutes | 10 minutes |  |  |  |
-| 100,000 or more                                                                          | 1d5 months | 1d10 weeks | 1d10 days  | 1d10 hours | 1 hour     | 30 minutes | 15 minutes |  |  |  |
+| Table 5–5: Availability and TimeDifficulty by Population (Base Time by Availability) |            |            |            |            |            |            |            |
+| ------------------------------------------------------------------------------------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Population                                                                           | Very Rare  | Rare       | Scarce     | Average    | Common     | Plentiful  | Abundant   |
+| Below 1,000                                                                          | 1d10 hours | 1 hour     | 30 minutes | 15 minutes | 10 minutes | 5 minutes  | 1 minute   |
+| Below 10,000                                                                         | 1d10 days  | 1d10 hours | 1 hour     | 30 minutes | 15 minutes | 10 minutes | 5 minutes  |
+| Below 100,000                                                                        | 1d10 weeks | 1d10 days  | 1d10 hours | 1 hour     | 30 minutes | 15 minutes | 10 minutes |
+| 100,000 or more                                                                      | 1d5 months | 1d10 weeks | 1d10 days  | 1d10 hours | 1 hour     | 30 minutes | 15 minutes |
 
 
 
@@ -1856,7 +1848,7 @@ Some weapons can be fired in more than one mode. If this is the case each of its
 
 **Availability:** This identifies the weapon's availability (see **Table 5-3: Consequences of Availability, [page 126](#page-126-0)**).
 
-# Weap on Sp e cial Qualities WEAPON SPECIAL QUALITIES
+# Weapon Special Qualities WEAPON SPECIAL QUALITIES
 
 Some weapons possess special qualities to represent such things as special damage or unusual effects.
 
@@ -1918,11 +1910,11 @@ Certain weapons are prone to overheating, either because of poor design or they 
 - 6–8 The f irer takes 1d10+2 Energy Damage and must drop the weapon. In addition the weapon is too hot to pick up (anyone trying takes 1d10+1 Energy Damage) for 1d10 Rounds.
 - 9–10 The weapon explodes and is destroyed. The firer and anyone within four metres takes Damage as if they had taken a single hit from the weapon.
 
-# **PoWer fIeld**
+# **Power fIeld**
 
 A field of power wreathes weapons with this quality, increasing its Damage and Penetration. Such modifiers are already included in the weapon's profile. When you successfully use this weapon to Parry an attack made with a weapon that lacks this quality, you have a 75% chance of destroying your attacker's weapon.
 
-# **PrImItIVe**
+# **Primitive**
 
 Crude and basic in design, these kinds of weapons, while still deadly, are less effective against modern armor. All armor Points are doubled against hits from Primitive weapons, unless the armor also has the Primitive quality.
 
@@ -1938,7 +1930,7 @@ Based on tried and true technology, Reliable weapons seldom fail. If a Reliable 
 
 The standard ammunition of these weapons spreads out when fired, hitting more of the target. If fired at a foe within Point Blank range, each two degrees of success the firer scores indicates another hit (use **Table 7-6: Multiple Hits**  on **[page 190](#page-190-0)**). However, at longer ranges this spread of small projectiles reduces its effectiveness. All armor Points are doubled against hits from scatter weapons at Long or Extreme Range.
 
-# **shockINg**
+# **shocking**
 
 Shocking weapons can Stun their opponents with a powerful surge of energy. A target that takes at least 1 point of Damage from a Shocking weapon, after armor and Toughness Bonus, must make a Toughness Test, though they receive a +10 bonus for every armor point they have on the location hit. If they fail, they are Stunned for a number of Rounds equal to half the Damage they suffered.
 
@@ -1946,15 +1938,15 @@ Shocking weapons can Stun their opponents with a powerful surge of energy. A tar
 
 Rather than inflicting Damage, these weapons throw up dense clouds of smoke to create cover. When a hit is scored from a weapon with the Smoke quality, it creates a smokescreen 3d10 metres in diameter from the point of impact. This screen lasts for 2d10 Rounds, or less in adverse weather conditions (see the effects of Smoke on **[page 210](#page-210-0)**).
 
-# **sNare**
+# **snare**
 
 Weapons with this quality are designed to entangle enemies. On a successful hit, the target must make an Agility Test or be immobilised. An immobilised target can attempt no other actions except to try to escape the bonds. He can attempt to burst the bonds (a Strength Test) or wriggle free (an Agility Test) in his Turn. The target is considered helpless until he escapes.
 
-# **tearINg**
+# **tearing**
 
 Tearing weapons are vicious devices, often using multitudes of fast-moving jagged teeth to rip into flesh and bone. These weapons roll two dice for Damage and choose the highest.
 
-# **toXIc**
+# **toxic**
 
 Some weapons rely on toxins and poisons to do their damage. Anyone that takes Damage from a Toxic weapon, after reduction for armor and Toughness Bonus must make a Toughness Test with a –5 penalty for every point of Damage taken. Success indicates there is no further effect from the weapon. Failure however deals an immediate 1d10 points of Impact Damage to the target with no reduction from armor or Toughness Bonus.
 
