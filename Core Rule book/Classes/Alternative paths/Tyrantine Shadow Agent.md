@@ -1,5 +1,3 @@
-
-
 *"Lest the truth devour all."* 
 
 — Memento Mori on the Tomb of Inquisitor Cassilda Cognos.

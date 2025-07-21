@@ -1000,7 +1000,7 @@ Your mind is a carefully constructed maze of shut-outs and thought-dams designed
 | Strong Minded                          | 200  | T    | WP 30, Resistance (Psychic)            |
 | Mental Fortress                        | 300  | T    | WP 50, Strong Minded                   |
 
-#### **Warden of the Divisio Immoralis** Warden of the Divisio Immoralis
+#### **Warden of the Divisio Immoralis**
 
 *"Sleep well tonight. Dream the sweetest of dreams and remember their careless touch. For it will be the last peaceful sleep you will ever have."*
 
@@ -1127,7 +1127,7 @@ Full Resurrection: Of all the wonders capable by the machine-smiths, only a few 
 
 See **Chapter V: Forge Worlds** for more information on implants and other devices of the Cult Mechanicus.
 
-#### **The Cult of the Red Redemption** The Cult of the Red Redemption
+#### **The Cult of the Red Redemption** 
 
 This Elite Advance is intended to serve as a base for Acolytes who subscribe to the Redemption's violent philosophies. For characters wishing to become respected members or Redeemers themselves, see the Redemptionist Alternate Rank in Blood of Martyrs (page 64).
 
