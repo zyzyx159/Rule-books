@@ -169,7 +169,7 @@ Toughened by all that life can throw at him, the Rogue is a smart, skilled and d
 | Scrutiny                       | 200  | S    | —                                      |
 | Scholastic Lore (Judgement)    | 200  | S    | —                                      |
 | Tech-Use                       | 200  | S    | —                                      |
-| Tracking                       | 200  | S    | —                                      |
+| Trackin                        | 200  | S    | —                                      |
 | Melee Weapon Training (Chain)  | 200  | T    | —                                      |
 | Sound Constitution             | 200  | T    | —                                      |
 | Takedown                       | 200  | T    | —                                      |

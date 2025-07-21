@@ -8,12 +8,12 @@
 P S Part of the fun of Dark Heresy is deciding which Skills to develop and learn during the career of your character. This chapter contains all the detailed information you might need to help you use Skills to their full effect. See **Chapter VII: Playing the Game** on **[page](#page-182-0) [182](#page-182-0)**, for details on Skill Tests, Characteristics and how they are made.
 
 # GAINING SKILLS
-
+Scrutiny
 *"Foolish are those who fear nothing, yet claim to know everything."*
 
 — *Lexiconum Moralis.*
 
-W When you create your character you begin with a list of starting Skills based on your home world, as well as a selection of Skills from your Career Path. These Skills represent what you have learned in your life up to the point where you chose to serve the Inquisition. Over time, you will gain additional Experience, which you can spend to acquire new Skills or improve existing ones.
+When you create your character you begin with a list of starting Skills based on your home world, as well as a selection of Skills from your Career Path. These Skills represent what you have learned in your life up to the point where you chose to serve the Inquisition. Over time, you will gain additional Experience, which you can spend to acquire new Skills or improve existing ones.
 
 # **SKILL MASTERY**
 
