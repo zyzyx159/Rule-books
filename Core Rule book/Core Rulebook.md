@@ -1,5 +1,3 @@
-
-
 #  Chapter III: Skills
 
 *"It is likely that I have forgotten more about the Imperium than you will ever know, acolyte."*
@@ -532,22 +530,19 @@ The Scholastic Lore skill grants you knowledge of a particular scholarly subject
 
 You make Scholastic Lore Tests to identify an object, creature or place that falls under your particular area of expertise. A successful Test about a subject related to your speciality reveals the basic information. Each degree of success reveals more information as follows:
 
-| Degrees    |                             |
-| ---------- | --------------------------- |
-| of Success | Result                      |
-| Standard   | Reveals basic information   |
-| success    | known to people of your     |
-|            | training.                   |
-| One        | Reveals uncommonly known    |
-|            | information,evenamong       |
-|            | your peers.                 |
-| Two        | Reveals obscure information |
-|            | aboutthesubject.Such        |
-|            | information is known to but |
-|            | a few scholars.             |
-| Three+     | Reveals extremely obscure   |
-|            | information, known only to  |
-|            | a handful of experts.       |
+| Degrees    |                                                             |
+| ---------- | ----------------------------------------------------------- |
+| of Success | Result                                                      |
+| Standard   | Reveals basic information                                   |
+| success    | known to people of your training.                           |
+| One        | Reveals uncommonly known information,even among your peers. |
+| Two        | Reveals obscure information aboutthesubject.Such            |
+|            |                                                             |
+|            | information is known to but                                 |
+|            | a few scholars.                                             |
+| Three+     | Reveals extremely obscure                                   |
+|            | information, known only to                                  |
+|            | a handful of experts.                                       |
 
 In some areas, Scholastic Lore overlaps with Common Lore and Forbidden Lore, but almost always represents a far greater—and more academic—level of study. A character with Common Lore (Imperial Creed) might understand the day-to-day rituals and prayers gained from living under the creed, whereas a character with Scholastic Lore (Imperial Creed) might be able to explain why such rituals exist and how they have changed over the millennia.
 
