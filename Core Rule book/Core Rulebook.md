@@ -1098,20 +1098,13 @@ Incinerate allows you to generate intense heat as well as flame. By psychically 
 
 # **Sculpt Flame**
 
-| Threshold:                          | 13                 |
-|-------------------------------------|--------------------|
-| Focus Time:                         | Half Action        |
-| Sustained:                          | Yes                |
-| Range:                              | 5m×Willpower Bonus |
-| You control the shape of the fires  |                    |
-| burning around you. With this       |                    |
-| power, you can intensify any flames |                    |
-| orshapethemto           | assumeany      |
-| appearance you desire. A successful |                    |
-| use of this power allows you to do  |                    |
-|                                     |                    |
+| Threshold:  | 13                 |
+| ----------- | ------------------ |
+| Focus Time: | Half Action        |
+| Sustained:  | Yes                |
+| Range:      | 5m×Willpower Bonus |
 
-any of the following effects with an existing fire:
+You control the shape of the fires burning around you. With this power, you can intensify any flames or shape them to assume any appearance you desire. A successful use of this power allows you to do any of the following effects with an existing fire:
 
 • Double a fire's area (assuming there are combustibles).
 
@@ -1135,7 +1128,7 @@ Each Round you can choose a new effect or apply the same effects to the same sou
 
 A relatively blunt, but effective, ability in the pyrokinetic's arsenal, this power allows you to place an immobile barrier of flame that lingers for as long as you will it. The wall is three metres high and a metre thick and can be up to ten metres long for every point of your Willpower Bonus. You can place it anywhere within Range and even on top of foes, though they are allowed an Easy (+20) Agility Test to get out of the way. Foes crossing the wall or failing the Test take 1d10+5 Energy Damage (ignoring armor) and must Test Agility again or catch on fire.
 
-# Telekinetics **TELEKINETICS**
+# Telekinetics
 
 The art of the Telekinetic Discipline is to translate mental energy into physical force. Wielders of these powers are known as the telekine, and they readily break the laws of physics with their abilities. Telekine are notorious for their forceful personalities, which, while unpleasant to deal with, are fairly understandable. In many places, there is a common image of the telekine as a pallid, unfit and spoilt individual. In reality, Telekinetics often suffer intense migraines, nose bleeds and high blood pressure as a result of focusing their powers.
 
@@ -1145,27 +1138,25 @@ The art of the Telekinetic Discipline is to translate mental energy into physica
 
 # **Fling**
 
-|        | Threshold:  |                                   |                 |             | 14  |
-|--------|-------------|-----------------------------------|-----------------|-------------|-----|
-|        | Focus Time: |                                   |                 | Half Action |     |
-|        | Sustained:  |                                   |                 |             | No  |
-| Range: |             |                                   |                 |             | 10m |
-| You    | can         |                                   | telekinetically | lift        | an  |
-|        |             | unattended object from the ground |                 |             |     |
+|     | Threshold:  | 14          |     |     |     |
+| --- | ----------- | ----------- | --- | --- | --- |
+|     | Focus Time: | Half Action |     |     |     |
+|     | Sustained:  | No          |     |     |     |
+|     | Range:      | 10m         |     |     |     |
 
-and fling it at a target. You may lift up to 5 kilograms per point of your Willpower Bonus. You can throw the object a number of metres equal to your Willpower Bonus ×3. To hit a target, Test Willpower. On a success resolve the hit as if your Test was an attack. The object deals 1d10 Impact Damage plus 1 point per 5 kilograms of weight.
+You can telekinetically lift an unattended object from the ground and fling it at a target. You may lift up to 5 kilograms per point of your Willpower Bonus. You can throw the object a number of metres equal to your Willpower Bonus ×3. To hit a target, Test Willpower. On a success resolve the hit as if your Test was an attack. The object deals 1d10 Impact Damage plus 1 point per 5 kilograms of weight.
 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you may lift an additional 5 kilograms per point of your Willpower Bonus.
 
 # **Force Barrage**
 
-| Threshold:                           | 21                  |  |
-|--------------------------------------|---------------------|--|
-| Focus Time:                          | Full Action         |  |
-| Sustained:                           | No                  |  |
-| Range:                               | 10m×Willpower Bonus |  |
-| This power functions as Force Bolt   |                     |  |
-| except you create one bolt per point |                     |  |
+| Threshold:  | 21                  |
+| ----------- | ------------------- |
+| Focus Time: | Full Action         |
+| Sustained:  | No                  |
+| Range:      | 10m×Willpower Bonus |
+
+This power functions as Force Bolt except you create one bolt per point
 
 | Table 6–8: Telekinetic Powers |           |               |         |
 |-------------------------------|-----------|---------------|---------|
@@ -1187,45 +1178,41 @@ of your Willpower Bonus. You may fire each bolt when you manifest this power.
 
 # **Force Bolt**
 
-| Threshold:                          | 13                  |
-|-------------------------------------|---------------------|
-| Focus Time:                         | Half Action         |
-| Sustained:                          | No                  |
-| Range:                              | 10m×Willpower Bonus |
-| Use this power to hurl a burst      |                     |
-| of tangible mental force at your    |                     |
-| opponent. Test Willpower to hit the |                     |
-|                                     |                     |
+| Threshold:  | 13                  |
+| ----------- | ------------------- |
+| Focus Time: | Half Action         |
+| Sustained:  | No                  |
+| Range:      | 10m×Willpower Bonus |
 
-target. If you succeed, your attack deals 1d10 Impact Damage +1 Damage per point of your Willpower Bonus.
+Use this power to hurl a burst of tangible mental force at your opponent. Test Willpower to hit the target. If you succeed, your attack deals 1d10 Impact Damage +1 Damage per point of your Willpower Bonus.
 
 **Overbleed:** For every 5 points by which you exceed the power's Threshold, you deal 1 additional point of Impact Damage.
 
 # **Precision**
 
-| Telekinesis                   |                   |
-|-----------------------------------|-------------------|
-| Threshold:                        | 23                |
-| Focus Time:                       | Half Action       |
-| Sustain:                          | Yes               |
-| Range:                            | 10m               |
-| If Telekinesis is a sledgehammer, |                   |
-| then Precision Telekinesis is     |                   |
-| a scalpel. This ability allows    |                   |
-| you to achieve far more subtle    |                   |
-| effects with telekinetic force.   |                   |
-| At its most basic, this power     |                   |
-| can pull the pins on grenades,    |                   |
-| pressbuttons,jog          | triggers,         |
-| undo latches and direct small     |                   |
-| projectilesto                 | deadlyeffect. |
-| Essentially, with this power, you |                   |
-| can manipulate objects as if you  |                   |
-| were physically handling them.    |                   |
-| In any situation where the task   |                   |
-| would call for a Characteristic   |                   |
-| Testyousubstitute         | your              |
-| Willpower instead.                |                   |
+| Telekinesis                       |             |
+| --------------------------------- | ----------- |
+| Threshold:                        | 23          |
+| Focus Time:                       | Half Action |
+| Sustain:                          | Yes         |
+| Range:                            | 10m         |
+| If Telekinesis is a sledgehammer, |             |
+| then Precision Telekinesis is     |             |
+| a scalpel. This ability allows    |             |
+| you to achieve far more subtle    |             |
+| effects with telekinetic force.   |             |
+| At its most basic, this power     |             |
+| can pull the pins on grenades,    |             |
+| triggers,<br>press buttons, jog   |             |
+| undo latches and direct small     |             |
+| projectiles to deadly effect.     |             |
+| Essentially, with this power, you |             |
+| can manipulate objects as if you  |             |
+| were physically handling them.    |             |
+| In any situation where the task   |             |
+| would call for a Characteristic   |             |
+| Test you substitute your          |             |
+| Willpower instead.                |             |
 
 # **Psychic Blade**
 
