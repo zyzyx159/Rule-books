@@ -422,10 +422,10 @@ Its now time to pull together all of the randomly generated factors, add in your
 
 Created by the false prophets of the Pilgrims of Hayte using the unwilling body of the fallen Interrogator Cripon, Hedrodal is a foul thing. A long purple snaketongue flicks from between its grinning teeth, glowing eyes burn with an icy light and its chain-crossed flesh is covered in rolling eyes and glistening boils. Everywhere Hedrodal passes there is the sound of nameless things scuttling, and lurking shadows of horrible visage can be seen inhabiting the darkness around it.
 
-| Hedrodal |     |     |     |     |     |     |     |     |
-| -------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| WS       | BS  | S   | T   | Ag  | Int | Per | WP  | Fel |
-| 28       | 28  | 45  | 44  | 12  | 85  | 65  | 79  | 13  |
+| Hedrodal | Profile |     |     |     |     |     |     |     |
+| -------- | ------- | --- | --- | --- | --- | --- | --- | --- |
+| WS       | BS      | S   | T   | Ag  | Int | Per | WP  | Fel |
+| 28       | 28      | 45  | 44  | 12  | 85  | 65  | 79  | 13  |
 
 **Movement:** 1/2/3/6 **Wounds:** 30 **Skills:** Awareness (Per) +10, Deceive (Fel) +20, Forbidden Lore (Daemonology, Heresy, Warp, plus any others you like) (Int) +20, Psyniscience (Per) +20, Secret Tongue (Daemonic) (Int) +20, Speak Language (all) (Int) +20.
 

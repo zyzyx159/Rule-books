@@ -69,7 +69,7 @@ Having taken an Alternate Rank means that your character has deviated from the r
 | Warden/Divisio Immoralis                                                          | Arbitrator                                            | 1    |
 | † Denotes the lowest Rank where the Alternative Career Rank becomes<br>available. |                                                       |      |
 
-## **Black Priest of Maccabeus** Black Priest of Maccabeus
+## **Black Priest of Maccabeus**
 
 *"I walk in the footsteps of the Blessed Saint Drusus and I go about the Emperor's work. At my word the unclean spirit baulks and the heretic withers in shame. Who, then, are you to stand against me?"*
 
@@ -133,7 +133,7 @@ The Encarta Maleficarum is treated as an Elite Advance (see page 229 of Dark Her
 
 This heavy price buys fearful knowledge and armours you against the whiles of the Daemon: your character gains the Forbidden Lore (Ordo Malleus) skill and the Insanely Faithful talent. Also you gain a +10 bonus on all Tests made to resist torture and interrogation, attempts to read or control your mind and any form of possession. In addition, if an attempt to possess you does succeed, but by less than three degrees of success, the assault or intrusion is blocked by the wards within your mind—it fails and you collapse in a catatonic state for 1d10 minutes.
 
-## **Bonded Emissary** Bonded Emissary
+## **Bonded Emissary**
 
 *"My masters regret that your harvest has failed governor and unrest stirs your little world. Perhaps you should seek assistance from the free captains as you did three years ago when you turned down our last generous offer, and with it the protection of our friendship… no? Well, unfortunately things have grown harsher in the sub-sector of late and our price now is regrettably somewhat higher…"*
 
