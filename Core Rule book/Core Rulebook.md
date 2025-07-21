@@ -3791,7 +3791,7 @@ You cause a target's muscles to spasm. The target is entitled to a Willpower Tes
 
 # **Spectral Hands**
 
-# **Threshold:** 10 **Focus Time:** Full Action
+### **Threshold:** 10 **Focus Time:** Full Action
 
 **Sustained:** No **Range:** 30m
 
@@ -3837,11 +3837,10 @@ You reach into the mind of a target within Range and force them to believe somet
 # **Trick**
 
 | Threshold   | 5           |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Half Action |
 | Sustained:  | Yes         |
 | Range:      | You         |
-|             |             |
 
 You subtly influence the fields of probability flowing around you, making you especially good at cheating at games of chance. If you do not have the Gamble skill, you gain it at two levels of mastery for as long as the power is sustained. If you have Gamble, you gain an additional +20 bonus to Gamble Tests. If you already have Skill Mastery in Gamble, this power has no effect, as you are already that good.
 
