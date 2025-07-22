@@ -834,9 +834,9 @@ To use bolt weapons without penalty, a character must have the Pistol Training (
 | [[#Cane Bolter]]                                       | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | [[#Tearing]]                                        | 3kg   | 600    | -       | Very Rare     |
 | [[#Heavy Bolter]]                                      | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | [[#Tearing]]                                        | 40kg  | 2,000  | -       | Very Rare     |
 | [[#Psycannon]]                                         | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | [[#Reliable]], [[#Sanctified Weapon]], [[#Tearing]] | 20kg  | 12,000 | Malleus | ExtremelyRare |
-| [[Volg "Spitfire" Bolter\|Spitfire]]                   | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | [[#Tearing]], Unreliable                            | 3kg   | 75     | Volg    | Scarce        |
-| [[#Storm Bolter]]                                      | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Storm, [[#Tearing]]                                 | 9kg   | 4,000  | -       | ExtremelyRare |
-| - [[#Godwyn-De'az-Pattern Storm Bolter\|Godwyn-De'az]] | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Reliable]], Storm, [[#Tearing]]                  | 12kg  | 9,000  | -       | ExtremelyRare |
+| [[Volg "Spitfire" Bolter\|Spitfire]]                   | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | [[#Tearing]], [[#Unreliable]]                       | 3kg   | 75     | Volg    | Scarce        |
+| [[#Storm Bolter]]                                      | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Storm]], [[#Tearing]]                            | 9kg   | 4,000  | -       | ExtremelyRare |
+| - [[#Godwyn-De'az-Pattern Storm Bolter\|Godwyn-De'az]] | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Reliable]], [[#Storm]], [[#Tearing]]             | 12kg  | 9,000  | -       | ExtremelyRare |
 
 ### Angelus Bolt Carbine
 Class: Bolt (Basic)
@@ -929,28 +929,28 @@ Melta weapons are fairly rare on the battlefield as only a few forge worlds are 
 
 To use melta weapons without penalty, a character must have the Pistol Training (Melta), Basic Weapon Training (Melta), or Heavy Weapon Training (Melta) talents.
 
-| Melta Weapons            |        |       |       |           |     |      |        |                       |       |        |              |                   |
-| ------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | --------------------- | ----- | ------ | ------------ | ----------------- |
-| Name                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special               | Wt    | Cost   | World        | Availability      |
-| Inferno Pistol (generic) | Pistol | 10m   | S/-/- | 2d10+4 E  | 12  | 3    | Full   | -                     | 2.5kg | 7,500  | -            | Very Rare         |
-| - Mars                   | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | Vicious               | 2.5kg | 12,000 | -            | ExtremelyRare |
-| - Seraphim               | Pistol | 10m   | S/-/- | 2d10+2 E  | 10  | 6    | Full   | Reliable              | 2kg   | 9,000  | -            | ExtremelyRare |
-| Meltacutter              | Basic  | 10m   | S/-/- | 2d10+4 E  | 10  | 5    | 3 Full | -                     | 30kg  | 600    | Hive & Forge | Scarce            |
-| Meltagun (generic)       | Basic  | 20m   | S/-/- | 2d10+4 E  | 12  | 5    | 2 Full | -                     | 8kg   | 4,000  | -            | Rare              |
-| - Mars                   | Basic  | 20m   | S/-/- | 2d10+8 E  | 13  | 5    | 2 Full | Vicious               | 7.5kg | 9,000  | -            | Very Rare         |
-| - Ultima                 | Basic  | 40m   | S/-/- | 2d10+2 E  | 8   | 8    | 2 Full | -                     | 10kg  | 2,500  | -            | Rare              |
-| Multi-Melta (generic)    | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | Blast (1)             | 55kg  | 8,500  | -            | Very Rare         |
-| - Mars                   | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | Blast (1),Vicious | 40kg  | 15,000 | -            | ExtremelyRare |
-| Thermal Lance            | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | Accurate              | 55kg  | 3,000  | -            | Rare              |
-#### Inferno Pistol
+| Melta Weapons                            |        |       |       |           |     |      |        |                   |       |        |              |               |
+| ---------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | ----------------- | ----- | ------ | ------------ | ------------- |
+| Name                                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special           | Wt    | Cost   | World        | Availability  |
+| [[#Inferno Pistol]] (generic)            | Pistol | 10m   | S/-/- | 2d10+4 E  | 12  | 3    | Full   | -                 | 2.5kg | 7,500  | -            | Very Rare     |
+| - [[#Mars-Pattern\|Mars]]                | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | Vicious           | 2.5kg | 12,000 | -            | ExtremelyRare |
+| - [[#Seraphim Inferno Pistol\|Seraphim]] | Pistol | 10m   | S/-/- | 2d10+2 E  | 10  | 6    | Full   | Reliable          | 2kg   | 9,000  | -            | ExtremelyRare |
+| [[#Meltacutter]]                         | Basic  | 10m   | S/-/- | 2d10+4 E  | 10  | 5    | 3 Full | -                 | 30kg  | 600    | Hive & Forge | Scarce        |
+| [[#Meltagun]] (generic)                  | Basic  | 20m   | S/-/- | 2d10+4 E  | 12  | 5    | 2 Full | -                 | 8kg   | 4,000  | -            | Rare          |
+| - [[#Mars-Pattern Meltagun\|Mars]]       | Basic  | 20m   | S/-/- | 2d10+8 E  | 13  | 5    | 2 Full | Vicious           | 7.5kg | 9,000  | -            | Very Rare     |
+| - [[#Ultima-Pattern Meltagun\|Ultima]]   | Basic  | 40m   | S/-/- | 2d10+2 E  | 8   | 8    | 2 Full | -                 | 10kg  | 2,500  | -            | Rare          |
+| [[#Multi-Melta (generic)                 | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | Blast (1)         | 55kg  | 8,500  | -            | Very Rare     |
+| - Mars                                   | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | Blast (1),Vicious | 40kg  | 15,000 | -            | ExtremelyRare |
+| Thermal Lance                            | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | Accurate          | 55kg  | 3,000  | -            | Rare          |
+### Inferno Pistol
 Class: Pistol (Melta)
 
 By and large, inferno pistols are valuable relics as the technology to reproduce them is poorly understood by all but the greatest forges. An inferno pistol compacts the massive firepower of a meltagun into a parcel that is deceptively small, often no larger than a common autopistol pattern. This has limited its range even further, with some noting that you could almost throw one as far as its bolt of destruction will reach. However, as a close-range annihilation device, inferno pistols have no equal. Because of their extreme rarity they are also statements of the wearer's power and status just as much as their desire to reduce a foe in full power armour to a bubbling pool of goo. Those who bear one of these exclusive sidearms count themselves in the company of Inquisitors, Canonesses, Rogue Traders, and Space Marine Captains, to name a few. Aside from a handful of effectively interchangeable patterns, there are also few more unique marks which are listed here.
 
-**Mars-Pattern:**
+#### Mars-Pattern:
 Inferno pistols manufactured in the Adeptus Mechanicus' great forges on Mars itself are unquestionably a cut above any of those made on lesser worlds. This is doubtless by design: the truly elite of the Machine Cult are extremely disinclined to let the unbridled power of melta weapons promulgate throughout the Imperium, much to the binary grumbling of Fabricators and Magi from Voss Prime to Estaban and everywhere in between. Mars Patterns are most commonly wielded by members of the Mechanicus themselves, although a few have leaked out of the red robed clergy as awards to high ranking allies that have done much to benefit the Machine Cult.
 
-**Seraphim Inferno Pistol:**
+#### Seraphim Inferno Pistol:
 What one does well two does better, and this maxim is frighteningly applied to inferno pistols often issued in matched pairs to veteran Seraphim jump troops of the Adepta Soroitas. A Seraphim who has proven herself time and time again to be worthy of deed and pure of faith may be granted two of these exquisite pistols with which to bring ruin to those foes she finds beneath her. This mark of inferno pistol is of unknown origin and sacrifices a small measure of firepower for greater clip size and more reliable functioning, a Seraphim's combat style leaving little room for venting fouled gas canisters.
 
 Matched pairs of Seraphim Inferno Pistols are designed to be used at the same time by the specially trained Sisters who wield them. If the firer possesses the Dual Shot talent and fires both weapons at once, this attack increases its Damage by 1d10 and doubles its Penetration.
@@ -962,17 +962,17 @@ Meltacutters are specialized tools used to cut and weld slabs of metal in macro 
 
 Meltacutters have an absolute maximum range of 10 metres and do not receive any bonuses to hit for firing at closer distances. Unless the wielder has a Strength Bonus of 4 or more they suffer a cumulative -10 penalty to Ballistic Skill Tests made to attack with it for each point their Strength Bonus is below 4. Meltacutters use standard meltagun canisters for ammunition.
 
-#### Meltagun
+### Meltagun
 Class: Basic (Melta)
 
 Meltaguns are the most common and versatile melta weapon used in the Imperium, and are often used by Imperial Guard anti-armour teams, Dominion Squads of the Sisters of Battle, and a multitude of other groups who have need of short range obliteration at their disposal. On hive worlds where meltaguns are made there are even the occasional gangers and Redemptionists who happen to acquire one through some sort of provenance; these users waste no time in putting such extraordinary firepower to good work, often using ammunition from stolen meltacutters from the factories above. Aside from annihilating enemy armour and sending opponents into puffs of steam, meltaguns can be pressed into service to quickly breach barricades or create an entrance through bulkheads, and just about any team dealing in close quarters battles could benefit from having a man on a meltagun.
 
 The meltagun description assumes the use of attached gas canisters. A meltagun may instead be equipped with a compact backpack canister weighing 10kg that doubles the weapon's Clip size. As with inferno pistols, most meltagun patterns can follow the listed figures, while some more unique patterns are provided here.
 
-**Mars-Pattern:**
+#### Mars-Pattern Meltagun:
 When the Mechanicus allowed for other forge worlds to begin production of meltaguns the high Magi of the Priesthood of Mars ensured that only "watered down" versions of these exceptionally potent weapons would be made away from their sacred manufactorums on Mars. Those reserved for the elites of the Machine Cult are significantly more efficient, boasting greater firepower and reduced bulk at the same time, and can most typically be found in the employment of Skitarii Tech-Guards and Magos Militants in good standing with the Martian Priesthood. A meltagun is already an impressive weapon, but to wield one of those from Mars' own great forges is a display of wealth and influence all its own.
 
-**Ultima-Pattern:**
+#### Ultima-Pattern Meltagun:
 This meltagun is the most common type employed by Imperial Guard tank hunters, and has been optimized to provide a substantially longer range and reduced weight at the expense of modestly inferior lethality. It is also significantly simpler to manufacture than other patterns which has allowed for Guard regiments to equip significantly more specialist troops, and anything that might survive being struck by an Ultima-Pattern likely won't survive a follow-up shot from another hunter. Ultima Pattern meltaguns are produced by Voss, Lucius, Mezoa, and others large forges, and have recently begun in the Calixis Sector from the Lathe Worlds as well.
 
 #### Multi-Melta
