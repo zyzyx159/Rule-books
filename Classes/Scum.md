@@ -96,7 +96,6 @@ A wary creature of questionable, if any, morals, the Outlaw has learnt to fight 
 
 | Advance                       | Cost | Type | Prerequisites     |
 | ----------------------------- | ---- | ---- | ----------------- |
-| Blather                       | 100  | S    | —                 |
 | Ciphers (Acolyte) +10         | 100  | S    | Ciphers (Acolyte) |
 | Ciphers (Underworld)          | 100  | S    | —                 |
 | Common Lore (Adeptus Arbites) | 100  | S    | —                 |
@@ -245,7 +244,6 @@ The Gang Lord is skilled in high-stakes operations, from assassination to cat bu
 | Ciphers (Underworld) +20               | 100  | S    | Ciphers (Underworld) +10           |
 | Climb +20                              | 100  | S    | Climb +10                          |
 | Concealment +20                        | 100  | S    | Concealment +10                    |
-| Contortionist                          | 100  | S    | —                                  |
 | Demolition +20                         | 100  | S    | Demolition +10                     |
 | Inquiry +10                            | 100  | S    | Inquiry                            |
 | Navigation (Surface) +20               | 100  | S    | Navigation (Surface) +10           |
@@ -314,7 +312,6 @@ Be it cards, cons or codes, Sharks prey on the foolish, proud and gullible. Mast
 | Deceive +10                 | 100  | S    | Deceive                            |
 | Disguise +10                | 100  | S    | Disguise                           |
 | Gamble +20                  | 100  | S    | Gamble +10                         |
-| Inquiry +10                 | 100  | S    | Inquiry                            |
 | Lip Reading                 | 100  | S    | —                                  |
 | Pilot (Civilian Craft) +10  | 100  | S    | Pilot (Civilian Craft)             |
 | Scholastic Lore (Heraldry)  | 100  | S    | —                                  |
@@ -342,7 +339,6 @@ The Charlatan is a master thief, who can bind even planetary governors to their 
 | Deceive +20                     | 100  | S    | Deceive +10                       |
 | Disguise +20                    | 100  | S    | Disguise +10                      |
 | Dodge +20                       | 100  | S    | Dodge +10                         |
-| Interrogation +10               | 100  | S    | Interrogation                     |
 | Intimidate +10                  | 100  | S    | Intimidation                      |
 | Lip Reading +10                 | 100  | S    | Lip Reading                       |
 | Pilot (Civilian Craft) +20      | 100  | S    | Pilot (Civilian Craft) +10        |

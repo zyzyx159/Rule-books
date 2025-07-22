@@ -27,6 +27,7 @@ Inquisitors find Clerics useful Acolytes as their abilities to interact with, an
 | Willpower                                 | 100    | 250          | 500     | 750    |  |
 | Fellowship                                | 100    | 250          | 500     | 750    |  |
 |                                           |        |              |         |        |  |
+# Advancement Tree
 ```mermaid
 graph TD
 A[Novice 0-499] --> B[Initate 500-999]
