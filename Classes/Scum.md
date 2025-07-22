@@ -1,5 +1,3 @@
-# Scum
-
 *"You see, you've won again. I told you I was no good at cards. I'll play one more round, but only because you insist."* 
 — Reetheus Orl, Barking Saint, Hive Sibellius.
 
@@ -41,7 +39,7 @@ E -- Talking --> I[Fixer 6,000-7999]
 I --> J[Shark 8,000-9,999]
 J --> K[Charlatan 10,000-14,999]
 ```
-## **Dreg Advances**
+# **Dreg Advances**
 
 *"Don't look at the dreg, Tarquis, you'll only encourage them."*
 
@@ -64,7 +62,7 @@ Beggars, thieves and base born scum: the dregs of society are nevertheless hardy
 | Sound Constitution †                                     | 100  | T    | —             |
 | Thrown Weapon Training (Primitive)                       | 100  | T    | —             |
 | † You may take this Talent up to two times at this Rank. |      |      |               |
-## **Outcast Advances**
+# **Outcast Advances**
 
 *"Them cretescreevin Outcast scum would swipe the chronometer off yer wrist as soon as look at yer."*
 
@@ -91,7 +89,7 @@ An Outcast has survived long enough outside the bounds of society to develop a c
 | Basic Weapon Training (Las) | 200  | T    | —             |
 | Literacy                    | 300  | S    | —             |
 
-## **Outlaw Advances**
+# **Outlaw Advances**
 
 *"Hanging's too good fer 'em. Thrown him to the razehounds! See how he steals with his fingers bit off!"*
 
@@ -117,7 +115,7 @@ A wary creature of questionable, if any, morals, the Outlaw has learnt to fight 
 | Double Team                   | 200  | T    | —                 |
 | Rapid Reload                  | 200  | T    | —                 |
 | Sprint                        | 200  | T    | —                 |
-## **Renegade Advances**
+# **Renegade Advances**
 
 *"Don't wanna be messing with Renegades m'boy, that's knockin' on trouble's door so as hell an' all will answer."*
 
@@ -146,7 +144,7 @@ Slick, fast and violent, the Renegade knows the basics of the thieving trade, al
 | Pistol Training (Flame)          | 200  | T    | —                      |
 | Sure Strike                      | 200  | T    | WS 30                  |
 | Melee Weapon Training (Shock)    | 300  | T    | —                      |
-## **Rogue Advances**
+# **Rogue Advances**
 
 *"There's some as is destined fer greatness… and some fer infamy. Either way, yer get yer face on the pict caster an' pretty young things will be wantin' ta make yer acquaintance."*
 
@@ -175,7 +173,7 @@ Toughened by all that life can throw at him, the Rogue is a smart, skilled and d
 | Takedown                       | 200  | T    | —                                      |
 | Two-Weapon Wielder (Ballistic) | 200  | T    | BS 35, Ag 35                           |
 
-## **Cutter Advances**
+# **Cutter Advances**
 
 *"Mark my muzzle, you go there and beg for forgiveness. If Lex sends a Cutter on you, there ain't a place in this hive or the next that'll take you in or save you."*
 
@@ -206,7 +204,7 @@ A bladesman, enforcer and bounty hunter, a Cutter is a dangerous person to have 
 | Heavy Weapon Training (Bolt)     | 300  | T    | —                            |
 | Heavy Weapon Training (Launcher) | 300  | T    | —                            |
 | Swift Attack                     | 300  | T    | WS 35                        |
-## **Stubjack Advances**
+# **Stubjack Advances**
 
 *"They took everything, even my mother's deathring. Attacked my Grav-Sedan bold as blood! One of the Stubjacks even had the gall to wink and call me 'Lady'! Percivas, I demand you have the entire block eradicated."*
 
@@ -236,7 +234,7 @@ Savvy and brutal, Stubjacks specialise in ambush, robbery and turf war. Some lea
 | Heavy Weapon Training (Flame)        | 300  | T    | —                             |
 | Sound Constitution                   | 300  | T    | —                             |
 
-## **Gang Lord Advances**
+# **Gang Lord Advances**
 
 *"The Robber-Monk they calls him, sleek as silver, twice as quick. Could steal your shadow while you're blinking, so they say. The Spire nobs are quaking in their boots. You mark my muzzle, there's more than one family safe that'll be cracked tonight!"*
 
@@ -271,7 +269,7 @@ The Gang Lord is skilled in high-stakes operations, from assassination to cat bu
 | Lightning Reflexes                     | 200  | T    | —                                  |
 | Forbidden Lore (Archaeotech)           | 300  | S    | —                                  |
 | Sound Constitution                     | 300  | T    | —                                  |
-## **Fixer Advances**
+# **Fixer Advances**
 
 *"I know a fella… he could… sort you out. Course, he's mighty pricy, but you ain't in no place to bargain right now, are you?"*
 
@@ -301,7 +299,7 @@ The Fixer knows the art of finding things, and people, no matter how illegal, hi
 | Hip Shooting                        | 200  | T    | BS 40, Ag 40                          |
 | Peer (Military)                     | 200  | T    | Fel 30                                |
 | Sound Constitution                  | 200  | T    | —                                     |
-## **Shark Advances**
+# **Shark Advances**
 
 *"Father, I write to beg you reconsider. If I were to invest the full sum of my inheritance, Mr Curzon could guarantee a full one hundred per cent return in the first year alone! These are not the claims of a fraud—I have inspected the mine with my own eyes!"*
 
@@ -331,7 +329,7 @@ Be it cards, cons or codes, Sharks prey on the foolish, proud and gullible. Mast
 | Peer (Administratum)        | 300  | T    | Fel 30                             |
 | Peer (Ecclesiarchy)         | 300  | T    | Fel 30                             |
 | Peer (Middle Classes)       | 300  | T    | Fel 30                             |
-## **Charlatan Advances**
+# **Charlatan Advances**
 
 *"He seemed like such a nice young man…"*
 

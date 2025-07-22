@@ -39,34 +39,34 @@ I --> J[Assassin at Marque 8,000-9,999]
 J --> K[Assassin Palatine 10,000-14,999]
 ```
 
-#### **Sell - Steel Advances**
+# **Sell - Steel Advances**
 
 *"Two in the head makes sure they're dead."*
 
 The Imperium is rife with killers, men and women who promise murder for a fee. Some even have the skills to deliver.
 
-| Advance                                                     | Cost     | Type     | Prerequisites |
-|-------------------------------------------------------------|----------|----------|---------------|
-| Climb                                                       | 100      | S        | —             |
-| Drive (Ground Vehicle)                                      | 100      | S        | —             |
-| Inquiry                                                     | 100      | S        | —             |
-| Pilot (Civilian Craft)                                      | 100      | S        | —             |
-| Silent Move                                                 | 100      | S        | —             |
-| Swim                                                        | 100      | S        | —             |
-| Basic Weapon Training (Las)                                 | 100      | T        | —             |
-| Basic Weapon Training (Primitive)                           | 100      | T        | —             |
-| Basic Weapon Training (SP)                                  | 100      | T        | —             |
-| Catfall                                                     | 100      | T        | Ag 30         |
-| Heightened Senses (Sight)                                   | 100      | T        | —             |
-| Pistol Training (Las)                                       | 100      | T        | —             |
-| Pistol Training (Primitive)                                 | 100      | T        | —             |
-| Pistol Training (SP)                                        | 100      | T        | —             |
-| Sound Constitution†                                     | 100      | T        | —             |
-| Thrown Weapon Training (Primitive)                          | 100      | T        | —             |
-| Literacy                                                    | 200      | S        | —             |
-| †You may take this Talent up to two times at this Rank. |          |          |               |
+| Advance                                                 | Cost | Type | Prerequisites |
+| ------------------------------------------------------- | ---- | ---- | ------------- |
+| Climb                                                   | 100  | S    | —             |
+| Drive (Ground Vehicle)                                  | 100  | S    | —             |
+| Inquiry                                                 | 100  | S    | —             |
+| Pilot (Civilian Craft)                                  | 100  | S    | —             |
+| Silent Move                                             | 100  | S    | —             |
+| Swim                                                    | 100  | S    | —             |
+| Basic Weapon Training (Las)                             | 100  | T    | —             |
+| Basic Weapon Training (Primitive)                       | 100  | T    | —             |
+| Basic Weapon Training (SP)                              | 100  | T    | —             |
+| Catfall                                                 | 100  | T    | Ag 30         |
+| Heightened Senses (Sight)                               | 100  | T    | —             |
+| Pistol Training (Las)                                   | 100  | T    | —             |
+| Pistol Training (Primitive)                             | 100  | T    | —             |
+| Pistol Training (SP)                                    | 100  | T    | —             |
+| Sound Constitution†                                     | 100  | T    | —             |
+| Thrown Weapon Training (Primitive)                      | 100  | T    | —             |
+| Literacy                                                | 200  | S    | —             |
+| †You may take this Talent up to two times at this Rank. |      |      |               |
 
-#### **Shadesman Advances**
+# **Shadesman Advances**
 
 *"Killed 'em all with a single round: no waste, no fuss, then melted back into the shadows like he was never there."*
 
@@ -214,7 +214,7 @@ Assassination is a constant throughout the Imperium and an accepted political to
 | Pistol Training (Plasma)              | 200      | T        | —                                        |
 | Sharpshooter                          | 200      | T        | BS 40, Deadeye Shot                      |
 
-#### **Death Adept Advances**
+# **Death Adept Advances**
 
 *"Your screams are as music, and your blood is as wine to me."*
 
@@ -311,7 +311,7 @@ The Imperator-Mortis is an embodiment of graceful slaughter, an angel of death w
 | Arms Master                | 300  | T    | BS 30, Basic Weapon Training (any two) |
 | Fearless                   | 300  | T    | —                                      |
 
-#### **Assassin at Marque Advances**
+# **Assassin at Marque Advances**
 
 *"Don't let her finery fool you. She looks like a delicate lady of the high house but for enough coin she'd have your heart on that dainty little fork she's holding."*
 
