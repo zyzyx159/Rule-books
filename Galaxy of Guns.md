@@ -265,8 +265,8 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 | [[#Dueling Las(Belasco)]] | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | Accurate                    | 1.5kg  | 250   | -          | Very Rare    |
 | [[#Duelling Las(K-A)]]    | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | Accurate, Tearing           | 1.7kg  | 220   | -          | Very Rare    |
 | [[#Hellpistol]]           | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                           | 4kg†   | 2,500 | -          | Rare         |
-| Laspistol (generic)       | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | Reliable, Variable          | 1.5kg  | 50    | -          | Common       |
-| - Civitas                 | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | Reliable                    | 2kg    | 35    | -          | Common       |
+| [[#Laspistol]] (generic)  | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | Reliable, Variable          | 1.5kg  | 50    | -          | Common       |
+| - Civitas-Patte           | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | Reliable                    | 2kg    | 35    | -          | Common       |
 | - Fury                    | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | Reliable                    | 1.5kg  | 100   | -          | Scarce       |
 | - Mark IV                 | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full  | Accurate, Reliable,Variable | 1.75kg | 150   | -          | Rare         |
 | - Palatine                | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full  | Reliable, Variable          | 1.1kg  | 100   | -          | Average      |
@@ -322,7 +322,7 @@ These strange weapons use standard power packs but otherwise have very little in
 
 ### Series-S Venom Compact Pistol
 
-This Belasco-made pistol is a highly unusual pattern and one benefitting the treacherous reputation of Malfi. The Venom is a highly compact laspistol designed for covert use. It takes the shape of a flat disk that is grasped in the hand, with the short barrel-emitter projecting between the middle fingers. It is fired by applying pressure to a hidden trigger, and must be firmly grasped before it will shoot as a safety feature. Eminently concealable, the Venom is an excellent tool for murder and espionage, making it widely favoured both on Malfi and beyond, though it is neither as expensive nor rare as its other local rival, the infamous Mariette pistol.
+This Belasco-made pistol is a highly unusual pattern and one benefitting the treacherous reputation of Malfi. The Venom is a highly compact laspistol designed for covert use. It takes the shape of a flat disk that is grasped in the hand, with the short barrel-emitter projecting between the middle fingers. It is fired by applying pressure to a hidden trigger, and must be firmly grasped before it will shoot as a safety feature. Eminently concealable, the Venom is an excellent tool for murder and espionage, making it widely favored both on Malfi and beyond, though it is neither as expensive nor rare as its other local rival, the infamous Mariette pistol.
 
 The Venom is powered via an internal non-removable power cell rather than Munitorum sanctioned power packs. It cannot be reloaded, but can be recharged via a standard port similarly to a las power pack. Because of its strange appearance, its user does not appear to be armed if searched while carrying it unless the searcher is familiar with the Venom's design.
 
