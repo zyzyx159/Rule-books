@@ -481,11 +481,11 @@ To use the various classes of solid projectile weapons you must have the Pistol 
 | - [[#Naval Pistol]]                                      | Pistol | 20m       | S/3/- | 1d10+4 I | 0   | 6     | Full   | Tearing                     | 3kg   | 120   | -     | Scarce         |
 | - [[#Orthlack Mark IV Thollos]]                          | Pistol | 20m       | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                           | 2.5kg | 75    | -     | Scarce         |
 | - [[#Hax-Orthlack Puritan-14 Double Pistol\|Puritan-14]] | Pistol | 20m       | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                           | 1.7kg | 100   | -     | Scarce         |
-| - [[#As shotgun                                          | Pistol | 15m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Scatter                     |       |       |       |                |
-| - Salvation                                              | Pistol | 10m       | S/3/- | 1d10 I   | 0   | 7     | -      | -                           | 0.7kg | 80    | -     | Common         |
-| - Talon Mark III                                         | Pistol | 30m       | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.3kg | 85    | -     | Common         |
-| Flametongue                                              | Pistol | 20m       | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | Primitive, Reliable,Tearing | 2kg   | 140   | -     | Rare           |
-| Hand Cannon (generic)                                    | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
+| - [[#Hax-Orthlack Puritan-14 Double Pistol\|As shotgun]] | Pistol | 15m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Scatter                     |       |       |       |                |
+| - [[#Sulymann "Salvation" Holdout Pistol\|Salvation]]    | Pistol | 10m       | S/3/- | 1d10 I   | 0   | 7     | -      | -                           | 0.7kg | 80    | -     | Common         |
+| - [[#Sulymann Talon III Autopistol\|Talon III]]          | Pistol | 30m       | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.3kg | 85    | -     | Common         |
+| [[#"Flametongue" Howdah Pistol\|Flametongue]]            | Pistol | 20m       | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | Primitive, Reliable,Tearing | 2kg   | 140   | -     | Rare           |
+| [[#Hand Cannon]] (generic)                               | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
 | - .54 Tranter                                            | Pistol | 30m       | S/2/- | 1d10+5 I | 2   | 7     | Full   | Unreliable                  | 3.5kg | 95    | -     | Common         |
 | - Carnodon                                               | Pistol | 35m       | S/3/- | 1d10+4 I | 2   | 6     | Full   | Accurate                    | 2.5kg | 200   | -     | Scarce         |
 | - Fate Bringer                                           | Pistol | 40m       | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | Accurate, Reliable          | 1.6kg | 200   | -     | Rare           |
