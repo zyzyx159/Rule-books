@@ -143,11 +143,11 @@ Investigators learn the arts of inquiry, using contacts, charm and dirty tactics
 | Sound Constitution           | 200  | T    | —             |
 | Tech-Use +10                 | 300  | S    | Tech-Use      |
 
-#### **Arbitrator Advances**
+# **Arbitrator Advances**
 
 *"Took sixteen slugs to the gut, but he still got his man. Now, there's a real arbitrator for you…"*
 
-Arbitrators are guardians of order and the rule of law within the Imperium. Im placable, unrelenting, and nigh-on impossible to kill; they are the Emperor's jus tice, manifest.
+Arbitrators are guardians of order and the rule of law within the Imperium. Implacable, unrelenting, and nigh-on impossible to kill; they are the Emperor's jus tice, manifest.
 
 | Advance                                                    | Cost | Type | Prerequisites |
 | ---------------------------------------------------------- | ---- | ---- | ------------- |
