@@ -259,28 +259,30 @@ Aside from their ease of use, the abundance of ammunition in the form of standar
 
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
 
-| Las Weapons               |        |       |       |          |     |      |           |                                 |        |       |            |              |
-| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | --------- | ------------------------------- | ------ | ----- | ---------- | ------------ |
-| Name                      | Class  | Range | RoF   | Dam      | Pen | Clip | Rld       | Special                         | Wt     | Cost  | World      | Availability |
-| Duelling Las(Belasco) | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full      | Accurate                        | 1.5kg  | 250   | -          | Very Rare    |
-| Duelling Las (K-A)        | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full      | Accurate, Tearing               | 1.7kg  | 220   | -          | Very Rare    |
-| Hellpistol                | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                               | 4kg†   | 2,500 | -          | Rare         |
-| Laspistol (generic)       | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full      | Reliable, Variable              | 1.5kg  | 50    | -          | Common       |
-| - Civitas                 | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full      | Reliable                        | 2kg    | 35    | -          | Common       |
-| - Fury                    | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full      | Reliable                        | 1.5kg  | 100   | -          | Scarce       |
-| - Mark IV                 | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full      | Accurate, Reliable,Variable | 1.75kg | 150   | -          | Rare         |
-| - Palatine                | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full      | Reliable, Variable              | 1.1kg  | 100   | -          | Average      |
-| - Steel Burner            | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full      | Variable                        | 2.5kg  | 100   | Fenksworld | Very Rare    |
-| Las Gauntlets             | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full      | Reliable                        | 3kg    | 350   | -          | Very Rare    |
-| Series-S Venom            | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -         | -                               | 0.5kg  | 120   | -          | Scarce       |
-| †Not including power pack |        |       |       |          |     |      |           |                                 |        |       |            |              |
+| Las Weapons               |        |       |       |          |     |      |       |                             |        |       |            |              |
+| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | --------------------------- | ------ | ----- | ---------- | ------------ |
+| Name                      | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                     | Wt     | Cost  | World      | Availability |
+| [[#Dueling Las(Belasco)]] | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | Accurate                    | 1.5kg  | 250   | -          | Very Rare    |
+| [[#Duelling Las(K-A)]]    | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | Accurate, Tearing           | 1.7kg  | 220   | -          | Very Rare    |
+| Hellpistol                | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                           | 4kg†   | 2,500 | -          | Rare         |
+| Laspistol (generic)       | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | Reliable, Variable          | 1.5kg  | 50    | -          | Common       |
+| - Civitas                 | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | Reliable                    | 2kg    | 35    | -          | Common       |
+| - Fury                    | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | Reliable                    | 1.5kg  | 100   | -          | Scarce       |
+| - Mark IV                 | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full  | Accurate, Reliable,Variable | 1.75kg | 150   | -          | Rare         |
+| - Palatine                | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full  | Reliable, Variable          | 1.1kg  | 100   | -          | Average      |
+| - Steel Burner            | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full  | Variable                    | 2.5kg  | 100   | Fenksworld | Very Rare    |
+| Las Gauntlets             | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | Reliable                    | 3kg    | 350   | -          | Very Rare    |
+| Series-S Venom            | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                           | 0.5kg  | 120   | -          | Scarce       |
+| †Not including power pack |        |       |       |          |     |      |       |                             |        |       |            |              |
 ### Dueling Las
 
 Based around the philosophy of a "one shot kill", Duelling Laspistols (or just Duelling Las for short) are commonly worn as signs of wealth and status by hive nobles and Rogue Traders. While ostentatious and certainly designed with image in mind, a Duelling Las is still nonetheless a very deadly weapon that can generate an extremely powerful las blast, and are accurate enough to hit a single Throne at distances most comparable pistols would only be able to hit a man-sized target.
 
-- The Belasco Duelling Pistol is a product of the famed Belasco Deathworks on Malfi, engineered for a much longer effective range than most laspistols and featuring an intricate housing that looks impressive when tucked into a belt or sash. In spite of its potency, it is capable of using standard laspistol power packs, though it drains them entirely with a single shot.
+#### Dueling Las(Belasco)
+The Belasco Duelling Pistol is a product of the famed Belasco Deathworks on Malfi, engineered for a much longer effective range than most laspistols and featuring an intricate housing that looks impressive when tucked into a belt or sash. In spite of its potency, it is capable of using standard laspistol power packs, though it drains them entirely with a single shot.
 
-- The Khayer-Addin Forge in Gunmetal City produces another high quality pistol known simply as the Khayer-Addin Duelling Las. Its range is somewhat inferior compared to the Malfian design, but its use of a unique (and nonsanctioned) charge pack allows it to fire a more concentrated blast of significantly higher power. Guns of this type hold a particular spot in folklore in Gunmetal City, where they're popularly known as "Valentines" after a mythical Metallican gunslinger of ages past.
+#### Dueling Las(K-A) 
+The Khayer-Addin Forge in Gunmetal City produces another high quality pistol known simply as the Khayer-Addin Duelling Las. Its range is somewhat inferior compared to the Malfian design, but its use of a unique (and nonsanctioned) charge pack allows it to fire a more concentrated blast of significantly higher power. Guns of this type hold a particular spot in folklore in Gunmetal City, where they're popularly known as "Valentines" after a mythical Metallican gunslinger of ages past.
 
 Each power cell for a Khayer-Addin Duelling Las has a base cost of 20 Thrones and is considered Scarce on Scintilla and Rare elsewhere.
 #### Hellpistol
