@@ -101,7 +101,7 @@ USING WEAPONS WITHOUT A TALENT
 
 Many of the weapons described in this chapter require a Talent to use them effectively; lacking the necessary ability makes weapons particularly dangerous to employ. Still, there are bound to be circumstances when a character needs to use a weapon for which he does not have the Talent. Doing so imposes a –20 penalty on the relevant Test. If the weapon has the Flame special quality, the target is granted a +30 to his Agility Test to avoid being hit. In addition, when a ranged weapon is used untrained, it counts as having the Unreliable quality, increasing its chance of jamming.
 
-## WEAPON CRAFTSMANSHIP
+### WEAPON CRAFTSMANSHIP
 
 All the weapons detailed here are of Common craftsmanship. For weapons of better or worse manufacture use the following modifiers:
 
@@ -111,7 +111,7 @@ Good: More carefully constructed and finished, these weapons are consequently mo
 
 Best: A work of art as much as a weapon, these items are created by skilled artisans and are often very old. Ranged weapons of Best craftsmanship never suffer from jamming or overheating when using normal ammunition. If a roll would result in either of these occurrences, simply count it as a miss instead. Melee weapons of Best craftsmanship add a +10 bonus to tests made to attack and add 1 to the Damage they inflict.
 
-## WEAPON SPECIAL QUALITIES
+### WEAPON SPECIAL QUALITIES
 
 Some weapons possess special qualities to represent such things as special damage or unusual effects.
 
@@ -231,7 +231,7 @@ Huge and often top-heavy or slow to attack, Unwieldy weapons are too awkward to 
 
 This weapon has a tendency to inflict savage, ruinous injuries due to its great power or simply from an innate lust for battle. Whenever a Vicious weapon has a chance to score Righteous Fury (that is, rolls maximum Damage on one of its dice) the extra Damage occurs automatically; there is no need for a second Weapon Skill or Ballistic Skill Test to confirm the extra Damage.
 
-## A GALAXY OF BULLETS...
+### A GALAXY OF BULLETS...
 
 Lasguns, with a few exceptions, can be powered by a charge pack made just about anywhere in the Imperium. Slug-throwers have no such benefit, often featuring a bewildering range and variety of bullets, cartridges, and rounds of ammunition that could fill entire tomes just from the guns made on a single forge world, nevermind an entire sector. The following is a general rule-of-thumb for Acolytes to consider when choosing a solid projectile weapon.
 
@@ -1176,7 +1176,7 @@ Tox sprays are terrifying weapons founds in the hands of the worst type of gang 
 Although not a true flame weapon, victims hit by a tox spray's attack must still succeed on an Agility Test or else the terrible effluence clings to their bodies and causes further chemical burns as though they were on fire. Characters in sealed armour and those lacking organic bodies are effectively immune to being attacked by a tox spray. If the tox spray suffers a Jam, the weapon ruptures explosively, inflicting the weapon's Damage as a two metre blast with double the rolled Damage inflicted on the user. Tox sprays are Scarce on Hive Worlds and Rare on other developed worlds.
 
 ## PRIMITIVE WEAPONS
-### Primitive Weapons infomation
+### Primitive Weapons information
 
 Even in the 41st Millennium there are many worlds within the Imperium that have a very low technological base, whether still developing or having regressed back to a more primitive state. Weaponry of this type is typical to that which was once used on Terra in ancient prehistory, and there are Administratum scholars who believe that the growth of such undeveloped worlds may closely resemble that of Holy Terra itself. Many explorers and investigative groups have found it to their advantage to maintain proficiency with these very low-tech weapons so that they can make use of local hardware while conducting business on such backwater and regressed planets.
 
@@ -1375,7 +1375,7 @@ Whenever a Jam results from throwing or launching a grenade, missile, mortar, an
 - 1-5 Dud. The explosive or round fails to explode. If fired from a launcher, there is a 50% chance that the projectile fails to launch or lands harmlessly amid its intended targets; if the former, the jam must be cleared normally.
 - 6-8 "It might be ok…" Nothing happens, yet. Roll again on this table next Round. This may have unfortunate implications if the firer is clearing a jam at the time.
 - 9-0 BOOM! The round or explosive immediately goes off with any and all effects centred on the firer. If this was the result of firing a launcher the results may be even worse; "non-lethal" grenades, like howlers and smokes, must be cleared as though jammed, while an explosive like a frag or krak grenade destroys the launcher as well as setting off any other grenades that are loaded into it!
-### Launchers, Grenades, and 
+### Launchers, Grenades, and Bombs List
 
 | Launchers             |                                                                                        |          |       |          |     |      |        |                                |      |       |       |               |
 | --------------------- | -------------------------------------------------------------------------------------- | -------- | ----- | -------- | --- | ---- | ------ | ------------------------------ | ---- | ----- | ----- | ------------- |

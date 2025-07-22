@@ -62,7 +62,7 @@ Maintaining a truly comprehensive list of all the toxic and poisonous compounds 
 | Infamous Calixian Poisons  |       |                |         |          |                              |
 | -------------------------- | ----- | -------------- | ------- | -------- | ---------------------------- |
 | Name                       | Cost† | Availability   | Speed   | Strength | Effect                       |
-| [[#Ars Imperialis Mortua]] | 5000  | Extremely Rare | Instant | -30      | Lethal                       |
+| [[#Ars Imperialis Mortua]] | 5000  | Extremely Rare | Instant | -30      | [[#Lethal                    |
 | [[#Ash Slug Secretion]]    | 55    | Average        | Instant | +10      | Paralytic and Necrotic [1D5] |
 | [[#Black Janix Venom]]     | 800   | Rare           | Instant | +10      | Lethal + Hallucinogen effect |
 | [[#Dusk Lotus]]            | 1000  | Rare           | Swift   | -10      | Lethal, Damage is permanent  |

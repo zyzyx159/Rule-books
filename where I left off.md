@@ -1,8 +1,10 @@
-- [ ] Core Rule book
-	- [ ] Split the book into files by chapters
+- [x] Core Rule book
+	- [x] Split the book into files by chapters
 - [ ] Galaxy of Guns
 	- [ ] Need to do the links
+		- [ ] Done up to Primitive weapons
 - [ ] Inquisitor's Handbook
 	- [x] Splitting the book into files by chapters
+	- [x] Split out alternative paths
 - [x] Poisons and Toxins
 - [x] Tools of the Trade
