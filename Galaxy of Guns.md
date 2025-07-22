@@ -260,7 +260,7 @@ Aside from their ease of use, the abundance of ammunition in the form of standar
 
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
 
-### LAS PISTOL
+### LAS PISTOLS
 
 | Las Weapons                                        |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
 | -------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
@@ -278,7 +278,7 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 | [[#Series-S Venom Compact Pistol\|Series-S Venom]] | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                                                                   | 0.5kg  | 120   | -          | Scarce       |
 | †Not including power pack                          |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
 |                                                    |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
-### Dueling Las
+#### Dueling Las
 
 Based around the philosophy of a "one shot kill", Duelling Laspistols (or just Duelling Las for short) are commonly worn as signs of wealth and status by hive nobles and Rogue Traders. While ostentatious and certainly designed with image in mind, a Duelling Las is still nonetheless a very deadly weapon that can generate an extremely powerful las blast, and are accurate enough to hit a single Throne at distances most comparable pistols would only be able to hit a man-sized target.
 
@@ -289,7 +289,7 @@ The Belasco Duelling Pistol is a product of the famed Belasco Deathworks on Malf
 The Khayer-Addin Forge in Gunmetal City produces another high quality pistol known simply as the Khayer-Addin Duelling Las. Its range is somewhat inferior compared to the Malfian design, but its use of a unique (and nonsanctioned) charge pack allows it to fire a more concentrated blast of significantly higher power. Guns of this type hold a particular spot in folklore in Gunmetal City, where they're popularly known as "Valentines" after a mythical Metallican gunslinger of ages past.
 
 Each power cell for a Khayer-Addin Duelling Las has a base cost of 20 Thrones and is considered Scarce on Scintilla and Rare elsewhere.
-### Hellpistol
+#### Hellpistol
 
 A popular sidearm among Inquisitorial agents and Imperial Guard officers, Hellpistols are probably best known for their use by crack Storm Troopers. Thanks to their heavy-duty focusing equipment and discharge cells, Hellpistols have a far superior ability to burn though well-armoured targets, and can cut down all matters of foes that would mock an ordinary laspistol's bolts. Hellpistols are somewhat bulkier than most sidearms due to their external power supplies, though few would argue the value of their destructive power against the cost of the extra mass. Further, most hellpistols are equipped with an integrated micro-cogitator and omni-scope, making for faster aiming and more accurate shots as well as aggregating and displaying useful tactical information.
 
@@ -297,7 +297,7 @@ A Hellpistol makes use of a capacitor weighing 10kg that is normally slung at th
 
 Hellpistols include a hard-wired Targeter, granting its user a +10 bonus to Ballistic Skill Tests made to attack with it. This device does not count towards the weapon's one sight limit.
 
-### Laspistol
+#### Laspistol
 
 Laspisols are common and widespread devices used by Guardsmen and gangers alike thanks to their ease of use and simple, reliable design. Many laspistol patterns exist within the Imperium, and the most common types, such as the Galaxy-M used by Cadian sergeants or the Lucius-pattern favoured by Krieg gunners are so similar that, functionally, they may as well be the same weapon. There are also more exotic sorts of laspistols that include various unique features.
 
@@ -320,11 +320,11 @@ The Sollex sect of the Cult Mechanicus produces this "handheld lascannon" at its
 
 Sollex las weapons can use standard power packs but drain them more quickly than most due to their powerful beams. Sollex las weapons have Scarce Availability on Fenksworld and are Very Rare elsewhere.
 
-### Las Gauntlets
+#### Las Gauntlets
 
 These strange weapons use standard power packs but otherwise have very little in common with other las weapons used in the Imperium, and there has been some speculation that they may even be of xenos origin. Each fits over the forearm with controls built into a glove and the user sights down the line of his arm. Las Gauntlets produce a thin raking beam rather than the crisp blast of most lasguns which creates an impressive visual. They are primarily considered the plaything of nobles and are often used for hunting game at closer ranges, while those who employ them for real combat are far between. There are a select few examples of assassins who favour style over efficiency using Las Gauntlets to kill their marks.
 
-### Series-S Venom Compact Pistol
+#### Series-S Venom Compact Pistol
 
 This Belasco-made pistol is a highly unusual pattern and one benefitting the treacherous reputation of Malfi. The Venom is a highly compact laspistol designed for covert use. It takes the shape of a flat disk that is grasped in the hand, with the short barrel-emitter projecting between the middle fingers. It is fired by applying pressure to a hidden trigger, and must be firmly grasped before it will shoot as a safety feature. Eminently concealable, the Venom is an excellent tool for murder and espionage, making it widely favored both on Malfi and beyond, though it is neither as expensive nor rare as its other local rival, the infamous Mariette pistol.
 
@@ -340,7 +340,7 @@ The Venom is powered via an internal non-removable power cell rather than Munito
 | [[#D'laku Crusade Hellgun]]  | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
 | [[#Man-Portable Lascannon]]  | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
 | [[#Lascarbine]] (generic)    | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
-| - Death Light                | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
+| - [[#Death Light Lasgun]]    | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
 | - Locke                      | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
 | - Minerva-Aegis              | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
 | Lascutter                    | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
@@ -390,17 +390,17 @@ Class: Basic (Las)
 
 Lascarbines are shortened and lightened versions of the more typical lasgun, intended for use at close quarters by assault troops or as a more effective weapon than a pistol by vehicle and artillery crews. Like lasguns, lascarbines exist in a massive number of makes and patterns and are manufactured throughout the Imperium, with most being similar enough to be virtually interchangeable. Some more unique lascarbines are listed here. All lascarbines are compact enough that they impart a -10 rather than -20 penalty to Ballistic Skill Tests if wielded with one hand, and can also be fired in melee as if they were pistols.
 
-**Death Light Lasgun:**
+##### Death Light Lasgun:
 Made to the requirements of Fenksworld's Magnagorsk guild, the Death Light is another Sollex sect product that produces fearsomely powerful las-bolts compared to similar weapons of its size. Officially known as the Sollex Pattern-IX, this dense, sturdy weapon includes a folding stock and is commonly used by low-ranking Tech-Guard soldiers. It can burn through the thick insulation suits worn by many in the Magnagorsk hive, and is sought after among those seeking a reliable and potent weapon who don't mind the excessive weight of a gun designed for use by augmented Skitarii troops.
 
 Sollex las weapons can use standard power packs but drain them more quickly than most due to their powerful beams. Sollex las weapons have Scarce Availability on Fenksworld and are Very Rare elsewhere.
 
-**Locke-Pattern:**
+##### Locke-Pattern:
 This lascarbine looks similar to a Galaxy-pattern used by Cadian shock troops but with a significantly enlarged housing around the charge port and a heavier barrel. The Locke's discharge capacitors are grossly oversized, and it fires a wide beam with significantly more punch than common lascarbine models. However, its machine spirit has not taken well to this modification, resulting in frequent jams and misfires. In spite of this, there are many shooters in the Calixis Sector who believe the increased firepower merits the risk that their weapon will fail at an untimely moment.
 
 Note that this weapon can become dangerously unstable when used in overload mode. If the weapon overheats, roll 1d10. On a "9" or "10", the Locke's housing violently explodes, ruining the weapon and inflicting Damage as a Frag Grenade with Blast (2).
 
-**Minerva-Aegis:**
+##### Minerva-Aegis:
 Popular with the more notable mercenary companies and private guild armsmen, the Minerva-Aegis is a very sophisticated lascarbine that features a high cycle-charge chamber that can let off a rapid pulse of las-bolts. This advanced feature is a product of research on the Aegis Data Fragment which the Mechanicus has seen fit to title to the Takara Fane of Gunmetal City; in small measure, it is a mass-produced archeotech weapon, and a sign of discerning judgment and ample funds among those who wield them. Its complex design requires the use of much higher quality raw materials than most lasguns which leads to the Minerva-Aegis' expensive cost, and its status as the sign of a successful soldier of fortune.
 
 #### Mezoa-Pattern Lascutter 
