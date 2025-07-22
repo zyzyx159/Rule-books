@@ -277,7 +277,7 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 | [[#Las Gauntlets]]                                 | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | [[#Reliable]]                                                       | 3kg    | 350   | -          | Very Rare    |
 | [[#Series-S Venom Compact Pistol\|Series-S Venom]] | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                                                                   | 0.5kg  | 120   | -          | Scarce       |
 | †Not including power pack                          |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
-|                                                    |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
+
 #### Dueling Las
 
 Based around the philosophy of a "one shot kill", Duelling Laspistols (or just Duelling Las for short) are commonly worn as signs of wealth and status by hive nobles and Rogue Traders. While ostentatious and certainly designed with image in mind, a Duelling Las is still nonetheless a very deadly weapon that can generate an extremely powerful las blast, and are accurate enough to hit a single Throne at distances most comparable pistols would only be able to hit a man-sized target.
@@ -1003,25 +1003,25 @@ As weapons that contain a miniature fusion device and use arcane magnetic fields
 
 To use plasma weapons without penalty, a character must have the Pistol Training (Plasma), Basic Weapon Training (Plasma), or Heavy Weapon Training (Plasma) talents.
 
-| Plasma Weapons           |        |       |       |           |     |      |        |                                                         |       |       |        |               |
-| ------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | ------------------------------------------------------- | ----- | ----- | ------ | ------------- |
-| Name                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                 | Wt    | Cost  | World  | Availability  |
-| Phased Plasma Gun        | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                                 | 12kg  | 1,500 | Lathes | Very Rare     |
-| Plasma Blaster           | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), Overheats, Recharge, Vicious | 20kg  | 7,500 | -      | Very Rare     |
-| Plasma Cannon            | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                          | 38kg† | 8,500 | -      | Very Rare     |
-| - (Maximal)              |        |       |       | 4d10+10 E |     |      |        | [[#Blast (X)\|Blast]] (3), Overheats, Recharge, Vicious |       |       |        |               |
-| Plasma Gun (Ryza)        | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | Overheats                                               | 9kg   | 3,000 | -      | Very Rare     |
-| - (Maximal)              |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | Overheats, Recharge                                     |       |       |        |               |
-| - Clovis                 | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | Overheats                                               | 20kg  | 6,000 | -      | ExtremelyRare |
-| - (Maximal)              |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | Overheats, Recharge                                     |       |       |        |               |
-| - Mezoa                  | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | Overheats                                               | 17kg  | 2,200 | -      | Very Rare     |
-| - Sunfury                | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | Overheats                                               | 12kg  | 3,000 | -      | Very Rare     |
-| Plasma Pistol (Ryza)     | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | Overheats                                               | 4kg   | 4,000 | -      | Very Rare     |
-| - (Maximal)              |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | Overheats, Recharge                                     |       |       |        |               |
-| - Kronos                 | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | Overheats                                               | 4kg   | 5,000 | -      | Very Rare     |
-| - (Maximal)              |        |       |       | 2d10+10 E | 8   |      |        | Overheats, Recharge                                     |       |       |        |               |
-| - Wrath                  | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | Accurate, Overheats                                     | 5kg   | 6,500 | -      | ExtremelyRare |
-| †Not including ammo pack |        |       |       |           |     |      |        |                                                         |       |       |        |               |
+| Plasma Weapons           |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
+| ------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
+| Name                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                                | Wt    | Cost  | World  | Availability  |
+| Phased Plasma Gun        | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | [[#Special                                                             | 12kg  | 1,500 | Lathes | Very Rare     |
+| Plasma Blaster           | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Overheats]], [[#Recharge]], [[#Vicious]] | 20kg  | 7,500 | -      | Very Rare     |
+| Plasma Cannon            | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                                         | 38kg† | 8,500 | -      | Very Rare     |
+| - (Maximal)              |        |       |       | 4d10+10 E |     |      |        | [[#Blast (X)\|Blast]] (3), [[#Overheats]], [[#Recharge]], [[#Vicious]] |       |       |        |               |
+| Plasma Gun (Ryza)        | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | [[#Overheats]]                                                         | 9kg   | 3,000 | -      | Very Rare     |
+| - (Maximal)              |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - Clovis                 | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 20kg  | 6,000 | -      | ExtremelyRare |
+| - (Maximal)              |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - Mezoa                  | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 17kg  | 2,200 | -      | Very Rare     |
+| - Sunfury                | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
+| Plasma Pistol (Ryza)     | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 4,000 | -      | Very Rare     |
+| - (Maximal)              |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - Kronos                 | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
+| - (Maximal)              |        |       |       | 2d10+10 E | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - Wrath                  | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | [[#Accurate]], [[#Overheats]]                                          | 5kg   | 6,500 | -      | ExtremelyRare |
+| †Not including ammo pack |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
 
 #### Phased Plasma Gun
 Class: Basic (Plasma)
