@@ -12,6 +12,31 @@ The Assassins of such Orders are highly trained killers capable of feats far and
 
 If an Assassin survives long enough into his career and his superiors deem him worthy, he will be unknowingly tested. The trials are likely extremely lethal, and so those who are found lacking are unlikely to survive. The few who do successfully make it through the trials become initiates in one of the Assassin Temples, although the Assassin is unaware of this even at this stage, such is the secrecy surrounding the Officio Assassinorum.
 
+| Table 2-4: Assassin Characteristic Advances |        |              |         |        |  |
+|---------------------------------------------|--------|--------------|---------|--------|--|
+| Characteristic                              | Simple | Intermediate | Trained | Expert |  |
+| Weapon Skill                                | 100    | 250          | 500     | 750    |  |
+| Ballistic Skill                             | 100    | 250          | 500     | 750    |  |
+| Strength                                    | 500    | 750          | 1,000   | 2,500  |  |
+| Toughness                                   | 250    | 500          | 750     | 1,000  |  |
+| Agility                                     | 100    | 250          | 500     | 500    |  |
+| Intelligence                                | 250    | 500          | 750     | 1,000  |  |
+| Perception                                  | 250    | 500          | 750     | 1,000  |  |
+| Willpower                                   | 250    | 500          | 750     | 1,000  |  |
+| Fellowship                                  | 500    | 750          | 1,000   | 2,500  |  |
+|                                             |        |              |         |        |  |
+```mermaid
+graph TD
+A[Sell-Steel 0-499] --> B[Shadesman 500-999]
+B --> C[Nighthawk 1,000-1,999]
+C --> D[Secluse 2,000-2,999]
+D --> E[Assassin 3,000-5,999]
+E --> F[Death Adept 6,000-7,999]
+F --> G[Nihilator 8,000-9,999]
+G --> H[Imerator-Mortis 10,000-14,999]
+E --
+```
+
 #### **Sell - Steel Advances**
 
 *"Two in the head makes sure they're dead."*
