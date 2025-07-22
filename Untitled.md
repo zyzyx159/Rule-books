@@ -35,12 +35,6 @@ Adepts may be thought of as meek when compared to other Acolytes, but they have 
 
 Archivists keep manuscripts and tend the needs of Sages, scurrying between tottering bookshelves and datacrypts, ever with an eye to escaping their servitude.
 
-# **Scrivener Advances**
-
-*"Dharkins, your illuminations are positively Rabeliean. You'll do well; just not here."*
-
-Scriveners have wormed their way into a position of trust, whence they may actually deal with scrolls, books and data-slates directly. Of course, they are the primary oppres sors of Archivists, as is only right and proper.
-
 | Advance                            | Cost     | Type     | Prerequisites |
 |------------------------------------|----------|----------|---------------|
 | Drive (Ground Vehicle)             | 100      | S        | —             |
@@ -59,6 +53,12 @@ Scriveners have wormed their way into a position of trust, whence they may actua
 | Pistol Training (Las)              | 200      | T        | —             |
 | Pistol Training (SP)               | 200      | T        | —             |
 | Thrown Weapon Training (Primitive) | 200      | T        | —             |
+
+# **Scrivener Advances**
+
+*"Dharkins, your illuminations are positively Rabeliean. You'll do well; just not here."*
+
+Scriveners have wormed their way into a position of trust, whence they may actually deal with scrolls, books and data-slates directly. Of course, they are the primary oppres sors of Archivists, as is only right and proper.
 
 | Advance                           | Cost     | Type     | Prerequisites            |
 |-----------------------------------|----------|----------|--------------------------|
@@ -88,12 +88,6 @@ Scriveners have wormed their way into a position of trust, whence they may actua
 
 Scribes are vessels of knowledge, skilled in the byzantine art of extracting information from all manner of sources. Many secretly fear they will never rise further within the ranks of the Administratum, hence they are naturally keen to take risks to get ahead.
 
-# **Inditor Advances**
-
-*"If you've a mind to dig to the bottom of something, an inditor is invaluable. If they don't know it, they can find it out for you. If they can't find it… well, you're probably not meant to know it anyway."*
-
-Inditors are trusted members of the Administratum, having been initiated into some of its deeper secrets. Even the lore of other Adepta is not beyond their scrutinising gaze.
-
 | Advance                         | Cost | Type | Prerequisites                |
 |---------------------------------|------|------|------------------------------|
 | Awareness +10                   | 100  | S    | Awareness                    |
@@ -119,6 +113,12 @@ Inditors are trusted members of the Administratum, having been initiated into so
 | Electro Graft Use               | 200  | T    | —                            |
 | Sound Constitution              | 200  | T    | —                            |
 | Ambidextrous                    | 300  | T    | Ag 30                        |
+
+# **Inditor Advances**
+
+*"If you've a mind to dig to the bottom of something, an inditor is invaluable. If they don't know it, they can find it out for you. If they can't find it… well, you're probably not meant to know it anyway."*
+
+Inditors are trusted members of the Administratum, having been initiated into some of its deeper secrets. Even the lore of other Adepta is not beyond their scrutinising gaze.
 
 | Advance                           | Cost | Type | Prerequisites                         |
 |-----------------------------------|------|------|---------------------------------------|
@@ -150,12 +150,6 @@ Inditors are trusted members of the Administratum, having been initiated into so
 
 Chirurgeons investigate the secrets of the human form, studying the cryptic chambers of the heart, the enigmas of flesh and bone, and, of course, the moist grey mysteries of the brain.
 
-# **Scholar Advances**
-
-*"Scholar Dharkins passes bow your head! He cured the Seeping Cough and the Dread-Pox. Whisper has it he advises the hive council. 'Twernt for him, Throne knows where we'd be!"*
-
-A Scholar is in full bloom of his powers, wise, learned and skilled in getting results from the almighty machine that is the Administratum. Should they avoid peevish theo retical debate and infighting, Scholars become respected and mighty indeed.
-
 | Advance                       | Cost | Type | Prerequisites |
 | ----------------------------- | ---- | ---- | ------------- |
 | Awareness +20                 | 100  | S    | Awareness +10 |
@@ -179,6 +173,12 @@ A Scholar is in full bloom of his powers, wise, learned and skilled in getting r
 | Melee Weapon Training (Chain) | 200  | T    | —             |
 | Charm                         | 300  | S    | —             |
 | Sleight of Hand               | 300  | S    | —             |
+
+# **Scholar Advances**
+
+*"Scholar Dharkins passes bow your head! He cured the Seeping Cough and the Dread-Pox. Whisper has it he advises the hive council. 'Twernt for him, Throne knows where we'd be!"*
+
+A Scholar is in full bloom of his powers, wise, learned and skilled in getting results from the almighty machine that is the Administratum. Should they avoid peevish theo retical debate and infighting, Scholars become respected and mighty indeed.
 
 | Advance                           | Cost | Type | Prerequisites                   |
 | --------------------------------- | ---- | ---- | ------------------------------- |
