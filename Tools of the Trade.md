@@ -20,8 +20,7 @@ Having the money does not always guarantee the desired goods or services are at 
 | Extremely Rare                         | Punishing (-50)        | Arduous (-40)    | Very Hard (-30)  | Hard (-20)       |
 | Near Unique                            | Hellish (-60)          | Punishing (-50)  | Arduous (-40)    | Very Hard (-30)  |
 | Unique                                 | GM's Discretion        | Hellish (-60)    | Punishing (-50)  | Arduous (-40)    |
-
-### TIME
+## Time
 
 Just because a large community actually has the item a character seeks does not necessarily mean that it is easy to locate. The larger the community, the more time it takes to track the item down. A community's size determines the base time it takes to find the item. Each degree of success reduces this time by a certain amount (minutes, hours, days, weeks, or months, depending on the base time). See _Dark Heresy_, Table 5-5: Availability and Time on page 126. The GM should make the roll in secret for particularly dangerous or costly items, to emphasis the struggle and possible risks entailed by such searching.
 
@@ -40,7 +39,7 @@ Just because a large community actually has the item a character seeks does not 
 | Near Unique                       | One year               | 3d5 months       | 1d5 months      | 1d5 weeks     | 2d10 days       |
 | Unique                            | 1d5 years              | One year         | 1d10 months     | 2d5 weeks     | GM's Discretion |
 
-### Craftsmanship
+## Craftsmanship
 
 Not all goods are of the same quality. In the vastness of the Imperium, and beyond, the craftsmanship of items can vary widely from crudely made, mass-produced materials to handcrafted masterpieces.
 

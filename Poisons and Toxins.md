@@ -69,7 +69,7 @@ Maintaining a truly comprehensive list of all the toxic and poisonous compounds 
 | [[#Nephys Orchid]]         | 400   | Rare           | Slow    | -30      | [[#Paralytic]]                       |
 | [[#Sump Vine Sap]]         | 50    | Common         | Slow    | +0       | [[#Lethal]]                          |
 | [[#Torpor]]                | 700   | Very Rare      | Instant | -20      | [[#Sedative]] or Special             |
-| [[#Tox-Jack]]              | 20    | Common         | Instant | -10      | [[#Necrotic]] 1D10]                  |
+| [[#Tox-Jack]]              | 20    | Common         | Instant | -10      | [[#Necrotic]] (1D10)                 |
 | † Cost indicates one dose  |       |                |         |          |                                      |
 
 ### Ars Imperialis Mortua
