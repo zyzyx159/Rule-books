@@ -29,6 +29,9 @@ Adepts may be thought of as meek when compared to other Acolytes, but they have 
 ```mermaid
 graph TD
 A[Archivist 0-499] --> B[Scrivener 500-999]
+B --> C{Scribe 1,000-1,999}
+C --> D[Inditor 2,000-2,999]
+C --> E[Chirurgeon 2,000-2,999]
 
 ```
 # **Archivist Advances**
