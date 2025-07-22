@@ -1,6 +1,4 @@
-# **Chapter XI: The Calixis Sector**
-
-*"It is an ill omened place, my lord. Cursed, they say, a fount of witches and other foulness. A chalice of corruption, haunted by a dead sun. They say it is but a matter of time before the stars align and the entire place is torn asunder by Daemons. Of course, they say that about a great many places. But in this case, master, the Tarot indicates it is actually true."*
+"It is an ill omened place, my lord. Cursed, they say, a fount of witches and other foulness. A chalice of corruption, haunted by a dead sun. They say it is but a matter of time before the stars align and the entire place is torn asunder by Daemons. Of course, they say that about a great many places. But in this case, master, the Tarot indicates it is actually true."*
 
 *—* Diviner Adept Harpious Mundis.
 

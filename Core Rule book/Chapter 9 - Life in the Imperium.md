@@ -1,5 +1,3 @@
-# Chapter IX: Life in the Imperium
-
 *"The martyr's grave is the keystone of the Imperium."* — *Liber Imperialis.*
 
 T The Imperium of Man is a war-torn empire, teetering on the brink of collapse. For ten thousand years it has been ruled by the deathless Emperor, a being of incredible power, to whom thousands of souls are sacrificed daily. The peoples of the Imperium live in a place where Daemons are real, mutation is frequent and death is a constant companion. To be alive in the 41st Millennium is to know that the universe is a terrifying and hostile place. It is a place where you are but one amongst billions and, no matter how heroic your death, you will not be missed.

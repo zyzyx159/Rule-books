@@ -1,6 +1,4 @@
-# Chapter XII: Aliens & Witches Traits
-
-A *"It is our destiny to rule the universe just as it is the destiny of the xeno to pave our way."*
+*"It is our destiny to rule the universe just as it is the destiny of the xeno to pave our way."*
 
 — Lucretius VII, Inquisitor.
 

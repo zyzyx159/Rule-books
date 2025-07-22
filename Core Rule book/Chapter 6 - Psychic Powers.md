@@ -1,5 +1,3 @@
-# Chapter VI: Psychic Powers
-
 *"My blade can shear through adamantium as if it were paper, but it is a blunt club compared to the edge of my will."* — Inquisitor Kaede, Ordo Hereticus.
 
 W Within the Imperium of man, some people are born different. Some fickle turn of fate or chance twist in the genome has seen them join the growing ranks of psychic individuals within the human race. These psykers labour under a blessing and a curse. They have the rare talent to draw power from the warp, the hidden dimension of Chaos that lurks beneath the fabric of reality, and shape it into all manner of strange and supernatural effects. Using such power, however, comes with a terrible risk.

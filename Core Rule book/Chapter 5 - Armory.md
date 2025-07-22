@@ -86,15 +86,15 @@ Scales or Fins—On the water world of Spectoris, fish are found in all aspects 
 
 *Drake needs a new lasgun. A lasgun is a Common item, and so he gains a +10 bonus on his Inquiry Test to find it in a typical settlement with a population of about 7,000. If he looks in a small farming outpost with a population of only 400 the Difficulty becomes Challenging (no bonus), but if he looks in a city with a population of 80,000, the Difficulty lessens to Routine, giving him a +20 bonus.*
 
-| Availability +30Routine+20Ordinary+10 | Difficulty  | Modifier |
-| ------------------------------------- | ----------- | -------- |
-| Abundant                              | Easy        |          |
-| Plentiful                             |             |          |
-| Common                                |             |          |
-| Average                               | Challenging | +0       |
-| Scarce                                | Difficult   | –10      |
-| Rare                                  | Hard        | –20      |
-| Very Rare                             | Very Hard   | –30      |
+| Availability | Difficulty  | Modifier |
+| ------------ | ----------- | -------- |
+| Abundant     | Easy        | +30      |
+| Plentiful    | Routine     | +20      |
+| Common       | Ordinary    | +10      |
+| Average      | Challenging | +0       |
+| Scarce       | Difficult   | –10      |
+| Rare         | Hard        | –20      |
+| Very Rare    | Very Hard   | –30      |
 
 # **TIME**
 
@@ -131,8 +131,6 @@ Normally, Craftsmanship has little effect on game play for regular goods and ser
 | Below 100,000                                                                        | 1d10 weeks | 1d10 days  | 1d10 hours | 1 hour     | 30 minutes | 15 minutes | 10 minutes |
 | 100,000 or more                                                                      | 1d5 months | 1d10 weeks | 1d10 days  | 1d10 hours | 1 hour     | 30 minutes | 15 minutes |
 
-
-
 | Craftsmanship | Cost Multiplier | Availability    |
 |---------------|-----------------|-----------------|
 | Best          | ×10             | Drop 2 steps    |
@@ -144,7 +142,7 @@ Normally, Craftsmanship has little effect on game play for regular goods and ser
 
 *Drake realises he cannot afford a brand new lasgun, so he decides to settle for a Poor quality one. The cost for such a weapon is halved, and there are plenty of them, increasing the availability from Common to Plentiful.*
 
-# Weapons WEAPONS
+# Weapons
 
 *"There is no arguing with the barrel of a gun."* — Ancient (pre-Heresy) Proverb.
 
@@ -198,7 +196,7 @@ Some weapons can be fired in more than one mode. If this is the case each of its
 
 **Availability:** This identifies the weapon's availability (see **Table 5-3: Consequences of Availability, [page 126](#page-126-0)**).
 
-# Weapon Special Qualities WEAPON SPECIAL QUALITIES
+# Weapon Special Qualities
 
 Some weapons possess special qualities to represent such things as special damage or unusual effects.
 
@@ -248,7 +246,7 @@ Some weapons are made up from lots of loosely connected segments, such as chains
 
 Weapons with this quality are either badly designed or simply woefully made, and regardless of the care taken when used, offer little better than a lucky chance to hit. No bonus is gained froom the use of the Aim Action with such weapons.
 
-# **oVerheats**
+# **overheats**
 
 Certain weapons are prone to overheating, either because of poor design or they fire unstable superheated ammunition. An unmodified to hit roll of 91 or higher causes the weapon to Overheat. Roll 1d10 and consult **Table 5-6: Weapon Overheating** to see what happens.
 

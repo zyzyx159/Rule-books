@@ -1,5 +1,3 @@
-# Chapter VII: Playing the Game
-
 *"You have been chosen to serve the God-Emperor of Mankind with your very lives! But before you are even worthy to honour Him with your demise there are some things you need to know..."* — Inquisitor Saffena Sengir, Ordo Xenos.
 
 I I n the service of the Holy Inquisition, Acolytes are called upon to perform all manner of tasks, such as rooting out heretics, travelling through the warp and combating the many foes of mankind. To achieve these things, characters need to draw upon all their skills and abilities. Having created your character, this chapter explores all the different sorts of things your Acolyte might have to do in the service of the God-Emperor.

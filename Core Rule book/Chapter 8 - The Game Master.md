@@ -1,5 +1,3 @@
-# Chapter VIII: The Game Master
-
 *"Every soul wavers between the Void and the Emperor's Holy Light. Most falter."*
 
 — Inquisitor Kaede, Ordo Hereticus.

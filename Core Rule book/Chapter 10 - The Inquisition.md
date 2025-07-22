@@ -1,5 +1,3 @@
-# Chapter X: The Inquisition
-
 *"Innocence proves nothing."*
 
 — Inscription above the gates of the Calixian Conclave spire.
