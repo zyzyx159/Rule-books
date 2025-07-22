@@ -53,6 +53,7 @@ Normally, Craftsmanship has little effect on game play for regular goods and ser
 | Near Unique                       | One year               | 3d5 months       | 1d5 months      | 1d5 weeks     | 2d10 days    |
 
 # Weapons
+## Weapons info
 
 Weapons are divided into several groups covering a plethora of ranged weapons, dealing with everything from crossbows to plasma cannons, and melee weapons covering all manner of close combat weaponry. Unless they are of Poor quality, all weapons come with an appropriate holster, sling, or carrying strap as part of their cost so they can be stored on the character's body.
 
@@ -241,6 +242,7 @@ Autoguns and Autopistols: These types of weapons use caseless ammunition that ca
 Everything Else: Autocannons, Ripper Pistols, and other large or unusual solid projectile weapons will typically make use of their own type of bullet which cannot be used with any other guns. Sometimes, these types of weapons will have a specific cost and Availability listed for their ammunition as well.
 
 ## LAS WEAPONS
+### Las weapons info
 
 Produced by the millions on countless forge worlds, laser ("las" in parlance) weapons are by far the most numerous type of weapon in the Imperium, and are the basic tool of countless soldiers of the Imperial Guard. While complex to manufacture, their STC design is extremely well understood and their great ruggedness makes them the perfect weapon for the myriad soldiers of the Hammer of the Emperor. Las weapons can be found on almost any developed planet, even outside the Imperium, and can be found in the employ of xeno mercenary tribes who favour them for the same reason as their human betters. Aside from the very common lasguns and las pistols, much larger lascannons and multi-lasers are often mounted to Imperial vehicles, and gigantic lance batteries arming Imperial Navy battleships work off the same principles as their humble infantry counterparts.
 
@@ -248,19 +250,19 @@ Las weapons work by emitting short, sharp pulses of laser energy from high capac
 
 To use las weapons without penalty, a character must have the Pistol Training (Las), Basic Weapon Training (Las), or Heavy Weapon Training (Las) talents.
 
-### WEAPON QUALITY: VARIABLE
+#### WEAPON QUALITY: VARIABLE
 
 This las weapon has a variable intensity setting, allowing it to fire more powerful shots at the expense of more rapid energy consumption. The weapon may be set to overcharge mode, dealing +1 Damage but using two shots' worth of ammunition for each shot fired. Alternatively, the weapon may be set to overload mode, dealing +2 Damage and gaining +2 Penetration. In this setting the weapon uses four shots' worth of ammunition for each shot fired, loses the Reliable quality if it has it, or gains the Unreliable quality if it doesn't. If the weapon was already Unreliable, it gains the Overheats quality as well.
 
-### RECHARGING POWER PACKS
+#### RECHARGING POWER PACKS
 
 Aside from their ease of use, the abundance of ammunition in the form of standardized power packs is a central reason for the staggering number of las weapons in use by the forces of the Imperium. Las power packs can be charged in the field from almost any power source. Characters may make an Ordinary (+10) Tech-Use Test to charge a power pack as long as there is some kind of power source available. Examples might include municipal power jacks in a hive city, portable battery units for powering large equipment, or even currently-operating machines. The time the pack takes to charge is determined by the power output of the source and is ultimately up to the GM, though characters should expect at least an hour or so. Alternatively, a power pack can be charged simply by leaving it in direct sunlight, the charge pack absorbing solar radiation at a rate roughly sufficient for one shot every thirty minutes, assuming the sky is clear. In the absence of any other methods, a charge pack can be thrown into open flames where it can soak up thermal energy. This takes around twenty-four hours, and permanently reduces the pack's Clip size by half the first time it is charged in this fashion. A flame-charged power pack causes a las weapon it is used in to lose the Reliable quality, if it has it, or gain the Unreliable quality if it doesn't. Each time a pack is recharged in this way there is a 30% chance it will burn out and be permanently rendered useless for any purpose other than serving as a paperweight.
 
-### POWER PACK BOMBS
+#### POWER PACK BOMBS
 
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
 
-### LAS PISTOLS
+### LAS PISTOLS list
 
 | Las Weapons                                        |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
 | -------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
@@ -463,6 +465,7 @@ If a twin lasgun jams, there is a 50% chance that its charge pack is ruined.
 
 ## SOLID PROJECTILE WEAPONS
 
+### Solid Projectile weapons Info
 Commonly known as "slug-throwers", solid projectile weapons are extremely common throughout the Imperium and are popular among Imperial servants and citizens as well as renegades and recidivists alike. While a distant second to las weapons in the ranks of the Imperial Guard, members of the Inquisition and Adeptus Arbites often use solid projectile weapons, and gangers are especially pronounced about their love for slug-throwers: ease of manufacture, versatility in combat, bewildering array and varieties, and, of course, the satisfying sound they make when rattling off bullets at a foe. Slug-throwers can offer a weapon for all occasions, and many gunslingers live by the simple maxim, "Where there's a will, there's a gun." Handheld solid projectile weapons tend to be broken down into two major categories: autoguns and stubbers.
 
 Autoguns are synonymous with the Imperium's forges and monitories, with the first patterns coming into being during the Great Crusade and propagating throughout the galaxy since. Today there are likely as many styles of autoguns as there are stars, and they come in all shapes and sizes, from simple autopistols that can be strapped to the side of a ganger's boot to massive vehicular autocannons that can punch through any personal armour and violently explode its wearer, and even the great macrocannons of Imperial Navy battleships fall into this style of weapon. Most autoguns use square caseless rounds that are just as ubiquitous as the guns themselves, and it isn't unheard of for bullets to be used as currency on some particularly brutal worlds and among underhive scummers.
@@ -1458,36 +1461,36 @@ Many types of grenades listed in this segment disperse smoke, fumes, gases or va
 
 **Sealed Armour:** Wearing a void suit, power armour, or environmental body glove can totally isolate the wearer from outside conditions, allowing them to survive in the harshest locations. Unless otherwise stated, wearing sealed armour provides total immunity from gases.
 
-| Grenades       |          |     |                                 |      |      |                   |
-| -------------- | -------- | --- | ------------------------------- | ---- | ---- | ----------------- |
-| Name           | Dam      | Pen | Special                         | Wt   | Cost | Availability      |
-| Anti-Plant     | 3d10 E†  | 0   | Blast (3)                       | .5kg | 40   | Very Rare         |
-| Bilge Bomb     | 2d10 X   | 0   | Blast (4), Toxic,Unreliable | .5kg | 20   | Common            |
-| Blind          | -        | -   | Blast (10), Smoke,Special   | .5kg | 25   | Scarce            |
-| Bloodfire      | Special  | -   | Special                         | .5kg | 55   | Rare              |
-| Choke Gas      | -        | -   | Blast (1d10+3),Special      | .5kg | 40   | Scarce            |
-| Filament       | 4d10+4 R | 6   | Blast (1), Tearing              | .5kg | 300  | ExtremelyRare |
-| Fire Bomb      | 1d10+3 E | 4   | Blast (3), Primitive            | .5kg | 5    | Plentiful         |
-| Frag           | 2d10 X   | 0   | Blast (4)                       | .5kg | 10   | Common            |
-| Mark III Solid | 2d10 X   | 0   | Blast (5)                       | .8kg | 10   | Scarce            |
-| Hallucinogen   | -        | -   | Blast (10), Special             | .5kg | 40   | Rare              |
-| Haywire        | -        | -   | Blast (3), Special              | .5kg | 200  | Very Rare         |
-| Howler         | -        | -   | Blast (3), Special              | .5kg | 25   | Scarce            |
-| Krak           | 2d10+4 X | 6   | -                               | .5kg | 50   | Rare              |
-| Nail Bomb      | 1d10+1 X | 0   | Blast (2), Unreliable           | 1kg  | 5    | Common            |
-| Rad            | 1d10 E   | 0   | Blast (12),Unreliable       | 1kg  | 650  | ExtremelyRare |
-| Photon Flash   | -        | -   | Blast (15), Special             | .5kg | 60   | Scarce            |
-| Psychotroke    | -        | -   | Blast (3)                       | 1kg  | 500  | Very Rare         |
-| Psyk-Out       | -        | -   | Blast (Special)                 | 1kg  | 5000 | ExtremelyRare |
-| Plasma         | 1d10+6 E | 6   | Blast (1), Vicious              | 2kg  | 100  | Very Rare         |
-| Smoke          | -        | -   | Blast (10), Smoke               | .5kg | 5    | Common            |
-| Starflare      | 1d10+5 E | 6   | Primitive                       | 1kg  | 30   | Scarce            |
-| Stunner        | -        | -   | Blast (10), Special             | .5kg | 45   | Rare              |
-| Thermal        | 1d10+3 E | 6   | Blast (2)                       | .6kg | 60   | Rare              |
-| Terror         | -        | -   | Blast (10)                      | 1kg  | 100  | Scarce            |
-| Toxin          | Special  | -   | Blast (10), Special             | .5kg | 90   | Rare              |
-| Virus          | 3d10 I   | -   | Blast (8), Special              | .5kg | 500  | ExtremelyRare |
-| Web            | -        | -   | Blast (4), Snare                | 1kg  | 220  | Scarce            |
+| Grenades         |          |     |                             |      |      |               |
+| ---------------- | -------- | --- | --------------------------- | ---- | ---- | ------------- |
+| Name             | Dam      | Pen | Special                     | Wt   | Cost | Availability  |
+| Anti-Plant       | 3d10 E†  | 0   | Blast (3)                   | .5kg | 40   | Very Rare     |
+| Bilge Bomb       | 2d10 X   | 0   | Blast (4), Toxic,Unreliable | .5kg | 20   | Common        |
+| Blind            | -        | -   | Blast (10), Smoke,Special   | .5kg | 25   | Scarce        |
+| Bloodfire        | Special  | -   | Special                     | .5kg | 55   | Rare          |
+| Choke Gas        | -        | -   | Blast (1d10+3),Special      | .5kg | 40   | Scarce        |
+| Filament         | 4d10+4 R | 6   | Blast (1), Tearing          | .5kg | 300  | ExtremelyRare |
+| Fire Bomb        | 1d10+3 E | 4   | Blast (3), Primitive        | .5kg | 5    | Plentiful     |
+| Frag             | 2d10 X   | 0   | Blast (4)                   | .5kg | 10   | Common        |
+| - Mark III Solid | 2d10 X   | 0   | Blast (5)                   | .8kg | 10   | Scarce        |
+| Hallucinogen     | -        | -   | Blast (10), Special         | .5kg | 40   | Rare          |
+| Haywire          | -        | -   | Blast (3), Special          | .5kg | 200  | Very Rare     |
+| Howler           | -        | -   | Blast (3), Special          | .5kg | 25   | Scarce        |
+| Krak             | 2d10+4 X | 6   | -                           | .5kg | 50   | Rare          |
+| Nail Bomb        | 1d10+1 X | 0   | Blast (2), Unreliable       | 1kg  | 5    | Common        |
+| Rad              | 1d10 E   | 0   | Blast (12),Unreliable       | 1kg  | 650  | ExtremelyRare |
+| Photon Flash     | -        | -   | Blast (15), Special         | .5kg | 60   | Scarce        |
+| Psychotroke      | -        | -   | Blast (3)                   | 1kg  | 500  | Very Rare     |
+| Psyk-Out         | -        | -   | Blast (Special)             | 1kg  | 5000 | ExtremelyRare |
+| Plasma           | 1d10+6 E | 6   | Blast (1), Vicious          | 2kg  | 100  | Very Rare     |
+| Smoke            | -        | -   | Blast (10), Smoke           | .5kg | 5    | Common        |
+| Starflare        | 1d10+5 E | 6   | Primitive                   | 1kg  | 30   | Scarce        |
+| Stunner          | -        | -   | Blast (10), Special         | .5kg | 45   | Rare          |
+| Thermal          | 1d10+3 E | 6   | Blast (2)                   | .6kg | 60   | Rare          |
+| Terror           | -        | -   | Blast (10)                  | 1kg  | 100  | Scarce        |
+| Toxin            | Special  | -   | Blast (10), Special         | .5kg | 90   | Rare          |
+| Virus            | 3d10 I   | -   | Blast (8), Special          | .5kg | 500  | ExtremelyRare |
+| Web              | -        | -   | Blast (4), Snare            | 1kg  | 220  | Scarce        |
 †_This Damage only affects plants and other flora_
 _A thrown grenade's Range is the thrower's Strength Bonus x 3 metres_
 #### Anti-Plant Grenade
