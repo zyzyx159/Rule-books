@@ -465,7 +465,7 @@ If a twin lasgun jams, there is a 50% chance that its charge pack is ruined.
 
 ## SOLID PROJECTILE WEAPONS
 
-### Solid Projectile weapons Info
+### Solid Projectile Weapons Info
 Commonly known as "slug-throwers", solid projectile weapons are extremely common throughout the Imperium and are popular among Imperial servants and citizens as well as renegades and recidivists alike. While a distant second to las weapons in the ranks of the Imperial Guard, members of the Inquisition and Adeptus Arbites often use solid projectile weapons, and gangers are especially pronounced about their love for slug-throwers: ease of manufacture, versatility in combat, bewildering array and varieties, and, of course, the satisfying sound they make when rattling off bullets at a foe. Slug-throwers can offer a weapon for all occasions, and many gunslingers live by the simple maxim, "Where there's a will, there's a gun." Handheld solid projectile weapons tend to be broken down into two major categories: autoguns and stubbers.
 
 Autoguns are synonymous with the Imperium's forges and monitories, with the first patterns coming into being during the Great Crusade and propagating throughout the galaxy since. Today there are likely as many styles of autoguns as there are stars, and they come in all shapes and sizes, from simple autopistols that can be strapped to the side of a ganger's boot to massive vehicular autocannons that can punch through any personal armour and violently explode its wearer, and even the great macrocannons of Imperial Navy battleships fall into this style of weapon. Most autoguns use square caseless rounds that are just as ubiquitous as the guns themselves, and it isn't unheard of for bullets to be used as currency on some particularly brutal worlds and among underhive scummers.
@@ -473,6 +473,8 @@ Autoguns are synonymous with the Imperium's forges and monitories, with the firs
 Stubbers are far older, and go back as far as known history reaches. Compared to autoguns, stubbers use metal-cased ammunition, spraying hot spent cartridges into the air when fired. On the whole they are significantly simpler than autoguns, and finding indigenous stubber patterns on more highly-developed feudal worlds isn't unknown. Stubbers have by and large been replaced by autoguns in the millennia since the formation of the Imperium, but some styles have persevered in spite of their antiquity, and the occasional stubber design of a totally new vintage has rolled off more than a few major forges in the last millennia.
 
 To use the various classes of solid projectile weapons you must have the Pistol Training (SP), Basic Weapon Training (SP) or Heavy Weapon Training (SP) talents.
+
+### Solid Projectile Weapons list
 
 | Solid Projectile Weapons                                   |        |           |       |          |     |       |        |                                             |       |       |       |                |
 | ---------------------------------------------------------- | ------ | --------- | ----- | -------- | --- | ----- | ------ | ------------------------------------------- | ----- | ----- | ----- | -------------- |
@@ -811,6 +813,7 @@ A straightforward and easy-to-use weapon, void spearguns are designed to tear ho
 Five void spears and a gas cartridge sufficient to fire them cost 1 Throne and are Scarce outside of environments where they are commonly used (such as dock yards and space stations). In atmosphere, a void speargun cannot be fired at anything at Long or Extreme range.
 
 ## BOLT WEAPONS
+### Bold Weapons info
 
 There may be weapons that can burn through armour better, hit targets further away, or be more economical to mass produce and service, but no weapon could possibly claim to be as "Imperial" as the bolter. Bolt weapons combine a high level of technological precision and engineering with deliberate brutality; only man could possibly devise such an armament. Bolters fire rocket-propelled mass-reactive shells known appropriately enough as bolts, which streak to their target with a roar and explode into jagged fragments after piercing the body of their unfortunate victim.
 
@@ -819,6 +822,7 @@ The superiority of bolt weapons cannot be contested, but they are out of reach o
 Bolters are literally as old as the Imperium itself, and have been firmly connected to it from the beginning. Techno-barbarians that savagely fought for control of Terra during the Age of Strife wielded early bolter-like weapons, and their unification by the Emperor led to bolters becoming synonymous with the mighty Space Marine legions that would go on to re-conquer the galaxy. The Adeptus Astartes are still commonly associated with bolt weapons due to their almost uniform use of them. These weapons are far larger and more powerful than the smaller counterparts designed for mere humans, but while these humbler weapons are but a shadow of the power of a Space Marine's holy instrument, only a fool would underestimate their killing power.
 
 To use bolt weapons without penalty, a character must have the Pistol Training (Bolt), Basic Weapon Training (Bolt), or Heavy Weapon Training (Bolt) talents.
+### Bolt Weapons list
 
 | Bolt Weapons                                           |        |       |        |          |     |      |        |                                                     |       |        |         |               |
 | ------------------------------------------------------ | ------ | ----- | ------ | -------- | --- | ---- | ------ | --------------------------------------------------- | ----- | ------ | ------- | ------------- |
@@ -925,12 +929,14 @@ Storm bolters are truly devastating weapons created by the very careful and time
 This pattern of storm bolter is based off of the standard Godwyn-De'az boltgun used by the bulk of the Sisters of Battle, and is issued as a reward for Battle Sisters who have proven themselves in combat prowess and spiritual dedication to be worthy of such withering firepower. It is exceptionally rare outside of their ranks.
 
 ## MELTA WEAPONS
+### Melta Weapons info
 
 Also known as "melters" and "cookers", melta weapons deliver supreme close-range firepower capable of burning through almost any armour and incinerating whatever's on the other side. Most work by combining highly-pressurised gases into an unstable sub-molecular state, which is fired out in an intense blast of heat that can turn even adamantine plate into molten slag (and any unfortunates caught in its path into a vaguely pink vapour). Meltas make little noise when they're fired; the loudest report is a distinctive hissing noise as water in the air is evaporated, possibly followed by the violent explosion of whatever was just hit. This makes them eminently useful weapons to commandoes and infiltrators who can neutralize parked enemy vehicles long before they can enter battle. Meltas are most commonly issued to specialist anti-vehicular troops as while their power is unmatched, their short range and sparse number of shots are major liabilities to inexperienced or undisciplined soldiers.
 
 Melta weapons are fairly rare on the battlefield as only a few forge worlds are allowed to produce them in any quantity. The Adeptus Mechanicus formerly enjoyed a complete monopoly on such fearsome weapons and they have been loathe to allow their widespread dissemination. Giving a meltagun's ability to slag even the heaviest vehicles and battle servitors, this is perhaps unsurprising. Curiously, meltas are not the sole provenance of mankind, and different xenos races have been known to make use of remarkably similar guns in remarkably similar ways. While doubtlessly inferior to those of the Imperium's forges, scholars have questioned if the aliens are simply copying these devastatingly effective weaponry for their own purposes or if it is the inverse that is true. Regardless of their provenance, those who wield meltas will universally agree that there are few better weapons for close combat.
 
 To use melta weapons without penalty, a character must have the Pistol Training (Melta), Basic Weapon Training (Melta), or Heavy Weapon Training (Melta) talents.
+### Melta Weapons List
 
 | Melta Weapons                            |        |       |       |           |     |      |        |                                         |       |        |              |               |
 | ---------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | --------------------------------------- | ----- | ------ | ------------ | ------------- |
@@ -997,6 +1003,7 @@ Thermal lances are something of a more refined and efficient meltacutter. Using 
 Thermal lances use standard meltagun canisters for ammunition and can be equipped with the same backpack unit which weighs 10kg and doubles their Clip size.
 
 ## PLASMA WEAPONS
+### Plasma Weapons information
 
 Plasma weapons are fantastic pieces of techartifice whose art is almost lost in the Imperium. Though once common during the Dark Age of Technology, the STC for plasma weapons has yet to be recovered, and many of the Adeptus Mechanicus' most skilled plasma artisans sided with the traitors during the Horus Heresy. At the present only a few forge worlds truly understand a plasma weapon's functions and the necessary rituals and oaths to create one of acceptable quality, and their small numbers combined with excellent combat attributes makes them highly sought-after guns.
 
@@ -1005,6 +1012,7 @@ Plasma weapons function off of a deceptively simple principle of accelerating a 
 As weapons that contain a miniature fusion device and use arcane magnetic fields to propel a highly unstable projectile, a plasma weapon is by no means the most dependable (or safe) gun to bring to the battlefield. Aside from a low refire rate, most plasma weapons can become dangerously overheated if their byzantine workings fall out of a very narrow range of acceptable tolerances. A plasma gunner must therefore be of sound aim to make his low volume of shots strike true as well as familiar with the subtle proclivities of his weapon's machine spirit. Being able to read the ebb and flow of a plasma weapon's mechanical humours is a key asset when one might need to rapidly fling an overheating gun a safe distance away. A pattern of particular burns on the palms can instantly identify a man as a plasma gunner who's experienced a mishap with his weapon, a class of people ranging from veteran Imperial Guardsmen to wealthy Rogue Traders.
 
 To use plasma weapons without penalty, a character must have the Pistol Training (Plasma), Basic Weapon Training (Plasma), or Heavy Weapon Training (Plasma) talents.
+### Plasma Weapons list
 
 | Plasma Weapons                         |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
 | -------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
@@ -1018,7 +1026,7 @@ To use plasma weapons without penalty, a character must have the Pistol Training
 | - [[#Clovis Mark IV\|Clovis]]          | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 20kg  | 6,000 | -      | ExtremelyRare |
 | - (Maximal)                            |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
 | - [[#Mezoa-Pattern Plasma gun\|Mezoa]] | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 17kg  | 2,200 | -      | Very Rare     |
-| - Sunfury                              | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
+| - [[#Sunfury                           | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
 | Plasma Pistol (Ryza)                   | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 4,000 | -      | Very Rare     |
 | - (Maximal)                            |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
 | - Kronos                               | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
@@ -1062,7 +1070,7 @@ The Clovis plasma gun has a Maximal setting similar to those made on Ryza that c
 #### Mezoa-Pattern Plasma gun:
 Mezoa-pattern plasma guns, manufactured on that world in the Gothic Sector, are typical of any number of "lesser grade" plasma guns that hail from forge worlds without Ryza's intimate knowledge of their art and design. While certainly functional and deadly enough, these plasma guns typically lack a Maximal setting and are significantly more bulky and heavier to schlep around due to their inefficient induction coils and unnecessarily large fusion core. The sheer volume of plasma guns produced by Ryza makes them similar in number to those from lesser forges combined, but the inferior characteristics of these substandard patterns does tend to reduce their black market cost, and having any plasma gun is certainly better than having none at all.
 
-**Mark III Sunfury Assault Gun:**
+Mark III Sunfury Assault Gun:
 A highpower weapon issued to some Imperial Guard units that often must face heavily armoured foes, the Sunfury is an example of a deliberately simplified plasma gun that is easier for Guardsmen and PDF troopers to handle. It lacks a Maximal setting and has a reduced range compared to similar plasma weapons, but its normal power shots are of a significantly greater intensity so as to eliminate the need to switch between modes and deal with the recharge time. The tech-artisans of forges with the ability to produce higher-quality plasma guns tend to derisively refer to these hard-hitting but simple weapons as "plasma clubs" due to their perceived use as the guns of under-trained and thuggish troops.
 
 #### Plasma Pistol (Ryza)
