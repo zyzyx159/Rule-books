@@ -332,29 +332,29 @@ The Venom is powered via an internal non-removable power cell rather than Munito
 
 ### BASIC & HEAVY LAS
 
-| Las Weapons                         |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
-| ----------------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
-| Name                                | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
-| [[#Merovech Assault Lasgun]]        | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.5kg | 250   | -          | Average      |
-| [[#Hellgun]]                        | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                                                                   | 6kg†  | 2,700 | -          | Rare         |
-| [[#D'laku Crusade Hellgun]]         | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
-| [[#Man-Portable Lascannon]]         | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
-| [[#Lascarbine]] (generic)           | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
-| - [[#Death Light Lasgun]]           | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
-| - [[#Locke-Pattern]]                | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
-| - [[#Minerva-Aegis]]                | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
-| [[# Mezoa-Pattern Lascutter ]]      | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
-| [[#Lasgun]] (generic)               | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 100   | -          | Common       |
-| - [[#Drusus Prime-Pattern]]         | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
-| - [[#Mars-Pattern Mark III Lasgun]] | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
-| - [[#Roth Lightning Lasgun]]        | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
-| - [[#Storm Front Lasgun]]           | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
-| [[#Laslock Class]]                  | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | [[#Unreliable]], [[#Unstable]]                                      | 4kg   | 40    | -          | Plentiful    |
-| [[#Long Las Class]]                 | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | [[#Accurate]],[[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 4.5kg | 100   | -          | Scarce       |
-| [[#Multi-Laser Class]]              | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                                                                   | -     | 2,000 | -          | Scarce       |
-| [[#Merovech Shotlas Class]]         | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                                                                   | 4kg   | 90    | -          | Scarce       |
-| [[#Twin Lasgun Class Basic (Las)]]  | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | [[#Tearing]], [[#Unreliable]]                                       | 7kg   | 220   | -          | Rare         |
-| †_Not including power pack_         |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
+| Las Weapons                                   |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
+| --------------------------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
+| Name                                          | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
+| [[#Merovech Assault Lasgun\|Assault Lasgun]]  | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.5kg | 250   | -          | Average      |
+| [[#Hellgun]]                                  | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                                                                   | 6kg†  | 2,700 | -          | Rare         |
+| [[#D'laku Crusade Hellgun\|Hellgun (D’laku)]] | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
+| [[#Man-Portable Lascannon\|Lascannon]]        | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
+| [[#Lascarbine]] (generic)                     | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
+| - [[#Death Light Lasgun\|Death Light]]        | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
+| - [[#Locke-Pattern]]                          | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
+| - [[#Minerva-Aegis]]                          | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
+| [[# Mezoa-Pattern Lascutter ]]                | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
+| [[#Lasgun]] (generic)                         | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 100   | -          | Common       |
+| - [[#Drusus Prime-Pattern]]                   | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
+| - [[#Mars-Pattern Mark III Lasgun]]           | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
+| - [[#Roth Lightning Lasgun]]                  | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
+| - [[#Storm Front Lasgun]]                     | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
+| [[#Laslock Class]]                            | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | [[#Unreliable]], [[#Unstable]]                                      | 4kg   | 40    | -          | Plentiful    |
+| [[#Long Las Class]]                           | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | [[#Accurate]],[[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 4.5kg | 100   | -          | Scarce       |
+| [[#Multi-Laser Class]]                        | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                                                                   | -     | 2,000 | -          | Scarce       |
+| [[#Merovech Shotlas Class]]                   | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                                                                   | 4kg   | 90    | -          | Scarce       |
+| [[#Twin Lasgun Class Basic (Las)]]            | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | [[#Tearing]], [[#Unreliable]]                                       | 7kg   | 220   | -          | Rare         |
+| †_Not including power pack_                   |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
 #### Merovech Assault Lasgun
 Class: Basic (Las)
 
@@ -933,21 +933,21 @@ To use melta weapons without penalty, a character must have the Pistol Training 
 | ---------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | ----------------- | ----- | ------ | ------------ | ------------- |
 | Name                                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special           | Wt    | Cost   | World        | Availability  |
 | [[#Inferno Pistol]] (generic)            | Pistol | 10m   | S/-/- | 2d10+4 E  | 12  | 3    | Full   | -                 | 2.5kg | 7,500  | -            | Very Rare     |
-| - [[#Mars-Pattern\|Mars]]                | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | Vicious           | 2.5kg | 12,000 | -            | ExtremelyRare |
+| - [[#Mars-Pattern Inferno Pistol\|Mars]] | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | Vicious           | 2.5kg | 12,000 | -            | ExtremelyRare |
 | - [[#Seraphim Inferno Pistol\|Seraphim]] | Pistol | 10m   | S/-/- | 2d10+2 E  | 10  | 6    | Full   | Reliable          | 2kg   | 9,000  | -            | ExtremelyRare |
 | [[#Meltacutter]]                         | Basic  | 10m   | S/-/- | 2d10+4 E  | 10  | 5    | 3 Full | -                 | 30kg  | 600    | Hive & Forge | Scarce        |
 | [[#Meltagun]] (generic)                  | Basic  | 20m   | S/-/- | 2d10+4 E  | 12  | 5    | 2 Full | -                 | 8kg   | 4,000  | -            | Rare          |
 | - [[#Mars-Pattern Meltagun\|Mars]]       | Basic  | 20m   | S/-/- | 2d10+8 E  | 13  | 5    | 2 Full | Vicious           | 7.5kg | 9,000  | -            | Very Rare     |
 | - [[#Ultima-Pattern Meltagun\|Ultima]]   | Basic  | 40m   | S/-/- | 2d10+2 E  | 8   | 8    | 2 Full | -                 | 10kg  | 2,500  | -            | Rare          |
-| [[#Multi-Melta (generic)                 | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | Blast (1)         | 55kg  | 8,500  | -            | Very Rare     |
-| - Mars                                   | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | Blast (1),Vicious | 40kg  | 15,000 | -            | ExtremelyRare |
-| Thermal Lance                            | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | Accurate          | 55kg  | 3,000  | -            | Rare          |
+| [[#Multi-Melta]] (generic)               | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | Blast (1)         | 55kg  | 8,500  | -            | Very Rare     |
+| - [[#Mars-Pattern Multi-Melta\|Mars]]    | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | Blast (1),Vicious | 40kg  | 15,000 | -            | ExtremelyRare |
+| [[#Thermal Lance]]                       | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | Accurate          | 55kg  | 3,000  | -            | Rare          |
 ### Inferno Pistol
 Class: Pistol (Melta)
 
 By and large, inferno pistols are valuable relics as the technology to reproduce them is poorly understood by all but the greatest forges. An inferno pistol compacts the massive firepower of a meltagun into a parcel that is deceptively small, often no larger than a common autopistol pattern. This has limited its range even further, with some noting that you could almost throw one as far as its bolt of destruction will reach. However, as a close-range annihilation device, inferno pistols have no equal. Because of their extreme rarity they are also statements of the wearer's power and status just as much as their desire to reduce a foe in full power armour to a bubbling pool of goo. Those who bear one of these exclusive sidearms count themselves in the company of Inquisitors, Canonesses, Rogue Traders, and Space Marine Captains, to name a few. Aside from a handful of effectively interchangeable patterns, there are also few more unique marks which are listed here.
 
-#### Mars-Pattern:
+#### Mars-Pattern Inferno Pistol:
 Inferno pistols manufactured in the Adeptus Mechanicus' great forges on Mars itself are unquestionably a cut above any of those made on lesser worlds. This is doubtless by design: the truly elite of the Machine Cult are extremely disinclined to let the unbridled power of melta weapons promulgate throughout the Imperium, much to the binary grumbling of Fabricators and Magi from Voss Prime to Estaban and everywhere in between. Mars Patterns are most commonly wielded by members of the Mechanicus themselves, although a few have leaked out of the red robed clergy as awards to high ranking allies that have done much to benefit the Machine Cult.
 
 #### Seraphim Inferno Pistol:
@@ -982,9 +982,10 @@ This terrifying heavy weapon is created in typical Imperial fashion by forging t
 
 Unless the firer is wearing thermally protective clothing or armour that provides at least 5 APs to the head, body and arms, he suffers 1d10 Energy Damage from the multimelta's muzzle blast. Multi-meltas are fed by a backpack gas canister weighing 10kg which is included in the weapon's statistics.
 
-Mars-Pattern: Like other types of melta weapons, the Tech-Priests of Mars reserved the best for themselves. Multi-meltas produced by the great Martian forges are actually quite similar to those that they have allowed to be produced on other worlds. Their biggest departure is a much more efficient gas compression and dispersion apparatus, making a Mars-Pattern significantly lighter and safer to shoot as well. Mars Pattern multi-meltas do not deal damage to the firer due to excess heat.
+#### Mars-Pattern Multi-Melta:
+Like other types of melta weapons, the Tech-Priests of Mars reserved the best for themselves. Multi-meltas produced by the great Martian forges are actually quite similar to those that they have allowed to be produced on other worlds. Their biggest departure is a much more efficient gas compression and dispersion apparatus, making a Mars-Pattern significantly lighter and safer to shoot as well. Mars Pattern multi-meltas do not deal damage to the firer due to excess heat.
 
-#### Thermal Lance
+### Thermal Lance
 Class: Heavy (Melta)
 
 Thermal lances are something of a more refined and efficient meltacutter. Using a long and thin containment cylinder rather than bulky focusing beam emitters, a thermal lance is significantly lighter and easier to port around, allowing them to be used by workers directly rather than mounted to heavy servitors. Thermal lances require a few moments to steady and align the aperture, but once braced are exceptionally accurate and easy to control, allowing for very precise cuts to be made through the largest construction slabs and unfinished components. They are just as often used in demolitions as well with wreckers being able to cut through bulkheads and structural supports in a methodic and surgical process. Thermal lances are not intended to be used as weapons, but a trained user can employ them to slice through armoured opponents just as well.
