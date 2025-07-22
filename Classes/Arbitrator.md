@@ -49,12 +49,6 @@ J --> K[Justicar 10,000-14,999]
 
 A Trooper is drilled in combat and his duties to the Imperium: he is stout of heart and eager to enforce the Emperor's law.
 
-# **Enforcer Advances**
-
-*"Stand to, men, we'll break these scum on our shields and shock mauls."*
-
-An Enforcer is taught how to keep order in the most desperate situations, stand ing shoulder to shoulder with his fellow Arbitrators.
-
 | Advance                                                   | Cost | Type | Prerequisites                 |
 | --------------------------------------------------------- | ---- | ---- | ----------------------------- |
 | Awareness                                                 | 100  | S    | —                             |
@@ -74,6 +68,12 @@ An Enforcer is taught how to keep order in the most desperate situations, stand 
 | Sound Constitution‡                                       | 100  | T    | —                             |
 | Thrown Weapon Training (Primitive)                        | 100  | T    | —                             |
 | ‡You may take this Talent up to three times at this Rank. |      |      |                               |
+
+# **Enforcer Advances**
+
+*"Stand to, men, we'll break these scum on our shields and shock mauls."*
+
+An Enforcer is taught how to keep order in the most desperate situations, stand ing shoulder to shoulder with his fellow Arbitrators.
 
 | Advance                           | Cost     | Type     | Prerequisites                     |
 |-----------------------------------|----------|----------|-----------------------------------|

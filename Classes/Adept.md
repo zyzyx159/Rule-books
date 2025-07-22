@@ -30,16 +30,16 @@ Adepts may be thought of as meek when compared to other Acolytes, but they have 
 graph TD
 A[Archivist 0-499] --> B[Scrivener 500-999]
 B --> C[Scribe 1,000-1,999]
-C -- Lore --> D[Inditor 2,000-2,999] 
-C -- Doctor --> E[Chirurgeon 2,000-2,999]
+C -- Doctor --> D[Chirurgeon 2,000-2,999] 
+C -- Lore --> E[Inditor 2,000-2,999]
 D & E --> F[Scholar 3,000-5,999]
-F --> G[Lexographer 6,000-7,999]
+F -- Psyker --> G[Lexographer 6,000-7,999]
 G --> H[Loremaster Lexographer 8,000-9,999]
 H --> I[Loremaster Magister 10,000-14,999]
-F --> J[Comptroller 6,000-7,999]
+F -- Lore --> J[Comptroller 6,000-7,999]
 J --> K[Logister Comptroller 8,000-9,999]
 K --> L[Sage Logister 10,000-14,999]
-```
+``` 
 # **Archivist Advances**
 
 *"Throne blind you boy, fetch those books before I use your hide for a binding!"*
