@@ -1,5 +1,3 @@
-# Adept
-
 *"It's simple really. If we place the signifier here in this position, the rest of the cipher solves itself."*
 
 — Scholar Gabel Troken, Librarium Centris, Scintilla.
@@ -60,27 +58,26 @@ Archivists keep manuscripts and tend the needs of Sages, scurrying between totte
 
 Scriveners have wormed their way into a position of trust, whence they may actually deal with scrolls, books and data-slates directly. Of course, they are the primary oppres sors of Archivists, as is only right and proper.
 
-| Advance                           | Cost     | Type     | Prerequisites            |
-|-----------------------------------|----------|----------|--------------------------|
-| Awareness                         | 100      | S        | —                        |
-| Common Lore (Administratum)       | 100      | S        | —                        |
-| Common Lore (Imperium) +10        | 100      | S        | Common Lore (Imperium)   |
-| Drive (Ground Vehicle) +10        | 100      | S        | Drive (Ground Vehicle)   |
-| Drive (Hover Vehicle) +10         | 100      | S        | Drive (Hover Vehicle)    |
-| Forbidden Lore (Cults)            | 100      | S        | —                        |
-| Inquiry                           | 100      | S        | —                        |
-| Literacy +10                      | 100      | S        | Literacy                 |
-| Logic                             | 100      | S        | —                        |
-| Pilot (Civilian Craft) +10        | 100      | S        | Pilot (Civilian Craft)   |
-| Scholastic Lore (Legend) +10      | 100      | S        | Scholastic Lore (Legend) |
-| Speak Language (High Gothic)      | 100      | S        | —                        |
-| Trade (Artist)                    | 100      | S        | —                        |
-| Trade (Cartographer)              | 100      | S        | —                        |
-| Trade (Copyist)                   | 100      | S        | —                        |
-| Basic Weapon Training (Primitive) | 100      | T        | —                        |
-| Peer (Academics)                  | 100      | T        | Fel 30                   |
-| Blather                           | 200      | S        | —                        |
-| Peer (Administratum)              | 200      | T        | Fel 30                   |
+| Advance                           | Cost | Type | Prerequisites            |
+| --------------------------------- | ---- | ---- | ------------------------ |
+| Awareness                         | 100  | S    | —                        |
+| Common Lore (Administratum)       | 100  | S    | —                        |
+| Common Lore (Imperium) +10        | 100  | S    | Common Lore (Imperium)   |
+| Drive (Ground Vehicle) +10        | 100  | S    | Drive (Ground Vehicle)   |
+| Drive (Hover Vehicle) +10         | 100  | S    | Drive (Hover Vehicle)    |
+| Forbidden Lore (Cults)            | 100  | S    | —                        |
+| Inquiry                           | 100  | S    | —                        |
+| Literacy +10                      | 100  | S    | Literacy                 |
+| Logic                             | 100  | S    | —                        |
+| Pilot (Civilian Craft) +10        | 100  | S    | Pilot (Civilian Craft)   |
+| Scholastic Lore (Legend) +10      | 100  | S    | Scholastic Lore (Legend) |
+| Speak Language (High Gothic)      | 100  | S    | —                        |
+| Trade (Artist)                    | 100  | S    | —                        |
+| Trade (Cartographer)              | 100  | S    | —                        |
+| Basic Weapon Training (Primitive) | 100  | T    | —                        |
+| Peer (Academics)                  | 100  | T    | Fel 30                   |
+| Blather                           | 200  | S    | —                        |
+| Peer (Administratum)              | 200  | T    | Fel 30                   |
 
 # **Scribe Advances**
 
@@ -89,12 +86,11 @@ Scriveners have wormed their way into a position of trust, whence they may actua
 Scribes are vessels of knowledge, skilled in the byzantine art of extracting information from all manner of sources. Many secretly fear they will never rise further within the ranks of the Administratum, hence they are naturally keen to take risks to get ahead.
 
 | Advance                         | Cost | Type | Prerequisites                |
-|---------------------------------|------|------|------------------------------|
+| ------------------------------- | ---- | ---- | ---------------------------- |
 | Awareness +10                   | 100  | S    | Awareness                    |
 | Common Lore (Administratum) +10 | 100  | S    | Common Lore (Administratum)  |
 | Common Lore (Ecclesiarchy)      | 100  | S    | —                            |
 | Common Lore (Imperium) +20      | 100  | S    | Common Lore (Imperium) +10   |
-| Common Lore (Tech)              | 100  | S    | —                            |
 | Drive (Ground Vehicle) +20      | 100  | S    | Drive (Ground Vehicle) +10   |
 | Drive (Hover Vehicle) +20       | 100  | S    | Drive (Hover Vehicle) +10    |
 | Forbidden Lore (Cults) +10      | 100  | S    | Forbidden Lore (Cults)       |
@@ -144,7 +140,7 @@ Inditors are trusted members of the Administratum, having been initiated into so
 | Arms Master                       | 200  | T    | BS 30 Basic Weapon Training (any two) |
 | Marksman                          | 300  | T    | BS 35                                 |
 
-#### **Chirurgeon Advances**
+# **Chirurgeon Advances**
 
 *"Them chirurgeons issa odd bunch. Watch it if they offers ta cut ya fer free. Iss the way they looks at yer as they're rummagin' in yer guts. Kinda like yera cross 'tween an essper iment anna pork lunch."*
 
@@ -213,18 +209,6 @@ A Scholar is in full bloom of his powers, wise, learned and skilled in getting r
 
 All the knowledge of the Imperium is hidden within the spidery High Gothic script of temples, shrines and archives. The Lexographer is the guardian and keeper of these sacred words.
 
-# **Loremaster Advances**
-
-*"When you understand the secrets of the universe, you will understand yourself."*
-
-Loremasters have reached such a level of knowledge of the galaxy that they have now turned their attentions inward, looking into the very mysteries of the human soul.
-
-# **Comptroller Advances**
-
-*"Stop staring, lad. It's not for the likes of archivists like you to look upon Comptrollers. Of course, he has an extra brain. You would too, if you had to work like that."*
-
-Comptrollers direct the ebb and flow of information that passes through the Administratum, plucking seemingly unconnected facts from the sea of knowledge to construct masterful solutions and cunning plans of attack.
-
 | Advance                          | Cost | Type | Prerequisites                    |
 |----------------------------------|------|------|----------------------------------|
 | Forbidden Lore (Cults) +20       | 100  | S    | Forbidden Lore (Cults) +10       |
@@ -239,21 +223,32 @@ Comptrollers direct the ebb and flow of information that passes through the Admi
 | Quick Draw                       | 200  | T    | —                                |
 | Lip Reading                      | 300  | S    | —                                |
 
-| Advance                                                       | Cost | Type | Prerequisites            |
-|---------------------------------------------------------------|------|------|--------------------------|
-| Scholastic Lore (Occult) +10                                  | 100  | S    | Scholastic Lore (Occult) |
-| Lip Reading +10                                               | 200  | S    | Lip Reading              |
-| Minor Psychic Power‡                                          | 200  | T    | —                        |
-| Peer (Astropaths)                                             | 200  | T    | Fel 30                   |
-| Rapid Reload                                                  | 200  | T    | —                        |
-| Sound Constitution                                            | 200  | T    | —                        |
-| Psyniscience                                                  | 300  | S    | Psy Rating 1             |
-| Exotic Weapon Training (Needle Pistol)                        | 300  | T    | —                        |
-| Psy Rating 1                                                  | 300  | T    | —                        |
-| Unshakeable Faith                                             | 300  | T    | —                        |
-| Pistol Training (Plasma)                                      | 400  | T    | —                        |
+# **Loremaster Advances**
+
+*"When you understand the secrets of the universe, you will understand yourself."*
+
+Loremasters have reached such a level of knowledge of the galaxy that they have now turned their attentions inward, looking into the very mysteries of the human soul.
+
+| Advance                                                   | Cost | Type | Prerequisites            |
+| --------------------------------------------------------- | ---- | ---- | ------------------------ |
+| Scholastic Lore (Occult) +10                              | 100  | S    | Scholastic Lore (Occult) |
+| Lip Reading +10                                           | 200  | S    | Lip Reading              |
+| Minor Psychic Power‡                                      | 200  | T    | —                        |
+| Peer (Astropaths)                                         | 200  | T    | Fel 30                   |
+| Rapid Reload                                              | 200  | T    | —                        |
+| Sound Constitution                                        | 200  | T    | —                        |
+| Psyniscience                                              | 300  | S    | Psy Rating 1             |
+| Exotic Weapon Training (Needle Pistol)                    | 300  | T    | —                        |
+| Psy Rating 1                                              | 300  | T    | —                        |
+| Unshakeable Faith                                         | 300  | T    | —                        |
+| Pistol Training (Plasma)                                  | 400  | T    | —                        |
 | ‡You may take this Talent up to three times at this Rank. |      |      |                          |
-|                                                               |      |      |                          |
+
+# **Comptroller Advances**
+
+*"Stop staring, lad. It's not for the likes of archivists like you to look upon Comptrollers. Of course, he has an extra brain. You would too, if you had to work like that."*
+
+Comptrollers direct the ebb and flow of information that passes through the Administratum, plucking seemingly unconnected facts from the sea of knowledge to construct masterful solutions and cunning plans of attack.
 
 | Advance                              | Cost | Type | Prerequisites                     |
 |--------------------------------------|------|------|-----------------------------------|
@@ -288,23 +283,11 @@ Comptrollers direct the ebb and flow of information that passes through the Admi
 | Deadeye Shot                         | 200  | T    | BS 30                             |
 | Jaded                                | 300  | T    | WP 30                             |
 
-#### **Logister Advances**
+# **Logister Advances**
 
 *"The cogitation of Logister Veritas is that the city be razed. This solves both the crime and industry problems most elegantly. What? No, I'm afraid his plan is already in action. You did say you wanted a swift solution…"*
 
 Logisters apply their phenomenal powers of reasoning and logic to the toughest of problems, slicing through quandaries with the keen scalpel of their intellect.
-
-# **Magister Advances**
-
-*"If there's one thing worse than a psyker, it's a psyker that knows everything."*
-
-Magisters possess an implicit understanding of the nature of the galaxy, and man's place within it. Through the study of this forbidden knowledge they unlock hidden powers.
-
-# **Sage Advances**
-
-*"They say even the mysteries of the Tyrant Star are not beyond the mind of a sage."*
-
-Few secrets remain hidden from the mind of a sage.
 
 | Advance                                  | Cost | Type | Prerequisites                        |
 | ---------------------------------------- | ---- | ---- | ------------------------------------ |
@@ -333,6 +316,12 @@ Few secrets remain hidden from the mind of a sage.
 | Peer (Ecclesiarchy)                      | 300  | T    | Fel 30                               |
 | Sound Constitution                       | 300  | T    | —                                    |
 
+# **Magister Advances**
+
+*"If there's one thing worse than a psyker, it's a psyker that knows everything."*
+
+Magisters possess an implicit understanding of the nature of the galaxy, and man's place within it. Through the study of this forbidden knowledge they unlock hidden powers.
+
 | Advance                                                       | Cost | Type | Prerequisites |
 | ------------------------------------------------------------- | ---- | ---- | ------------- |
 | Catfall                                                       | 100  | T    | Ag 30         |
@@ -347,6 +336,12 @@ Few secrets remain hidden from the mind of a sage.
 | Pistol Training (Melta)                                       | 400  | T    | —             |
 | Psy Rating 3                                                  | 500  | T    | Psy Rating 2  |
 | ‡You may take this Talent up to three times at this Rank. |      |      |               |
+
+# **Sage Advances**
+
+*"They say even the mysteries of the Tyrant Star are not beyond the mind of a sage."*
+
+Few secrets remain hidden from the mind of a sage.
 
 | Advance                                  | Cost | Type | Prerequisites                            |
 | ---------------------------------------- | ---- | ---- | ---------------------------------------- |
