@@ -471,43 +471,43 @@ Stubbers are far older, and go back as far as known history reaches. Compared to
 
 To use the various classes of solid projectile weapons you must have the Pistol Training (SP), Basic Weapon Training (SP) or Heavy Weapon Training (SP) talents.
 
-| Solid Projectile Weapons  |        |           |       |          |     |       |        |                             |       |       |       |                |
-| ------------------------- | ------ | --------- | ----- | -------- | --- | ----- | ------ | --------------------------- | ----- | ----- | ----- | -------------- |
-| Name                      | Class  | R a n g e | RoF   | Dam      | Pen | Clip  | Rld    | Special                     | Wt    | Cost  | World | Availability   |
-| [[#Autopistol]] (generic) | Pistol | 30m       | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.5kg | 75    | -     | Common         |
-| - Disposable Pistol       | Pistol | 30m       | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | Inaccurate, Unreliable      | 2kg   | 15    | -     | Ubiquitous     |
-| - Encarmine               | Pistol | 20m       | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                           | 2kg   | 90    | -     | Average        |
-| - Hecuter                 | Pistol | 30m       | S/3/6 | 1d10+3 I | 0   | 15    | Full   | Reliable                    | 2kg   | 175   | -     | Average        |
-| - Naval Pistol            | Pistol | 20m       | S/3/- | 1d10+4 I | 0   | 6     | Full   | Tearing                     | 3kg   | 120   | -     | Scarce         |
-| - Orthlack Mark IV        | Pistol | 20m       | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                           | 2.5kg | 75    | -     | Scarce         |
-| - Puritan-14              | Pistol | 20m       | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                           | 1.7kg | 100   | -     | Scarce         |
-| - As shotgun              | Pistol | 15m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Scatter                     |       |       |       |                |
-| - Salvation               | Pistol | 10m       | S/3/- | 1d10 I   | 0   | 7     | -      | -                           | 0.7kg | 80    | -     | Common         |
-| - Talon Mark III          | Pistol | 30m       | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.3kg | 85    | -     | Common         |
-| Flametongue               | Pistol | 20m       | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | Primitive, Reliable,Tearing | 2kg   | 140   | -     | Rare           |
-| Hand Cannon (generic)     | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
-| - .54 Tranter             | Pistol | 30m       | S/2/- | 1d10+5 I | 2   | 7     | Full   | Unreliable                  | 3.5kg | 95    | -     | Common         |
-| - Carnodon                | Pistol | 35m       | S/3/- | 1d10+4 I | 2   | 6     | Full   | Accurate                    | 2.5kg | 200   | -     | Scarce         |
-| - Fate Bringer            | Pistol | 40m       | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | Accurate, Reliable          | 1.6kg | 200   | -     | Rare           |
-| - Storm child             | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
-| Hack Shotgun              | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | 2 Full | Inaccurate, Scatter,Tearing | 3kg   | 60    | -     | Common         |
-| Mariette                  | Pistol | 20m       | S/2/- | 2d5+3 I  | 0   | 2     | 2 Full | Tearing                     | 0.5k  | 400   | -     | Rare           |
-| Mercy Killer              | Pistol | 20m       | S/-/- | 1d10+2 I | 0   | 1     | 2 Full | Inaccurate, Unreliable      | 1kg   | 10    | -     | Plentiful      |
-| Panoptic                  | Pistol | 35m       | S/2/- | 1d10+3 I | 0   | 5(x2) | 2 Full | Reliable                    | 2kg   | 225   | -     | Rare           |
-| Ripper Clip               | Pistol | 20m       | -/-/6 | 1d10+2 I | 0   | 12    | Full   | Inaccurate, Unreliable      | 3kg   | 40    | Volg  | Common         |
-| Ripper Pistol             | Pistol | 30m       | S/2/- | 1d10+1 I | 7   | 8     | Full   | Tearing, Toxic              | 4kg   | 2,000 | -     | Extremely Rare |
-| Shotgun Pistol            | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Reliable, Scatter           | 1kg   | 60    | -     | Average        |
-| Stub Automatic (generic)  | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                           | 1.5kg | 50    | -     | Plentiful      |
-| - Arms man-10             | Pistol | 35m       | S/3/- | 1d10+3 I | 0   | 13    | Full   | -                           | 1.5kg | 75    | -     | Plentiful      |
-| - Dorcas-Pattern          | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Half   | -                           | 1.5kg | 125   | -     | Rare           |
-| - Phobos Stubber          | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                           | 1.3kg | 50    | -     | Plentiful      |
-| Stub Revolver (generic)   | Pistol | 30m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | Reliable                    | 1kg   | 40    | -     | Plentiful      |
-| Scalptaker                | Pistol | 35m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | Reliable                    | 2kg   | 40    | -     | Plentiful      |
+| Solid Projectile Weapons                 |        |           |       |          |     |       |        |                             |       |       |       |                |
+| ---------------------------------------- | ------ | --------- | ----- | -------- | --- | ----- | ------ | --------------------------- | ----- | ----- | ----- | -------------- |
+| Name                                     | Class  | R a n g e | RoF   | Dam      | Pen | Clip  | Rld    | Special                     | Wt    | Cost  | World | Availability   |
+| [[#Autopistol]] (generic)                | Pistol | 30m       | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.5kg | 75    | -     | Common         |
+| - [[#Disposable Pistol]]                 | Pistol | 30m       | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | Inaccurate, Unreliable      | 2kg   | 15    | -     | Ubiquitous     |
+| - [[#Sulymann Encarmine Service Pistol]] | Pistol | 20m       | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                           | 2kg   | 90    | -     | Average        |
+| - [[#Hecuter 9/5 Combat Autopistol]]     | Pistol | 30m       | S/3/6 | 1d10+3 I | 0   | 15    | Full   | Reliable                    | 2kg   | 175   | -     | Average        |
+| - Naval Pistol                           | Pistol | 20m       | S/3/- | 1d10+4 I | 0   | 6     | Full   | Tearing                     | 3kg   | 120   | -     | Scarce         |
+| - Orthlack Mark IV                       | Pistol | 20m       | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                           | 2.5kg | 75    | -     | Scarce         |
+| - Puritan-14                             | Pistol | 20m       | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                           | 1.7kg | 100   | -     | Scarce         |
+| - As shotgun                             | Pistol | 15m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Scatter                     |       |       |       |                |
+| - Salvation                              | Pistol | 10m       | S/3/- | 1d10 I   | 0   | 7     | -      | -                           | 0.7kg | 80    | -     | Common         |
+| - Talon Mark III                         | Pistol | 30m       | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.3kg | 85    | -     | Common         |
+| Flametongue                              | Pistol | 20m       | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | Primitive, Reliable,Tearing | 2kg   | 140   | -     | Rare           |
+| Hand Cannon (generic)                    | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
+| - .54 Tranter                            | Pistol | 30m       | S/2/- | 1d10+5 I | 2   | 7     | Full   | Unreliable                  | 3.5kg | 95    | -     | Common         |
+| - Carnodon                               | Pistol | 35m       | S/3/- | 1d10+4 I | 2   | 6     | Full   | Accurate                    | 2.5kg | 200   | -     | Scarce         |
+| - Fate Bringer                           | Pistol | 40m       | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | Accurate, Reliable          | 1.6kg | 200   | -     | Rare           |
+| - Storm child                            | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
+| [[#Hack Shotgun]]                        | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | 2 Full | Inaccurate, Scatter,Tearing | 3kg   | 60    | -     | Common         |
+| Mariette                                 | Pistol | 20m       | S/2/- | 2d5+3 I  | 0   | 2     | 2 Full | Tearing                     | 0.5k  | 400   | -     | Rare           |
+| Mercy Killer                             | Pistol | 20m       | S/-/- | 1d10+2 I | 0   | 1     | 2 Full | Inaccurate, Unreliable      | 1kg   | 10    | -     | Plentiful      |
+| Panoptic                                 | Pistol | 35m       | S/2/- | 1d10+3 I | 0   | 5(x2) | 2 Full | Reliable                    | 2kg   | 225   | -     | Rare           |
+| Ripper Clip                              | Pistol | 20m       | -/-/6 | 1d10+2 I | 0   | 12    | Full   | Inaccurate, Unreliable      | 3kg   | 40    | Volg  | Common         |
+| Ripper Pistol                            | Pistol | 30m       | S/2/- | 1d10+1 I | 7   | 8     | Full   | Tearing, Toxic              | 4kg   | 2,000 | -     | Extremely Rare |
+| Shotgun Pistol                           | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Reliable, Scatter           | 1kg   | 60    | -     | Average        |
+| [[#Stub Automatic]] (generic)            | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                           | 1.5kg | 50    | -     | Plentiful      |
+| - Arms man-10                            | Pistol | 35m       | S/3/- | 1d10+3 I | 0   | 13    | Full   | -                           | 1.5kg | 75    | -     | Plentiful      |
+| - Dorcas-Pattern                         | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Half   | -                           | 1.5kg | 125   | -     | Rare           |
+| - Phobos Stubber                         | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                           | 1.3kg | 50    | -     | Plentiful      |
+| Stub Revolver (generic)                  | Pistol | 30m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | Reliable                    | 1kg   | 40    | -     | Plentiful      |
+| - Scalptaker                             | Pistol | 35m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | Reliable                    | 2kg   | 40    | -     | Plentiful      |
 ### Autopistol
 
 Small but effective, autopistols are the preferred backup weapon of many military types who need a compact but rapid-firing gun for situations where their main long-arm is unsuitable. They are also the sidearm of choice for many gangers and outlaws as they conceal quite a bit of firepower in a relatively small package that can be stuffed into a pocket and carried all day, while more than a few of those scummers have met their end from another autopistol wielded by an Arbitrator opposite his suppression shield. Numerous autopistol patterns throughout the Imperium are similar enough to fall into this weapon's entry, while the fanes and forges in the Calixis Sector produce some more exotic variants as listed below.
 
-**Disposable Pistol:**
+#### Disposable Pistol:
 Stripped down to the bare minimum of functioning parts, autopistols of this type can be commonly found in shipboard and flyer survival kits, and exist in a multitude of shapes and sizes in just about every corner of Imperial space. Because they are poorly made and prone to misfiring, with a clip that is intentionally hard to remove as a precaution against it coming loose, most accomplished pistol fighters consider these weapons easier to throw away than to reload. Even the most destitute of the Imperium's citizens can typically afford to stuff one of these weapons into their belts, while there are assassins who have been known to use such pistols simply because they can be effortlessly discarded after completing a contract. Disposable pistols cannot be equipped with any special ammunition.
 
 #### Sulymann Encarmine Service Pistol:
@@ -587,31 +587,32 @@ Known locally as the "zip gun" or "chopper", this bulky pistol is purposely desi
 
 Ripper Clips have Common Availability in Volg and are Scarce elsewhere.
 
-#### Belasco Ripper Pistol
+### Belasco Ripper Pistol
 This highly rare pistol is intended for those who often set foot on death worlds whether for adventure, sport, or some other line of work, and need a compact weapon that can fell mighty beasts and other terrible creatures that lurk within the jungle or under the sands. Though at first glance looking like a common if over-built autopistol, a Ripper Pistol is a precision weapon built to fire massive armour-piercing stub rounds that fragment after penetrating the target's body. After shredding through flesh and bone, the fragments release a potent neurotoxin into the victim creature's bloodstream to ensure that if the grievous wound didn't do the job, its nervous system dissolving will. Ripper Pistols are often the final word in terminal close encounters, and there are more than a few famed explorers and hunters who are alive today thanks to the (large) investment made in one of these weapons. While a Ripper Pistol would certainly be just as effective against men as beasts, such use would be excessive in every sense of the word, and even using a bolt pistol would be a far more economical option.
 
 Ripper Pistols use specialty ammunition that is considered Very Rare with a base cost of 100 Thrones each. A true expert's weapon, Ripper Pistols cannot be used with any other type of ammunition.
 
-#### Shotgun Pistol
+### Shotgun Pistol
 A Shotgun Pistol is a compact weapon holding a single shotgun shell and using a tip-up barrel to facilitate reloading. Simple and reliable, shotgun pistols have a variety of applications in close-range destruction, but are perhaps best known in naval circles where they are often carried by petty officers and bosuns to discourage mutiny among press-ganged crews. Shotgun pistols are known as "Persuaders" among ratings and anyone else with a nautical background, and may be referred to by any number of more colourful titles ("Foehammer", "Castigator", "Justicar", and so forth) by terrestrial users.
 
 A shotgun pistol's fierce recoil imposes a -10 penalty on Ballistic Skill Tests made to attack unless the shooter holds the weapon with two hands or has a Strength Bonus of 4 or more.
 
-#### Stub Automatic
+### Stub Automatic
 Mechanically simple and robust, stub automatics are one of the more prevalent types of slug-throwing pistols around. They typically take the form of slide-action handguns with a clip inserted into the pistol's grip and eject spent bullet casings to the shooter's right side. Stubbers like this are older than the Imperium itself, and while there are still many forges that produce modern patterns of this tried-and-true weapon, it's likely that there's still plenty truly ancient pistols in use, possibly without the knowledge of their current owners. Some more unique stub automatics are listed here.
 
-**Hax-Orthlack Armsman-10 Service Pistol:**
+#### Hax-Orthlack Armsman-10 Service Pistol:
 This bulky and intimidating high-capacity stubber is a common sidearm for enforcers, household troops and mercenaries throughout the Calixis Sector. The design is copied from the traditional Scorpio-pattern naval pistol popular throughout Segmentum Obscurus, and Hax-Orthlack has been mass producing this stubber for almost as long as its forges on Scintilla have been operating. The Armsman-10 has been contracted to Lord Hax's Magistratum cadres as their standard sidearm since that organization's inception, though it can be found on many other worlds in the employ of a variety of owners. Armsman pistols are machine-stamped with the insignia of the contracting organization at the time of manufacture, and the more rare examples lacking this sigil or cipher are considered unlucky by the more superstitious shooters. Perhaps due to its association with the heavies of various establishments, the Armsman is encountered much less frequently in the hands of underhive gangs and other scummers.
 
-**Dorcas-Pattern Trophy Automatic:**
+#### Dorcas-Pattern Trophy Automatic:
 Once manufactured on Cantus in the Markayn Marches, this pistol became widely associated with the Insurrection there in 440.M41. Many Dorcas pistols were taken from the battlefield as trophies by victorious Guard regiments, and after the Insurrection was concluded the pistol became something of an award in and of itself. Tradition has since resulted in replica Dorcas-Patterns being issued as commendations to soldiers and junior officers among many Guard units (including some that did not participate in the Cantus Insurrection at all), while relics from the war itself are highly valued by collectors. Functionally the Dorcas is a fairly unremarkable stubber except for its angled and funnel-like loading port which allows fresh clips to be rammed home quickly with ease.
 
-**Phobos Stubber:** The Phobos is one of the most widespread single patterns of stub automatic and can be found in almost every corner of the Imperium. It is cheap to manufacture and a functional, if unimpressive, design that is unique among stubbers in that its specific pattern has demonstrably been in production since prehistory. Its long association with Terra has resulted in it being an exceptionally common sidearm among Administratum adepts who refer to it as the "Sigma-9" after the opening code-line of the relevant requisition form needed to obtain one. The Fane of Doru in Gunmetal City and the Belasco Deathworks on Malfi (where it is known as a "rake" in local parlance) notably produce this pattern and export it throughout the sector.
+#### Phobos Stubber: 
+The Phobos is one of the most widespread single patterns of stub automatic and can be found in almost every corner of the Imperium. It is cheap to manufacture and a functional, if unimpressive, design that is unique among stubbers in that its specific pattern has demonstrably been in production since prehistory. Its long association with Terra has resulted in it being an exceptionally common sidearm among Administratum adepts who refer to it as the "Sigma-9" after the opening code-line of the relevant requisition form needed to obtain one. The Fane of Doru in Gunmetal City and the Belasco Deathworks on Malfi (where it is known as a "rake" in local parlance) notably produce this pattern and export it throughout the sector.
 
-#### Stub Revolver
+### Stub Revolver
 Stub revolvers are among the most basic and simplistic slug throwers still in use in the Imperium today. Weapons of this type were likely among the first firearms ever made by humans, and Administratum scholars studying late feudal worlds have noted the extreme similarities between indigenously-developed sixguns and the stub revolvers tucked into their own robe sashes. Stub revolvers have few moving parts, and while many patterns and styles area produced by large forges throughout the Imperium, others of equivalent quality can often be made simply by higher grade scav-workshops as anyone with even a rudimentary understanding of mechanics and access to a few machining presses can make one, much to the consternation of the Adeptus Mechanicus. This type of pistol is also quite easy to use, and given their inexpensive cost, stub revolvers are often the first choice of many common Imperial citizens who desire temporal protection to go along with that of faith's eternal. In the unlikely event that a sub revolver should Jam, clearing it takes only a Half Action instead of a Full Action.
 
-**Westingkrup Model 20 "Scalptaker":**
+#### Westingkrup Model 20 "Scalptaker":
 An enviable example of robust and utilitarian design, the Scalptaker is a fantastically reliable pistol, firing true after almost any amount of abuse or mistreatment. This fact is not lost on professional fighters, frightened hivers and frontier colonists alike, who often choose the Scalptaker as a backup sidearm over more powerful pistols for this very reason. However, in the depths of Infernis in Gunmetal City where Westingkrup's forges turn out many of these pistols every day, the average ganger seeks to carry almost anything else. This scorn is entirely unfounded; those who live fast and die young in the underhive view its ubiquity as a "hab-prole's" gun and cannot see past that to any of its finer features. Scalptakers are the most common individual pattern of stub revolver in the Calixis Sector, and almost any accomplished shooter has handled one at least once, with some still swearing by its humble efficiency in the face of countless more expensive and "superior" makes.
 
 The Scalptaker's swing-out cylinder is somewhat uncommon among stub revolvers and gives shooters the ability to load single rounds at a time. The firer may load one round as a Half Action, useful for loading specialty ammunition. The weapon's size and weight allow it to be used as a club in melee combat.
