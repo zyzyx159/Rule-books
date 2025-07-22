@@ -26,7 +26,11 @@ Adepts may be thought of as meek when compared to other Acolytes, but they have 
 | Perception                               | 100    | 250          | 500     | 750    |  |
 | Willpower                                | 100    | 250          | 500     | 750    |  |
 | Fellowship                               | 250    | 500          | 750     | 1,000  |  |
+```mermaid
+graph TD
+A[Archivist 0-499] --> B[Scrivener 500-999]
 
+```
 # **Archivist Advances**
 
 *"Throne blind you boy, fetch those books before I use your hide for a binding!"*
