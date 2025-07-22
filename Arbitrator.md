@@ -30,6 +30,13 @@ The relationship between the Inquisition and the Adeptes Arbites is often one of
 | Willpower       | 250    | 500          | 750     | 1,000  |
 | Fellowship      | 250    | 500          | 750     | 1,000  |
 
+```mermaid
+graph TD
+A[Trooper 0-499] --> B[Enforcer 500-999]
+B --> C[Regulator 1,000-1,999]
+C --> D[Investigator 2,000-2,999]
+D --> E[Arbitrator 3,000]
+```
 # **Trooper Advances**
 
 *"Call yourself an arbitrator? You're not fit to wear the uniform."*

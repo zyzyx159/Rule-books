@@ -43,7 +43,7 @@ L --> M[Marksman 8,000-9,999]
 M --> N[Sniper 10,000-14,999]
 ```
 
-#### **Conscript Advances**
+# **Conscript Advances**
 
 *"If they can bleed and run, they can hold a gun."*
 
@@ -64,7 +64,7 @@ Conscripts learn the raw basics of combat: the charge, the way of the gun and th
 | Thrown Weapon Training (Primitive)                        | 100  | T    | —             |     |
 | ‡You may take this Talent up to three times at this Rank. |      |      |               |     |
 
-#### **Guard Advances**
+# **Guard Advances**
 
 *"They left the drop pods as mere conscripts… they returned as men."*
 
@@ -143,7 +143,7 @@ As proven warriors, Sergeants learn to finesse their attacks and widen their ski
 | Two-Weapon Wielder (Melee)        | 200  | T    | WS 35, Ag 35                          |
 | Barter                            | 300  | S    | —                                     |
 
-#### **Veteran Advances**
+# **Veteran Advances**
 
 *"You think this is bad, kid? Just wait till the big guns start!"*
 
@@ -174,7 +174,7 @@ Veterans hold their own upon the battlefield, inspiring others with their prowes
 | Iron Jaw                                                 | 200                                                                                     | T             | T 40                             |
 | Sound Constitution†                                      | 200                                                                                     | T             | —                                |
 | † You may take this Talent up to two times at this Rank. |                                                                                         |               |                                  |
-#### **Assault Veteran Advances**
+# **Assault Veteran Advances**
 
 *"It's going to get close and messy lads, stay close to me and don't be afraid to get it on ya…"*
 
@@ -195,33 +195,33 @@ Freedom is bought at the point of a blade, and Assault Veterans know this all to
 | Dodge +20                        | 200  | S    | Dodge +10                          |
 | Sound Constitution               | 200  | T    | —                                  |
 | Lightning Attack                 | 300  | T    | Swift Attack                       |
-#### **Lieutenant Advances**
+# **Lieutenant Advances**
 
 *"Watch your formation and stay sharp!"*
 
 Lieutenants lead their men into glorious battle. It falls to an officer to accept the weight of command and responsibilities for success of failure on the battlefield.
 
-| Advance                              | Cost    | Type | Prerequisites                |
-|--------------------------------------|---------|------|------------------------------|
-| Command +10                          | 100     | S    | Command                      |
-| Common Lore (Ecclesiarchy)           | 100     | S    | —                            |
-| Common Lore (Imperial Creed) +10     | 100     | S    | Common Lore (Imperial Creed) |
-| Interrogation                        | 100     | S    | —                            |
-| Navigation (Surface) +20             | 100     | S    | Navigation (Surface) +10     |
-| Scholastic Lore (Tactica Imperialis) | 100     | S    | —                            |
-| Trade (Copyist)                      | 100     | S    | —                            |
-| Hatred (Mutants)                     | 100     | T    | —                            |
-| Melee Weapon Training (Power)        | 100     | T    | —                            |
-| Chem-Use                             | 200     | S    | —                            |
-| Literacy +10                         | 200     | S    | Literacy                     |
-| Medicae +10                          | 200     | S    | Medicae                      |
-| Scrutiny                             | 200     | S    | —                            |
-| Pistol Training (Plasma)             | 200     | T    | —                            |
-| Sound Constitution                   | 200     | T    | —                            |
-| Blather                              | 300     | S    | —                            |
-| Charm                                | 300     | S    | —                            |
-| Deceive                              | 300     | S    | —                            |
-| Evaluate                             | 300     | S    | —                            |
+| Advance                              | Cost | Type | Prerequisites                |
+| ------------------------------------ | ---- | ---- | ---------------------------- |
+| Command +10                          | 100  | S    | Command                      |
+| Common Lore (Ecclesiarchy)           | 100  | S    | —                            |
+| Common Lore (Imperial Creed) +10     | 100  | S    | Common Lore (Imperial Creed) |
+| Interrogation                        | 100  | S    | —                            |
+| Navigation (Surface) +20             | 100  | S    | Navigation (Surface) +10     |
+| Scholastic Lore (Tactica Imperialis) | 100  | S    | —                            |
+| Trade (Copyist)                      | 100  | S    | —                            |
+| Hatred (Mutants)                     | 100  | T    | —                            |
+| Melee Weapon Training (Power)        | 100  | T    | —                            |
+| Chem-Use                             | 200  | S    | —                            |
+| Literacy +10                         | 200  | S    | Literacy                     |
+| Medicae +10                          | 200  | S    | Medicae                      |
+| Scrutiny                             | 200  | S    | —                            |
+| Pistol Training (Plasma)             | 200  | T    | —                            |
+| Sound Constitution                   | 200  | T    | —                            |
+| Blather                              | 300  | S    | —                            |
+| Charm                                | 300  | S    | —                            |
+| Deceive                              | 300  | S    | —                            |
+| Evaluate                             | 300  | S    | —                            |
 # **Scout Advances**
 
 *"I swear dead men make more noise than that bastard."*
@@ -308,7 +308,7 @@ Most Imperial forces include a Marksman to support the rest of its members with 
 | Shadowing                                               | 300  | S    | —                   |
 | †You may take this Talent up to two times at this Rank. |      |      |                     |
 
-#### **Storm Trooper Advances**
+# **Storm Trooper Advances**
 
 *"Storm troopers? Them thronegroaning glory boys get all the prime action—and all the credit, too. Don't listen to the propaganda it's us regular Guard that does all the grit-work."*
 
