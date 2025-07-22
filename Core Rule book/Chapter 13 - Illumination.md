@@ -1,4 +1,3 @@
-# Chapter XIII: 
 ## Ideas for Follow-Up Adventures 
 
 Whilst the Acolytes have, hopefully, dealt with the immediate threat posed by Aristarchus and Tsyiak, the work of the Inquisition never ceases. Corruption, deceit and heresy are always lurking, ever present, in the dark and grim world of *Warhammer 40,000*. What follows are some possible plot threads for followup adventures for you, the GM, to work up into full adventures.
