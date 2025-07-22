@@ -1003,46 +1003,46 @@ As weapons that contain a miniature fusion device and use arcane magnetic fields
 
 To use plasma weapons without penalty, a character must have the Pistol Training (Plasma), Basic Weapon Training (Plasma), or Heavy Weapon Training (Plasma) talents.
 
-| Plasma Weapons           |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
-| ------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
-| Name                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                                | Wt    | Cost  | World  | Availability  |
-| Phased Plasma Gun        | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | [[#Special                                                             | 12kg  | 1,500 | Lathes | Very Rare     |
-| Plasma Blaster           | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Overheats]], [[#Recharge]], [[#Vicious]] | 20kg  | 7,500 | -      | Very Rare     |
-| Plasma Cannon            | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                                         | 38kg† | 8,500 | -      | Very Rare     |
-| - (Maximal)              |        |       |       | 4d10+10 E |     |      |        | [[#Blast (X)\|Blast]] (3), [[#Overheats]], [[#Recharge]], [[#Vicious]] |       |       |        |               |
-| Plasma Gun (Ryza)        | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | [[#Overheats]]                                                         | 9kg   | 3,000 | -      | Very Rare     |
-| - (Maximal)              |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - Clovis                 | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 20kg  | 6,000 | -      | ExtremelyRare |
-| - (Maximal)              |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - Mezoa                  | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 17kg  | 2,200 | -      | Very Rare     |
-| - Sunfury                | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
-| Plasma Pistol (Ryza)     | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 4,000 | -      | Very Rare     |
-| - (Maximal)              |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - Kronos                 | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
-| - (Maximal)              |        |       |       | 2d10+10 E | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - Wrath                  | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | [[#Accurate]], [[#Overheats]]                                          | 5kg   | 6,500 | -      | ExtremelyRare |
-| †Not including ammo pack |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
+| Plasma Weapons                |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
+| ----------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
+| Name                          | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                                | Wt    | Cost  | World  | Availability  |
+| [[#Phased Plasma Gun]]        | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                                                | 12kg  | 1,500 | Lathes | Very Rare     |
+| [[#Plasma Blaster]]           | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Overheats]], [[#Recharge]], [[#Vicious]] | 20kg  | 7,500 | -      | Very Rare     |
+| [[#Plasma Cannon]]            | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                                         | 38kg† | 8,500 | -      | Very Rare     |
+| - (Maximal)                   |        |       |       | 4d10+10 E |     |      |        | [[#Blast (X)\|Blast]] (3), [[#Overheats]], [[#Recharge]], [[#Vicious]] |       |       |        |               |
+| [[#Plasma Gun (Ryza)]]        | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | [[#Overheats]]                                                         | 9kg   | 3,000 | -      | Very Rare     |
+| - (Maximal)                   |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - [[#Clovis Mark IV\|Clovis]] | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 20kg  | 6,000 | -      | ExtremelyRare |
+| - (Maximal)                   |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - [[#Mezoa                    | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 17kg  | 2,200 | -      | Very Rare     |
+| - Sunfury                     | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
+| Plasma Pistol (Ryza)          | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 4,000 | -      | Very Rare     |
+| - (Maximal)                   |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - Kronos                      | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
+| - (Maximal)                   |        |       |       | 2d10+10 E | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - Wrath                       | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | [[#Accurate]], [[#Overheats]]                                          | 5kg   | 6,500 | -      | ExtremelyRare |
+| †Not including ammo pack      |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
 
-#### Phased Plasma Gun
+### Phased Plasma Gun
 Class: Basic (Plasma)
 
 This singular variant of plasma gun is an exclusive weapon of the Venatorii "Crimson Guard" of the Lathe Worlds, constructed with peculiar but undeniably effective secrets of techartifice known only to the forgemasters of those planets. A phased plasma gun is not a wholly independent weapon, requiring an integrated link to the bearer's potentia coil in order to function properly; this prevents it from falling into the "wrong hands" while simultaneously mollifying a number of existent problems that plague most types of plasma weapons. A phased plasma gun can dissipate dangerous energy overloads through the bearer's potentia coil and bio-power systems, and while uncomfortable to say the least, the weapon can be used without concern of it turning into a molten fireball. Furthermore, energy from the bearer's linked potentia coil is employed in an unusual but functional method to improve the plasma gun's refire rate, the using a directed pulse to split the outgoing hydrogen bolt in an approximation of automatic fire. This configuration is broadly similar to an innovative method employed by the secretive tech-artisans of Clove, which has sparked discussion of intrigue among the more scholarly adherents of the Cult Mechanicus. A phased plasma gun's firepower is somewhat less consistent as a result of its bizarre and eclectic power systems, but it represents a wholly superior platform to common plasma weapons used throughout the Imperium, and for exactly that reason it will likely remain in absolute control of the Venatorii.
 
 A character must have both the Basic Weapon Training (Plasma) and Exotic Weapon Training (Integrated Ranged Weapons) to use a phased plasma gun without penalty. A phased plasma gun gains the listed profile when connected to the wielder's potentia coil, which requires a Half Action and a successful Ordinary (+10) Tech-Use Test. While connected, a phased plasma gun does not Jam or overheat; an attack that would result in a Jam simply misses while inflicting 1 level of Fatigue on the on the wielder as their potentia coil absorbs the excessive energy. As long as the wielder's potentia coil is charged, a phased plasma gun has an unlimited Clip size and does not need to be reloaded. Should the weapon become disconnected, it rapidly becomes inert; the Clip size becomes 1d5 and the weapon gains the Overheats quality. See the Weapon Upgrades section for more information on Integrated Weapons. A phased plasma gun has an Availability of Very Rare in the Lathe system, Near Unique on other Forge Worlds, and is typically not encountered anywhere else.
 
-#### Plasma Blaster
+### Plasma Blaster
 Class: Basic (Plasma)
 
 A plasma blaster is a crude but functional expedient designed to create a weapon with similar firepower to a plasma cannon that is significantly more portable. Twin barrels are powered by a single set of standard plasma flasks and fusion generator, creating a significantly more potent ball of starstuff that can wipe out multiple enemy troops at once as well as defeat light vehicles by slagging through their armour. A number of concessions had to be made to obtain this firepower in a (reasonably) lightweight package, and plasma blasters suffer from a significantly shorter range and lower number of shots available thanks to more rapid and less efficient consumption of hydrogen. Plasma blasters include a functional if dangerous rapid reloading system that violently ejects spent plasma flasks from the weapon's housing, leaving the firer only needing to insert fresh ones. Care must be taken to ensure that no body parts are in the path of these jettisoned canisters as examples of the errant vessels penetrating flakboard walls have been noted.
 
-#### Plasma Cannon
+### Plasma Cannon
 Class: Heavy (Plasma)
 
 Monstrous weapons in every definition, plasma cannons are essentially grossly oversized plasma guns that can cause utter havoc on the battlefield as blasts of solar intensity are flung about. Plasma cannons are most often found attached to Imperial armoured vehicles where their mass and necessity for external ammunition supplies are non-issues, and can benefit from large liquid cooling systems to minimize the possibility of dangerous overheating. No Imperial Guard regiments make use of plasma cannons in the infantry role, but well-funded (and brave) elite mercenaries acting under the authority of rich noble houses and the personal troops of Rogue Traders have been known to port these frighteningly potent weapons around with them.
 
 Plasma cannons can be fired on a Maximal setting for greatly increased firepower. Firing in Maximal mode consumes six shots from the weapon's Clip and gains the Damage and Special Qualities listed. The plasma cannon rules listed assume the firer is equipped with a backpack ammo pack weighing 25kg which provides the stated Clip size. A plasma cannon can be used with standard plasma flasks in a pinch, with two flasks providing a Clip of 4 (and disallowing Maximal fire).
 
-#### Plasma Gun (Ryza)
+### Plasma Gun (Ryza)
 Class: Basic (Plasma)
 
 Plasma Guns are the most common form of plasma weapon in use within the Imperium, and many well-organised Imperial Guard regiments include a plasma gunner in each squad of veteran troops. While this is something of a dubious honour, giving plasma weaponry's generally temperamental nature, only a minority of Guardsmen would honestly rather use their standard-issue lasgun after seeing the efficiency of their plasma gun in vaporising the enemy.
@@ -1051,12 +1051,12 @@ Ryza, a forge world in Ultima Segmentum, produces the largest share of plasma we
 
 Plasma weapons made on Ryza generally include a Maximal setting which discharges a much larger blast over longer range. Firing on Maximal depletes readily available plasma within the fusion chamber, and the weapon cannot be fired again until it refills (gaining the Recharge quality as described). Firing on Maximal consumes 3 shots from the plasma weapon's Clip, and cannot be used if it does not have at least 3 shots left.
 
-**Clovis Mark IV:**
+#### Clovis Mark IV:
 This curious plasma gun is produced on the hive world of Clove in the Hazeroth Abyss and is capable of rapid-fire. Its plasma blasts are somewhat smaller and less intense than those of comparable patterns, but the fully automatic capability is of immediate interest to tech-scholars and other artificers. According to those who have studied it, the Clovis plasma gun makes use of rapid dilation and contraction of its magnetic containing fields to release swift spurts of plasma, effectively chopping up a single charge into multiple smaller projectiles. While crude in design, this capability represents a feature from the ancient past of plasma weaponry, and there are some within the Machine Cult that believe the tech-artisans of Clove might have acquired a partial STC or data fragment from the Dark Age of Technology and are guarding it jealously, with this Mark IV plasma gun as a product of that knowledge.
 
 The Clovis plasma gun has a Maximal setting similar to those made on Ryza that can be employed on either single shots or semi-auto bursts. If fired on semi-auto the Clovis totally depletes its energized hydrogen and must wait two Rounds instead of one while the fusion core builds up a plasma charge. Firing on the Maximal setting consumes 3 shots (9 if fired on semi-auto) and cannot be used if it doesn't have at least that many shots remaining in its Clip.
 
-**Mezoa-Pattern:**
+#### Mezoa-Pattern:
 Mezoa-pattern plasma guns, manufactured on that world in the Gothic Sector, are typical of any number of "lesser grade" plasma guns that hail from forge worlds without Ryza's intimate knowledge of their art and design. While certainly functional and deadly enough, these plasma guns typically lack a Maximal setting and are significantly more bulky and heavier to schlep around due to their inefficient induction coils and unnecessarily large fusion core. The sheer volume of plasma guns produced by Ryza makes them similar in number to those from lesser forges combined, but the inferior characteristics of these substandard patterns does tend to reduce their black market cost, and having any plasma gun is certainly better than having none at all.
 
 **Mark III Sunfury Assault Gun:**
