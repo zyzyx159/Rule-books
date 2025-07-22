@@ -103,16 +103,9 @@ An Enforcer is taught how to keep order in the most desperate situations, stand 
 
 Regulators take the law to the underworld, holding their own against any who challenge the Emperor's law.
 
-# **Investigator Advances**
-
-*"This is a tough one. Hit the hab-block, find out what people know."*
-
-Investigators learn the arts of inquiry, using contacts, charm and dirty tactics to uncover the truth.
-
 | Advance                          | Cost | Type | Prerequisites |
-|----------------------------------|------|------|---------------|
+| -------------------------------- | ---- | ---- | ------------- |
 | Ciphers (Underworld)             | 100  | S    | —             |
-| Common Lore (Imperium)           | 100  | S    | —             |
 | Dodge                            | 100  | S    | —             |
 | Interrogation                    | 100  | S    | —             |
 | Scholastic Lore (Judgement)      | 100  | S    | —             |
@@ -131,6 +124,12 @@ Investigators learn the arts of inquiry, using contacts, charm and dirty tactics
 | Two-Weapon Wielder (Melee)       | 200  | T    | WS 35, Ag 35  |
 | Survival                         | 300  | S    | —             |
 | Crushing Blow                    | 300  | T    | S 40          |
+
+# **Investigator Advances**
+
+*"This is a tough one. Hit the hab-block, find out what people know."*
+
+Investigators learn the arts of inquiry, using contacts, charm and dirty tactics to uncover the truth.
 
 | Advance                      | Cost | Type | Prerequisites |
 |------------------------------|------|------|---------------|
@@ -238,12 +237,6 @@ Intelligencers are spymasters, tacticians and forensic experts. Their powerful i
 
 Magistrates rule upon intricate cases of heresy and sedition. By dispensing death, they keep the soul of the Imperium alive.
 
-# **Justicar Advances**
-
-*"Where Justicar tread, nobles tremble."*
-
-The Justicar brings the light of the Emperor's judgement to decadent nobles, corrupt officials and worlds brought low by dark worship.
-
 | Advance                                                     | Cost | Type | Prerequisites                          |
 |-------------------------------------------------------------|------|------|----------------------------------------|
 | Charm +20                                                   | 100  | S    | Charm +10                              |
@@ -269,38 +262,69 @@ The Justicar brings the light of the Emperor's judgement to decadent nobles, cor
 | Furious Assault                                             | 300  | T    | WS 35                                  |
 | †You may take this Talent up to two times at this Rank. |      |      |                                        |
 
-| Advance                                                     | Cost | Type | Prerequisites                         |
-|-------------------------------------------------------------|------|------|---------------------------------------|
-| Literacy +20                                                | 100  | S    | Literacy +10                          |
-| Scholastic Lore (Judgement) +20                             | 100  | S    | Scholastic Lore (Judgement) +10       |
-| Scholastic Lore (Tactica Imperialis) +10                    | 100  | S    | Scholastic Lore (Tactica Imperialis)  |
-| Forbidden Lore (Cults) +10                                  | 200  | S    | Forbidden Lore (Cults)                |
-| Forbidden Lore (Heresy) +10                                 | 200  | S    | Forbidden Lore (Heresy)               |
-| Forbidden Lore (Mutants) +10                                | 200  | S    | Forbidden Lore (Mutants)              |
-| Forbidden Lore (Psykers) +10                                | 200  | S    | Forbidden Lore (Psykers)              |
-| Scrutiny +20                                                | 200  | S    | Scrutiny +10                          |
-| Basic Weapon Training (Melta)                               | 200  | T    | —                                     |
-| Dual Shot                                                   | 200  | T    | Ag 40, Two-Weapon Wielder (Ballistic) |
-| Dual Strike                                                 | 200  | T    | Ag 40, Two-Weapon Wielder (Melee)     |
-| Heavy Weapon Training (Bolt)                                | 200  | T    | —                                     |
-| Hip Shooting                                                | 200  | T    | BS 40, Ag 40                          |
-| Independent Targeting                                       | 200  | T    | BS 40                                 |
-| Iron Discipline                                             | 200  | T    | WP 30, Command                        |
-| Peer (Nobility)                                             | 200  | T    | Fel 30                                |
-| Pistol Training (Melta)                                     | 200  | T    | —                                     |
-| Talented (Command)                                          | 200  | T    | Command                               |
-| Wall of Steel                                               | 200  | T    | Ag 35                                 |
-| Forbidden Lore (Inquisition)                                | 300  | S    | —                                     |
-| Crack Shot                                                  | 300  | T    | BS 40                                 |
-| Lightning Attack                                            | 300  | T    | Swift Attack                          |
-| Sound Constitution†                                         | 300  | T    | —                                     |
-| † You may take this Talent up to two times at this Rank.    |      |      |                                       |
+# **Justicar Advances**
+
+*"Where Justicar tread, nobles tremble."*
+
+The Justicar brings the light of the Emperor's judgement to decadent nobles, corrupt officials and worlds brought low by dark worship.
+
+| Advance                                                  | Cost | Type | Prerequisites                         |
+| -------------------------------------------------------- | ---- | ---- | ------------------------------------- |
+| Literacy +20                                             | 100  | S    | Literacy +10                          |
+| Scholastic Lore (Judgement) +20                          | 100  | S    | Scholastic Lore (Judgement) +10       |
+| Scholastic Lore (Tactica Imperialis) +10                 | 100  | S    | Scholastic Lore (Tactica Imperialis)  |
+| Forbidden Lore (Cults) +10                               | 200  | S    | Forbidden Lore (Cults)                |
+| Forbidden Lore (Heresy) +10                              | 200  | S    | Forbidden Lore (Heresy)               |
+| Forbidden Lore (Mutants) +10                             | 200  | S    | Forbidden Lore (Mutants)              |
+| Forbidden Lore (Psykers) +10                             | 200  | S    | Forbidden Lore (Psykers)              |
+| Scrutiny +20                                             | 200  | S    | Scrutiny +10                          |
+| Basic Weapon Training (Melta)                            | 200  | T    | —                                     |
+| Dual Shot                                                | 200  | T    | Ag 40, Two-Weapon Wielder (Ballistic) |
+| Dual Strike                                              | 200  | T    | Ag 40, Two-Weapon Wielder (Melee)     |
+| Heavy Weapon Training (Bolt)                             | 200  | T    | —                                     |
+| Hip Shooting                                             | 200  | T    | BS 40, Ag 40                          |
+| Independent Targeting                                    | 200  | T    | BS 40                                 |
+| Iron Discipline                                          | 200  | T    | WP 30, Command                        |
+| Peer (Nobility)                                          | 200  | T    | Fel 30                                |
+| Pistol Training (Melta)                                  | 200  | T    | —                                     |
+| Talented (Command)                                       | 200  | T    | Command                               |
+| Wall of Steel                                            | 200  | T    | Ag 35                                 |
+| Forbidden Lore (Inquisition)                             | 300  | S    | —                                     |
+| Crack Shot                                               | 300  | T    | BS 40                                 |
+| Lightning Attack                                         | 300  | T    | Swift Attack                          |
+| Sound Constitution†                                      | 300  | T    | —                                     |
+| † You may take this Talent up to two times at this Rank. |      |      |                                       |
 
 # **Proctor Advances**
 
 *"Open fire!"*
 
 Proctors lead Adeptes Arbites riot squads and suppression forces against highly armed, and highly foolish, criminals.
+
+| Advance                          | Cost | Typ | Prerequisites                          |
+| -------------------------------- | ---- | --- | -------------------------------------- |
+| Climb +20                        | 100  | S   | Climb +10                              |
+| Command                          | 100  | S   | —                                      |
+| Interrogation +20                | 100  | S   | Interrogation +10                      |
+| Intimidation +20                 | 100  | S   | Intimidation +10                       |
+| Survival +10                     | 100  | S   | Survival                               |
+| Tracking +20                     | 100  | S   | Tracking +10                           |
+| Arms Master                      | 100  | T   | BS 30, Basic Weapon Training (any two) |
+| Hip Shooting                     | 100  | T   | BS 40, Ag 40                           |
+| Ciphers (War Cant)               | 200  | S   | —                                      |
+| Secret Tongue (Military)         | 200  | S   | —                                      |
+| Basic Weapon Training (Melta)    | 200  | T   | —                                      |
+| Blind Fighting                   | 200  | T   | Per 30                                 |
+| Heavy Weapon Training (Bolt)     | 200  | T   | —                                      |
+| Heavy Weapon Training (Las)<br>  | 200  | T   | —                                      |
+|                                  | 200  | T   | —                                      |
+|                                  | 200  | T   | —                                      |
+|                                  | 200  | T   | BS 35                                  |
+|                                  | 200  | T   | —                                      |
+|                                  | 200  | T   | —                                      |
+|                                  | 300  | T   | Swift Attack                           |
+|                                  | 300  | T   | —                                      |
+|                                  |      |     |                                        |
 
 # **Marshal Advances**
 
@@ -313,31 +337,6 @@ Marshals take the rule of law to the darkest dens of scum and depravity, dispens
 *"Such men are beyond mere mercy."*
 
 As the Imperium is mighty, so too is the Lord Marshal. His will is not blunted by the petty whims of circumstance. The cold rule of law is his only measure, and woe betide those that fall short.
-
-|     |          | Prerequisites                          |
-|-----|----------|----------------------------------------|
-| 100 | S        | Climb +10                              |
-| 100 | S        | —                                      |
-| 100 | S        | Interrogation +10                      |
-| 100 | S        | Intimidation +10                       |
-| 100 | S        | Survival                               |
-| 100 | S        | Tracking +10                           |
-| 100 | T        | BS 30, Basic Weapon Training (any two) |
-| 100 | T        | BS 40, Ag 40                           |
-| 200 | S        | —                                      |
-| 200 | S        | —                                      |
-| 200 | T        | —                                      |
-| 200 | T        | Per 30                             |
-| 200 | T        | —                                      |
-| 200 | T        | —                                      |
-| 200 | T        | —                                      |
-| 200 | T        | —                                      |
-| 200 | T        | BS 35                                  |
-| 200 | T        | —                                      |
-| 200 | T        | —                                      |
-| 300 | T        | Swift Attack                           |
-| 300 | T        | —                                      |
-|     | Cost     | Typ                                    |
 
 | Advance                                                 | Cost | Type | Prerequisites                         |
 | ------------------------------------------------------- | ---- | ---- | ------------------------------------- |
