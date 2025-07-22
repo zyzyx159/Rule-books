@@ -39,14 +39,18 @@ As ever, questions about the damage or removal of implants, and what this does t
 |                                                |        |              |         |        |
 # Advancement Tree
 
-```
-mermaid
+```mermaid
 graph TD
-A[Technographer 0-499]
-A --> B[Mech-Wright 500-999]
+A[Technographer 0-499] --> B[Mech-Wright 500-999]
 B --> C[Electro-Priest 1,000-1,999]
 C --> D[Engineer 2,000-2,999]
-D --> E[Tech-Priest 3,000-5,999
+D --> E[Tech-Priest 3,000-5,999]
+E --> F[Technomancer 6,000-7,000]
+F --> G[Cyber-Seer 8,000-9,999]
+G --> H[Magos 10,000-14,999]
+E --> I[Mech-Deacon 6,000-7,999]
+I --> J[Omniprophet 8,000-9,999]
+J --> K[Magos Errant 10,000-14,999]
 ```
 
 # **Technographer Advance Scheme**
