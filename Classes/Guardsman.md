@@ -12,19 +12,19 @@ Inquisitors will second Guardsmen mainly for their combat experience and experti
 
 Not all Guardsmen—or the role the Inquisitors define by that label—actually come straight from the Imperial Guard. Some may have crossed paths with the Inquisitor as hired thugs for another agency. Some are wayward mercenaries who have spent their lives as a hired gun, only to be pressed into service of the Inquisition. Others still are hive gangers that may have had the gall to ambush an Inquisitor on his rare travels into an underhive. No matter what the origin, a Guardsman's role within the cell is always that of combat and fire-control.
 
-| Table 2-6: Guardsman Characteristic Advances |         |              |         |         |  |  |
-|----------------------------------------------|---------|--------------|---------|---------|--|--|
-| Characteristic                               | Simple  | Intermediate | Trained | Expert  |  |  |
-| Weapon Skill                                 | 100     | 250      | 500     | 750 |  |  |
-| Ballistic Skill                              | 100     | 250      | 500     | 750 |  |  |
-| Strength                                     | 100     | 250      | 500     | 500     |  |  |
-| Toughness                                    | 250 | 500          | 750 | 1,000   |  |  |
-| Agility                                      | 250 | 500          | 750 | 1,000   |  |  |
-| Intelligence                                 | 500     | 750      | 1,000   | 2,500   |  |  |
-| Perception                                   | 250 | 500          | 750 | 1,000   |  |  |
-| Willpower                                    | 500     | 750      | 1,000   | 2,500   |  |  |
-| Fellowship                                   | 500     | 750      | 1,000   | 2,500   |  |  |
-|                                              |         |              |         |         |  |  |
+| Table 2-6: Guardsman Characteristic Advances |        |              |         |        |     |     |
+| -------------------------------------------- | ------ | ------------ | ------- | ------ | --- | --- |
+| Characteristic                               | Simple | Intermediate | Trained | Expert |     |     |
+| Weapon Skill                                 | 100    | 250          | 500     | 750    |     |     |
+| Ballistic Skill                              | 100    | 250          | 500     | 750    |     |     |
+| Strength                                     | 100    | 250          | 500     | 500    |     |     |
+| Toughness                                    | 250    | 500          | 750     | 1,000  |     |     |
+| Agility                                      | 250    | 500          | 750     | 1,000  |     |     |
+| Intelligence                                 | 500    | 750          | 1,000   | 2,500  |     |     |
+| Perception                                   | 250    | 500          | 750     | 1,000  |     |     |
+| Willpower                                    | 500    | 750          | 1,000   | 2,500  |     |     |
+| Fellowship                                   | 500    | 750          | 1,000   | 2,500  |     |     |
+# Advancement Tree
 
 ```mermaid
 graph TD

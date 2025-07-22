@@ -29,7 +29,7 @@ The relationship between the Inquisition and the Adeptes Arbites is often one of
 | Perception      | 250    | 500          | 750     | 1,000  |
 | Willpower       | 250    | 500          | 750     | 1,000  |
 | Fellowship      | 250    | 500          | 750     | 1,000  |
-## Advancement Tree
+# Advancement Tree
 
 ```mermaid
 graph TD

@@ -21,6 +21,7 @@ Psykers have always been used as agents for the Inquisition. Their abilities var
 | Willpower                                          | 100    | 250          | 500     | 750    |
 | Fellowship                                         | 500    | 750          | 1,000   | 2,500  |
 |                                                    |        |              |         |        |
+# Advancement Tree
 
 ```mermaid
 graph TD
@@ -37,7 +38,7 @@ J --> K[Scholar Arcanum 6,000-7999]
 K --> L[Scholar Obscurus 8,000-9,999]
 L --> M[Scholar Empyrean 10,000-14,999]
 ```
-#### **Sanctionite Advances**
+# **Sanctionite Advances**
 
 *"Throne knows what them sanctioneers do to 'em when they get to Earth, but I ain't never met a normal psyker yet."*
 
@@ -165,7 +166,7 @@ The Savant-Warrant has proved themself reliable in the face of fire, and is duly
 | Psychic Power                  | 200  | T    | —                     |
 | Swift Attack                   | 300  | T    | WS 35                 |
 
-#### **Savant Militant Advances**
+# **Savant Militant Advances**
 
 *"Ignore the chantin' coming from their tents—it's when they fall silent that you've got to watch."*
 

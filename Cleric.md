@@ -29,7 +29,10 @@ Inquisitors find Clerics useful Acolytes as their abilities to interact with, an
 |                                           |        |              |         |        |  |
 ```mermaid
 graph TD
-A[Novice]
+A[Novice 0-499] --> B[Initate 500-999]
+B --> C[Priest 1,000-1,999]
+C --> D[Preacher 2,000-2,999]
+D --> E[Cleric 3,000-5,999]
 ```
 #### **Novice Advances**
 
