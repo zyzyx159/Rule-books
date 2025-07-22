@@ -1003,25 +1003,25 @@ As weapons that contain a miniature fusion device and use arcane magnetic fields
 
 To use plasma weapons without penalty, a character must have the Pistol Training (Plasma), Basic Weapon Training (Plasma), or Heavy Weapon Training (Plasma) talents.
 
-| Plasma Weapons                |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
-| ----------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
-| Name                          | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                                | Wt    | Cost  | World  | Availability  |
-| [[#Phased Plasma Gun]]        | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                                                | 12kg  | 1,500 | Lathes | Very Rare     |
-| [[#Plasma Blaster]]           | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Overheats]], [[#Recharge]], [[#Vicious]] | 20kg  | 7,500 | -      | Very Rare     |
-| [[#Plasma Cannon]]            | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                                         | 38kg† | 8,500 | -      | Very Rare     |
-| - (Maximal)                   |        |       |       | 4d10+10 E |     |      |        | [[#Blast (X)\|Blast]] (3), [[#Overheats]], [[#Recharge]], [[#Vicious]] |       |       |        |               |
-| [[#Plasma Gun (Ryza)]]        | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | [[#Overheats]]                                                         | 9kg   | 3,000 | -      | Very Rare     |
-| - (Maximal)                   |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - [[#Clovis Mark IV\|Clovis]] | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 20kg  | 6,000 | -      | ExtremelyRare |
-| - (Maximal)                   |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - [[#Mezoa                    | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 17kg  | 2,200 | -      | Very Rare     |
-| - Sunfury                     | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
-| Plasma Pistol (Ryza)          | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 4,000 | -      | Very Rare     |
-| - (Maximal)                   |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - Kronos                      | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
-| - (Maximal)                   |        |       |       | 2d10+10 E | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - Wrath                       | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | [[#Accurate]], [[#Overheats]]                                          | 5kg   | 6,500 | -      | ExtremelyRare |
-| †Not including ammo pack      |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
+| Plasma Weapons                         |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
+| -------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
+| Name                                   | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                                | Wt    | Cost  | World  | Availability  |
+| [[#Phased Plasma Gun]]                 | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                                                | 12kg  | 1,500 | Lathes | Very Rare     |
+| [[#Plasma Blaster]]                    | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Overheats]], [[#Recharge]], [[#Vicious]] | 20kg  | 7,500 | -      | Very Rare     |
+| [[#Plasma Cannon]]                     | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                                         | 38kg† | 8,500 | -      | Very Rare     |
+| - (Maximal)                            |        |       |       | 4d10+10 E |     |      |        | [[#Blast (X)\|Blast]] (3), [[#Overheats]], [[#Recharge]], [[#Vicious]] |       |       |        |               |
+| [[#Plasma Gun (Ryza)]]                 | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | [[#Overheats]]                                                         | 9kg   | 3,000 | -      | Very Rare     |
+| - (Maximal)                            |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - [[#Clovis Mark IV\|Clovis]]          | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 20kg  | 6,000 | -      | ExtremelyRare |
+| - (Maximal)                            |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - [[#Mezoa-Pattern Plasma gun\|Mezoa]] | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 17kg  | 2,200 | -      | Very Rare     |
+| - Sunfury                              | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
+| Plasma Pistol (Ryza)                   | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 4,000 | -      | Very Rare     |
+| - (Maximal)                            |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - Kronos                               | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
+| - (Maximal)                            |        |       |       | 2d10+10 E | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
+| - Wrath                                | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | [[#Accurate]], [[#Overheats]]                                          | 5kg   | 6,500 | -      | ExtremelyRare |
+| †Not including ammo pack               |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
 
 ### Phased Plasma Gun
 Class: Basic (Plasma)
@@ -1056,7 +1056,7 @@ This curious plasma gun is produced on the hive world of Clove in the Hazeroth A
 
 The Clovis plasma gun has a Maximal setting similar to those made on Ryza that can be employed on either single shots or semi-auto bursts. If fired on semi-auto the Clovis totally depletes its energized hydrogen and must wait two Rounds instead of one while the fusion core builds up a plasma charge. Firing on the Maximal setting consumes 3 shots (9 if fired on semi-auto) and cannot be used if it doesn't have at least that many shots remaining in its Clip.
 
-#### Mezoa-Pattern:
+#### Mezoa-Pattern Plasma gun:
 Mezoa-pattern plasma guns, manufactured on that world in the Gothic Sector, are typical of any number of "lesser grade" plasma guns that hail from forge worlds without Ryza's intimate knowledge of their art and design. While certainly functional and deadly enough, these plasma guns typically lack a Maximal setting and are significantly more bulky and heavier to schlep around due to their inefficient induction coils and unnecessarily large fusion core. The sheer volume of plasma guns produced by Ryza makes them similar in number to those from lesser forges combined, but the inferior characteristics of these substandard patterns does tend to reduce their black market cost, and having any plasma gun is certainly better than having none at all.
 
 **Mark III Sunfury Assault Gun:**
@@ -1344,13 +1344,13 @@ In a galaxy raked by war and disorder there is a high demand for extremely destr
 This section includes several types of weapons. Launchers are designed to propel another weapon, typically a grenade or missile, at a foe that is beyond throwing range, and vary widely from simple tubes attached to the bottom of Imperial Guard lasguns to devastating hunterkiller missiles ordinarily deployed from armoured vehicles. In most cases, a launcher's Damage and Qualities are dictated by the projectile it is firing. Grenades and missiles are portable destructive devices that can run a gamut of purposes, from shredding one's foes to laying down a smokescreen to cover a tactical manoeuvre. They differ in that while grenades can be armed and lobbed by hand, missiles must be fired by a compatible launcher weapon.
 
 To use launcher weapons without penalty, a character must have the Pistol Training (Launcher), Basic Weapon Training (Launcher), or Heavy Weapon Training (Launcher) talents. Throwing grenades requires no special training or talents and is simply resolved through a Ballistic Skill Test, while setting explosives and bombs is resolved through the Demolition skill.
-#### INDIRECT FIRING
+### INDIRECT FIRING
 
 Mortars and similar Launcher weapons are often fired in a suppression mode where the targeted enemy cannot be seen and only their rough location is known. In these cases, mortar shells and the like can be fired without any actual line of sight required. When firing in this manner, a hit means that the shell still scatters 1d10 metres from the target point, while a miss scatters 2d10 metres instead.
 
 Often such weapons are fired in conjunction with a spotter who directs fire from the weapon. Any ally with an auspex or who can see the target can spend a Half or Full Action to spot for the mortar fire. In this case, the next shot by the mortar only scatters 1d5 metres on a hit, and gains a +10 or +20 bonus (respectively) to its Ballistic Skill Test.
 
-#### EXPLOSIVE MISHAPS
+### EXPLOSIVE MISHAPS
 
 Whenever a Jam results from throwing or launching a grenade, missile, mortar, and similar weapons, something unfortunate has happened that may have disastrous consequences! Roll on the table below to determine the results. Roll Result
 
@@ -1358,55 +1358,55 @@ Whenever a Jam results from throwing or launching a grenade, missile, mortar, an
 - 6-8 "It might be ok…" Nothing happens, yet. Roll again on this table next Round. This may have unfortunate implications if the firer is clearing a jam at the time.
 - 9-0 BOOM! The round or explosive immediately goes off with any and all effects centred on the firer. If this was the result of firing a launcher the results may be even worse; "non-lethal" grenades, like howlers and smokes, must be cleared as though jammed, while an explosive like a frag or krak grenade destroys the launcher as well as setting off any other grenades that are loaded into it!
 
-| Launchers             |                                                                                        |              |       |          |     |      |        |                                    |      |       |       |                   |
-| --------------------- | -------------------------------------------------------------------------------------- | ------------ | ----- | -------- | --- | ---- | ------ | ---------------------------------- | ---- | ----- | ----- | ----------------- |
-| Name                  | Class                                                                                  | Range        | RoF   | Dam      | Pen | Clip | Rld    | Special                            | Wt   | Cost  | World | Availability      |
-| Bola Launcher         | Basic                                                                                  | 20m          | S/-/- | 1d5+1 I  | 0   | 6    | Full   | Primitive, Snare                   | 12kg | 250   | -     | Rare              |
-| Disposable Launcher   | Heavy                                                                                  | 175m         | S/-/- | †        | †   | 1    | -      | †                                  | 20kg | 600   | -     | Scarce            |
-| Grenade Launcher      | Basic                                                                                  | 60m          | S/-/- | †        | †   | 6    | 2 Full | †                                  | 9kg  | 500   | -     | Scarce            |
-| Aux                   | Special                                                                                | 45m          | S/-/- | †        | †   | 1    | Full   | †                                  | +2kg | 250   | -     | Rare              |
-| Gorge                 | Basic                                                                                  | 60m          | S/-/- | †        | †   | 1    | 2 Full | Reliable, †                        | 8kg  | 300   | Hive  | Average           |
-| Mezoa                 | Basic                                                                                  | 80m          | S/-/- | †        | †   | 1    | Half   | †                                  | 10kg | 400   | -     | Scarce            |
-| Voss                  | Basic                                                                                  | 60m          | S/3/- | †        | †   | 6    | 2 Full | Inaccurate, †                      | 13kg | 1,000 | -     | Very Rare         |
-| Hunter-Killer Missile | Heavy                                                                                  | 350m         | S/-/- | 3d10+6 X | 6   | 1    | -      | -                                  | 65kg | 2,000 | -     | Very Rare         |
+| Launchers             |                                                                                        |          |       |          |     |      |        |                                |      |       |       |               |
+| --------------------- | -------------------------------------------------------------------------------------- | -------- | ----- | -------- | --- | ---- | ------ | ------------------------------ | ---- | ----- | ----- | ------------- |
+| Name                  | Class                                                                                  | Range    | RoF   | Dam      | Pen | Clip | Rld    | Special                        | Wt   | Cost  | World | Availability  |
+| Bola Launcher         | Basic                                                                                  | 20m      | S/-/- | 1d5+1 I  | 0   | 6    | Full   | Primitive, Snare               | 12kg | 250   | -     | Rare          |
+| Disposable Launcher   | Heavy                                                                                  | 175m     | S/-/- | †        | †   | 1    | -      | †                              | 20kg | 600   | -     | Scarce        |
+| Grenade Launcher      | Basic                                                                                  | 60m      | S/-/- | †        | †   | 6    | 2 Full | †                              | 9kg  | 500   | -     | Scarce        |
+| - Aux                 | Special                                                                                | 45m      | S/-/- | †        | †   | 1    | Full   | †                              | +2kg | 250   | -     | Rare          |
+| - Gorge               | Basic                                                                                  | 60m      | S/-/- | †        | †   | 1    | 2 Full | Reliable, †                    | 8kg  | 300   | Hive  | Average       |
+| - Mezoa               | Basic                                                                                  | 80m      | S/-/- | †        | †   | 1    | Half   | †                              | 10kg | 400   | -     | Scarce        |
+| - Voss                | Basic                                                                                  | 60m      | S/3/- | †        | †   | 6    | 2 Full | Inaccurate, †                  | 13kg | 1,000 | -     | Very Rare     |
+| Hunter-Killer Missile | Heavy                                                                                  | 350m     | S/-/- | 3d10+6 X | 6   | 1    | -      | -                              | 65kg | 2,000 | -     | Very Rare     |
 | Mole Mortar           | Heavy                                                                                  | 50 –200m | S/-/- | 2d10+2 X | 2   | 1    | Full   | Inaccurate,Shocking, Blast (4) | 50kg | 4,500 | -     | ExtremelyRare |
-| Mortar (generic)      | Heavy                                                                                  | 50 –300m | S/-/- | †        | †   | 1    | Full   | Inaccurate                         | 40kg | 1,500 | -     | Rare              |
-| Locke                 | Heavy                                                                                  | 50 –300m | S/-/- | †        | †   | 6    | 2 Full | Inaccurate                         | 48kg | 3,000 | -     | Very Rare         |
-| Missile Launcher      | Heavy                                                                                  | 250m         | S/-/- | †        | †   | 1    | Full   | †                                  | 22kg | 2,500 | -     | Scarce            |
-| Retobi                | Heavy                                                                                  | 200m         | S/-/- | †        | †   | 5    | 2 Full | Unreliable, †                      | 35kg | 3,000 | -     | Rare              |
-| RPG Launcher          | Basic                                                                                  | 120m         | S/-/- | †        | †   | 1    | Full   | †                                  | 15kg | 1,200 | -     | Scarce            |
-|                       | †Damage, Penetration, and any special qualities are determined by the ammunition fired |              |       |          |     |      |        |                                    |      |       |       |                   |
-#### Bola Launcher
+| Mortar (generic)      | Heavy                                                                                  | 50 –300m | S/-/- | †        | †   | 1    | Full   | Inaccurate                     | 40kg | 1,500 | -     | Rare          |
+| - Locke               | Heavy                                                                                  | 50 –300m | S/-/- | †        | †   | 6    | 2 Full | Inaccurate                     | 48kg | 3,000 | -     | Very Rare     |
+| Missile Launcher      | Heavy                                                                                  | 250m     | S/-/- | †        | †   | 1    | Full   | †                              | 22kg | 2,500 | -     | Scarce        |
+| - Retobi              | Heavy                                                                                  | 200m     | S/-/- | †        | †   | 5    | 2 Full | Unreliable, †                  | 35kg | 3,000 | -     | Rare          |
+| RPG Launcher          | Basic                                                                                  | 120m     | S/-/- | †        | †   | 1    | Full   | †                              | 15kg | 1,200 | -     | Scarce        |
+|                       | †Damage, Penetration, and any special qualities are determined by the ammunition fired |          |       |          |     |      |        |                                |      |       |       |               |
+### Bola Launcher
 Class: Basic (Launcher)
 
 This weapon looks vaguely like a miniature missile launcher but is much less deadly, though its firer's intentions may not be. A bola launcher uses compressed gas to fling a standard set of bolas at high velocity and with considerably greater reach than even a skilled bola thrower could manage on muscle power alone. Being clocked by a set of bolas fired from a bola launcher can cause injury due to the speed of the bolas, so they are not recommended for use on delicate quarries. A bola launcher has the advantage of storing several sets of bolas in a removable clip, allowing for multiple take downs before the weapon needs to be reloaded. This sort of weapon is most commonly employed by bounty hunters and trackers, though more unsavoury types have been known to employ them for sinister purposes involving kidnapping.
 
-#### Disposable Launcher
+### Disposable Launcher
 Class: Heavy (Launcher)
 
 Cheap single-shot missile launchers like this are produced to equip PDF troopers and other forces that need simple but hard-hitting firepower. They are by and large a reinforced armaplas tube with a protective cover on each end and a folding pistol grip and sighting system, with a single frag or krak missile preloaded and ready for use. Disposable missile launchers are regarded by the Departmento Munitorum as ammunition rather than weapons and many armories throughout the Imperium are stacked to the roof with crates of these weapons. This has led to numerous examples finding their way onto the black market, much to the chagrin of the Adeptus Arbites and planetary enforcers.
 
 Disposable missile launchers are intended to be fired once and then thrown away, and may not be reloaded.
 
-#### Grenade Launcher
+### Grenade Launcher
 Class: Basic (Launcher)
 
 Grenade launchers are a favourite weapon of many Imperial servants and scummers alike for their ease of use and ability to deliver all sorts of unpleasant things into the midst of a group of foes. Grenade launchers use compressed gas (provided by a built-in compressor) to propel grenades far further than even the strongest arm possibly could. This puts the firer safely out of harm's way and allows the power of a grenade to be deposited in "tactical" situations. Most common grenades can be fired by a grenade launcher; those made to Munitorum standards include a device that automatically pulls the arming pin of a hand grenade when fired, allowing grenades to be safely stored within a launcher's clip. The pins are left in the launcher's clip after the grenades have been fired, and particularly seasoned grenadiers have been known to maintain large necklaces or other charms made from the numerous pins of grenades they have fired. The most common types of grenade launchers employed by the Imperial Guard and Adeptus Arbites take the form of a large, stocky gun with a pistol grip and a revolver-style chamber into which multiple grenades can be loaded. Other grenade launchers with more unique features are listed here.
 
-##### Aux Grenade Launcher: 
+#### Aux Grenade Launcher: 
 This simple oneshot launcher is designed to be attached under the barrel of another basic weapon, such as a lasgun, allowing the firer the option to shoot a grenade instead of their weapon's usual attack. Aux launchers are reloaded by pivoting the barrel downward on a hinge and loading a new grenade into the breech. This is not the fastest process on the battlefield, and many users simply keep a grenade loaded at all times and seldom bother reloading once fired until a lull in combat presents itself.
 
 An aux grenade launcher counts as a basic weapon when attached to one. It can also be used on its own as a pistol, and are typically employed in this fashion to launch signal or illumination rounds.
 
-##### Gorge Grenade Launcher: 
+#### Gorge Grenade Launcher: 
 The Gorge is a very basic single-shot launcher that resembles an oversized shotgun. It has a break-open action which allows grenades to be loaded – this is rather sluggish due to the Gorge's robust design, but a grenadier can shoot with total confidence that his grenade will launch. Its simplicity does not diminish its effectiveness, and it is a popular support weapon used by enforcers, mercenaries, and PDF troopers. Gorges are especially common on hive worlds where they can be made in scav-workshops and lesser forges, and widespread availability on the black market makes it one of the easiest ways for recidivists and rebel groups to obtain extra firepower.
 
 The Gorge requires two hands to fire, but can be easily and safely swung with one and counts as a club in melee.
 
-##### Mezoa-Pattern: 
+#### Mezoa-Pattern Grenade Launcher: 
 Grenade launchers produced on Mezoa are designed for simplicity and effectiveness at range as well as ease in firing. A long barrel and stable grenade chamber improves accuracy compared to other launchers, and the weapon automatically opens after firing to permit a rapid reload. Though it can only hold a single grenade, skilled users can load a new one with enough speed to keep up a steady barrage of shots, even while on the move.
 
-##### Voss Assault Launcher: 
+##### Voss Assault Grenade Launcher: 
 This grenade launcher resembles more common patterns but with the addition of a clockwork cylinder mechanism that must be wound up during reloading. The cylinder remains under tension and can fire off its grenades with a frightening pace, making it an excellent choice for shock troops who need to suppress a large enemy force at once. The violent motion of the cylinder's rotation tends to make the assault launcher want to jump out of the shooter's hands; they are known for their volume of firepower, not pinpoint accuracy.
 
 #### Hunter-Killer Missile
@@ -1437,7 +1437,7 @@ Class: Heavy (Launcher)
 
 Missile launchers are precision destructive devices that fire extremely powerful warheads. By and large the purview of dedicated tank hunters and demolition teams, a missile launcher is a bulky but uncomplicated affair composed of a large tubular housing with a pistol grip and ignition system. A missile is loaded from the rear of the launcher and locked into place, often by an assistant, leaving the job of sending the missile on its way to the firer. Imperial missiles are built for maximum accuracy and stability over range, and can make minor course corrections and adjustments as they scream towards their target. A missile launcher is only as accurate as its user, however, and tank hunters and kill teams alike always put their steadiest (and most disciplined) members in control of it when possible.
 
-##### Retobi-Pattern: 
+##### Retobi-Pattern Missile Launcher: 
 The Retobi is an ancient and comparably rare mark of missile launcher due to its temperamental machine spirits and rather cumbersome handling. Rather than individually loading missiles from behind, the Retobi uses a giant clip-loading system that can stack several missiles atop one another that drop into the launch tube after the previous one is fired. This allows one man to operate it with devastating efficiency – at least in theory, one soldier could destroy an entire armoured company on his own. Aside from its bulk, the Retobi is plagued with a stubbornness to use the newer styles of missiles in use by the Imperial Guard, and an uncooperative machine spirit has sent more than a few tank hunters to the Emperor when the launcher misfires and sets off the entire clip's worth of missiles at once.
 
 #### RPG Launcher
