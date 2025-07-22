@@ -2,24 +2,24 @@
 
 — Regulator Hanz Rikennan, IVth Precinct, Hive Tarsus.
 
-T Throughout the millions of worlds of the Imperium, crime is rife. Not just the petty crimes of individuals for personal gain, but organised crime on a scale never even considered in humanity's past. Entire sub-sectors and planets have been in the thrall of illegal cartels and criminal organisations. There are even wayward planetary governors who shun the Imperium and treat the dominion as their own paltry fiefdom, claiming the planet's natural resources, labour and riches for their own.
+Throughout the millions of worlds of the Imperium, crime is rife. Not just the petty crimes of individuals for personal gain, but organised crime on a scale never even considered in humanity's past. Entire sub-sectors and planets have been in the thrall of illegal cartels and criminal organisations. There are even wayward planetary governors who shun the Imperium and treat the dominion as their own paltry fiefdom, claiming the planet's natural resources, labour and riches for their own.
 
-> In these dire situations it falls to the Adeptus Arbites to defend the Imperium's rights and prevent whole sub-sectors going rogue for generations, or even permanently. The Adeptus Arbites is not a galactic police force; it has little interest in petty crimes such as theft, murder or tax evasion, for these fall under the responsibility of the local planetary forces. The Adeptus Arbites is there to keep order on a far greater scale, to root out corruption, maintain the Imperial tithe and to guard against witchery.
+In these dire situations it falls to the Adeptus Arbites to defend the Imperium's rights and prevent whole sub-sectors going rogue for generations, or even permanently. The Adeptus Arbites is not a galactic police force; it has little interest in petty crimes such as theft, murder or tax evasion, for these fall under the responsibility of the local planetary forces. The Adeptus Arbites is there to keep order on a far greater scale, to root out corruption, maintain the Imperial tithe and to guard against witchery.
 
-> From the Adeptus Arbites come the fearsome Arbitrators. Also known as Judges, these men and women are stoic in their duty and unquestionably loyal to the Imperium. Inquisitors often go to the Adeptes Arbites when in need of a trustworthy Acolyte, trained to think on their feet, combat-hardened and beyond reproach in their faith. Arbitrators are infamous for their prodigious stamina and zeal, and their ability to survive all manner of wounds and punishment in the quest to catch their quarry.
+From the Adeptus Arbites come the fearsome Arbitrators. Also known as Judges, these men and women are stoic in their duty and unquestionably loyal to the Imperium. Inquisitors often go to the Adeptes Arbites when in need of a trustworthy Acolyte, trained to think on their feet, combat-hardened and beyond reproach in their faith. Arbitrators are infamous for their prodigious stamina and zeal, and their ability to survive all manner of wounds and punishment in the quest to catch their quarry.
+ 
+ Arbitrators are resolute and fearless. They demand utter obedience from the citizens they come into contact with. Where civil unrest and crime threaten the stability of a world, the Arbitrators are in the field: unflinching, ordering the local enforcers, and hunting down the rabble-rousers, to restore law and order.
 
-> Arbitrators are resolute and fearless. They demand utter obedience from the citizens they come into contact with. Where civil unrest and crime threaten the stability of a world, the Arbitrators are in the field: unflinching, ordering the local enforcers, and hunting down the rabble-rousers, to restore law and order.
+The Judges' methods are varied, not unlike the way Inquisitors go about their work. The means used can be different depending on their mentors, what Schola Progenium the individual attended and other such factors. However, unlike Inquisitors who have their own private agendas, all members of the Adeptes Arbites have the same goal and responsibility—to uphold the Emperor's justice.
 
-> The Judges' methods are varied, not unlike the way Inquisitors go about their work. The means used can be different depending on their mentors, what Schola Progenium the individual attended and other such factors. However, unlike Inquisitors who have their own private agendas, all members of the Adeptes Arbites have the same goal and responsibility—to uphold the Emperor's justice.
+Some Arbitrators openly investigate and make no secret who their quarry is, even if he is of noble birth or high rank. This can often lead to overt hostility between the Judge and his subject, although there is no question who off-world forces of the Imperium would side with should they be requested to attend. This is by no means the only mode of investigation; other officers of the Adeptes Arbites are quite methodical in their approach—meticulously sourcing evidence and questioning contacts and witnesses.
 
-> Some Arbitrators openly investigate and make no secret who their quarry is, even if he is of noble birth or high rank. This can often lead to overt hostility between the Judge and his subject, although there is no question who off-world forces of the Imperium would side with should they be requested to attend. This is by no means the only mode of investigation; other officers of the Adeptes Arbites are quite methodical in their approach—meticulously sourcing evidence and questioning contacts and witnesses.
-
-> The relationship between the Inquisition and the Adeptes Arbites is often one of the more cordial within the Adeptus Terra. Arbitrators often see working with Inquisitors as a way of further enforcing justice. However, such arrangements have not always worked so well. It has been known for Judges to turn on the Inquisitors they have been seconded to serve if they perceive the Inquisitor to have broken sacrosanct Imperial laws. This means Inquisitors of the more Radical factions must be wary when recruiting members of the Adeptus Arbites to become their Acolytes.
+The relationship between the Inquisition and the Adeptes Arbites is often one of the more cordial within the Adeptus Terra. Arbitrators often see working with Inquisitors as a way of further enforcing justice. However, such arrangements have not always worked so well. It has been known for Judges to turn on the Inquisitors they have been seconded to serve if they perceive the Inquisitor to have broken sacrosanct Imperial laws. This means Inquisitors of the more Radical factions must be wary when recruiting members of the Adeptus Arbites to become their Acolytes.
 
 # Table 2-3: Arbitrator Characteristic Advances
 
 | Characteristic  | Simple | Intermediate | Trained | Expert |
-|-----------------|--------|--------------|---------|--------|
+| --------------- | ------ | ------------ | ------- | ------ |
 | Weapon Skill    | 250    | 500          | 750     | 1,000  |
 | Ballistic Skill | 100    | 250          | 500     | 750    |
 | Strength        | 500    | 750          | 1,000   | 2,500  |
@@ -29,9 +29,8 @@ T Throughout the millions of worlds of the Imperium, crime is rife. Not just the
 | Perception      | 250    | 500          | 750     | 1,000  |
 | Willpower       | 250    | 500          | 750     | 1,000  |
 | Fellowship      | 250    | 500          | 750     | 1,000  |
-|                 |        |              |         |        |
 
-#### **Troo per Advances**
+# **Trooper Advances**
 
 *"Call yourself an arbitrator? You're not fit to wear the uniform."*
 
@@ -43,25 +42,25 @@ A Trooper is drilled in combat and his duties to the Imperium: he is stout of he
 
 An Enforcer is taught how to keep order in the most desperate situations, stand ing shoulder to shoulder with his fellow Arbitrators.
 
-| Advance                                                   | Cost | Type | Prerequisites                 |     |
-| --------------------------------------------------------- | ---- | ---- | ----------------------------- | --- |
-| Awareness                                                 | 100  | S    | —                             |     |
-| Common Lore (Adeptus Arbites) +10                         | 100  | S    | Common Lore (Adeptus Arbites) |     |
-| Drive (Ground Vehicle)                                    | 100  | S    | —                             |     |
-| Drive (Hover Vehicle)                                     | 100  | S    | —                             |     |
-| Inquiry +10                                               | 100  | S    | Inquiry                       |     |
-| Scrutiny                                                  | 100  | S    | —                             |     |
-| Swim                                                      | 100  | S    | —                             |     |
-| Basic Weapon Training (Primitive)                         | 100  | T    | —                             |     |
-| Basic Weapon Training (SP)                                | 100  | T    | —                             |     |
-| Melee Weapon Training (Primitive)                         | 100  | T    | —                             |     |
-| Pistol Training (Las)                                     | 100  | T    | —                             |     |
-| Pistol Training (Primitive)                               | 100  | T    | —                             |     |
-| Pistol Training (SP)                                      | 100  | T    | —                             |     |
-| Rapid Reload                                              | 100  | T    | —                             |     |
-| Sound Constitution‡                                       | 100  | T    | —                             |     |
-| Thrown Weapon Training (Primitive)                        | 100  | T    | —                             |     |
-| ‡You may take this Talent up to three times at this Rank. |      |      |                               |     |
+| Advance                                                   | Cost | Type | Prerequisites                 |
+| --------------------------------------------------------- | ---- | ---- | ----------------------------- |
+| Awareness                                                 | 100  | S    | —                             |
+| Common Lore (Adeptus Arbites) +10                         | 100  | S    | Common Lore (Adeptus Arbites) |
+| Drive (Ground Vehicle)                                    | 100  | S    | —                             |
+| Drive (Hover Vehicle)                                     | 100  | S    | —                             |
+| Inquiry +10                                               | 100  | S    | Inquiry                       |
+| Scrutiny                                                  | 100  | S    | —                             |
+| Swim                                                      | 100  | S    | —                             |
+| Basic Weapon Training (Primitive)                         | 100  | T    | —                             |
+| Basic Weapon Training (SP)                                | 100  | T    | —                             |
+| Melee Weapon Training (Primitive)                         | 100  | T    | —                             |
+| Pistol Training (Las)                                     | 100  | T    | —                             |
+| Pistol Training (Primitive)                               | 100  | T    | —                             |
+| Pistol Training (SP)                                      | 100  | T    | —                             |
+| Rapid Reload                                              | 100  | T    | —                             |
+| Sound Constitution‡                                       | 100  | T    | —                             |
+| Thrown Weapon Training (Primitive)                        | 100  | T    | —                             |
+| ‡You may take this Talent up to three times at this Rank. |      |      |                               |
 
 | Advance                           | Cost     | Type     | Prerequisites                     |
 |-----------------------------------|----------|----------|-----------------------------------|
@@ -150,44 +149,45 @@ Investigators learn the arts of inquiry, using contacts, charm and dirty tactics
 
 Arbitrators are guardians of order and the rule of law within the Imperium. Im placable, unrelenting, and nigh-on impossible to kill; they are the Emperor's jus tice, manifest.
 
-| Advance                                                       | Cost     | Type     | Prerequisites |  |
-|---------------------------------------------------------------|----------|----------|---------------|--|
-| Charm +10                                                     | 100      | S        | Charm         |  |
-| Climb +10                                                     | 100      | S        | Climb         |  |
-| Concealment                                                   | 100      | S        | —             |  |
-| Dodge +10                                                     | 100      | S        | Dodge         |  |
-| Interrogation +10                                             | 100      | S        | Interrogation |  |
-| Intimidation +10                                              | 100      | S        | Intimidation  |  |
-| Scholastic Lore (Tactica Imperialis)                          | 100      | S        | —             |  |
-| Scrutiny +10                                                  | 100      | S        | Scrutiny      |  |
-| Secret Tongue (Gutter)                                        | 100      | S        | —             |  |
-| Ambidextrous                                                  | 100      | T        | Ag 30         |  |
-| Hardy                                                         | 100      | T        | T 40          |  |
-| Nerves of Steel                                               | 100      | T        | —             |  |
-| Peer (Government)                                             | 100      | T        | Fel 30    |  |
-| Sure Strike                                                   | 100      | T        | WS 30         |  |
-| Step Aside                                                    | 100      | T        | Ag 40, Dodge  |  |
-| True Grit                                                     | 100      | T        | T 40          |  |
-| Forbidden Lore (Cults)                                        | 200      | S        | —             |  |
-| Forbidden Lore (Mutants)                                      | 200      | S        | —             |  |
-| Logic                                                         | 200      | S        | —             |  |
-| Scholastic Lore (Occult)                                      | 200      | S        | —             |  |
-| Shadowing                                                     | 200      | S        | —             |  |
-| Silent Move +10                                               | 200      | S        | Silent Move   |  |
-| Sleight of Hand                                               | 200      | S        | —             |  |
-| Basic Weapon Training (Plasma)                                | 200      | T        | —             |  |
-| Combat Master                                                 | 200      | T        | WS 30         |  |
-| Deadeye Shot                                                  | 200      | T        | BS 30         |  |
-| Heavy Weapon Training (Flame)                                 | 200      | T        | —             |  |
-| Melee Weapon Training (Chain)                                 | 200      | T        | —             |  |
-| Pistol Training (Plasma)                                      | 200      | T        | —             |  |
-| Sound Constitution‡                                       | 200      | T        | —             |  |
-| Exotic Weapon Training (Web Pistol)                           | 300      | T        | —             |  |
-| Exotic Weapon Training (Webber)                               | 300      | T        | —             |  |
-| Swift Attack                                                  | 300      | T        | WS 35         |  |
-| ‡ You may take this Talent up to three times at this Rank.    |          |          |               |  |
+| Advance                                                    | Cost | Type | Prerequisites |
+| ---------------------------------------------------------- | ---- | ---- | ------------- |
+| Charm +10                                                  | 100  | S    | Charm         |
+| Climb +10                                                  | 100  | S    | Climb         |
+| Concealment                                                | 100  | S    | —             |
+| Dodge +10                                                  | 100  | S    | Dodge         |
+| Interrogation +10                                          | 100  | S    | Interrogation |
+| Intimidation +10                                           | 100  | S    | Intimidation  |
+| Scholastic Lore (Tactica Imperialis)                       | 100  | S    | —             |
+| Scrutiny +10                                               | 100  | S    | Scrutiny      |
+| Secret Tongue (Gutter)                                     | 100  | S    | —             |
+| Ambidextrous                                               | 100  | T    | Ag 30         |
+| Hardy                                                      | 100  | T    | T 40          |
+| Nerves of Steel                                            | 100  | T    | —             |
+| Peer (Government)                                          | 100  | T    | Fel 30        |
+| Sure Strike                                                | 100  | T    | WS 30         |
+| Step Aside                                                 | 100  | T    | Ag 40, Dodge  |
+| True Grit                                                  | 100  | T    | T 40          |
+| Forbidden Lore (Cults)                                     | 200  | S    | —             |
+| Forbidden Lore (Mutants)                                   | 200  | S    | —             |
+| Logic                                                      | 200  | S    | —             |
+| Scholastic Lore (Occult)                                   | 200  | S    | —             |
+| Shadowing                                                  | 200  | S    | —             |
+| Silent Move +10                                            | 200  | S    | Silent Move   |
+| Sleight of Hand                                            | 200  | S    | —             |
+| Basic Weapon Training (Plasma)                             | 200  | T    | —             |
+| Combat Master                                              | 200  | T    | WS 30         |
+| Deadeye Shot                                               | 200  | T    | BS 30         |
+| Heavy Weapon Training (Flame)                              | 200  | T    | —             |
+| Melee Weapon Training (Chain)                              | 200  | T    | —             |
+| Pistol Training (Plasma)                                   | 200  | T    | —             |
+| Sound Constitution‡                                        | 200  | T    | —             |
+| Exotic Weapon Training (Web Pistol)                        | 300  | T    | —             |
+| Exotic Weapon Training (Webber)                            | 300  | T    | —             |
+| Swift Attack                                               | 300  | T    | WS 35         |
+| ‡ You may take this Talent up to three times at this Rank. |      |      |               |
+|                                                            |      |      |               |
 
-#### **Intelligencer Advances**
+# **Intelligencer Advances**
 
 *"There's low cunning, then there's Intelligencers. Saints help the scum if those boys are on the trail…"*
 
@@ -326,23 +326,23 @@ As the Imperium is mighty, so too is the Lord Marshal. His will is not blunted b
 | 300 | T        | —                                      |
 |     | Cost     | Typ                                    |
 
-| Advance                                                     | Cost     | Typ    e | Prerequisites                         |
-|-------------------------------------------------------------|----------|----------|---------------------------------------|
-| Command +10                                                 | 100      | S        | Command                               |
-| Scholastic Lore (Tactica Imperialis) +10                    | 100      | S        | Scholastic Lore (Tactica Imperialis)  |
-| Security +20                                                | 100      | S        | Security +10                          |
-| Bulging Biceps                                              | 100      | T        | S 45                                  |
-| Dual Shot                                                   | 100      | T        | Ag 40, Two-Weapon Wielder (Ballistic) |
-| Independent Targeting                                       | 100      | T        | BS 40                                 |
-| Iron Discipline                                             | 100      | T        | WP 30, Command                        |
-| Resistance (Poisons)                                        | 100      | T        | —                                     |
-| Common Lore (War)                                           | 200      | S        | —                                     |
-| Gunslinger                                                  | 200      | T        | BS 40, Two-Weapon Wielder (Ballistic) |
-| Heavy Weapon Training (Plasma)                              | 200      | T        | —                                     |
-| Peer (Military)                                             | 200      | T        | Fel 30                            |
-| Crack Shot                                                  | 300      | T        | BS 40                                 |
-| Sound Constitution†                                     | 300      | T        | —                                     |
-| †You may take this Talent up to two times at this Rank. |          |          |                                       |
+| Advance                                                 | Cost | Type | Prerequisites                         |
+| ------------------------------------------------------- | ---- | ---- | ------------------------------------- |
+| Command +10                                             | 100  | S    | Command                               |
+| Scholastic Lore (Tactica Imperialis) +10                | 100  | S    | Scholastic Lore (Tactica Imperialis)  |
+| Security +20                                            | 100  | S    | Security +10                          |
+| Bulging Biceps                                          | 100  | T    | S 45                                  |
+| Dual Shot                                               | 100  | T    | Ag 40, Two-Weapon Wielder (Ballistic) |
+| Independent Targeting                                   | 100  | T    | BS 40                                 |
+| Iron Discipline                                         | 100  | T    | WP 30, Command                        |
+| Resistance (Poisons)                                    | 100  | T    | —                                     |
+| Common Lore (War)                                       | 200  | S    | —                                     |
+| Gunslinger                                              | 200  | T    | BS 40, Two-Weapon Wielder (Ballistic) |
+| Heavy Weapon Training (Plasma)                          | 200  | T    | —                                     |
+| Peer (Military)                                         | 200  | T    | Fel 30                                |
+| Crack Shot                                              | 300  | T    | BS 40                                 |
+| Sound Constitution†                                     | 300  | T    | —                                     |
+| †You may take this Talent up to two times at this Rank. |      |      |                                       |
 
 | Advance                                                     | Cost     | Type     | Prerequisites                            |
 |-------------------------------------------------------------|----------|----------|------------------------------------------|
