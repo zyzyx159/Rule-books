@@ -817,91 +817,91 @@ Bolters are literally as old as the Imperium itself, and have been firmly connec
 
 To use bolt weapons without penalty, a character must have the Pistol Training (Bolt), Basic Weapon Training (Bolt), or Heavy Weapon Training (Bolt) talents.
 
-| Bolt Weapons          |        |       |        |          |     |      |        |                                  |       |        |         |                   |
-| --------------------- | ------ | ----- | ------ | -------- | --- | ---- | ------ | -------------------------------- | ----- | ------ | ------- | ----------------- |
-| Name                  | Class  | Range | RoF    | Dam      | Pen | Clip | Rld    | Special                          | Wt    | Cost   | World   | Availability      |
-| Angelus               | Basic  | 120m  | S/-/-  | 2d10+2 X | 5   | 3    | 3 Full | Accurate, Tearing                | 11kg  | 2,000  | -       | Very Rare         |
-| Boltgun (generic)     | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | Tearing                          | 7kg   | 500    | -       | Rare              |
-| - Godwyn-De'az        | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 30   | Full   | Reliable, Tearing                | 6kg   | 1,000  | -       | Very Rare         |
-| - Locke               | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 24   | Full   | Tearing                          | 7kg   | 900    | -       | Very Rare         |
-| - Scourge             | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | Reliable, Tearing                | 10kg  | 650    | -       | Very Rare         |
-| - Solo                | Basic  | 100m  | S/-/-  | 1d10+5 X | 4   | 24   | Full   | Accurate,Reliable, Tearing   | 7kg   | 500    | -       | Very Rare         |
-| Bolt Pistol (generic) | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | Tearing                          | 3.5kg | 250    | -       | Rare              |
-| - Garm                | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | Tearing                          | 4.5kg | 350    | -       | Rare              |
-| - Godwyn-De'az        | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 6    | Full   | Reliable, Tearing                | 3kg   | 550    | -       | Very Rare         |
-| - Mauler              | Pistol | 30m   | S/3/-  | 1d10+5 X | 4   | 6    | Full   | Reliable, Tearing                | 2.7kg | 375    | -       | Very Rare         |
-| - Sacristan           | Pistol | 30m   | S/2/-  | 1d10+6 X | 4   | 6    | Full   | Tearing                          | 3.3kg | 380    | -       | Rare              |
-| Cane Bolter           | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | Tearing                          | 3kg   | 600    | -       | Very Rare         |
-| Heavy Bolter          | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | Tearing                          | 40kg  | 2,000  | -       | Very Rare         |
-| Psycannon             | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | Reliable,Sanctified, Tearing | 20kg  | 12,000 | Malleus | ExtremelyRare |
-| Spitfire              | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | Tearing, Unreliable              | 3kg   | 75     | Volg    | Scarce            |
-| Storm Bolter          | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Storm, Tearing                   | 9kg   | 4,000  | -       | ExtremelyRare |
-| - Godwyn-De'az        | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Reliable, Storm,Tearing      | 12kg  | 9,000  | -       | ExtremelyRare |
-#### Angelus Bolt Carbine
+| Bolt Weapons                              |        |       |        |          |     |      |        |                              |       |        |         |               |
+| ----------------------------------------- | ------ | ----- | ------ | -------- | --- | ---- | ------ | ---------------------------- | ----- | ------ | ------- | ------------- |
+| Name                                      | Class  | Range | RoF    | Dam      | Pen | Clip | Rld    | Special                      | Wt    | Cost   | World   | Availability  |
+| [[#Angelus Bolt Carbine\|Angelus]]        | Basic  | 120m  | S/-/-  | 2d10+2 X | 5   | 3    | 3 Full | Accurate, Tearing            | 11kg  | 2,000  | -       | Very Rare     |
+| [[#Boltgun]] (generic)                    | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | Tearing                      | 7kg   | 500    | -       | Rare          |
+| - [[#Godwyn-De'az-Pattern\|Godwyn-De'az]] | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 30   | Full   | Reliable, Tearing            | 6kg   | 1,000  | -       | Very Rare     |
+| -                                         | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 24   | Full   | Tearing                      | 7kg   | 900    | -       | Very Rare     |
+| - Scourge                                 | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | Reliable, Tearing            | 10kg  | 650    | -       | Very Rare     |
+| - Solo                                    | Basic  | 100m  | S/-/-  | 1d10+5 X | 4   | 24   | Full   | Accurate,Reliable, Tearing   | 7kg   | 500    | -       | Very Rare     |
+| Bolt Pistol (generic)                     | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | Tearing                      | 3.5kg | 250    | -       | Rare          |
+| - Garm                                    | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | Tearing                      | 4.5kg | 350    | -       | Rare          |
+| - Godwyn-De'az                            | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 6    | Full   | Reliable, Tearing            | 3kg   | 550    | -       | Very Rare     |
+| - Mauler                                  | Pistol | 30m   | S/3/-  | 1d10+5 X | 4   | 6    | Full   | Reliable, Tearing            | 2.7kg | 375    | -       | Very Rare     |
+| - Sacristan                               | Pistol | 30m   | S/2/-  | 1d10+6 X | 4   | 6    | Full   | Tearing                      | 3.3kg | 380    | -       | Rare          |
+| Cane Bolter                               | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | Tearing                      | 3kg   | 600    | -       | Very Rare     |
+| Heavy Bolter                              | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | Tearing                      | 40kg  | 2,000  | -       | Very Rare     |
+| Psycannon                                 | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | Reliable,Sanctified, Tearing | 20kg  | 12,000 | Malleus | ExtremelyRare |
+| Spitfire                                  | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | Tearing, Unreliable          | 3kg   | 75     | Volg    | Scarce        |
+| Storm Bolter                              | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Storm, Tearing               | 9kg   | 4,000  | -       | ExtremelyRare |
+| - Godwyn-De'az                            | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Reliable, Storm,Tearing      | 12kg  | 9,000  | -       | ExtremelyRare |
+### Angelus Bolt Carbine
 Class: Bolt (Basic)
 
 A specialist version of what is already a specialist weapon, the Fykos Forge's Angelus Bolt Carbine is jokingly termed as such as it would make a lightweight and handy weapon if the firer was a Space Marine. The Angelus is a truly "new" weapon devised only in the last few centuries once several fanes of Gunmetal City were granted rights to begin constructing Solarpattern heavy bolters. This weapon uses those very large 1-calibre bolt shells, storing three packed end-to-end within the gun's finely crafted stock. As it lacks an external clip and is longer and narrower than most bolters, a layman might mistake an Angelus for a heavy sniper rifle right up until hearing the signature roar (and subsequent blast) of its bolt. While lacking any kind of subtlety or stealth applications, the Angelus has an undeniable ability to blow apart well protected foes at long range, and the professional mercenaries and Inquisitorial Agents who most often make use of this bolter can reliably argue that any concerns about giving away their firing position can be remedied by killing the entire enemy party from well outside their own engagement range.
 
-#### Boltgun
+### Boltgun
 Class: Basic (Bolt)
 
 Boltguns are the epitome of individual firepower in the Imperium and those lucky enough to be gifted or issued one of these superb weapons are truly blessed. The sound of bolts being fired has been enough to rout much larger cultist forces, while the more dedicated enemies are handily taken care of as the mass-reactive bolt shells shred their bodies into mush even through the best common armours. Boltguns are typified by a squat, boxy body with a pistol grip and stockless frame, making them somewhat shorter than common autoguns in spite of their much greater power, and feature multiple attachment points for extra sights, exterminator cartridges, and so on. Boltguns use standard .75 calibre bolts from a sickle clip. At the cost of reliability, most boltguns can be used with a boxy ammo drum instead, increasing the Clip size to 60 but either gaining the Unreliable quality or losing the Reliable quality if it has it. Only boltguns that use a standard mag-port (those with a standard Clip size of 24) can use these drums. Boltguns for use by humans come in a variety of patterns and marks made by artificers across the Imperium, most of which can fit into this weapon's entry. Some patterns that include more unique features are listed here.
 
-**Godwyn-De'az-Pattern:**
+#### Godwyn-De'az-Pattern:
 This pattern was designed specifically for the Adepta Soroitas, blessed by the Canonesses of the Orders, and presented to a hopeful when they officially become a Battle Sister. The Sisterhood considers the venerated Godwyn-De'az bolt weapons heirlooms; each one is carefully maintained by highly specialized servitors and trusted servants, and those with the privilege to see these weapons up close have commented both on the quality of their make as well as the presence of several features which have been omitted from more recent patterns. This style of boltgun was once used in considerable numbers during the Age of Apostasy and holds great significance for the Adepta Soroitas giving their founding in the wake of those dark times. It is not only a powerful weapon against the enemies of mankind, but also a symbol of the Emperor's judgement and of the Sister's personal connection to her faith.
 
-**Locke-Pattern:**
+#### Locke-Pattern Boldgun:
 Unusual among Imperial weapons, this pattern of boltgun has a mysterious lineage and it is unclear when or where they were first made. Locke boltguns are capable of putting down a withering barrage of fully automatic fire; this is a rare feature, giving the headache of maintaining a supply for even well-disciplined bolt expenditures. For those whose connections or wealth permits such extravagance, the Locke has unwavering merit as a partner in destruction.
 
-**Scourge Mark II:**
+#### Scourge Mark II:
 A favoured mark among well-equipped expeditionary troops, the Scourge boltgun is based on a Martian pattern now manufactured in Gunmetal City. It features a wicked saw-toothed blade permanently attached as a bayonet, allowing the shooter to rip open any enemy hoping to gain an advantage in close combat. Armed Ecclesiarchs accompanying Sisters of Battle are known to carry this style of boltgun, and it is particularly common within the arsenal of the Abbey of Dawn on Iocanthos, a world where close quarters battles are often the order of the day. When used in close combat, a Scourge boltgun counts as a mono-edged axe.
 
-**Perinetus "Solo" Boltgun:**
+#### Perinetus "Solo" Boltgun:
 Some sects of the Adeptus Mechanicus frown on this weapon as skirting tech-heresy as many of its internal workings have been left out and deliberately simplified as an attempt to make an inexpensive yet reliable boltgun for use by troops who normally would not hope to have access to such superb arms. The artificers of the Perinetus Forge in the Periphery succeeded admirably at this task, but with the opposite of the intended result once it was discovered that the longer barrel and reduced moving parts have resulted in a very accurate bolter. Demand for the "Solo" has constantly exceeded supply as there are many who would benefit greatly from taking down their foes with a single bolt shell, and virtually all of them consider the loss of semiautomatic burst fire a price worth paying.
 
-#### Bolt Pistol
+### Bolt Pistol
 Class: Pistol (Bolt)
 
 Carrying a bolt pistol is a sign of the wearer's status just as much as it is a powerful and effective sidearm. Being gifted one of these fine pistols immediately sets its owner ahead as a favoured servant, while those who can obtain one through their own devices display their wealth and excellent discretion all at once. A bolt pistol is effectively a highly shortened boltgun, lacking range but just as deadly compared to its full-size counterpart thanks to most of a bolt's velocity coming from its internal rocket propulsion. Bolt pistols use the same .75-calibre bolts from a narrow single column clip, and those fortunate enough to have both a boltgun and bolt pistol to their names can freely share their precious bolts between them. Bolt pistols are manufactured in many of the Imperium's greater forges for issuance to Imperial Guard officers and Adeptus Arbites elites, while heirloom examples made many centuries ago are often passed down in private hands or among the ranks of the Inquisition. Whether fresh from the forges or venerated and festooned with purity seals, few which carry a bolt pistol wish they had something else. The most widely produced marks of bolt pistol fit into this description; some with more unique features are listed here.
 
-**Garm-Pattern Service Pistol:**
+#### Garm-Pattern Service Pistol:
 This bolter is commonly carried by the grim Commissars attached to Imperial Guard units. The Garm is well suited to this role by these feared and respected leaders – its large size and inlaid insignia can be easily seen from a distance when a Commissar waves it in the air to inspire his troops, while the oversized muzzle placed squarely at face level is often enough to embolden cowering Guardsmen (though more vindictive Commissars might follow up with a summary execution anyway).
 
 Specifically designed to inspire fear, a Garm-Pattern bolt pistol grants a +10 bonus to Intimidate Skill Tests when used to threaten anyone familiar with the Commissariat's authority. This is in addition to the _Carry a Big Gun_ rule (see _The Inquisitor's Handbook,_ page 232 for more information).
 
-**Godwyn-De'az-Pattern:**
+#### Godwyn-De'az-Pattern:
 A companion piece to the Godwyn-De'az boltgun, this pistol is a favourite of the Adepta Soroitas for many of the same reasons as its larger counterpart. The single largest user among the Sisterhood are the elite Seraphim jump troops, who often go into battle with one of these bolters in each hand and aggressively cut down multiple enemies at once. It is also a common sidearm for a squad's Sister Superior and other Sisters who wield a close combat weapon in their other hand.
 
-**Cinder Crag "Mauler" Pistol:**
+#### Cinder Crag "Mauler" Pistol:
 The Mauler is a highly sought-after bolt pistol manufactured by the Cinder Crag Forge of Gunmetal City, who make these fine weapons to commission for those with deep pockets and the desire for an exclusive sidearm. Maulers are hand made by a small cadre of artificers using the finest materials and alloys, with the heavy work performed by specially designed servitors. The resultant weapon is both extremely sophisticated and blessed with a well-disposed machine spirit that will see its owner through where even other bolters may fail.
 
 For twice the listed price, a Mauler may be made to commission using the commissioner's exact biometric data. This counts as a Best Craftsmanship weapon when wielded by the hand designed for it, and an included gene-lock circuit in the grip ensures only that hand can fire the pistol.
 
-**Sacristan Bolt Pistol:**
+#### Sacristan Bolt Pistol:
 This class of bolt pistol is produced under license for the Ordos Calixis by the Fane of Orthlack on Scintilla, this association immediately marking it as an "Inquisitor's Sidearm". The Sacristan's killing power is augmented by a grav-accelerator inside its bulky housing that increases the velocity of its bolts, making it somewhat more potent than most bolt pistols. This is an attractive feature to Inquisitors and their minions who wish to keep away from overt displays of power by only packing a sidearm, and while few would doubt a bolt pistol's efficiency at killing, fewer still would doubt a Sacristan's.
 
 The Sacristan's sharp recoil imposes a -10 penalty on Ballistic Skill Tests made to attack unless the shooter holds the weapon with two hands or has a Strength Bonus of 4 or more.
 
-#### Cane Bolter
+### Cane Bolter
 Class: Pistol (Bolt)
 
 Those with the resources and connections to own their own bolters are often the same types who choose to flaunt their assets, sporting brusque and overwhelming attires and festooned with bandoliers of pistols and clips. Some, however, attempt a more subtle though no less deadly style that favours concealed and hidden weapons. Local customs or specific situations might also dictate leaving one's weapons behind, and while carefully tucking a pistol away within the folds of one's robe or a hidden pouch on the wearer's body might appeal to some, others prefer a weapon they can have right out in the open. Cane bolters are exactly as they seem: an ostentatious walking stick that just happens to conceal a single bolt and firing mechanism in the upper end, with a breakaway false bottom that is torn off when the bolt is launched. The handle must be unscrewed for a new bolt to be loaded, so they are by and large weapons of surprise and opportunity. A cane bolter can be equipped with any boltgun or pistol ammunition its owner might happen to have available.
 
-#### Heavy Bolter
+### Heavy Bolter
 Class: Heavy (Bolt)
 
 Rarely deployed outside of military organizations, heavy bolters are oversized and fully-automatic boltguns designed for heavy suppression and destruction of enemy infantry and light vehicles. Heavy bolters fire a larger 1 calibre bolt that gives them dramatically more power and improved range, and dug-in heavy weapon teams armed with this type of bolter can tie up a very large opposing force. Heavy bolters are common weapons on Imperial armoured vehicles, with Twin-Linked mounts featured on super-heavy tanks and fixed defence turrets. A heavy bolter is fed via an attached ammunition drum and can be ported by one man, with an assistant carrying a tripod and additional bolt shells. Particularly brawny troops or those in power armour have been known to schlep a heavy bolter as an individual assault weapon, typically using a backpack ammunition feed.
 
 A heavy bolter using an ammunition drum uses the stated statistics. It can be used with a backpack ammo pack weighing 25kg instead, reducing its weight to 35kg, increasing its Clip size to 200, and doubling its Reload time.
 
-#### Psycannon
+### Psycannon
 Class: Heavy (Bolt)
 
 Psycannons are extremely powerful and mystic weapons used almost exclusively by the Ordo Malleus of the Inquisition. A psycannon is similar to a greatly modified heavy bolter and fires special custom-crafted bolts charged with psychic energy and possessing ritually inscribed silver tips backed by a rare isotopic explosive. Each blessed round can unerringly penetrate the psychic defences and shields of a target, making them a coveted weapon for Inquisitors planning to hunt daemons and witches. While powerful weapons against psykers and warp entities, a psycannon's true power is revealed when it is wielded by none other than a psyker itself. Each shot can be imbued with a measure of the psyker's mental force, bringing ruin to his target with each shot. Psycannons are exceptionally rare weapons, making standard bolt weapons seem ubiquitous in comparison. Each is handcrafted by special artisan-armourers watched and sanctified by the Adeptus Ministorum, and the knowledge to create these weapons is wisely and carefully guarded.
 
 Psycannon bolts ignore all protective benefits granted by psychic powers (including bonuses to Dodge) and the increased Toughness Bonus from the Daemonic Trait. Psycannons also have in-built Suspensors, so the wielder counts as possessing the Auto-Stabilised Trait. Finally, an individual with a Psy Rating may imbue the psycannon with additional Damage equal to his Psy Rating. This is considered a Minor Psychic power with a Threshold of 10 that can be used as a Free Action. Psycannons are always Good Craftsmanship weapons; this is reflected in their rules. Psycannons fire special handcrafted bolts that are Extremely Rare with a base price of 250 Thrones each.
 
-#### Volg "Spitfire" Bolter
+### Volg "Spitfire" Bolter
 Class: Pistol (Bolt)
 
 The Spitfire is an imitation bolt pistol, in reality little more than a flare or line launcher modified to fire crude impact-detonated warheads. According to popular myth, the Spitfire was first patterned by an exiled Magnavar tech-adept to help combat swarming Maw-flukes. While a pale substitute for an actual bolt pistol, Spitfires became an immediate sensation among Volg's scav-workshops and the more talented arms dealers as they can provide much needed firepower to a place filled with unseen horrors. In Volg, carrying a Spitfire with its primitive but functional exploding shells can mean the difference between living another day and being carried off into the darkness below.
@@ -912,12 +912,12 @@ Spitfire shells are far from stable and any Jam result automatically incurs an E
 
 Spitfire shells are Scarce with a base cost of 5 Thrones per reload.
 
-#### Storm Bolter
+### Storm Bolter
 Class: Basic (Bolt)
 
 Storm bolters are truly devastating weapons created by the very careful and time-consuming process of combining two boltguns together into one implement of the Emperor's wrath. A storm bolter can literally saw a well-armoured target in half, while an unprotected man would be reduced to a fine mist with a few chunks of fleshpulp decorating his cohorts. Storm bolters are exceptionally difficult weapons to craft in no small part due to the frustrating travails of wheedling two machine spirits into functioning in concert with one another, as that harmonious cooperation is the true source of a storm bolter's exponentially greater power. Because of the great effort and skill required to create them, storm bolters are typically only made on the greatest of the Imperium's forge worlds, such as Ryza in Ultima Segmentum and even Holy Mars itself. Storm bolters can be most commonly found as auxiliary weapons attached to Imperial armoured vehicles, with small numbers endowed as personal weapons to especially favoured Imperial officers and senior agents of the Inquisition. The Sisters of Battle are known to make use of storm bolters with some frequency with a specific pattern assigned to their arsenals.
 
-**Godwyn-De'az-Pattern:**
+#### Godwyn-De'az-Pattern:
 This pattern of storm bolter is based off of the standard Godwyn-De'az boltgun used by the bulk of the Sisters of Battle, and is issued as a reward for Battle Sisters who have proven themselves in combat prowess and spiritual dedication to be worthy of such withering firepower. It is exceptionally rare outside of their ranks.
 
 ## MELTA WEAPONS
