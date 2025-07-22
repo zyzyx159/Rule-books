@@ -830,11 +830,11 @@ To use bolt weapons without penalty, a character must have the Pistol Training (
 | - [[#Garm-Pattern Service Pistol\|Garm-Pattern]] | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | Tearing                      | 4.5kg | 350    | -       | Rare          |
 | - [[#Godwyn-De'az-Pattern]]                      | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 6    | Full   | Reliable, Tearing            | 3kg   | 550    | -       | Very Rare     |
 | - [[#Cinder Crag "Mauler" Pistol\|Mauler]]       | Pistol | 30m   | S/3/-  | 1d10+5 X | 4   | 6    | Full   | Reliable, Tearing            | 2.7kg | 375    | -       | Very Rare     |
-| - Sacristan                                      | Pistol | 30m   | S/2/-  | 1d10+6 X | 4   | 6    | Full   | Tearing                      | 3.3kg | 380    | -       | Rare          |
-| Cane Bolter                                      | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | Tearing                      | 3kg   | 600    | -       | Very Rare     |
-| Heavy Bolter                                     | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | Tearing                      | 40kg  | 2,000  | -       | Very Rare     |
-| Psycannon                                        | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | Reliable,Sanctified, Tearing | 20kg  | 12,000 | Malleus | ExtremelyRare |
-| Spitfire                                         | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | Tearing, Unreliable          | 3kg   | 75     | Volg    | Scarce        |
+| - [[#Sacristan Bolt Pistol\|Sacristan]]          | Pistol | 30m   | S/2/-  | 1d10+6 X | 4   | 6    | Full   | Tearing                      | 3.3kg | 380    | -       | Rare          |
+| [[#Cane Bolter]]                                 | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | Tearing                      | 3kg   | 600    | -       | Very Rare     |
+| [[#Heavy Bolter]]                                | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | Tearing                      | 40kg  | 2,000  | -       | Very Rare     |
+| [[#Psycannon]]                                   | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | Reliable,Sanctified, Tearing | 20kg  | 12,000 | Malleus | ExtremelyRare |
+| [[Volg "Spitfire" Bolter\|Spitfire]]             | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | Tearing, Unreliable          | 3kg   | 75     | Volg    | Scarce        |
 | Storm Bolter                                     | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Storm, Tearing               | 9kg   | 4,000  | -       | ExtremelyRare |
 | - Godwyn-De'az                                   | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Reliable, Storm,Tearing      | 12kg  | 9,000  | -       | ExtremelyRare |
 ### Angelus Bolt Carbine
