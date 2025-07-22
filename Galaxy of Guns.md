@@ -332,29 +332,29 @@ The Venom is powered via an internal non-removable power cell rather than Munito
 
 ### BASIC & HEAVY LAS
 
-| Las Weapons                 |       |       |        |           |     |         |        |                             |       |       |            |              |
-| --------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | --------------------------- | ----- | ----- | ---------- | ------------ |
-| Name                        | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                     | Wt    | Cost  | World      | Availability |
-| Merovech Assault Lasgun     | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | Reliable, Variable          | 4.5kg | 250   | -          | Average      |
-| Hellgun                     | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                           | 6kg†  | 2,700 | -          | Rare         |
-| Hellgun (D'laku)            | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | Variable                    | 9kg†  | 500   | Lathes     | Scarce       |
-| Lascannon                   | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                           | 55kg  | 5,000 | -          | Very Rare    |
-| Lascarbine (generic)        | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | Reliable, Variable          | 3kg   | 75    | -          | Common       |
-| - Death Light               | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | Variable                    | 7.2kg | 250   | Fenksworld | Scarce       |
-| - Locke                     | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | Unreliable, Variable        | 2.5kg | 100   | -          | Scarce       |
-| - Minerva-Aegis             | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | Reliable, Variable          | 4.1kg | 150   | -          | Scarce       |
-| Lascutter                   | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                           | 8kg   | 370   | -          | Rare         |
-| Lasgun (generic)            | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | Reliable, Variable          | 4kg   | 100   | -          | Common       |
-| - Drusus Prime              | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | Reliable, Variable          | 7kg   | 50    | -          | Common       |
-| - Mark III                  | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | Reliable, Variable          | 4kg   | 75    | -          | Average      |
-| - Roth                      | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | Reliable, Variable          | 4kg   | 175   | -          | Rare         |
-| - Storm Front               | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | Reliable, Variable          | 5kg   | 200   | -          | Very Rare    |
-| Laslock                     | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | Unreliable, Unstable        | 4kg   | 40    | -          | Plentiful    |
-| Long Las                    | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | Accurate,Reliable, Variable | 4.5kg | 100   | -          | Scarce       |
-| Multi-Laser                 | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                           | -     | 2,000 | -          | Scarce       |
-| Shotlas                     | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                           | 4kg   | 90    | -          | Scarce       |
-| Twin Lasgun                 | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | Tearing, Unreliable         | 7kg   | 220   | -          | Rare         |
-| †_Not including power pack_ |       |       |        |           |     |         |        |                             |       |       |            |              |
+| Las Weapons                  |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
+| ---------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
+| Name                         | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
+| [[#Merovech Assault Lasgun]] | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.5kg | 250   | -          | Average      |
+| [[#Hellgun]]                 | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                                                                   | 6kg†  | 2,700 | -          | Rare         |
+| [[#D'laku Crusade Hellgun]]  | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
+| [[#Man-Portable Lascannon]]  | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
+| [[#Lascarbine]] (generic)    | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
+| - Death Light                | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
+| - Locke                      | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
+| - Minerva-Aegis              | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
+| Lascutter                    | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
+| Lasgun (generic)             | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 100   | -          | Common       |
+| - Drusus Prime               | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
+| - Mark III                   | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
+| - Roth                       | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
+| - Storm Front                | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
+| Laslock                      | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | [[#Unreliable]], [[#Unstable]]                                      | 4kg   | 40    | -          | Plentiful    |
+| Long Las                     | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | [[#Accurate]],[[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 4.5kg | 100   | -          | Scarce       |
+| Multi-Laser                  | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                                                                   | -     | 2,000 | -          | Scarce       |
+| Shotlas                      | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                                                                   | 4kg   | 90    | -          | Scarce       |
+| Twin Lasgun                  | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | [[#Tearing]], [[#Unreliable]]                                       | 7kg   | 220   | -          | Rare         |
+| †_Not including power pack_  |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
 #### Merovech Assault Lasgun
 Class: Basic (Las)
 
