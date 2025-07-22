@@ -1,6 +1,4 @@
-# POISONS AND TOXINS
-
-## Introduction:
+# Introduction:
 
 There exist a dizzying multitude of virulent substances that attack a man's bodily humors, leading to sickness, incapacitation, or even death. Some are the natural venom of predatory beasts, siphoned off for more nefarious purposes, while others are deliberately man made; whether the latter are gathered toxic pollutants of Imperial society, or purposefully created banes from a death cult's laboratorium, usually matters little for the user, and even less for the victim.
 
@@ -8,44 +6,44 @@ Attitudes towards the willful use of poison vary widely. On infamously deceitful
 
 In game terms, poisons and toxins are classified with three criteria: speed, strength, and effect. Rules for these qualities are described as follows.
 
-### Speed
+## Speed
 
 Speed defines how quickly the poison will enter the victim's system and begin to take its effects upon their physiology.
 
-**Instant:**
+### Instant:
 The poison's effect is felt as soon as the victim is exposed. The bites and stings of venomous creatures as well as poisoned blades and weapons with the Toxic quality operate at this speed unless otherwise noted.
 
-**Swift:**
+### Swift:
 The effects of the poison aren't felt for 1d5 hours after exposure. Poisons and toxins that are inhaled or ingested tend to operate at this speed.
 
-**Slow:** 
+### Slow:
 This poison advances hideously slowly, only making its effects felt after 1d5 days. Persistent environmental poisons and taints, including penetrating radiation, usually operate at this speed.
 
-### Strength
+## Strength
 
 Some folk are hardier than others, and a poison that could fell one victim might leave another entirely unscathed. When exposed to a poison or toxin a victim must make a Toughness Test, whose difficulty is set by the poison's strength. Success indicates the victim is able to shrug off the poison's effects, while failure causes them to suffer the same.
 
-### Effect
+## Effect
 
 The great majority of poisons or toxins fall into one of the four following effects, although more unique or unusual outcomes are certainly possible – it is, after all, a big galaxy with no shortage of nightmarish horrors lurking about.
 
-**Lethal:**
+### Lethal:
 This poison assaults the body's vital functions, damaging the nervous system, causing an infarction, or paralyzing the victim's lungs, among other such unpleasantness. A lethal poison causes the victim to suffer 1d10 temporary Toughness Damage plus a further 1d10 per degree of failure, if any. If the victim's Toughness is reduced to below 1 they die, although prompt intervention by a skilled medicae may yet be able to save them.
 
 Additionally, if more than half of the victim's Toughness is lost to a single exposure they also become comatose for 1d5 hours.
 
-**Paralytic:**
+### Paralytic:
 This poison causes paralysis of the musculature, incapacitating the victim (but not rendering them unconscious!). A paralytic poison causes the victim suffers 1d10 temporary Strength Damage plus a further 1d10 per degree of failure, if any. If the victim's Strength is reduced to less than 1 they are completely paralyzed and may take no actions save for those that are strictly mental. Most paralytic poisons wear off in 2d5 hours minus the victim's Toughness Bonus, although especially potent ones could take much longer.
 
-**Sedative:**
+### Sedative:
 This poison staggers its victim's mind, rendering them into a sluggish heap, or possibly completely unconscious depending on the poison's potency. A sedative poison causes the victim to be Stunned for 1d10 minutes; if the victim fails their Toughness Test by two or more degrees they instead fall unconscious for 1d5 hours.
 
-**Necrotic:**
+### Necrotic:
 This poison causes localized damage to the body directly, often through corroding tissues or causing chemical burns to the wounded area. Many powerful acids or solvents, along with certain industrial pollutants, can be considered a necrotic poison – natural examples would include venom used by jaw less predators to liquefy and digest their prey. Needle weapons, used by both Imperial and xeno snipers and assassins, typically make use of this sort of poison to fell their targets. A necrotic poison causes Damage to the victim's Wounds with no reduction for armor or Toughness Bonus. Most common necrotic poisons inflict 1d10 Damage; weaker examples might "only" cause 1d5, while particularly devastating ones could reach 2d10.
 
 Should it be necessary to determine what sort of Damage the victim has suffered – for example, with respect to Critical Damage – a necrotic poison could inflict Energy, Impact, or Rending effects depending on the nature of the specific bane in question.
 
-### USING POISON
+## USING POISON
 
 In absolute terms, anyone trained in the use of a needle rifle is using poison, but this is the work of an amateur in the eyes of the skilled poisoner.
 
@@ -55,24 +53,24 @@ The Chem-Use Test to prepare a poison can (and probably should…) be concealed 
 
 Residual poison can often be detected by a skilled medicae with a toxin wand (or an inquester if the victim has succumbed to the poison's effects). A poisoner that wishes to obfuscate their role in the victim's affliction may attempt a Difficult (-10) Chem-Use Test when they ready their poison; success indicates the difficulty of any Tests made to identify the poison later increase by one step, plus an additional step for each degrees of success the poisoner might have achieved.
 
-## INFAMOUS POISONS OF THE CALIXIS SECTOR
+# INFAMOUS POISONS OF THE CALIXIS SECTOR
 
 Maintaining a truly comprehensive list of all the toxic and poisonous compounds a man might encounter in Calixis is a monstrous undertaking best suited for a cadre of bespectacled adepts. With that said, most experienced poisoners would at least be familiar with the following better-known varieties.
 
-| Infamous Calixian Poisons  |       |                |         |          |                              |
-| -------------------------- | ----- | -------------- | ------- | -------- | ---------------------------- |
-| Name                       | Cost† | Availability   | Speed   | Strength | Effect                       |
-| [[#Ars Imperialis Mortua]] | 5000  | Extremely Rare | Instant | -30      | [[#Lethal                    |
-| [[#Ash Slug Secretion]]    | 55    | Average        | Instant | +10      | Paralytic and Necrotic [1D5] |
-| [[#Black Janix Venom]]     | 800   | Rare           | Instant | +10      | Lethal + Hallucinogen effect |
-| [[#Dusk Lotus]]            | 1000  | Rare           | Swift   | -10      | Lethal, Damage is permanent  |
-| [[#Maidens Foil Powder]]   | 200   | Average        | Swift   | +0       | Sedative                     |
-| [[#Morphia-V]]             | 350   | Scarce         | Instant | -20      | Sedative                     |
-| [[#Nephys Orchid]]         | 400   | Rare           | Slow    | -30      | Paralytic                    |
-| [[#Sump Vine Sap]]         | 50    | Common         | Slow    | +0       | Lethal                       |
-| [[#Torpor]]                | 700   | Very Rare      | Instant | -20      | Sedative or Special          |
-| [[#Tox-Jack]]              | 20    | Common         | Instant | -10      | Necrotic [1D10]              |
-| † Cost indicates one dose  |       |                |         |          |                              |
+| Infamous Calixian Poisons  |       |                |         |          |                                      |
+| -------------------------- | ----- | -------------- | ------- | -------- | ------------------------------------ |
+| Name                       | Cost† | Availability   | Speed   | Strength | Effect                               |
+| [[#Ars Imperialis Mortua]] | 5000  | Extremely Rare | Instant | -30      | [[#Lethal]]                          |
+| [[#Ash Slug Secretion]]    | 55    | Average        | Instant | +10      | [[#Paralytic]],  [[#Necrotic]] (1D5) |
+| [[#Black Janix Venom]]     | 800   | Rare           | Instant | +10      | [[#Lethal]] Hallucinogen effect      |
+| [[#Dusk Lotus]]            | 1000  | Rare           | Swift   | -10      | [[#Lethal]], Damage is permanent     |
+| [[#Maidens Foil Powder]]   | 200   | Average        | Swift   | +0       | [[#Sedative]]                        |
+| [[#Morphia-V]]             | 350   | Scarce         | Instant | -20      | [[#Sedative]]                        |
+| [[#Nephys Orchid]]         | 400   | Rare           | Slow    | -30      | [[#Paralytic]]                       |
+| [[#Sump Vine Sap]]         | 50    | Common         | Slow    | +0       | [[#Lethal]]                          |
+| [[#Torpor]]                | 700   | Very Rare      | Instant | -20      | [[#Sedative]] or Special             |
+| [[#Tox-Jack]]              | 20    | Common         | Instant | -10      | [[#Necrotic]] 1D10]                  |
+| † Cost indicates one dose  |       |                |         |          |                                      |
 
 ### Ars Imperialis Mortua
 (Instant/–30/Lethal)
