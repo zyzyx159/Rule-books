@@ -33,24 +33,18 @@ A[Novice 0-499] --> B[Initate 500-999]
 B --> C[Priest 1,000-1,999]
 C --> D[Preacher 2,000-2,999]
 D --> E[Cleric 3,000-5,999]
-E --> F[Confessor 6,000-7,999]
+E -- Anti-Heritic --> F[Confessor 6,000-7,999]
 F --> G[Bishop 8,000-9,999]
 G --> H[Hierophant 10,000-14,999]
-E --> I[Exorcist 6,000-7,999]
+E -- Anti-Demon --> I[Exorcist 6,000-7,999]
 I --> J[Zealot 8,000-9,999]
 J --> K[Redemptionist 10,000-14,999]
 ```
-#### **Novice Advances**
+# **Novice Advances**
 
 *"Do you think Saint Thrastus complained when he was strung up by his petard? No! Not one word! That's piety. Now get on with your work, you little ingrate."*
 
 Novices serve the Ecclesiar chy body and soul, looking to the examples of the Impe rial saints to inspire acts of greatness. They also serve those higher than them selves in the Ecclesiarchy (which is quite a few people indeed).
-
-# **Initiate Advances**
-
-*"Even the lowly initiate may become a martyr, if his will be strong enough."*
-
-Initiates are instructed to defend the Cult of the Emperor with more than simple words, so that the Emperor's light may be brought to the ignorant and truculent.
 
 | Advance                                                       | Cost     | Type     | Prerequisites |  |
 |---------------------------------------------------------------|----------|----------|---------------|--|
@@ -73,28 +67,34 @@ Initiates are instructed to defend the Cult of the Emperor with more than simple
 | Thrown Weapon Training (Primitive)                            | 200      | T        | —             |  |
 | ‡You may take this Talent up to three times at this Rank. |          |          |               |  |
 
-| Advance                                                     | Cost     | Type     | Prerequisites              |
-|-------------------------------------------------------------|----------|----------|----------------------------|
-| Barter                                                      | 100      | S        | —                          |
-| Climb                                                       | 100      | S        | —                          |
-| Common Lore (Ecclesiarchy) +10                              | 100      | S        | Common Lore (Ecclesiarchy) |
-| Common Lore (Imperium)                                      | 100      | S        | —                          |
-| Deceive                                                     | 100      | S        | —                          |
-| Literacy +10                                                | 100      | S        | Literacy                   |
-| Performer (Singer) +10                                      | 100      | S        | Performer (Singer)         |
-| Swim +10                                                    | 100      | S        | Swim                   |
-| Basic Weapon Training (Las)                                 | 100      | T        | —                          |
-| Basic Weapon Training (SP)                                  | 100      | T        | —                          |
-| Die Hard                                                    | 100      | T        | WP 40                      |
-| Flagellant                                                  | 100      | T        | —                          |
-| Hatred (Mutants)                                            | 100      | T        | —                          |
-| Peer (Ecclesiarchy)                                         | 100      | T        | Fel 30                 |
-| Sound Constitution†                                     | 100      | T        | —                          |
-| Ciphers (Acolyte)                                           | 200      | S        | —                          |
-| Performer (Musician)                                        | 200      | S        | —                          |
-| Rapid Reload                                                | 200      | T        | —                          |
-| Heightened Senses (Hearing)                                 | 200      | T        | —                          |
-| †You may take this Talent up to two times at this Rank. |          |          |                            |
+# **Initiate Advances**
+
+*"Even the lowly initiate may become a martyr, if his will be strong enough."*
+
+Initiates are instructed to defend the Cult of the Emperor with more than simple words, so that the Emperor's light may be brought to the ignorant and truculent.
+
+| Advance                                                 | Cost | Type | Prerequisites              |
+| ------------------------------------------------------- | ---- | ---- | -------------------------- |
+| Barter                                                  | 100  | S    | —                          |
+| Climb                                                   | 100  | S    | —                          |
+| Common Lore (Ecclesiarchy) +10                          | 100  | S    | Common Lore (Ecclesiarchy) |
+| Common Lore (Imperium)                                  | 100  | S    | —                          |
+| Deceive                                                 | 100  | S    | —                          |
+| Literacy +10                                            | 100  | S    | Literacy                   |
+| Performer (Singer) +10                                  | 100  | S    | Performer (Singer)         |
+| Swim +10                                                | 100  | S    | Swim                       |
+| Basic Weapon Training (Las)                             | 100  | T    | —                          |
+| Basic Weapon Training (SP)                              | 100  | T    | —                          |
+| Die Hard                                                | 100  | T    | WP 40                      |
+| Flagellant                                              | 100  | T    | —                          |
+| Hatred (Mutants)                                        | 100  | T    | —                          |
+| Peer (Ecclesiarchy)                                     | 100  | T    | Fel 30                     |
+| Sound Constitution†                                     | 100  | T    | —                          |
+| Ciphers (Acolyte)                                       | 200  | S    | —                          |
+| Performer (Musician)                                    | 200  | S    | —                          |
+| Rapid Reload                                            | 200  | T    | —                          |
+| Heightened Senses (Hearing)                             | 200  | T    | —                          |
+| †You may take this Talent up to two times at this Rank. |      |      |                            |
 
 # **Priest Advances**
 
