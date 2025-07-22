@@ -245,12 +245,6 @@ Tech-Priests are initiated into the deeper mysteries of technology, and know man
 
 Technomancers apply all their considerable mental powers to extracting information that may be of use to the Machine Cult. Be it currying favour with the Ecclesiarchy to interrogation of xenos prisoners, Technomancers conjure answers with ruthless logical efficiency.
 
-# **Cyber Seer**
-
-*"They ain't quite human no more. I mean, more than yer average Tech-Priest. No one could keep all that… you know… dangerous stuff in their skull an' stay normal."*
-
-Cyber Seers delve into the forbidden and occult matters of machinery with frightening zeal. From unnatural geometries to warp-touched autonoma, Cyber Seers do not shirk or sway from looking upon the damning and heretical in their quest for knowledge.
-
 | Advance                                | Cost | Type | Prerequisites                    |
 |----------------------------------------|------|------|----------------------------------|
 | Ciphers (Secret Society)               | 100  | S    | —                                |
@@ -277,6 +271,12 @@ Cyber Seers delve into the forbidden and occult matters of machinery with fright
 | Exotic Weapon Training (Needle Pistol) | 200  | T    | —                                |
 | Sound Constitution                     | 200  | T    | —                                |
 | Thrown Weapon Training (Shock)         | 300  | T    | —                                |
+
+# **Cyber Seer**
+
+*"They ain't quite human no more. I mean, more than yer average Tech-Priest. No one could keep all that… you know… dangerous stuff in their skull an' stay normal."*
+
+Cyber Seers delve into the forbidden and occult matters of machinery with frightening zeal. From unnatural geometries to warp-touched autonoma, Cyber Seers do not shirk or sway from looking upon the damning and heretical in their quest for knowledge.
 
 | Advance                           | Cost | Type | Prerequisites                         |
 |-----------------------------------|------|------|---------------------------------------|
@@ -348,49 +348,41 @@ A Magos has perfected and refined his field of expertise to render him the maste
 
 The Mech-Deacon treads a broad path of knowl edge, learning many ways of dealing with those ig norant of the Omnissiah. The Mech-Deacon also studies the art of self de fence, to guard him in his wanderings.
 
-| Advance                           | Cost     | Type     | Prerequisites                 |
-|-----------------------------------|----------|----------|-------------------------------|
-| Common Lore (Underworld)          | 100      | S        | —                             |
-| Demolition +20                    | 100      | S        | Demolition +10                |
-| Evaluate +20                      | 100      | S        | Evaluate +10                  |
-| Scholastic Lore (Archaic) +10     | 100      | S        | Scholastic Lore (Archaic)     |
-| Search                            | 100      | S        | —                             |
-| Secret Tongue (Military)          | 100      | S        | —                             |
-| Sleight of Hand                   | 100      | S        | —                             |
-| Trade (Apothecary)                | 100      | S        | —                             |
-| Trade (Embalmer)                  | 100      | S        | —                             |
-| Trade (Mason)                     | 100      | S        | —                             |
-| Trade (Tanner)                    | 100      | S        | —                             |
-| Autosanguine                      | 100      | T        | —                             |
-| Bulging Biceps                    | 100      | T        | S 45                          |
-| Cleanse and Purify                | 100      | T        | Basic Weapon Training (Flame) |
-| Dual Shot                         | 100      | T        | Ag 40, Two-Weapon Wielder     |
-| (Ballistic)                       |          |          |                               |
-| Dual Strike                       | 100      | T        | Ag 40, Two-Weapon Wielder     |
-| (Melee)                           |          |          |                               |
-| Gun Blessing                      | 100      | T        | Tech-Priest                   |
-| Hard Target                       | 100      | T        | Ag 40                         |
-| Deceive                           | 200      | S        | —                             |
-| Inquiry +10                       | 200      | S        | Inquiry                       |
-| Medicae +10                       | 200      | S        | Medicae                       |
-| Scrutiny                          | 200      | S        | —                             |
-| Heavy Weapon Training (Las)       | 200      | T        | —                             |
-| Heavy Weapon Training (Launcher)  | 200      | T        | —                             |
-| Heavy Weapon Training (Primitive) | 200      | T        | —                             |
-| Iron Discipline                   | 200      | T        | WP 30, Command                |
-| Sound Constitution                | 200      | T        | —                             |
+| Advance                           | Cost | Type | Prerequisites                 |
+| --------------------------------- | ---- | ---- | ----------------------------- |
+| Common Lore (Underworld)          | 100  | S    | —                             |
+| Demolition +20                    | 100  | S    | Demolition +10                |
+| Evaluate +20                      | 100  | S    | Evaluate +10                  |
+| Scholastic Lore (Archaic) +10     | 100  | S    | Scholastic Lore (Archaic)     |
+| Search                            | 100  | S    | —                             |
+| Secret Tongue (Military)          | 100  | S    | —                             |
+| Sleight of Hand                   | 100  | S    | —                             |
+| Trade (Apothecary)                | 100  | S    | —                             |
+| Trade (Embalmer)                  | 100  | S    | —                             |
+| Trade (Mason)                     | 100  | S    | —                             |
+| Trade (Tanner)                    | 100  | S    | —                             |
+| Autosanguine                      | 100  | T    | —                             |
+| Bulging Biceps                    | 100  | T    | S 45                          |
+| Cleanse and Purify                | 100  | T    | Basic Weapon Training (Flame) |
+| Dual Shot (Ballistic)             | 100  | T    | Ag 40, Two-Weapon Wielder     |
+| Dual Strike (Melee)               | 100  | T    | Ag 40, Two-Weapon Wielder     |
+| Gun Blessing                      | 100  | T    | Tech-Priest                   |
+| Hard Target                       | 100  | T    | Ag 40                         |
+| Deceive                           | 200  | S    | —                             |
+| Inquiry +10                       | 200  | S    | Inquiry                       |
+| Medicae +10                       | 200  | S    | Medicae                       |
+| Scrutiny                          | 200  | S    | —                             |
+| Heavy Weapon Training (Las)       | 200  | T    | —                             |
+| Heavy Weapon Training (Launcher)  | 200  | T    | —                             |
+| Heavy Weapon Training (Primitive) | 200  | T    | —                             |
+| Iron Discipline                   | 200  | T    | WP 30, Command                |
+| Sound Constitution                | 200  | T    | —                             |
 
 # **Omniprophet**
 
 *"Hark unto the omniprophet! Get down on your knees and thank the air-recyks for their benediction. The very breath in your lungs is his blessing upon you! Pray, lest we cast you from the mine as a heretic!"*
 
 The Omniprophet speaks with all manner of Imperial subjects, from bejewelled merchant princes to ragged colonists. He spreads the ways of the Cult Mechanicus, and also watches for any items or matters of interest to the Tech-Priests of Mars.
-
-# **Magos Errant**
-
-*"What we know of the Adranti Blood-Lighters is from the work of Abnightus, a magos errant attached to the Rogue Trader vessel, Luminol. The scroll is expunged of Adeptus Mechanicus matters, but still, we can infer much from what remains."*
-
-The master of many trades, the Magos Errant is expected to go forth on behalf of the Adeptus Mechanicus, to explore new frontiers, worlds and technologies. Privy to all manner of secret knowledge, the Magos Errant is prepared for all eventualities.
 
 | Advance                                  | Cost | Type | Prerequisites                        |
 |------------------------------------------|------|------|--------------------------------------|
@@ -418,6 +410,12 @@ The master of many trades, the Magos Errant is expected to go forth on behalf of
 | Maglev Transcendence                     | 200  | T    | Tech-Priest, Maglev Grace            |
 | Peer (Imperial Navy)                     | 200  | T    | Fel 30                               |
 | Sound Constitution                       | 200  | T    | —                                    |
+
+# **Magos Errant**
+
+*"What we know of the Adranti Blood-Lighters is from the work of Abnightus, a magos errant attached to the Rogue Trader vessel, Luminol. The scroll is expunged of Adeptus Mechanicus matters, but still, we can infer much from what remains."*
+
+The master of many trades, the Magos Errant is expected to go forth on behalf of the Adeptus Mechanicus, to explore new frontiers, worlds and technologies. Privy to all manner of secret knowledge, the Magos Errant is prepared for all eventualities.
 
 | Advance                          | Cost | Type | Prerequisites                      |
 |----------------------------------|------|------|------------------------------------|
