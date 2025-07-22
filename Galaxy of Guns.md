@@ -264,7 +264,7 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 | Name                      | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                     | Wt     | Cost  | World      | Availability |
 | [[#Dueling Las(Belasco)]] | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | Accurate                    | 1.5kg  | 250   | -          | Very Rare    |
 | [[#Duelling Las(K-A)]]    | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | Accurate, Tearing           | 1.7kg  | 220   | -          | Very Rare    |
-| Hellpistol                | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                           | 4kg†   | 2,500 | -          | Rare         |
+| [[#Hellpistol]]           | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                           | 4kg†   | 2,500 | -          | Rare         |
 | Laspistol (generic)       | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | Reliable, Variable          | 1.5kg  | 50    | -          | Common       |
 | - Civitas                 | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | Reliable                    | 2kg    | 35    | -          | Common       |
 | - Fury                    | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | Reliable                    | 1.5kg  | 100   | -          | Scarce       |
@@ -285,7 +285,7 @@ The Belasco Duelling Pistol is a product of the famed Belasco Deathworks on Malf
 The Khayer-Addin Forge in Gunmetal City produces another high quality pistol known simply as the Khayer-Addin Duelling Las. Its range is somewhat inferior compared to the Malfian design, but its use of a unique (and nonsanctioned) charge pack allows it to fire a more concentrated blast of significantly higher power. Guns of this type hold a particular spot in folklore in Gunmetal City, where they're popularly known as "Valentines" after a mythical Metallican gunslinger of ages past.
 
 Each power cell for a Khayer-Addin Duelling Las has a base cost of 20 Thrones and is considered Scarce on Scintilla and Rare elsewhere.
-#### Hellpistol
+### Hellpistol
 
 A popular sidearm among Inquisitorial agents and Imperial Guard officers, Hellpistols are probably best known for their use by crack Storm Troopers. Thanks to their heavy-duty focusing equipment and discharge cells, Hellpistols have a far superior ability to burn though well-armoured targets, and can cut down all matters of foes that would mock an ordinary laspistol's bolts. Hellpistols are somewhat bulkier than most sidearms due to their external power supplies, though few would argue the value of their destructive power against the cost of the extra mass. Further, most hellpistols are equipped with an integrated micro-cogitator and omni-scope, making for faster aiming and more accurate shots as well as aggregating and displaying useful tactical information.
 
@@ -293,34 +293,34 @@ A Hellpistol makes use of a capacitor weighing 10kg that is normally slung at th
 
 Hellpistols include a hard-wired Targeter, granting its user a +10 bonus to Ballistic Skill Tests made to attack with it. This device does not count towards the weapon's one sight limit.
 
-#### Laspistol
+### Laspistol
 
 Laspisols are common and widespread devices used by Guardsmen and gangers alike thanks to their ease of use and simple, reliable design. Many laspistol patterns exist within the Imperium, and the most common types, such as the Galaxy-M used by Cadian sergeants or the Lucius-pattern favoured by Krieg gunners are so similar that, functionally, they may as well be the same weapon. There are also more exotic sorts of laspistols that include various unique features.
 
-**Civitas-Pattern:**
+#### **Civitas-Pattern:**
 This is a simple utility weapon of extremely ancient design, and can commonly be found as a self-defence pistol carried by hab-workers or serving as a backup weapon to gangers wielding powerful if less reliable autoguns. It is bulkier and less efficient than common military patterns due to its cheap manufacture, but even if left in a drawer or stuck to the bottom of a desk for decades, a Civitas' owner can rest assured that his weapon will always shoot.
 
-**"Fury" Assault Pistol:**
+#### **"Fury" Assault Pistol:**
 A quick-firing laspistol suitable for use by shock troops and capable of laying down a barrage of las-bolts. The Fury's range is inferior to most laspistols due to its rapid discharging cells, but it is an ideal weapon to use against large numbers of foes. It is often paired with a close combat weapon, such as a chainsword, and many of its users only shoot it until they've closed into hand-to-hand combat with the enemy.
 
-**Mark IV Command Laspistol:
-**Well made for accuracy and beam cohesion, this type of sidearm can rival full-size lasguns for striking range. The Mark IV is a favourite of Imperial Guard squad leaders, allowing them to engage foes at the same distance as their soldiers can, and its bright and narrow beam can also be used to "point out" targets of opportunity, even during a pitched battle situation.
+#### **Mark IV Command Laspistol:**
+Well made for accuracy and beam cohesion, this type of sidearm can rival full-size lasguns for striking range. The Mark IV is a favourite of Imperial Guard squad leaders, allowing them to engage foes at the same distance as their soldiers can, and its bright and narrow beam can also be used to "point out" targets of opportunity, even during a pitched battle situation.
 
-**Palatine Compact Laspistol:**
+#### **Palatine Compact Laspistol:**
 A superior laspistol manufactured by the Takara Fane of Gunmetal City. The Palatine has equal stopping power to many other laspistols in spite of being nearly half the size of a standard military pattern. It is easy to conceal and easier to carry all day, making it equally popular with hive nobles as well as mercenaries and assassins. Given Takara's image as a provider to exclusive clients, Palatine pistols with heavily embellished and decorated housings are manufactured to order, with some costing upwards of three times the base model's price.
 
 The Palatine's small size and smooth body grants a +10 bonus to Sleight of Hand Tests made to conceal it.
 
-**Steel Burner Heavy Laspistol:**
+#### **Steel Burner Heavy Laspistol:**
 The Sollex sect of the Cult Mechanicus produces this "handheld lascannon" at its headquarters on Haddrak in the Drusus Marches. Aside from equipping Sollex's own Tech-Guard and Magos Militants, the Sollex Pattern-VII (as it is officially known) is manufactured for distribution on Fenksworld as well. The Steel Burner is a favoured pistol among those with the Thrones to spare, but it is especially treasured in the Volg hive where weapons with the ability to defeat well-protected creatures are always in high demand and short supply. The Belasco Deathworks and the Takara Fane have all tried to reproduce this weapon in their own forges without success.
 
 Sollex las weapons can use standard power packs but drain them more quickly than most due to their powerful beams. Sollex las weapons have Scarce Availability on Fenksworld and are Very Rare elsewhere.
 
-#### Las Gauntlets
+### Las Gauntlets
 
 These strange weapons use standard power packs but otherwise have very little in common with other las weapons used in the Imperium, and there has been some speculation that they may even be of xenos origin. Each fits over the forearm with controls built into a glove and the user sights down the line of his arm. Las Gauntlets produce a thin raking beam rather than the crisp blast of most lasguns which creates an impressive visual. They are primarily considered the plaything of nobles and are often used for hunting game at closer ranges, while those who employ them for real combat are far between. There are a select few examples of assassins who favour style over efficiency using Las Gauntlets to kill their marks.
 
-#### Series-S Venom Compact Pistol
+### Series-S Venom Compact Pistol
 
 This Belasco-made pistol is a highly unusual pattern and one benefitting the treacherous reputation of Malfi. The Venom is a highly compact laspistol designed for covert use. It takes the shape of a flat disk that is grasped in the hand, with the short barrel-emitter projecting between the middle fingers. It is fired by applying pressure to a hidden trigger, and must be firmly grasped before it will shoot as a safety feature. Eminently concealable, the Venom is an excellent tool for murder and espionage, making it widely favoured both on Malfi and beyond, though it is neither as expensive nor rare as its other local rival, the infamous Mariette pistol.
 
