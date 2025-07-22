@@ -1,5 +1,3 @@
-#  Chapter III: Skills
-
 *"It is likely that I have forgotten more about the Imperium than you will ever know, acolyte."*
 — Kyos Veeble, Autosavant.
 

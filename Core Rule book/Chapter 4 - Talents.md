@@ -1,4 +1,3 @@
-# Chapter IV: Talents 
 *"Use the talent that your toil has made, for what use a solar-cell in the shade?"*
 
 — Catuldynus, *The Once Pure Hive.*

@@ -1,5 +1,3 @@
-# <span id="page-12-0"></span>Chapter 1: Character Creation
-
 *"What is your duty? To look the universe in the face and then spit in its eye. To die with a curse on your lips and your finger on the trigger. To know that you are doomed, but try anyway."* — Inquisitor Soldevan, Ordo Hereticus.
 
 In Dark Heresy, you take the role of an Acolyte, a trainee investigator in the service of a powerful Inquisitor. You, out of the countless billions, have been chosen to play a part in a war so great and terrible that ordinary men must never learn its secrets. Your master will task you with all manner of missions, in which you will encounter witches, aliens and even Daemons. You will be tempted with power and exposed to corruption. You, your allies or even your master may fall under the thrall of the Dark Gods. Should this happen, it will be your duty to purge with fire and righteousness, for the Ruinous Ones, the Chaos Powers, are insidious in their evil and would destroy you and all of mankind if they could.

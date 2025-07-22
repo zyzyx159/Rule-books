@@ -171,8 +171,11 @@ Through a combination of skill, caution and sheer luck, your character may survi
 It might be that such a character is invited to become an Interrogator (after suitable purifying rituals of course) or that they might find a way to escape their master altogether. Perhaps they will be given a role within the Imperium as a planetary governor, Administratum official or Ecclesiarchy pontiff. Some might simply retire, whilst others might choose to plunder the far-flung stars with a Rogue Trader crew. Some might become nothing more than whispered legend and infamy. There are many options, only limited by your imagination.
 
 # Careers
-- Adept
-- Arbitrator
-- Assassin
-- Cleric
-- Gruad
+- [[Adept]]
+- [[Arbitrator]]
+- [[Assassin]]
+- [[Cleric]]
+- [[Gruadsman]]
+- [[Imperial Psyker]]
+- [[Scum]]
+- [[Tech-Priest]]
