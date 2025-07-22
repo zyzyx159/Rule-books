@@ -114,119 +114,119 @@ Best: A work of art as much as a weapon, these items are created by skilled arti
 
 Some weapons possess special qualities to represent such things as special damage or unusual effects.
 
-#### Accurate
+### Accurate
 
 Some weapons are designed with precision in mind and respond superbly in skilled hands.
 
 They grant an additional bonus of +10 to the firer's Ballistic Skill when used with an Aim action; this is in addition to the bonus granted from Aiming. When firing a single shot from a single Basic Weapon with the Accurate quality benefiting from the Aim action, the attack gains an extra 1d10 of Damage for every two Degrees of Success to a maximum of an extra 2d10.
 
-#### Balanced
+### Balanced
 
 Some weapons are designed so that the weight of the hilt balances the weight of the striking end, making the weapon easier to wield while making quick manoeuvres. Balanced weapons grant a +10 bonus to Weapon Skill Tests made to Parry.
 
-#### Blast (X)
+### Blast (X)
 
 Many missiles, grenades and some guns create an explosion when they hit their target. When working out a hit from a Blast weapon anyone within the weapon's blast radius in metres, indicated by the number in parenthesis, is also hit. Roll Hit Location and Damage individually for each person affected by a blast. Blast weapons that inflict Damage from explosives, flames, and similar sources can be avoided with a successful Dodge Test, but only as long as the edge of the blast is no further away than their Agility Bonus in metres.
 
-#### Defensive
+### Defensive
 
 A Defensive weapon, such as a shield, is intended to be used to block an enemy's strikes and is awkward when used offensively. Defensive weapons grant a +15 bonus to tests made when used to Parry, but take a –10 penalty when used to make attacks.
 
-#### Fast
+### Fast
 
 The size and speed of this weapon makes it hard for an enemy to protect against, especially when used to make nimble, darting attacks. Opponents take a -20 penalty to their Weapon Skill Test when attempting to Parry an attack from a Fast weapon.
 
-#### Flame
+### Flame
 
 Flame weapons project a cone of flame out to the range of the weapon. Unlike other weapons, flamers have just one range, and when fired, cast fiery death out to this distance. The wielder makes a Ballistic Skill Test to determine only if the weapon jams. If it doesn't, the weapon fires successfully. All creatures in the flame's path, a cone-shaped area extending in a 30 degree arc from the firer out to the weapon's range, must succeed on a Dodge (or Agility) Test or be struck by the flames and take Damage normally. Like a Blast weapon, a character can only avoid the Damage if the edge of the affected area is no further away than their Agility Bonus in metres. To calculate reduction from Armour, assume anyone caught in the flame's path has been hit in the body. If they take Damage, they must succeed on another Agility Test or be set on fire. Cover does not protect characters from attacks made by Flame weapons.
 
 Normally when a weapon is fired without the appropriate talent or a heavy weapon is fired without bracing, the wielder suffers a –20 or –30 Ballistic Skill penalty, respectively (see _Dark Heresy_, Using Weapons Without a Talent, page 126). As Flame weapons do not require a Ballistic Skill Test to hit, anyone in the area of effect of the flames gains a +30 bonus to their Dodge or Agility Test to avoid Damage (but not to avoid catching on fire!) instead.
 
-#### Flexible
+### Flexible
 
 Some weapons are made up from lots of loosely connected segments or supple woven hides, including chains and whips. Weapons with this quality lash about violently when used to attack and cannot be Parried.
 
-#### Inaccurate
+### Inaccurate
 
 Weapons with this quality are either badly designed, woefully assembled, or simply intended for use at very short distances, and regardless of the care taken when used, offer little better than a lucky chance to hit. No bonus is gained from the use of the Aim Action with such weapons.
 
-#### Overheats
+### Overheats
 
 Certain weapons are prone to overheating, either because of poor design, reckless overcharging, or the use of superheated ammunition. When a weapon overheats, the wielder suffers Energy Damage equal to the weapon's damage with a Penetration of 0 to the arm location holding the weapon (if the weapon was being held in both hands, the wielder is assumed to have taken damage to both arms, but does not suffer twice the Damage). The wielder may choose to avoid taking this Damage by dropping the overheating weapon; it lands somewhere within a 1 metre radius of the wielder. This is a Free Action. A weapon that has overheated must spend the Round afterwards cooling down and may not be fired again until the second round after overheating. A weapon with this Quality does not Jam, and any effect that would cause the weapon to Jam (i.e., sabotage, certain psychic powers) instead causes the weapon to overheat.
 
-#### Power Field
+### Power Field
 
 Crackling arcane energies wreath a weapon that has this quality, drastically increasing is ability to rend flesh and armour as compared to a normal weapon of its type. When you successfully use this weapon to Parry an attack made with a weapon that lacks this quality, you have a 75% chance of destroying your attacker's weapon. Certain weapons, such as those with the Warp Weapon quality, are immune to this effect.
 
-#### Primitive
+### Primitive
 
 Weapons with this quality are perfectly deadly against unprotected flesh but have a hard time cutting through modern armour. Any armour that does not also have the Primitive quality doubles its Armour Points against attacks made by weapons with this quality. For example, Guard Flak Armour (AP 4) hit with a Great Weapon (Primitive quality and Pen 2) would provide 6 points of armour: (4x2)-2.
 
-#### Proven (X)
+### Proven (X)
 
 A Proven weapon has been masterfully crafted, uses extremely powerful ammunition, or employs archeotech workings that increase its lethality. In all cases, weapons with this quality will reliably inflict terrible and traumatic injuries on their targets. A Proven weapon will list a rating number in parentheses; discard any die roll for Damage lower than this number and replace it with the Proven rating. For example, a weapon with a Proven (3) quality treats any Damage die roll of 1 or 2 as if it were a 3 instead.
 
-#### Razor Sharp
+### Razor Sharp
 
 A weapon with this quality has a phenomenal ability to split or pierce even the heaviest of armour when its blow lands just right. When a Weapon Skill or Ballistic Skill Test for an attack with this weapon results in three or more Degrees of Success, double the weapon's Penetration for that attack.
 
-#### Recharge
+### Recharge
 
 After it has been fired, a weapon with the Recharge quality must spend time building up a charge before it can be used again. This weapon can effectively only be fired every other Round.
 
-#### Reliable
+### Reliable
 
 A Reliable weapon seldom fails, and are often based on tried and true technology, use simple and effective workings, or are simply assembled with a great amount of care and skill. If a Reliable weapon Jams, roll 1d10. Only on a roll of 10 does it actually jam, otherwise it is simply considered a miss.
 
-#### Scatter
+### Scatter
 
 The standard ammunition of these weapons spreads out when fired, hitting a wide area of the target's body. If fired at a foe within Point Blank range, this weapon scores an additional hit (use Table 6-7: Multiple Hits on page 190 of _Dark Heresy_) for every two degrees of success on the attacker's Ballistic Skill Test. However, the widening spread of small projectiles hampers its effectiveness. If a character is hit by a weapon with this quality at Long or Extreme range, all his Armour Points are doubled against that attack.
 
-#### Shocking
+### Shocking
 
 Shocking weapons can Stun their opponents with a powerful surge of energy. A target that takes at least 1 point of Damage from a Shocking weapon, after reduction from Armour Points and Toughness Bonus, must make a Challenging (+0) Toughness Test or become Stunned for a number of Rounds equal to half the Damage they suffered. If the character hit is wearing non-Primitive armour, they receive a +10 bonus to this Test for every Armour Point on the location hit.
 
-#### Smoke
+### Smoke
 
 Rather than inflicting Damage, these weapons throw up dense clouds of smoke to create concealment. When a hit is scored from a weapon with the Smoke quality, it creates a smokescreen 3d10 metres in diameter from the point of impact. The screen lasts for 2d10 Rounds before dissipating, though adverse weather may reduce this time. See _Dark Heresy,_ page 210 for more information on the effects of Smoke.
 
-#### Snare
+### Snare
 
 Weapons with this quality are designed to entangle enemies. On a successful hit, the target must make an Agility Test or be immobilised. An immobilised target can attempt no other actions except try to escape the bonds. He can attempt to burst the bonds (a Challenging (+0) Strength Test) or wriggle free (a Challenging (+0) Agility Test) in his Turn. The target is considered to be Helpless until he escapes.
 
-#### Storm
+### Storm
 
 These are purpose-built assault weapons intended to shred targets apart with a flurry of rapid-fire projectiles. Weapons with the Storm quality double the number of shots they fire on any mode, and likewise double the number of hits scored on an enemy. For example, a Storm weapon firing a Full Auto Burst scores two hits for every degree of success, up to a maximum of twice the weapon's listed firing rate.
 
-#### Tearing
+### Tearing
 
 Tearing weapons are vicious devices, often using multitudes of fast moving jagged teeth or fragmented or explosive ammunition to rip into flesh and bone. These weapons roll one extra die for Damage, and the lowest result is discarded.
 
-#### Toxic
+### Toxic
 
 Some weapons rely on toxins and poisons to do their real damage. Anyone that takes Damage from a Toxic weapon, after reduction for Armour and Toughness Bonus, must make a Challenging (+0) Toughness Test with a -5 penalty for every point of Damage taken from the Toxic weapon's attack. Success indicates there is no further effect from the weapon. Failure however deals an immediate 1d10 points of Impact Damage to the target with no reduction for Armour or Toughness Bonus.
 
-#### Twin-Linked
+### Twin-Linked
 
 A twin-linked weapon is formed by combining two identical weapons together, which are fired by a single trigger pull (or button press). Twinlinked weapons are built this way in order to increase the chances of scoring a hit on the enemy through the crude expedience of blasting more shots at them. This type of weapon is a popular feature on Imperial armoured vehicles where its bulk and rapid ammunition consumption are non-issues. A Twin-Linked weapon fires twice as many shots, on all modes, as the original weapons that were linked together, and grants its firer a +20 bonus to hit to his Ballistic Skill. The weapon may score one additional hit beyond its normal total as long as the attack succeeds by two or more degrees. Finally, as each weapon has its own ammunition feed, its reload time is doubled.
 
-#### Unbalanced
+### Unbalanced
 
 Weapons with this quality tend to be overly large or with weight focused on one end, allowing them to make powerful attacks but preventing quick defensive movements. A weapon with this quality imposes a -10 penalty to Weapon Skill Tests when used to Parry.
 
-#### Unreliable
+### Unreliable
 
 Badly maintained or constructed, or simply of a sloppy design, these weapons are more likely to misfire than others. An Unreliable weapon suffers a Jam on a roll of 91 or higher on the firer's Ballistic Skill Test.
 
-#### Unstable
+### Unstable
 
 Weapons with this quality use ammunition that is both volatile and unstable and can react unpredictably when detonated. When an Unstable weapon scores a hit, roll 1d10. On a score of 1 it inflicts only half Damage, on a score of 2–9 it deals normal Damage, and on a score of 10 it inflicts twice the normal Damage.
 
-#### Unwieldy
+### Unwieldy
 
 Huge and often top-heavy or slow to attack, Unwieldy weapons are too awkward to be used defensively. Unwieldy weapons cannot be used to Parry.
 
-#### Vicious
+### Vicious
 
 This weapon has a tendency to inflict savage, ruinous injuries due to its great power or simply from an innate lust for battle. Whenever a Vicious weapon has a chance to score Righteous Fury (that is, rolls maximum Damage on one of its dice) the extra Damage occurs automatically; there is no need for a second Weapon Skill or Ballistic Skill Test to confirm the extra Damage.
 
@@ -247,7 +247,7 @@ Las weapons work by emitting short, sharp pulses of laser energy from high capac
 
 To use las weapons without penalty, a character must have the Pistol Training (Las), Basic Weapon Training (Las), or Heavy Weapon Training (Las) talents.
 
-#### WEAPON QUALITY: VARIABLE
+### WEAPON QUALITY: VARIABLE
 
 This las weapon has a variable intensity setting, allowing it to fire more powerful shots at the expense of more rapid energy consumption. The weapon may be set to overcharge mode, dealing +1 Damage but using two shots' worth of ammunition for each shot fired. Alternatively, the weapon may be set to overload mode, dealing +2 Damage and gaining +2 Penetration. In this setting the weapon uses four shots' worth of ammunition for each shot fired, loses the Reliable quality if it has it, or gains the Unreliable quality if it doesn't. If the weapon was already Unreliable, it gains the Overheats quality as well.
 
@@ -255,7 +255,7 @@ This las weapon has a variable intensity setting, allowing it to fire more power
 
 Aside from their ease of use, the abundance of ammunition in the form of standardized power packs is a central reason for the staggering number of las weapons in use by the forces of the Imperium. Las power packs can be charged in the field from almost any power source. Characters may make an Ordinary (+10) Tech-Use Test to charge a power pack as long as there is some kind of power source available. Examples might include municipal power jacks in a hive city, portable battery units for powering large equipment, or even currently-operating machines. The time the pack takes to charge is determined by the power output of the source and is ultimately up to the GM, though characters should expect at least an hour or so. Alternatively, a power pack can be charged simply by leaving it in direct sunlight, the charge pack absorbing solar radiation at a rate roughly sufficient for one shot every thirty minutes, assuming the sky is clear. In the absence of any other methods, a charge pack can be thrown into open flames where it can soak up thermal energy. This takes around twenty-four hours, and permanently reduces the pack's Clip size by half the first time it is charged in this fashion. A flame-charged power pack causes a las weapon it is used in to lose the Reliable quality, if it has it, or gain the Unreliable quality if it doesn't. Each time a pack is recharged in this way there is a 30% chance it will burn out and be permanently rendered useless for any purpose other than serving as a paperweight.
 
-#### POWER PACK BOMBS
+### POWER PACK BOMBS
 
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
 
@@ -274,13 +274,13 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 | Las Gauntlets             | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full      | Reliable                        | 3kg    | 350   | -          | Very Rare    |
 | Series-S Venom            | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -         | -                               | 0.5kg  | 120   | -          | Scarce       |
 | †Not including power pack |        |       |       |          |     |      |           |                                 |        |       |            |              |
-#### Dueling Las
+### Dueling Las
 
 Based around the philosophy of a "one shot kill", Duelling Laspistols (or just Duelling Las for short) are commonly worn as signs of wealth and status by hive nobles and Rogue Traders. While ostentatious and certainly designed with image in mind, a Duelling Las is still nonetheless a very deadly weapon that can generate an extremely powerful las blast, and are accurate enough to hit a single Throne at distances most comparable pistols would only be able to hit a man-sized target.
 
-The Belasco Duelling Pistol is a product of the famed Belasco Deathworks on Malfi, engineered for a much longer effective range than most laspistols and featuring an intricate housing that looks impressive when tucked into a belt or sash. In spite of its potency, it is capable of using standard laspistol power packs, though it drains them entirely with a single shot.
+- The Belasco Duelling Pistol is a product of the famed Belasco Deathworks on Malfi, engineered for a much longer effective range than most laspistols and featuring an intricate housing that looks impressive when tucked into a belt or sash. In spite of its potency, it is capable of using standard laspistol power packs, though it drains them entirely with a single shot.
 
-The Khayer-Addin Forge in Gunmetal City produces another high quality pistol known simply as the Khayer-Addin Duelling Las. Its range is somewhat inferior compared to the Malfian design, but its use of a unique (and nonsanctioned) charge pack allows it to fire a more concentrated blast of significantly higher power. Guns of this type hold a particular spot in folklore in Gunmetal City, where they're popularly known as "Valentines" after a mythical Metallican gunslinger of ages past.
+- The Khayer-Addin Forge in Gunmetal City produces another high quality pistol known simply as the Khayer-Addin Duelling Las. Its range is somewhat inferior compared to the Malfian design, but its use of a unique (and nonsanctioned) charge pack allows it to fire a more concentrated blast of significantly higher power. Guns of this type hold a particular spot in folklore in Gunmetal City, where they're popularly known as "Valentines" after a mythical Metallican gunslinger of ages past.
 
 Each power cell for a Khayer-Addin Duelling Las has a base cost of 20 Thrones and is considered Scarce on Scintilla and Rare elsewhere.
 #### Hellpistol
