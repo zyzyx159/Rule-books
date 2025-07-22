@@ -301,42 +301,35 @@ The Justicar brings the light of the Emperor's judgement to decadent nobles, cor
 
 Proctors lead Adeptes Arbites riot squads and suppression forces against highly armed, and highly foolish, criminals.
 
-| Advance                          | Cost | Typ | Prerequisites                          |
-| -------------------------------- | ---- | --- | -------------------------------------- |
-| Climb +20                        | 100  | S   | Climb +10                              |
-| Command                          | 100  | S   | —                                      |
-| Interrogation +20                | 100  | S   | Interrogation +10                      |
-| Intimidation +20                 | 100  | S   | Intimidation +10                       |
-| Survival +10                     | 100  | S   | Survival                               |
-| Tracking +20                     | 100  | S   | Tracking +10                           |
-| Arms Master                      | 100  | T   | BS 30, Basic Weapon Training (any two) |
-| Hip Shooting                     | 100  | T   | BS 40, Ag 40                           |
-| Ciphers (War Cant)               | 200  | S   | —                                      |
-| Secret Tongue (Military)         | 200  | S   | —                                      |
-| Basic Weapon Training (Melta)    | 200  | T   | —                                      |
-| Blind Fighting                   | 200  | T   | Per 30                                 |
-| Heavy Weapon Training (Bolt)     | 200  | T   | —                                      |
-| Heavy Weapon Training (Las)<br>  | 200  | T   | —                                      |
-|                                  | 200  | T   | —                                      |
-|                                  | 200  | T   | —                                      |
-|                                  | 200  | T   | BS 35                                  |
-|                                  | 200  | T   | —                                      |
-|                                  | 200  | T   | —                                      |
-|                                  | 300  | T   | Swift Attack                           |
-|                                  | 300  | T   | —                                      |
-|                                  |      |     |                                        |
+| Advance                           | Cost | Typ | Prerequisites                          |
+| --------------------------------- | ---- | --- | -------------------------------------- |
+| Climb +20                         | 100  | S   | Climb +10                              |
+| Command                           | 100  | S   | —                                      |
+| Interrogation +20                 | 100  | S   | Interrogation +10                      |
+| Intimidation +20                  | 100  | S   | Intimidation +10                       |
+| Survival +10                      | 100  | S   | Survival                               |
+| Tracking +20                      | 100  | S   | Tracking +10                           |
+| Arms Master                       | 100  | T   | BS 30, Basic Weapon Training (any two) |
+| Hip Shooting                      | 100  | T   | BS 40, Ag 40                           |
+| Ciphers (War Cant)                | 200  | S   | —                                      |
+| Secret Tongue (Military)          | 200  | S   | —                                      |
+| Basic Weapon Training (Melta)     | 200  | T   | —                                      |
+| Blind Fighting                    | 200  | T   | Per 30                                 |
+| Heavy Weapon Training (Bolt)      | 200  | T   | —                                      |
+| Heavy Weapon Training (Las)       | 200  | T   | —                                      |
+| Heavy Weapon Training (Launcher)  | 200  | T   | —                                      |
+| Heavy Weapon Training (Primitive) | 200  | T   | —                                      |
+| Marksman                          | 200  | T   | BS 35                                  |
+| Melee Weapon Training (Power)     | 200  | T   | —                                      |
+| Pistol Training (Melta)           | 200  | T   | —                                      |
+| Lightning Attack                  | 300  | T   | Swift Attack                           |
+| Sound Constitution                | 300  | T   | —                                      |
 
 # **Marshal Advances**
 
 *"When a Marshal arrives, blood and gun smoke follow."*
 
 Marshals take the rule of law to the darkest dens of scum and depravity, dispensing justice in a bright arc of muzzle flare.
-
-# **Lord Marshal Advances**
-
-*"Such men are beyond mere mercy."*
-
-As the Imperium is mighty, so too is the Lord Marshal. His will is not blunted by the petty whims of circumstance. The cold rule of law is his only measure, and woe betide those that fall short.
 
 | Advance                                                 | Cost | Type | Prerequisites                         |
 | ------------------------------------------------------- | ---- | ---- | ------------------------------------- |
@@ -355,6 +348,12 @@ As the Imperium is mighty, so too is the Lord Marshal. His will is not blunted b
 | Crack Shot                                              | 300  | T    | BS 40                                 |
 | Sound Constitution†                                     | 300  | T    | —                                     |
 | †You may take this Talent up to two times at this Rank. |      |      |                                       |
+
+# **Lord Marshal Advances**
+
+*"Such men are beyond mere mercy."*
+
+As the Imperium is mighty, so too is the Lord Marshal. His will is not blunted by the petty whims of circumstance. The cold rule of law is his only measure, and woe betide those that fall short.
 
 | Advance                                                     | Cost     | Type     | Prerequisites                            |
 |-------------------------------------------------------------|----------|----------|------------------------------------------|
