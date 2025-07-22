@@ -1,8 +1,8 @@
 # Gear
 
 Aside from weapons and armor, a host of other equipment exists that may be of some use to the enterprising Acolyte in his service to the Emperor. Many situations can be resolved with a quick strike and a fast bullet, but there are numerous others that may require significantly more tact, and a specialized set of equipment to go with it. This sort of arsenal falls under the general classification of Gear, and includes clothing, special tools, drugs, and many other bits of kit that range from the mundane and ubiquitous to the rare and esoteric.
-
-## Availability
+## Acquiring Gear 
+### Availability
 
 Having the money does not always guarantee the desired goods or services are at hand. Squalid medieval worlds are a lot less likely to have expensive goods than the marketplaces of a hive city. Moreover, finding a high-quality weapon on a backwater planet is far more difficult than locating such a weapon in a teeming metropolis. To reflect availability, each piece of equipment or service has an associated Availability, ranging from abundant to very rare. GMs can use the following guidelines as a starting point for determining whether a place has such an item or not. Characters searching for a particular item or service must make a successful Inquiry Test modified by the Availability of the item, Availability: Difficulty by Population provides a baseline modifier for Inquiry Tests to find an item in communities of different sizes. Influence talents, such as Peer and Good Reputation, can grant a bonus to Inquiry Tests when going through relevant parties, such as Middle Classes and Workers on a hive world or Adeptus Mechanicus on a forge world. In general, larger communities tend to have greater access to rarer and more valuable items due to the nature of trade and mercantilism in the Imperium.
 
@@ -20,7 +20,7 @@ Having the money does not always guarantee the desired goods or services are at 
 | Extremely Rare                         | Punishing (-50)        | Arduous (-40)    | Very Hard (-30)  | Hard (-20)       |
 | Near Unique                            | Hellish (-60)          | Punishing (-50)  | Arduous (-40)    | Very Hard (-30)  |
 | Unique                                 | GM's Discretion        | Hellish (-60)    | Punishing (-50)  | Arduous (-40)    |
-## Time
+### Time
 
 Just because a large community actually has the item a character seeks does not necessarily mean that it is easy to locate. The larger the community, the more time it takes to track the item down. A community's size determines the base time it takes to find the item. Each degree of success reduces this time by a certain amount (minutes, hours, days, weeks, or months, depending on the base time). See _Dark Heresy_, Table 5-5: Availability and Time on page 126. The GM should make the roll in secret for particularly dangerous or costly items, to emphasis the struggle and possible risks entailed by such searching.
 
@@ -39,7 +39,7 @@ Just because a large community actually has the item a character seeks does not 
 | Near Unique                       | One year               | 3d5 months       | 1d5 months      | 1d5 weeks     | 2d10 days       |
 | Unique                            | 1d5 years              | One year         | 1d10 months     | 2d5 weeks     | GM's Discretion |
 
-## Craftsmanship
+### Craftsmanship
 
 Not all goods are of the same quality. In the vastness of the Imperium, and beyond, the craftsmanship of items can vary widely from crudely made, mass-produced materials to handcrafted masterpieces.
 
