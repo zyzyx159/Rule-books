@@ -239,7 +239,8 @@ Stub Weapons: Stub automatics, stub revolvers, hand cannons, hunting rifles, hea
 Autoguns and Autopistols: These types of weapons use caseless ammunition that can be used in many different types of weapons; caseless bullets that fit in an autopistol will fit in an autogun just as well. Unless otherwise stated in the weapon's description, autoguns and autopistols can freely share bullets between one another without any issue.
 
 Everything Else: Autocannons, Ripper Pistols, and other large or unusual solid projectile weapons will typically make use of their own type of bullet which cannot be used with any other guns. Sometimes, these types of weapons will have a specific cost and Availability listed for their ammunition as well.
-## LAS PISTOLS
+
+## LAS WEAPONS
 
 Produced by the millions on countless forge worlds, laser ("las" in parlance) weapons are by far the most numerous type of weapon in the Imperium, and are the basic tool of countless soldiers of the Imperial Guard. While complex to manufacture, their STC design is extremely well understood and their great ruggedness makes them the perfect weapon for the myriad soldiers of the Hammer of the Emperor. Las weapons can be found on almost any developed planet, even outside the Imperium, and can be found in the employ of xeno mercenary tribes who favour them for the same reason as their human betters. Aside from the very common lasguns and las pistols, much larger lascannons and multi-lasers are often mounted to Imperial vehicles, and gigantic lance batteries arming Imperial Navy battleships work off the same principles as their humble infantry counterparts.
 
@@ -258,6 +259,8 @@ Aside from their ease of use, the abundance of ammunition in the form of standar
 ### POWER PACK BOMBS
 
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
+
+### LAS PISTOL
 
 | Las Weapons                                        |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
 | -------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
@@ -327,31 +330,31 @@ This Belasco-made pistol is a highly unusual pattern and one benefitting the tre
 
 The Venom is powered via an internal non-removable power cell rather than Munitorum sanctioned power packs. It cannot be reloaded, but can be recharged via a standard port similarly to a las power pack. Because of its strange appearance, its user does not appear to be armed if searched while carrying it unless the searcher is familiar with the Venom's design.
 
+### BASIC & HEAVY LAS
 
-
-| Las Weapons                 |       |       |        |           |     |             |        |                                 |       |       |            |              |
-| --------------------------- | ----- | ----- | ------ | --------- | --- | ----------- | ------ | ------------------------------- | ----- | ----- | ---------- | ------------ |
-| Name                        | Class | Range | RoF    | Dam       | Pen | Clip        | Rld    | Special                         | Wt    | Cost  | World      | Availability |
-| Assault Lasgun              | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | Reliable, Variable              | 4.5kg | 250   | -          | Average      |
-| Hellgun                     | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30          | 2 Full | -                               | 6kg†  | 2,700 | -          | Rare         |
-| Hellgun (D'laku)            | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40          | 2 Full | Variable                        | 9kg†  | 500   | Lathes     | Scarce       |
-| Lascannon                   | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5           | 2 Full | -                               | 55kg  | 5,000 | -          | Very Rare    |
-| Lascarbine (generic)        | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40          | Full   | Reliable, Variable              | 3kg   | 75    | -          | Common       |
-| - Death Light               | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18          | Full   | Variable                        | 7.2kg | 250   | Fenksworld | Scarce       |
-| - Locke                     | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40          | Full   | Unreliable, Variable            | 2.5kg | 100   | -          | Scarce       |
-| - Minerva-Aegis             | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40          | Full   | Reliable, Variable              | 4.1kg | 150   | -          | Scarce       |
-| Lascutter                   | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10          | 2 Full | -                               | 8kg   | 370   | -          | Rare         |
-| Lasgun (generic)            | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60          | Full   | Reliable, Variable              | 4kg   | 100   | -          | Common       |
-| - Drusus Prime              | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50          | Full   | Reliable, Variable              | 7kg   | 50    | -          | Common       |
-| - Mark III                  | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60          | Full   | Reliable, Variable              | 4kg   | 75    | -          | Average      |
-| - Roth                      | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60          | Full   | Reliable, Variable              | 4kg   | 175   | -          | Rare         |
-| - Storm Front               | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60          | Full   | Reliable, Variable              | 5kg   | 200   | -          | Very Rare    |
-| Laslock                     | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1           | Full   | Unreliable, Unstable            | 4kg   | 40    | -          | Plentiful    |
-| Long Las                    | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40          | Full   | Accurate,Reliable, Variable | 4.5kg | 100   | -          | Scarce       |
-| Multi-Laser                 | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60          | 3 Full | -                               | -     | 2,000 | -          | Scarce       |
-| Shotlas                     | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30          | 2 Full | -                               | 4kg   | 90    | -          | Scarce       |
-| Twin Lasgun                 | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18          | Full   | Tearing, Unreliable             | 7kg   | 220   | -          | Rare         |
-| †_Not including power pack_ |       |       |        |           |     |             |        |                                 |       |       |            |              |
+| Las Weapons                 |       |       |        |           |     |         |        |                             |       |       |            |              |
+| --------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | --------------------------- | ----- | ----- | ---------- | ------------ |
+| Name                        | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                     | Wt    | Cost  | World      | Availability |
+| Merovech Assault Lasgun     | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | Reliable, Variable          | 4.5kg | 250   | -          | Average      |
+| Hellgun                     | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                           | 6kg†  | 2,700 | -          | Rare         |
+| Hellgun (D'laku)            | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | Variable                    | 9kg†  | 500   | Lathes     | Scarce       |
+| Lascannon                   | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                           | 55kg  | 5,000 | -          | Very Rare    |
+| Lascarbine (generic)        | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | Reliable, Variable          | 3kg   | 75    | -          | Common       |
+| - Death Light               | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | Variable                    | 7.2kg | 250   | Fenksworld | Scarce       |
+| - Locke                     | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | Unreliable, Variable        | 2.5kg | 100   | -          | Scarce       |
+| - Minerva-Aegis             | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | Reliable, Variable          | 4.1kg | 150   | -          | Scarce       |
+| Lascutter                   | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                           | 8kg   | 370   | -          | Rare         |
+| Lasgun (generic)            | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | Reliable, Variable          | 4kg   | 100   | -          | Common       |
+| - Drusus Prime              | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | Reliable, Variable          | 7kg   | 50    | -          | Common       |
+| - Mark III                  | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | Reliable, Variable          | 4kg   | 75    | -          | Average      |
+| - Roth                      | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | Reliable, Variable          | 4kg   | 175   | -          | Rare         |
+| - Storm Front               | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | Reliable, Variable          | 5kg   | 200   | -          | Very Rare    |
+| Laslock                     | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | Unreliable, Unstable        | 4kg   | 40    | -          | Plentiful    |
+| Long Las                    | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | Accurate,Reliable, Variable | 4.5kg | 100   | -          | Scarce       |
+| Multi-Laser                 | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                           | -     | 2,000 | -          | Scarce       |
+| Shotlas                     | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                           | 4kg   | 90    | -          | Scarce       |
+| Twin Lasgun                 | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | Tearing, Unreliable         | 7kg   | 220   | -          | Rare         |
+| †_Not including power pack_ |       |       |        |           |     |         |        |                             |       |       |            |              |
 #### Merovech Assault Lasgun
 Class: Basic (Las)
 
