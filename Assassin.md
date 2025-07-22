@@ -31,10 +31,10 @@ A[Sell-Steel 0-499] --> B[Shadesman 500-999]
 B --> C[Nighthawk 1,000-1,999]
 C --> D[Secluse 2,000-2,999]
 D --> E[Assassin 3,000-5,999]
-E --> F[Death Adept 6,000-7,999]
+E -- Loud --> F[Death Adept 6,000-7,999]
 F --> G[Nihilator 8,000-9,999]
 G --> H[Imerator-Mortis 10,000-14,999]
-E --> I[Freeblade 6,000-7,999]
+E -- Quite --> I[Freeblade 6,000-7,999]
 I --> J[Assassin at Marque 8,000-9,999]
 J --> K[Assassin Palatine 10,000-14,999]
 ```
@@ -249,18 +249,6 @@ The Death Adept pursues killing as an art form, training themselves into a perfe
 
 A Freeblade is an infiltrator, skilled in disguise and deception. His tactics include confusing his enemies and leaving them jumping at shadows while he closes in for the kill.
 
-# **Nihilator Advances**
-
-*"He killed and killed and killed, and all the time the bastard had that blood-soaked grin on his face."*
-
-A Nihilator takes the philosophy of the Death Adept a step further, embracing the act of murder, the almost religious moment when they wrest the life from their victims. Only the extinguishing of another's life fills the Nihilator with purpose, stirring his spirit and touching his soul.
-
-# **Imperator-Mortis Advances**
-
-*"I am death incarnate."*
-
-The Imperator-Mortis is an embodiment of graceful slaughter, an angel of death with few peers.
-
 | Advance                     | Cost | Type | Prerequisites           |
 | --------------------------- | ---- | ---- | ----------------------- |
 | Disguise +10                | 100  | S    | Disguise                |
@@ -280,6 +268,12 @@ The Imperator-Mortis is an embodiment of graceful slaughter, an angel of death w
 | Peer (Underworld)           | 300  | T    | Fel 30                  |
 | Sound Constitution          | 300  | T    | —                       |
 
+# **Nihilator Advances**
+
+*"He killed and killed and killed, and all the time the bastard had that blood-soaked grin on his face."*
+
+A Nihilator takes the philosophy of the Death Adept a step further, embracing the act of murder, the almost religious moment when they wrest the life from their victims. Only the extinguishing of another's life fills the Nihilator with purpose, stirring his spirit and touching his soul.
+
 | Advance                        | Cost | Type | Prerequisites          |
 |--------------------------------|------|------|------------------------|
 | Awareness +20                  | 100  | S    | Awareness +10          |
@@ -296,6 +290,12 @@ The Imperator-Mortis is an embodiment of graceful slaughter, an angel of death w
 | Heavy Weapon Training (Plasma) | 200  | T    | —                      |
 | Sound Constitution             | 200  | T    | —                      |
 | Thrown Weapon Training (Power) | 200  | T    | —                      |
+
+# **Imperator-Mortis Advances**
+
+*"I am death incarnate."*
+
+The Imperator-Mortis is an embodiment of graceful slaughter, an angel of death with few peers.
 
 | Advance                    | Cost | Type | Prerequisites                          |
 |----------------------------|------|------|----------------------------------------|
@@ -317,44 +317,42 @@ The Imperator-Mortis is an embodiment of graceful slaughter, an angel of death w
 
 Assassins at Marque move among the upper echelons of Imperial society, taking contracts and settling dis putes between power groups. They work both in and out of the shadows, equally at home in the ballrooms of the high spires as they are in the hab gutters.
 
+| Advance                  | Cost | Type | Prerequisites                         |
+| ------------------------ | ---- | ---- | ------------------------------------- |
+| Search +20               | 100  | S    | Search +10                            |
+| Resistance (Fear)        | 100  | T    | —                                     |
+| Charm +10                | 200  | S    | Charm                                 |
+| Deceive +10              | 200  | S    | Deceive                               |
+| Demolition +10           | 200  | S    | Demolition                            |
+| Interrogation +10        | 200  | S    | Interrogation                         |
+| Lip Reading +10          | 200  | S    | Lip Reading                           |
+| Gunslinger               | 200  | T    | BS 40, Two-Weapon Wielder (Ballistic) |
+| Independent Targeting    | 200  | T    | BS 40                                 |
+| Talented (Chem-Use)      | 200  | T    | Chem-Use                              |
+| Talented (Deceive)       | 200  | T    | Deceive                               |
+| Talented (Interrogation) | 200  | T    | Interrogation                         |
+| Command                  | 300  | S    | —                                     |
+| Scholastic Lore (Legend) | 300  | S    | —                                     |
+| Sound Constitution       | 300  | T    | —                                     |
+
 # **Assassin Palatine Advances**
 
 *"He is the master, the lord, the very god of assassins. When he says kill, you'd damn well better."*
 
 Where there are assassins, so too is there the Assassin Palatine. Often in control of vast guilds of killers, Assassins Palatine are both charismatic leaders and cold-blooded killers.
 
-| Advance                  | Cost     | Type     | Prerequisites                         |
-|--------------------------|----------|----------|---------------------------------------|
-| Search +20               | 100      | S        | Search +10                            |
-| Resistance (Fear)        | 100      | T        | —                                     |
-| Charm +10                | 200      | S        | Charm                                 |
-| Deceive +10              | 200      | S        | Deceive                               |
-| Demolition +10           | 200      | S        | Demolition                            |
-| Interrogation +10        | 200      | S        | Interrogation                         |
-| Lip Reading +10          | 200      | S        | Lip Reading                           |
-| Gunslinger               | 200      | T        | BS 40, Two-Weapon Wielder (Ballistic) |
-| Independent Targeting    | 200      | T        | BS 40                                 |
-| Talented (Chem-Use)      | 200      | T        | Chem-Use                              |
-| Talented (Deceive)       | 200      | T        | Deceive                               |
-| Talented (Interrogation) | 200      | T        | Interrogation                         |
-| Command                  | 300      | S        | —                                     |
-| Scholastic Lore (Legend) | 300      | S        | —                                     |
-| Sound Constitution       | 300      | T        | —                                     |
-|                          |          |          |                                       |
-
-| Advance                          | Cost     | Type     | Prerequisites                |
-|----------------------------------|----------|----------|------------------------------|
-| Disguise +20                     | 100      | S        | Disguise +10                 |
-| Blather +10                      | 200      | S        | Blather                      |
-| Carouse                          | 200      | S        | —                            |
-| Deceive +10                      | 200      | S        | Deceive                      |
-| Speak Language (High Gothic) +10 | 200      | S        | Speak Language (High Gothic) |
-| Talented (Blather)               | 200      | T        | Blather                      |
-| Talented (Disguise)              | 200      | T        | Disguise                     |
-| Talented (Scrutiny)              | 200      | T        | Scrutiny                     |
-| Forbidden Lore (Cults)           | 300      | S        | —                            |
-| Forbidden Lore (Psykers)         | 300      | S        | —                            |
-| Logic                            | 300      | S        | —                            |
-| Pistol Training (Melta)          | 300      | T        | —                            |
-| Resistance (Psychic Powers)      | 300      | T        | —                            |
-| Sound Constitution               | 300      | T        | —                            |
+| Advance                          | Cost | Type | Prerequisites                |
+| -------------------------------- | ---- | ---- | ---------------------------- |
+| Disguise +20                     | 100  | S    | Disguise +10                 |
+| Blather +10                      | 200  | S    | Blather                      |
+| Carouse                          | 200  | S    | —                            |
+| Speak Language (High Gothic) +10 | 200  | S    | Speak Language (High Gothic) |
+| Talented (Blather)               | 200  | T    | Blather                      |
+| Talented (Disguise)              | 200  | T    | Disguise                     |
+| Talented (Scrutiny)              | 200  | T    | Scrutiny                     |
+| Forbidden Lore (Cults)           | 300  | S    | —                            |
+| Forbidden Lore (Psykers)         | 300  | S    | —                            |
+| Logic                            | 300  | S    | —                            |
+| Pistol Training (Melta)          | 300  | T    | —                            |
+| Resistance (Psychic Powers)      | 300  | T    | —                            |
+| Sound Constitution               | 300  | T    | —                            |
