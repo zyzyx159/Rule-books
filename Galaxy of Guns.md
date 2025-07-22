@@ -1112,7 +1112,7 @@ To use flame weapons without penalty, a character must have the Pistol Training 
 | - [[#Seraphim Hand Flamer\|Seraphi]]                | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 6    | Full   | [[#Flame]]                              | 2kg   | 1,000 | -     | ExtremelyRare |
 | [[#Heavy Flamer Class Heavy (Flame)\|Heavy Flamer]] | Heavy  | 30m   | S/-/- | 2d10+4 E | 4   | 30   | 2 Full | [[#Flame]], [[#Unreliable]]             | 20kg† | 1,000 | -     | Rare          |
 | [[#Anoxis Stingray Rifle\|Stringray]]               | Basic  | 15m   | S/-/- | 1d10+3 E | 2   | 4    | Full   | [[#Flame]]                              | 3kg   | 100   | Void  | Scarce        |
-| [[#Tox Spray]]                                      | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | [[#Flame]], Toxic                       | 8kg   | 200   | Hive  | Scarce        |
+| [[#Tox Spray]]                                      | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | [[#Flame]], [[#Toxic]]                  | 8kg   | 200   | Hive  | Scarce        |
 | †_Not including ammo pack_                          |        |       |       |          |     |      |        |                                         |       |       |       |               |
 ### Flamer
 Class: Basic (Flame)
@@ -1176,12 +1176,14 @@ Tox sprays are terrifying weapons founds in the hands of the worst type of gang 
 Although not a true flame weapon, victims hit by a tox spray's attack must still succeed on an Agility Test or else the terrible effluence clings to their bodies and causes further chemical burns as though they were on fire. Characters in sealed armour and those lacking organic bodies are effectively immune to being attacked by a tox spray. If the tox spray suffers a Jam, the weapon ruptures explosively, inflicting the weapon's Damage as a two metre blast with double the rolled Damage inflicted on the user. Tox sprays are Scarce on Hive Worlds and Rare on other developed worlds.
 
 ## PRIMITIVE WEAPONS
+### Primitive Weapons infomation
 
 Even in the 41st Millennium there are many worlds within the Imperium that have a very low technological base, whether still developing or having regressed back to a more primitive state. Weaponry of this type is typical to that which was once used on Terra in ancient prehistory, and there are Administratum scholars who believe that the growth of such undeveloped worlds may closely resemble that of Holy Terra itself. Many explorers and investigative groups have found it to their advantage to maintain proficiency with these very low-tech weapons so that they can make use of local hardware while conducting business on such backwater and regressed planets.
 
 Primitive weapons of this sort can sometimes be found on more built-up planets, including Hive worlds, as the product of cheap scavworkshops and other low-grade smiths, and while far from effective compared to autoguns and stubbers, any gun is better than none at all.
 
 This class of weapon refers to any of a broad range of low-complexity ranged armaments, including black powder-fired guns as well as muscle-powered devices like crossbows and javelins among a wide variety of others. To use primitive weapons without penalty, a character must have the Thrown Weapon Training (Primitive), Pistol Training (Primitive), Basic Weapon Training (Primitive), or Heavy Weapon Training (Primitive) talents.
+### Primitive Weapon list
 
 | Primitive Weapons  |        |       |       |             |     |      |        |                                               |       |      |          |              |
 | ------------------ | ------ | ----- | ----- | ----------- | --- | ---- | ------ | --------------------------------------------- | ----- | ---- | -------- | ------------ |
@@ -1211,46 +1213,46 @@ This class of weapon refers to any of a broad range of low-complexity ranged arm
 | Sling              | Basic  | 15m   | S/-/- | 1d10-2 I    | 0   | 1    | Full   | Primitive                                     | .5kg  | 10   | -        | Plentiful    |
 | Thunderclap        | Exotic | 9m    | S/-/- | 1d5+3 X     | 0   | 1    | -      | Blast (2), Inaccurate,Primitive, Unstable | 1kg   | 45   | Volonx   | Very Rare    |
 | Vibe Spear         | Thrown | 10m   | S/-/- | 1d10+2+SB R | 1   | 1    | -      | Primitive, Snare, Special                     | 2kg   | 14   | Endrite  | Scarce       |
-#### Bolas
+### Bolas
 Class: Thrown (Primitive)
 
 Bolas are a simple but highly effective tool meant to tangle up an opponent. Most are constructed from several dense balls of stone or wood (sometimes as many as eight) held together with heavy cord; examples manufactured on more developed Imperial worlds might be made of resin or plasteel bound together with wire, but function in essentially the same way. Bolas are held in one hand and swung above the head where their mass allows them to pick up speed, then flung at the legs of a foe to entangle them where their mass and inertia can knock even a strong man off his feet. Bolas are not explicitly offensive weapons, and someone hit by a set of them is likely to only suffer injuries from being knocked over. This makes them a favoured choice for bounty hunters and enforcers, including some more eccentric Arbitrators, as they can be used in the aid of apprehending a fleeing target.
 
-**Volonx Bone Bolas:**
+#### Volonx Bone Bolas:
 The nomads and hunters of Volonx have created a nastier style of bolas that is intended to inflict much more harm on their victim. The weights are made from bone and cords embedded with sharp teeth from native sand sharks meant to cause lacerations as it entangles its target. The porous shark teeth are typically soaked in poison made from mashed skem plants, giving it several victims' worth of virulent toxic kick. A target tripped up by Volonx bone bolas is likely to be sent into anaphylactic shock from exposure to the poison along with being planted on their faces by the bolas' more typical effect.
 
 Volonx Bone Bolas are Very Rare outside of that planet.
 
-#### Bow
+### Bow
 Class: Basic (Primitive)
 
 Bows are unlikely the first missile weapon designed by man in ancient prehistory, and tens of millennia later are still made by tribal bowyers on feral worlds and niche weapon artisans on more developed planets. While undeniably inferior to any kind of modern gun in terms of firepower, range, and ease of use, a bow is almost completely silent while firing. This is an attractive quality to assassins and more eccentric gangers who have enough faith in their aim to justify the slow attacks and lack of armour penetration. Bows made on feral and feudal worlds are almost universally made of special types of wood selected for their flexibility; those designed for Imperial hunters and hitmen may be made of any variety of synthetic materials.
 
-**Composite Bow:**
+#### Composite Bow:
 This is a more advanced style of bow is found on later feudal worlds and is made of multiple pieces of wood, sinew and horn fused together under pressure to give the bow a permanently drawn shape. Composite bows are both accurate and quicker to use than classic bows, but require substantial craftsmanship and access to better materials, as well as a higher degree of care in maintenance. Composite bows offer some significant advantages over primitive black powder guns, and like normal bows some are manufactured on more advanced worlds for their combination of attractive features.
 
-**Longbow:**
+#### Longbow:
 Longbows are explicit weapons of war, often taller than their users and far too unwieldy for use in hunting game. A longbow's arrows are designed to be propelled at range with great speed and sufficient power to penetrate personal armours worn by enemy troops, and a classic tactic to employ these weapons is where a multitude of archers release a massive flurry of arrows on a ballistic trajectory to rain death upon an opposing army. A longbow is almost invariably crafted from the dense heartwood of old-growth trees as these provide sufficient strength to contain the great tension necessary to propel an arrow at sufficient velocity. Many feudal worlds have entire sections of law devoted to the protection of such trees from logging by commoners as their depletion would be a crippling blow to the manufacture of new longbows. Due to their great bulk and the difficulty in drawing, longbows are far rarer than other bow-style weapons as far as manufacture on more advanced Imperial worlds.
 
-#### Crossbow
+### Crossbow
 Class: Basic (Primitive)
 
 A semi-mechanical weapon, crossbows are wooden-stocked with a sturdy metal bow that is held back by a trigger-activated release. Short, heavy arrows known as bolts are flung out of the weapon at great speed, though pulling the bow itself back into firing position requires considerable effort and time. Crossbows are easier to use than regular bows since they can be left loaded and grabbed just before combat, whereas a bow will always need to be readied and drawn first.
 
-**Heavy Crossbow:**
+#### Heavy Crossbow:
 Also known as arbalests, these monster crossbows must be braced with a foot in a special stirrup near the bow and winched into firing position with a windlass before a bolt can be inserted. This process is almost as lengthy as reloading a musket, but the force created by a heavy crossbow's bolt is incredible among primitive weapons and have been known to penetrate a horseman and his horse at the same time. Soldiers armed with heavy crossbows must be well-disciplined to fire their shot at the right moment, as a charging enemy likely won't give them enough time to reload. They are also stable and exceptionally accurate, and expert sharpshooters at a besieged castle have been known to take out men operating catapults of the attacking force.
 
-**Hunting Crossbow:**
+#### Hunting Crossbow:
 Effectively a crossbow manufactured using present techniques and materials, crossbows of this type are used on many worlds by huntsmen, frontier settlers, and others who value its simple action and quiet operation. Unlike traditional crossbows found on feudal worlds, hunting crossbows usually include a variety of convenience features, including detachable stocks, pistol grips, and the ability to mount sights much like a hunting rifle.
 
 Hunting crossbows can use bolts made of laminate plexichrome or armaplas along with more traditional ones. These bolts cost twice as much as normal bolts and when used with a hunting crossbow cause it to lose the Primitive quality.
 
-#### Drive Nailer
+### Drive Nailer
 Class: Basic (Primitive)
 
 One of the first weapons to appear in the hands of heretics in a hive uprising, the drive nailer is simply a high-power nail or rivetdriving gun of the type common to the millions who toil in hive construction and reclamation crews across the Imperium. With its power setting turned up to maximum and safety features disabled, drive nailers can make a messy but effective weapon. They have a very short effective range as the nails or rivets lose velocity quickly, but nevertheless are often sufficient to give rioting hivers enough firepower to steal better weapons from unlucky enforcers and PDF troops who've found themselves nailed to a wall or bulkhead.
 
-#### Flick Bow
+### Flick Bow
 Class: Basic (Primitive)
 
 A flick bow is a curious compact-size hand crossbow that is designed to fold up into a package that can be tucked away inside a boot, muffler, sleeve, or purse. It is therefore a common choice for coachmen, ladies of negotiable affection and criminal gangs on many medieval worlds, although the finest crafted examples are made by the artisans of Balecaster and wouldn't look out of place in an Inquisition armoury. The span of a flick bow folds inwards and its grip tips back to form an oblong shape suitable for concealment.
@@ -1259,70 +1261,70 @@ A flick bow requires a Half Action to be unfolded and locked in place before it 
 
 When folded up, a flick bow grants a +10 bonus to Sleight of Hand Tests made to conceal it.
 
-#### Flintlock Pistol
+### Flintlock Pistol
 Class: Pistol (Primitive)
 
 These primitive black powder weapons can take many forms, from finely crafted pistols constructed for the nobles of low-tech worlds, elegant yet simple sidearms for use by cavalry soldiers, or simple pipe and powder affairs used by underhive scum. In general, a pistol of this type is essentially an extremely short musket with a built-in ramrod that won't come lose during close combat. Many have reinforced pommels made of iron or brass explicitly for use as a club in melee combat as few enemies would give the firer enough time to reload. Flintlocks are the most common form of primitive pistol although similar weapons might be rigged to fire with a match or percussion cap depending on the level of advancement of the particular world.
 
-**Deuce Pistol:**
+#### Deuce Pistol:
 A double-barrelled variant that is particularly popular on many worlds where duelling is common, and it also serves as a useful hunting sidearm as well. These types of flintlock pistol are almost assuredly manufactured to a high level of precision and are often markedly more accurate than their contemporaries, though their usefulness is still far below a modern autopistol's. Most models of deuce pistols feature separate triggers, one for each barrel, thus allowing the wielder to fire twice before having to reload. Assuming the powder takes, both barrels can also be fired at once by pulling both triggers simultaneously.
 
 If both triggers are fired at once, a deuce pistol adds 1 to its Damage and gains the Tearing quality. The listed Reload time assumes the firer is reloading both barrels; reloading just one barrel takes three Full Actions.
 
-#### Hand Crossbow
+### Hand Crossbow
 Class: Pistol (Primitive)
 
 A hand crossbow is more or less a normal crossbow that's been shrunken down to a size suitable for one-handed operation complete with a pistol grip. This size is suitable for firing and reloading by horsemen, coach guards, and others who can't manage the bulk of a full-size crossbow. They can also be easily dismantled and re-assembled and are almost completely silent when firing. This makes them a favoured weapon of assassins on medieval planets, while higher-tech killers may opt to use such a weapon for exactly the same reasons, especially if using poison-coated bolts.
 
-#### Haywire Rifle
+### Haywire Rifle
 Class: Basic (Primitive)
 
 Haywire rifles are not the issue of feudal world gunsmiths at all, instead being the product of deliberate design to make a weapon that is as mechanically simple as possible for a very particular purpose. Haywire rifles are designed to shoot specialty stub ammunition that contains a directed energy discharge, effectively passing through augmetic armour and machine plating. Due to these debilitating effects on holy engines and other pieces of equipment, they are severely proscribed by the Adeptus Mechanicus, who view a haywire rifle's lack of a machine spirit with particular hatred and disgust. Haywire rifles are produced by a handful of skilled (and clandestine) armourer-cabals in the Calixis Sector, and there are some that have suggested the only reason these groups haven't been wiped out by Mechanicus Secutors is due to special protections being offered by high authority. Whether this implies the sector's nobility, the Inquisition, or some other dark power varies from source to source.
 
 A haywire rifle doubles its Pen value and gains the Tearing quality against targets with the Machine or Mechanicus Implants Trait as well as those judged by the GM to be similar in nature (such as the lock system for a blast door). Haywire rifle ammunition has a base price of 20 Thrones each and is considered Very Rare. A haywire rifle can be used with normal stub pistol ammunition instead, gaining those qualities as normal (such as a Pen value of 3 for manstopper bullets).
 
-#### Hunting Boomerang
+### Hunting Boomerang
 Class: Thrown (Primitive)
 
 Boomerangs are deceptively simple weapons made of two pieces of finely crafted and shaped wood or horn that are joined together to make a V-shape. When thrown by a trained user, a boomerang will spin with great speed and fly for a short period, and can hit game animals with remarkable accuracy. A boomerang imparts enough force to break bones of smaller creatures and makes little noise while sailing through the air, enabling a hunter armed with one to silently kill his quarry.
 
 Boomerangs occasionally turn up on more advanced worlds as a novelty item, but some are used for exactly the same purpose as their primitive counterparts. If made of modern materials (metals and synthetics, plasteel, and so forth) a boomerang deals Rending instead of Impact Damage, and can benefit from the Mono-edge upgrade.
 
-#### Impaler
+### Impaler
 Class: Heavy (Primitive)
 
 This is something of a giant harpoon cannon that employs high tension springs or industrial cabling to hurl a projectile at a target with great force. Crude and simplistic to a point, weapons of this type are often wielded by slab-muscled gang heavies and degenerate mutant scum in many underhives of Imperial cities. Impalers make use of a section of sturdy pipe or reinforcing bar that's had one end ground to a sharp piercing tip as a projectile. Though a poor substitute for a more proper gun, up-hive enforcers and gunslingers have found it remarkably hard to laugh about its inferiority whilst pinned to a wall by a metre-long spear.
 
 A Strength Bonus of at least 4 is required to operate the reloading mechanism of an impaler.
 
-#### Javelin
+### Javelin
 Class: Thrown (Primitive)
 
 A lightweight flexible spear that is specifically designed for throwing, javelins lack the rigidity to be used as a melee weapon but can he hurled a surprising distance by a skilled user. Javelins are common sights on worlds that have devolved to total savagery as they are very simple to make, while sophisticated versions that are designed to splinter or bend on impact to cause more severe injury are employed on some more developed planets. Chariot-mounted warriors of Monrass are especially fond of this style of javelin, and carry them in clusters on their carriages.
 
 The thrower's Strength Bonus is added to Damage inflicted by a javelin as though it was a melee weapon.
 
-#### Musket
+### Musket
 Class: Basic (Primitive)
 
 Muskets are the simplest type of gun manufactured in notable quantities and almost exclusively use black powder and a muzzleloaded shot to bring down an enemy. Most are smoothbore weapons with separately loaded powder and shot that must be rammed into place with an included ramrod, with ignition provided by a flint and hammer. The lengthy reloading time along with generally poor accuracy makes these weapons markedly inferior to any type of more modern rifle, and outside of feudal worlds they are only used by the most desperate or ill-equipped renegades. Muskets fire a projectile that's nearly as big as a bolter's, and while not nearly as effective as one of those holy instruments many armoured knights have found themselves blasted straight out of their plate suits by a direct hit from a musket.
 
-**Blunderbuss:**
+#### Blunderbuss:
 This is a very basic type of musket with a wide barrel that is designed to be easy to reload from horseback or inside a coach. Its funnel-like muzzle can also be used to load loose shot pellets instead of a single ball, making it something of a primitive shotgun. A feudal blunderbuss will often be decorated with a motif of fire-breathing creatures around its muzzle due to the loud report and giant flame produced when firing, while those scratch-built in underhive workshops are often little more than tubes with a firing mechanism using ball bearings or industrial scrap for ammo.
 
 If loaded with loose shot a blunderbuss' Range decreases to 10m and it gains the Scatter quality.
 
-**Siskan "Father Shot" Musket:**
+#### Siskan "Father Shot" Musket:
 Fanatical theologians dominate the feudal world of Sisk and recorded that in the tradition of their colonial founding is the admonishment that Siskan defence is "built upon the bones of our forefathers". This expression is taken quite literally by many and is best exemplified by the muskets made on that world.
 
 Formed in the main from a human thighbone and incorporating other osseous bodies in a variety of functions, these components are traditionally those of the wielder's ancestors as this supposedly provides a stronger bond between the weapon and its owner. This exquisite firearm is a highly desirable object in many noble circles due to its intrinsic (if gruesome) beauty and fine craftsmanship. Utilising an iron-capped tooth as its striking mechanism, the "Father Shot" is considered to be a reliable weapon with a reputation for lucky hits, and is undeniably a masterfully-crafted weapon whose accuracy comes close to that of far more sophisticated stubbers and autoguns. In certain seedy areas of Sisk, down on their luck artificers are willing to create trophy muskets of comparable quality from bones brought to them by well-paying customers. They seldom ask where the materials come from, as their patrons all too often have the steely glint of revenge in their eyes.
 
-#### Fedrid Razor Disk
+### Fedrid Razor Disk
 Class: Thrown (Primitive)
 
 The hunters of Fedrid employ an unusual thrown weapon on their expeditions, which is simply known as a razor disk. About the size of a standard dinner plate, the weapon features a sharpened edge all around its outer surface. Numerous holes, made at 45 degree angles, pierce the disk's surface so that when thrown the air passing through the holes creates a low humming sound. This can be used to scare birds hiding in tall grass where they can be caught with nets or shot, while the noise itself is useful in tracking a disk that's been thrown into the dense Fedrid undergrowth as it strikes game.
 
-#### Scrap Cannon
+### Scrap Cannon
 Class: Heavy (Primitive)
 
 For underhive gangs who cannot steal or buy more effective heavy armament, the best they can bring to a turf war is an aptly-named scrap cannon. Made from a crudely reinforced length of pipe packed with black powder, the weapon is simply rammed with nails, bolts, and anything else nasty scraped from the underhive floor. Scrap cannons are hugely unwieldy and not actually very lethal, especially if its targets are wearing any kind of half-decent armour.
@@ -1331,21 +1333,21 @@ However, they look scary and make an impressively enormous bang and pyrotechnic 
 
 Individuals successfully hit with a scrap cannon must Test for Pinning. Scrap cannons are Very Rare items outside of underhive areas and are Average within their depths.
 
-#### Sling
+### Sling
 Class: Basic (Primitive)
 
 Slings are a surprisingly difficult weapon to master and are far easier to construct than they are to build. Most are made from a simple leather square firmly attached to two lengths of cord, which are usually provided with a leather or wooden handle on each end. With a projectile – often a rock – on the square, a skilled user can swing the sling with considerable speed, releasing the projectile with a snap of the wrist. On more advanced worlds slings may be used to hurl metallic balls or more aerodynamic projectiles, and those confident of their skill might even use them to throw hand grenades as well. Slings made on developed Imperial worlds are typically made of more sophisticated materials, such as elastic cords and flakweave pockets, but are used in the same way.
 
 If a character uses a sling to propel a grenade, replace the grenade's Range with that of the sling and leave other statistics unchanged. If the sling suffers a Jam, the projectile flies off 3d10 metres in a random direction (see Missing on page 196 of _Dark Heresy_).
 
-#### Volonx Thunderclap
+### Volonx Thunderclap
 Class: Thrown (Exotic)
 
 The tribal warriors of Volonx are famed for their strange scavenged weapons. Perhaps the strangest (and most suicidal) employed by these innovative fighters is the thunderclap. A thrown weapon with a surprisingly good range, a thunderclap vaguely resembles a boomerang with a 45 degree bend about a third of the way along its length. At each end a fearsome piece of sharpened bone juts out, whilst the innards are packed with a primitive and volatile explosive that detonates when striking a hardened surface. When thrown, the weapon flies in a wide circular arc, and can return to the thrower if it does not strike a target. Ideally, the thrower will then be brave and nimble enough to catch it again, without blowing themselves to pieces!
 
 If a character throws a thunderclap and misses, it attempts to return to the thrower's location. Catching a returning thunderclap requires the catcher to succeed on a Challenging (+0) Agility Test; failure means the thunderclap flies an additional 1d5+1 metres from the thrower's position before landing, while failure by three or more Degrees results in the thunderclap exploding directly on the thrower. In this case, the thrower cannot make an Agility Test to attempt to avoid the blast.
 
-#### Vibe Spear
+### Vibe Spear
 Class: Thrown (Primitive)
 
 This nasty weapon, haling from Endrite in the Drusus Marches, appears to be a simple spear of fresh-cut wood to the untrained eye. However, any scrutiny of the spearhead reveals tiny backwards-curving barbed thorns protruding from the fibrous point. Once embedded into a target, the barbs bite deep and the thorned head may break off in the wound, with any subsequent movement seeing the barbs dig deeper into the victim's flesh. The Endrites use vibe spears to bleed and wear down prey animals, but they make effective weapons of war too. Removing the barbed point without causing further harm is a delicate business.
@@ -1372,6 +1374,7 @@ Whenever a Jam results from throwing or launching a grenade, missile, mortar, an
 - 1-5 Dud. The explosive or round fails to explode. If fired from a launcher, there is a 50% chance that the projectile fails to launch or lands harmlessly amid its intended targets; if the former, the jam must be cleared normally.
 - 6-8 "It might be ok…" Nothing happens, yet. Roll again on this table next Round. This may have unfortunate implications if the firer is clearing a jam at the time.
 - 9-0 BOOM! The round or explosive immediately goes off with any and all effects centred on the firer. If this was the result of firing a launcher the results may be even worse; "non-lethal" grenades, like howlers and smokes, must be cleared as though jammed, while an explosive like a frag or krak grenade destroys the launcher as well as setting off any other grenades that are loaded into it!
+### LAUNCHERS, GRENADES, AND BOMBS List
 
 | Launchers             |                                                                                        |          |       |          |     |      |        |                                |      |       |       |               |
 | --------------------- | -------------------------------------------------------------------------------------- | -------- | ----- | -------- | --- | ---- | ------ | ------------------------------ | ---- | ----- | ----- | ------------- |
