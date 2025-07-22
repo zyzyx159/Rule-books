@@ -513,18 +513,18 @@ Stripped down to the bare minimum of functioning parts, autopistols of this type
 #### Sulymann Encarmine Service Pistol:
 This is a fairly advanced autopistol that crams a large number of bullets into its small frame. This combination of small size and high capacity makes it a common sidearm by "second liners" such as plainclothes enforcers, hauler rig crews, and construction foremen. It also enjoys widespread popularity as a self-defence weapon for hab-workers who don't trust shaky, panicked hands to reloading a fresh clip (or taking steady aim for that matter).
 
-**Hecuter 9/5 Combat Autopistol:**
+#### Hecuter 9/5 Combat Autopistol:
 Often regarded on Scintilla as the "prince among pistols", this exceptionally well-made autopistol is one of Hax-Orthlack's most famous products, and for centuries Hecuters have flown off the forges of Gunmetal City into waiting holsters as fast as the workers can make them. It is a firm favourite among Metallican gunslingers and Malfian bloodsworn alike, showing that even the feuding parties of the Scintilla-Malfi dispute can put aside their differences if only to agree on the superiority of the Hecuter's design.
 
-**Naval Pistol:**
+#### Naval Pistol:
 Heavy-duty autopistols that have long been associated with the Imperial Navy, naval pistols are solid and rugged, easily being capable of being used as a club in melee combat. They are considered part of a ship's arsenal rather than an issued weapon, and the name of the vessel to which they were attached is stamped into the pistol's housing. Naval pistols from famous warships are thus particularly sought after by collectors, though this has dubious legality and weapons of this type are not offered for sale by any forges that manufacture them. Naval pistols are designed to make use of specialty fragmenting ammunition which can rip through the bodies of mutinying ratings without causing major damage to a ship's hardware and systems. In a pinch, they can also be used with other types of autopistol ammunition (but lose the Tearing quality in doing so).
 
 Naval pistol ammunition has a base cost of 30 Thrones on the black market and are Rare items.
 
-**Orthlack Mark IV Thollos:**
+#### Orthlack Mark IV Thollos:
 This large-calibre autopistol has a strong following among junior officers of many Calixian Guard regiments as well as Planetary Defence Forces who favour its superior stopping power when compared to regulation sidearms. As an Orthlack weapon it is also considered to have the tacit approval of Lord Sector Hax, and it has become a tradition among old military families for sons and daughters to receive a commemoratively inscribed and personalized Thollos to mark their first commission.
 
-**Hax-Orthlack Puritan-14 Double Pistol:**
+#### Hax-Orthlack Puritan-14 Double Pistol:
 Squat and ugly, the Puritan-14 is a pure combat pistol meant to impress with killing power rather than looks. The area ahead of the pistol's grip is occupied by a muzzle-loading shotgun chamber, giving the weapon a very boxy and, according to gangers, "business-like" look. This pistol is produced explicitly for Lord Hax's Magistratum enforcers, and is the standard sidearm of the elite "Crimson Sashes" unit. Many have also turned up in the hands of Adeptus Arbites troopers who share the Magistratum's approval of brutally efficient weapons, and there are more than a few on the black market as well. The Puritan-14 can fire its autopistol or shotgun barrel at the firer's discretion but cannot shoot both in the same round. The shotgun's sharp recoil imposes a -10 penalty to the user's Ballistic Skill unless the weapon is held in two hands or the firer has a Strength Bonus of 4 or more.
 
 **Sulymann "Salvation" Holdout Pistol:**
@@ -532,56 +532,56 @@ The Salvation is an extremely compact pistol no larger than a thick deck of card
 
 The Salvation's small size grants a +10 bonus to Sleight of Hand Tests made to conceal it, and the firer suffers no penalties for shooting it without the appropriate Talent.
 
-**Sulymann Talon III Autopistol:**
+#### Sulymann Talon III Autopistol:
 The Talon is a fully-automatic, medium-calibre pistol that offers a good combination of firepower and clip capacity in a package that is modestly easier to wield than more common autopistol types. It is easily maintained and uses a lot of commonly available parts, and Talon shooters have been known to replace broken components with those borrowed from machines or hab equipment with no loss of function. This pistol enjoys widespread appeal among gangers and enforcers alike and many street battles in Gunmetal City and Hive Sibellus' lower levels have been fought with both parties using the Talon III.
 
 This pistol can be used with common military autogun clips, increasing its Clip size to 30 at the expense of making it harder to manoeuvre. The added bulk imposes a -10 penalty to Ballistic Skill Tests made to attack with it unless the shooter uses two hands to hold it.
 
-#### "Flametongue" Howdah Pistol
+### "Flametongue" Howdah Pistol
 
 The Fykos Forge of Gunmetal City is a prestigious clan of master gunsmiths who specialise in elaborate and finely made hunting weapons, and the Flametongue pistol is no different. This simple and reliable weapon resembles a master-crafted hack shotgun that is chambered to fire huge, custom-made soft alloy rounds that break apart on impact to cause horrific wounds. Intended as a last line of defence should a hunter be ambushed by a dangerous thin-skinned predator, there is an expression among professional game hunters that anything that can't be put down with both shots from a Flametongue is probably something that shouldn't be hunted in the first place.
 
 Flametongue rounds have a base cost of 10 Thrones each and are Rare.
 
-#### Hand Cannon
+### Hand Cannon
 
 "Hand Cannon" is a common expression to refer to very large stub automatics or revolvers that are intended to fire heavy-calibre shots. Pistols of this type are not combat weapons by design – most are intended for use in hunting dangerous creatures, but their large and high velocity projectiles can be used to fell men just as easily as beasts. Most only hold a few thumbsized bullets within them, and shooters who intend to take hand cannons to a gun battle are well advised to aim carefully. A hand cannon's fierce recoil imposes a -10 penalty on Ballistic Skill Tests made to attack unless the shooter holds the weapon with two hands or has a Strength Bonus of 4 or more. Revolver-type hand cannons can be unjammed as a Half Action rather than a Full Action.
 
-**.54 Tranter:**
+#### .54 Tranter:
 This is a giant stub automatic with an operating system more commonly found on full size autoguns. Because they use a removable clip rather than an internal cylinder, the Tranter can be reloaded more quickly than most hand cannons, making it at least somewhat suitable for use in a battle. Pistols of this type are sometimes referred to as a "poor man's bolter" due to their great takedown power. However, the weapon's operating parts are notoriously finicky and it is prone to jamming, a trait rarely found among stubbers. That said, the pistol's intimidating size and shape as well as the racket it makes when shooting means it's still quite popular in spite of its lack of reliability, and underhive workshops and heretek tinkerers produce this pattern of hand cannon on every major hive and forge world. The Belasco Deathworks also produce this pistol, and while having a higher quality of fit and finish, their version somehow still jams just as often as the underhive knock-offs.
 
 Because of its monstrous size and recoil, even among hand cannons, the .54 Tranter is considered a Basic weapon unless the shooter has a Strength Bonus of 4 or higher.
 
-**Westingkrup "Carnodon" Precision Pistol:**
+#### Westingkrup "Carnodon" Precision Pistol:
 No mere blunt tool, the Carnodon is finely made and well-balanced, with some claiming it fits in the hand better than many lighter autopistols. This stub automatic is intentionally designed to resemble a bolt pistol, bulky yet elegant, and is an accurate and powerful weapon when placed in skilled hands. Carnodon pistols fetch a high price in arms markets, so wearing one is a sign of status among underhive gangs in Scintilla's Hive Sibellus, while more than a few troopers of the Adeptus Arbites have spent their own wages to pick up a Carnodon of their own thanks to its many positive qualities (not the least of which being the intimidation factor of blowing a ganger's head clean off). A few have also been picked up by Acolytes of the Calixian Conclave and enforcers of Calixis' great houses.
 
-**Khayer-Addin "Fate Bringer" Revolver:**
+#### Khayer-Addin "Fate Bringer" Revolver:
 A perfectly balanced and sleek pistol, this very large stub revolver looks smaller than it actually is thanks to its attractive, flowing shape. Wellmade revolvers of this type are commonly used to "settle affairs of honour" among hive nobles as they have the requisite combination of showmanship and killing power necessary to win a duel in one shot. They also make fine hunting weapons and target pistols, and a few assassins have been known to make use of a Fate Bringer as a means to execute a target at range (or one who is fleeing…) when a larger sniper rifle would be impractical.
 
-**Stormchild Hand Cannon:**
+#### Stormchild Hand Cannon:
 The Stormchild is a venerable and proven design taking the form of a massive hinged-frame stub revolver. While totally lacking in subtlety with a wide barrel, thick frame, and massive report, the Stormchild offers a lot of firepower in a very affordable package. For less than the price of most autopistols, a shooter can put a big enough slug in the air that can knock a man out of light armour or damage grav-cars and other civilian vehicles. Stormchilds are manufactured by most forges in the Calixis Sector and are commonly used by naval boarding parties, Administratum inspectors, and as a self-defence weapon by more paranoid civilians. Its size and weight allow it to be used as a club in melee combat, and most feature a wide pommel for just this purpose.
 
-#### Hack Shotgun
+### Hack Shotgun
 Known by a wide variety of nicknames on different worlds and systems, this is a conventional twin-barrelled shotgun cut down to the smallest possible size, fitted with a pistol grip and rigged to fire both barrels at once. Although very short-ranged and anything but a precision weapon, a hack shotgun can obliterate an unarmoured target with a salutary effect on nearby bystanders. Hack shotguns make a nasty surprise to pull out of a boot holster or a gravcar's glove compartment, but they are by no means a suitable weapon for heavy combat, as many a ganger has found out while being gunned down by carapace-wearing enforcers.
 
 A hack shotgun fires both barrels at once, consuming two shotgun shells with each firing. It can also fire one shell at a time at reduced damage (change Damage to 1d10+4 and lose the Tearing quality).
 
-#### Mariette Cylinder Pistol
+### Mariette Cylinder Pistol
 Named for the Malfian noble house said to have originated the design, the Mariette is an extremely concealable stubber crafted from polyflex and ceramics with no metallic or powered components. Its four chamber-barrels are self-contained and the whole pistol is designed to break down into a handful of small parts that can be concealed inside some innocuous object, such as a data-slate, or hidden around the wearer's body. Disassembled, the Mariette is almost totally imperceptible as a weapon, making it a top choice for those who want a gun on themselves in situations where it would ordinarily be forbidden; this makes it popular with nobles and VIPs and those who would try to kill them alike, a truly Malfian weapon if there ever was one.
 
 When disassembled and hidden a Mariette is almost impossible to find (-30 penalty on Search Tests), and the parts don't show up on scanners or auspex as weapons. Mariette barrel-cylinders are themselves Rare items with a base price of 100 Thrones each, cannot be configured with any special ammunition, and are not individually reloadable.
 
-#### Volg Mercy Killer
+### Volg Mercy Killer
 So named because it's "a mercy if it kills what you're aiming at", this weapon is typical of any number of crude, scratch-built pistols used by the desperate and the oppressed across the realms of mankind. Fashioned from whatever materials are on hand, these single-shot stub pistols are far from accurate and can be as dangerous to the shooter as what's being shot at. In the Volg hive, the provision of Mercy Killers has gone far and above enterprising criminals home-brewing up guns: the "higher powers" on Fenksworld see to it that Mercy Killers are manufactured en masse to subsidize the nonstop violence there. Indeed, a Mercy Killer and a handful of bullets cost less in Volg than a trencher of parboiled murk fungus with an obligatory demi-litre of recyk water to wash it down with.
 
 Mercy Killers cost 2 Thrones on Volg and similar hives. If a Mercy Killer suffers a Jam result, roll 1d10. If the result is a "9" the pistol explodes, inflicting its Damage on its firer and destroying the gun.
 
-#### Panoptic 0-5 Automata Pistol
+### Panoptic 0-5 Automata Pistol
 More art than weapon, Automata Pistols are more likely to be found in a private collection than a ganger's holster giving their unique creation. These pistols are tied to the Myrmidon Warsmiths of the Adeptus Mechanicus, taking their name from the Panopticon Orbital fortress/manufactorum which serves as one of the Mechanicus headquarters in the Calixis Sector. Would-be Tech-Priest armourers under tutelage are given complex and randomly incomplete patterns for this weapon, and through skill and divination must produce a complete pistol to the satisfaction of their master. Once completed, this examination pistol is vaporised on a plasma-fired altar to the Machine God and the aspirant is granted the equivalent of a journeyman's title. It is quite common for Tech-Priests who have studied at the Panopticon, even high-ranking Magi, to continue to make Panoptic pistols in this ritualistic way as a form of meditation or while contemplating a difficult task. Sometimes these reproduction pistols are retained as a personal armament, given as a gift to a favoured servant, or offered for sale to interested buyers.
 
 These intricate automata-guns feature two separate ammunition cylinders and count as being fitted with a Fire Selector upgrade. They can use any special ammunition used by autopistols or stub pistols, and count as a Best Craftsmanship weapon when wielded by the Tech-Priest that crafted it.
 
-#### Volg "Ripper Clip" Pistol
+### Volg "Ripper Clip" Pistol
 
 Known locally as the "zip gun" or "chopper", this bulky pistol is purposely designed to be as cheap as possible to manufacture and maintain. The Ripper Clip is made from industrial spares and crude pressed metal parts, and might pass for a construction tool such as a nailer or riveter at first glance. The riveter appearance is further compounded by the sheet metal strip, holding a line of stubber bullets, which is forcibly wrenched through the pistol as it fires, clattering to the ground along with the hot bullet casings when the weapon is expended. Despite the gun's many shortcomings, there's no shortage of buyers in Volg, as it is a place where any extra firepower can keep your corpse from the meatsumps for a while longer.
 
