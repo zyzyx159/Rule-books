@@ -1355,26 +1355,27 @@ This nasty weapon, haling from Endrite in the Drusus Marches, appears to be a si
 Any living creature without the Machine trait injured by a vibe spear must pass a Challenging (+0) Toughness Test or also suffer 1 level of Fatigue. Successfully removing the spear requires a Challenging (+0) Medicae Test. A failed Test still removes the spear but inflicts a further 1d5 Damage which is not reduced by Toughness or Armour.
 
 ## LAUNCHERS, GRENADES, AND BOMBS
+### Launchers, Grenades, and Bombs Inforamtion
 
 In a galaxy raked by war and disorder there is a high demand for extremely destructive ordnance. Being able to blow away a large mass of enemies at once can be a major equalizer to servants of the Imperium, who all too often find themselves outnumbered by foes whose quantity (almost) makes up for their lack of faith. To that end, the forge worlds of the Imperium send out a steady stream of explosives, grenades, bombs, and weaponry designed to chuck them at the enemies of the Emperor.
 
 This section includes several types of weapons. Launchers are designed to propel another weapon, typically a grenade or missile, at a foe that is beyond throwing range, and vary widely from simple tubes attached to the bottom of Imperial Guard lasguns to devastating hunterkiller missiles ordinarily deployed from armoured vehicles. In most cases, a launcher's Damage and Qualities are dictated by the projectile it is firing. Grenades and missiles are portable destructive devices that can run a gamut of purposes, from shredding one's foes to laying down a smokescreen to cover a tactical manoeuvre. They differ in that while grenades can be armed and lobbed by hand, missiles must be fired by a compatible launcher weapon.
 
 To use launcher weapons without penalty, a character must have the Pistol Training (Launcher), Basic Weapon Training (Launcher), or Heavy Weapon Training (Launcher) talents. Throwing grenades requires no special training or talents and is simply resolved through a Ballistic Skill Test, while setting explosives and bombs is resolved through the Demolition skill.
-### INDIRECT FIRING
+#### INDIRECT FIRING
 
 Mortars and similar Launcher weapons are often fired in a suppression mode where the targeted enemy cannot be seen and only their rough location is known. In these cases, mortar shells and the like can be fired without any actual line of sight required. When firing in this manner, a hit means that the shell still scatters 1d10 metres from the target point, while a miss scatters 2d10 metres instead.
 
 Often such weapons are fired in conjunction with a spotter who directs fire from the weapon. Any ally with an auspex or who can see the target can spend a Half or Full Action to spot for the mortar fire. In this case, the next shot by the mortar only scatters 1d5 metres on a hit, and gains a +10 or +20 bonus (respectively) to its Ballistic Skill Test.
 
-### EXPLOSIVE MISHAPS
+#### EXPLOSIVE MISHAPS
 
 Whenever a Jam results from throwing or launching a grenade, missile, mortar, and similar weapons, something unfortunate has happened that may have disastrous consequences! Roll on the table below to determine the results. Roll Result
 
 - 1-5 Dud. The explosive or round fails to explode. If fired from a launcher, there is a 50% chance that the projectile fails to launch or lands harmlessly amid its intended targets; if the former, the jam must be cleared normally.
 - 6-8 "It might be ok…" Nothing happens, yet. Roll again on this table next Round. This may have unfortunate implications if the firer is clearing a jam at the time.
 - 9-0 BOOM! The round or explosive immediately goes off with any and all effects centred on the firer. If this was the result of firing a launcher the results may be even worse; "non-lethal" grenades, like howlers and smokes, must be cleared as though jammed, while an explosive like a frag or krak grenade destroys the launcher as well as setting off any other grenades that are loaded into it!
-### LAUNCHERS, GRENADES, AND BOMBS List
+### Launchers, Grenades, and 
 
 | Launchers             |                                                                                        |          |       |          |     |      |        |                                |      |       |       |               |
 | --------------------- | -------------------------------------------------------------------------------------- | -------- | ----- | -------- | --- | ---- | ------ | ------------------------------ | ---- | ----- | ----- | ------------- |
