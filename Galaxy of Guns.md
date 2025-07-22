@@ -259,21 +259,21 @@ Aside from their ease of use, the abundance of ammunition in the form of standar
 
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
 
-| Las Weapons               |        |       |       |          |     |      |       |                             |        |       |            |              |
-| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | --------------------------- | ------ | ----- | ---------- | ------------ |
-| Name                      | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                     | Wt     | Cost  | World      | Availability |
-| [[#Dueling Las(Belasco)]] | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | Accurate                    | 1.5kg  | 250   | -          | Very Rare    |
-| [[#Duelling Las(K-A)]]    | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | Accurate, Tearing           | 1.7kg  | 220   | -          | Very Rare    |
-| [[#Hellpistol]]           | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                           | 4kg†   | 2,500 | -          | Rare         |
-| [[#Laspistol]] (generic)  | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | Reliable, Variable          | 1.5kg  | 50    | -          | Common       |
-| - Civitas-Patte           | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | Reliable                    | 2kg    | 35    | -          | Common       |
-| - Fury                    | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | Reliable                    | 1.5kg  | 100   | -          | Scarce       |
-| - Mark IV                 | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full  | Accurate, Reliable,Variable | 1.75kg | 150   | -          | Rare         |
-| - Palatine                | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full  | Reliable, Variable          | 1.1kg  | 100   | -          | Average      |
-| - Steel Burner            | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full  | Variable                    | 2.5kg  | 100   | Fenksworld | Very Rare    |
-| Las Gauntlets             | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | Reliable                    | 3kg    | 350   | -          | Very Rare    |
-| Series-S Venom            | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                           | 0.5kg  | 120   | -          | Scarce       |
-| †Not including power pack |        |       |       |          |     |      |       |                             |        |       |            |              |
+| Las Weapons                         |        |       |       |          |     |      |       |                             |        |       |            |              |
+| ----------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | --------------------------- | ------ | ----- | ---------- | ------------ |
+| Name                                | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                     | Wt     | Cost  | World      | Availability |
+| [[#Dueling Las(Belasco)]]           | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]               | 1.5kg  | 250   | -          | Very Rare    |
+| [[#Duelling Las(K-A)]]              | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]] | 1.7kg  | 220   | -          | Very Rare    |
+| [[#Hellpistol]]                     | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                           | 4kg†   | 2,500 | -          | Rare         |
+| [[#Laspistol]] (generic)            | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | Reliable, Variable          | 1.5kg  | 50    | -          | Common       |
+| - [[#Civitas-Pattern]]              | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | Reliable                    | 2kg    | 35    | -          | Common       |
+| - [[#Fury Assault Pistol]]          | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | Reliable                    | 1.5kg  | 100   | -          | Scarce       |
+| - [[#Mark IV Command Laspistol]]    | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full  | Accurate, Reliable,Variable | 1.75kg | 150   | -          | Rare         |
+| - [[#Palatine Compact Laspistol]]   | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full  | Reliable, Variable          | 1.1kg  | 100   | -          | Average      |
+| - [[#Steel Burner Heavy Laspistol]] | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full  | Variable                    | 2.5kg  | 100   | Fenksworld | Very Rare    |
+| [[#Las Gauntlets]]                  | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | Reliable                    | 3kg    | 350   | -          | Very Rare    |
+| Series-S Venom                      | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                           | 0.5kg  | 120   | -          | Scarce       |
+| †Not including power pack           |        |       |       |          |     |      |       |                             |        |       |            |              |
 ### Dueling Las
 
 Based around the philosophy of a "one shot kill", Duelling Laspistols (or just Duelling Las for short) are commonly worn as signs of wealth and status by hive nobles and Rogue Traders. While ostentatious and certainly designed with image in mind, a Duelling Las is still nonetheless a very deadly weapon that can generate an extremely powerful las blast, and are accurate enough to hit a single Throne at distances most comparable pistols would only be able to hit a man-sized target.
@@ -297,21 +297,21 @@ Hellpistols include a hard-wired Targeter, granting its user a +10 bonus to Ball
 
 Laspisols are common and widespread devices used by Guardsmen and gangers alike thanks to their ease of use and simple, reliable design. Many laspistol patterns exist within the Imperium, and the most common types, such as the Galaxy-M used by Cadian sergeants or the Lucius-pattern favoured by Krieg gunners are so similar that, functionally, they may as well be the same weapon. There are also more exotic sorts of laspistols that include various unique features.
 
-#### **Civitas-Pattern:**
+#### Civitas-Pattern:
 This is a simple utility weapon of extremely ancient design, and can commonly be found as a self-defence pistol carried by hab-workers or serving as a backup weapon to gangers wielding powerful if less reliable autoguns. It is bulkier and less efficient than common military patterns due to its cheap manufacture, but even if left in a drawer or stuck to the bottom of a desk for decades, a Civitas' owner can rest assured that his weapon will always shoot.
 
-#### **"Fury" Assault Pistol:**
+#### Fury Assault Pistol:
 A quick-firing laspistol suitable for use by shock troops and capable of laying down a barrage of las-bolts. The Fury's range is inferior to most laspistols due to its rapid discharging cells, but it is an ideal weapon to use against large numbers of foes. It is often paired with a close combat weapon, such as a chainsword, and many of its users only shoot it until they've closed into hand-to-hand combat with the enemy.
 
-#### **Mark IV Command Laspistol:**
+#### Mark IV Command Laspistol:
 Well made for accuracy and beam cohesion, this type of sidearm can rival full-size lasguns for striking range. The Mark IV is a favourite of Imperial Guard squad leaders, allowing them to engage foes at the same distance as their soldiers can, and its bright and narrow beam can also be used to "point out" targets of opportunity, even during a pitched battle situation.
 
-#### **Palatine Compact Laspistol:**
+#### Palatine Compact Laspistol:
 A superior laspistol manufactured by the Takara Fane of Gunmetal City. The Palatine has equal stopping power to many other laspistols in spite of being nearly half the size of a standard military pattern. It is easy to conceal and easier to carry all day, making it equally popular with hive nobles as well as mercenaries and assassins. Given Takara's image as a provider to exclusive clients, Palatine pistols with heavily embellished and decorated housings are manufactured to order, with some costing upwards of three times the base model's price.
 
 The Palatine's small size and smooth body grants a +10 bonus to Sleight of Hand Tests made to conceal it.
 
-#### **Steel Burner Heavy Laspistol:**
+#### Steel Burner Heavy Laspistol:
 The Sollex sect of the Cult Mechanicus produces this "handheld lascannon" at its headquarters on Haddrak in the Drusus Marches. Aside from equipping Sollex's own Tech-Guard and Magos Militants, the Sollex Pattern-VII (as it is officially known) is manufactured for distribution on Fenksworld as well. The Steel Burner is a favoured pistol among those with the Thrones to spare, but it is especially treasured in the Volg hive where weapons with the ability to defeat well-protected creatures are always in high demand and short supply. The Belasco Deathworks and the Takara Fane have all tried to reproduce this weapon in their own forges without success.
 
 Sollex las weapons can use standard power packs but drain them more quickly than most due to their powerful beams. Sollex las weapons have Scarce Availability on Fenksworld and are Very Rare elsewhere.
