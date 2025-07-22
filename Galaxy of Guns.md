@@ -1099,21 +1099,21 @@ Flame weapons of the Imperium typically use a highly flammable substance known a
 To use flame weapons without penalty, a character must have the Pistol Training (Flame), Basic Weapon Training (Flame), or Heavy Weapon Training (Flame) talents.
 ### Flame Weapons list
 
-| Flame Weapons                                   |        |       |       |          |     |      |        |                         |       |       |       |               |
-| ----------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ------ | ----------------------- | ----- | ----- | ----- | ------------- |
-| Name                                            | Class  | Range | RoF   | Dam      | Pen | Clip | Rld    | Special                 | Wt    | Cost  | World | Availability  |
-| [[#Flamer]] (generic)                           | Basic  | 20m   | S/-/- | 1d10+4 E | 3   | 3    | 2 Full | Flame, Unreliable       | 6kg   | 200   | -     | Scarce        |
-| - [[#Anoxis Burst Flamer\|Burst]]               | Basic  | 5m    | S/-/- | 1d5 E    | 0   | 10   | 2 Full | Flame, Primitive        | 3kg   | 50    | -     | Scarce        |
-| - [[#Voss "Nightfire" Flame Device\|Nightfire]] | Basic  | 20m   | S/-/- | 1d10+5 E | 2   | 3    | 2 Full | Flame, Toxic,Unreliable | 7kg   | 400   | -     | Very Rare     |
-| - [[#Salamander Assault Flamer\|Salamander]]    | Basic  | 10m   | S/-/- | 1d10+4 E | 1   | 3    | 2 Full | Flame, Unreliable       | 6kg   | 250   | -     | Scarce        |
-| [[#Gas Torch]]                                  | Basic  | 5m    | S/-/- | 1d10+1 E | 2   | 20   | 5 Full | Flame, Unreliable       | 20kg  | 150   | Hive  | Average       |
-| [[#Hand Flamer]] (generic)                      | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 2    | 2 Full | Flame, Unreliable       | 3.5kg | 200   | -     | Rare          |
-| - Destroyer                                     | Pistol | 15m   | S/-/- | 1d10+5 E | 2   | 5    | 2 Full | Flame, Unreliable       | 2.1kg | 750   | -     | Very Rare     |
-| - Seraphim                                      | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 6    | Full   | Flame                   | 2kg   | 1,000 | -     | ExtremelyRare |
-| Heavy Flamer                                    | Heavy  | 30m   | S/-/- | 2d10+4 E | 4   | 30   | 2 Full | Flame, Unreliable       | 20kg† | 1,000 | -     | Rare          |
-| Stingray                                        | Basic  | 15m   | S/-/- | 1d10+3 E | 2   | 4    | Full   | Flame                   | 3kg   | 100   | Void  | Scarce        |
-| Tox Spray                                       | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | Flame, Toxic            | 8kg   | 200   | Hive  | Scarce        |
-| †_Not including ammo pack_                      |        |       |       |          |     |      |        |                         |       |       |       |               |
+| Flame Weapons                                       |        |       |       |          |     |      |        |                                         |       |       |       |               |
+| --------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ------ | --------------------------------------- | ----- | ----- | ----- | ------------- |
+| Name                                                | Class  | Range | RoF   | Dam      | Pen | Clip | Rld    | Special                                 | Wt    | Cost  | World | Availability  |
+| [[#Flamer]] (generic)                               | Basic  | 20m   | S/-/- | 1d10+4 E | 3   | 3    | 2 Full | [[#Flame]], [[#Unreliable]]             | 6kg   | 200   | -     | Scarce        |
+| - [[#Anoxis Burst Flamer\|Burst]]                   | Basic  | 5m    | S/-/- | 1d5 E    | 0   | 10   | 2 Full | [[#Flame]], [[#Primitive]]              | 3kg   | 50    | -     | Scarce        |
+| - [[#Voss "Nightfire" Flame Device\|Nightfire]]     | Basic  | 20m   | S/-/- | 1d10+5 E | 2   | 3    | 2 Full | [[#Flame]], [[#Toxic]], [[#Unreliable]] | 7kg   | 400   | -     | Very Rare     |
+| - [[#Salamander Assault Flamer\|Salamander]]        | Basic  | 10m   | S/-/- | 1d10+4 E | 1   | 3    | 2 Full | [[#Flame]], [[#Unreliable]]             | 6kg   | 250   | -     | Scarce        |
+| [[#Gas Torch]]                                      | Basic  | 5m    | S/-/- | 1d10+1 E | 2   | 20   | 5 Full | [[#Flame]], [[#Unreliable]]             | 20kg  | 150   | Hive  | Average       |
+| [[#Hand Flamer]] (generic)                          | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 2    | 2 Full | [[#Flame]], [[#Unreliable]]             | 3.5kg | 200   | -     | Rare          |
+| - [[#Cadence "Destroyer" Pistol\|Destroyer]]        | Pistol | 15m   | S/-/- | 1d10+5 E | 2   | 5    | 2 Full | [[#Flame]], [[#Unreliable]]             | 2.1kg | 750   | -     | Very Rare     |
+| - [[#Seraphim Hand Flamer\|Seraphi]]                | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 6    | Full   | [[#Flame]]                              | 2kg   | 1,000 | -     | ExtremelyRare |
+| [[#Heavy Flamer Class Heavy (Flame)\|Heavy Flamer]] | Heavy  | 30m   | S/-/- | 2d10+4 E | 4   | 30   | 2 Full | [[#Flame]], [[#Unreliable]]             | 20kg† | 1,000 | -     | Rare          |
+| [[#Anoxis Stingray Rifle\|Stringray]]               | Basic  | 15m   | S/-/- | 1d10+3 E | 2   | 4    | Full   | [[#Flame]]                              | 3kg   | 100   | Void  | Scarce        |
+| [[#Tox Spray]]                                      | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | [[#Flame]], Toxic                       | 8kg   | 200   | Hive  | Scarce        |
+| †_Not including ammo pack_                          |        |       |       |          |     |      |        |                                         |       |       |       |               |
 ### Flamer
 Class: Basic (Flame)
 
@@ -1146,10 +1146,10 @@ Class: Pistol (Flame)
 
 Hand flamers are just as they sound: a flamer cut down in size to be used as a pistol-like weapon. Although they have a very short range thanks to a much smaller air compressor, at "personal" distances a hand flamer is an exceptionally effective weapon. Warriors who favour close combat often employ a hand flamer in their off hand to soften up a group of foes before righteously smiting them with their melee weapon. The Sisters of Battle and particularly zealous members of the Ecclesiarchy are perhaps the most enthusiastic users of hand flamers, for much the same reasons as they enjoy the full size counterparts as well. Just as with normal flamers, hand flamers are reasonably simple weapons, and the majority of all patterns manufactured in the Imperium can fit into this description. A few with some more unique features are listed here.
 
-##Cadence "Destroyer" Pistol:
+#### Cadence "Destroyer" Pistol:
 A weapon produced only to commission by the mysterious Cadence tech-artisan cult, the Destroyer is an extremely sophisticated hand flamer that uses force-compression technology similar to that of a plasma weapon to create a superheated thermal-incandescent blast that burns far hotter and with greater fuel efficiency than most other flame weapons. About the only thing that the Destroyer has in common with other Imperial hand flamers is the ability to use standard-size Promethium fuel canisters. This flamer has a strong association with the Inquisition of the Calixian Conclave, and if the stories are to be believed, the first commissioner of the Destroyer was none other than the legendary Inquisitor Ark-Ashten of the Ordo Xenos.
 
-**Seraphim Hand Flamer:**
+#### Seraphim Hand Flamer:
 Like much of the Adepta Soroitas' reliquary-arsenal, hand flamers issued to elite Seraphim jump troops are exceptionally well-crafted weapons that are a cut above their more commonplace counterparts. Seraphim who have demonstrated particular zeal in punishing the enemies of the Emperor may swap their bolt pistols for a pair of these excellent hand flamers and use them to great effect in annihilating swaths of lesser foes. An efficient canister socket allows fresh Promethium tanks to be loaded with much greater speed than most flamers, an invaluable advantage to Sisters hurtling through the air on their jump packs. Seraphim hand flamers include an additional function that projects a very short burst of flame that consumes minimal fuel, and those Sisters that carry these superior pistols can use them effectively in close combat.
 
 If armed with two Seraphim hand flamers, a character with the Dual Shot talent can make a combined attack with both weapons. Ammunition is consumed from each flamer as normal, but the attack deals 1d10+10 Energy Damage and targets hit by its flames suffer a -20 penalty to their Agility Tests to avoid its effects. This penalty stacks with that from the Cleanse and Purify talent. A Seraphim hand flamer can be used to make melee attacks against single opponents which deal its normal Damage as long as the weapon has at least one shot left in its Clip. This attack does not have the Flame quality and so will not set targets on fire; likewise, the weapon does not Jam if the wielder rolls a result that would ordinarily cause one. Individual melee attacks do not consume fuel, but a protracted battle may end up spending some over time.
