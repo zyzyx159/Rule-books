@@ -471,38 +471,38 @@ Stubbers are far older, and go back as far as known history reaches. Compared to
 
 To use the various classes of solid projectile weapons you must have the Pistol Training (SP), Basic Weapon Training (SP) or Heavy Weapon Training (SP) talents.
 
-| Solid Projectile Weapons                 |        |           |       |          |     |       |        |                             |       |       |       |                |
-| ---------------------------------------- | ------ | --------- | ----- | -------- | --- | ----- | ------ | --------------------------- | ----- | ----- | ----- | -------------- |
-| Name                                     | Class  | R a n g e | RoF   | Dam      | Pen | Clip  | Rld    | Special                     | Wt    | Cost  | World | Availability   |
-| [[#Autopistol]] (generic)                | Pistol | 30m       | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.5kg | 75    | -     | Common         |
-| - [[#Disposable Pistol]]                 | Pistol | 30m       | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | Inaccurate, Unreliable      | 2kg   | 15    | -     | Ubiquitous     |
-| - [[#Sulymann Encarmine Service Pistol]] | Pistol | 20m       | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                           | 2kg   | 90    | -     | Average        |
-| - [[#Hecuter 9/5 Combat Autopistol]]     | Pistol | 30m       | S/3/6 | 1d10+3 I | 0   | 15    | Full   | Reliable                    | 2kg   | 175   | -     | Average        |
-| - Naval Pistol                           | Pistol | 20m       | S/3/- | 1d10+4 I | 0   | 6     | Full   | Tearing                     | 3kg   | 120   | -     | Scarce         |
-| - Orthlack Mark IV                       | Pistol | 20m       | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                           | 2.5kg | 75    | -     | Scarce         |
-| - Puritan-14                             | Pistol | 20m       | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                           | 1.7kg | 100   | -     | Scarce         |
-| - As shotgun                             | Pistol | 15m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Scatter                     |       |       |       |                |
-| - Salvation                              | Pistol | 10m       | S/3/- | 1d10 I   | 0   | 7     | -      | -                           | 0.7kg | 80    | -     | Common         |
-| - Talon Mark III                         | Pistol | 30m       | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.3kg | 85    | -     | Common         |
-| Flametongue                              | Pistol | 20m       | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | Primitive, Reliable,Tearing | 2kg   | 140   | -     | Rare           |
-| Hand Cannon (generic)                    | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
-| - .54 Tranter                            | Pistol | 30m       | S/2/- | 1d10+5 I | 2   | 7     | Full   | Unreliable                  | 3.5kg | 95    | -     | Common         |
-| - Carnodon                               | Pistol | 35m       | S/3/- | 1d10+4 I | 2   | 6     | Full   | Accurate                    | 2.5kg | 200   | -     | Scarce         |
-| - Fate Bringer                           | Pistol | 40m       | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | Accurate, Reliable          | 1.6kg | 200   | -     | Rare           |
-| - Storm child                            | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
-| [[#Hack Shotgun]]                        | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | 2 Full | Inaccurate, Scatter,Tearing | 3kg   | 60    | -     | Common         |
-| Mariette                                 | Pistol | 20m       | S/2/- | 2d5+3 I  | 0   | 2     | 2 Full | Tearing                     | 0.5k  | 400   | -     | Rare           |
-| Mercy Killer                             | Pistol | 20m       | S/-/- | 1d10+2 I | 0   | 1     | 2 Full | Inaccurate, Unreliable      | 1kg   | 10    | -     | Plentiful      |
-| Panoptic                                 | Pistol | 35m       | S/2/- | 1d10+3 I | 0   | 5(x2) | 2 Full | Reliable                    | 2kg   | 225   | -     | Rare           |
-| Ripper Clip                              | Pistol | 20m       | -/-/6 | 1d10+2 I | 0   | 12    | Full   | Inaccurate, Unreliable      | 3kg   | 40    | Volg  | Common         |
-| Ripper Pistol                            | Pistol | 30m       | S/2/- | 1d10+1 I | 7   | 8     | Full   | Tearing, Toxic              | 4kg   | 2,000 | -     | Extremely Rare |
-| Shotgun Pistol                           | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Reliable, Scatter           | 1kg   | 60    | -     | Average        |
-| [[#Stub Automatic]] (generic)            | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                           | 1.5kg | 50    | -     | Plentiful      |
-| - Arms man-10                            | Pistol | 35m       | S/3/- | 1d10+3 I | 0   | 13    | Full   | -                           | 1.5kg | 75    | -     | Plentiful      |
-| - Dorcas-Pattern                         | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Half   | -                           | 1.5kg | 125   | -     | Rare           |
-| - Phobos Stubber                         | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                           | 1.3kg | 50    | -     | Plentiful      |
-| Stub Revolver (generic)                  | Pistol | 30m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | Reliable                    | 1kg   | 40    | -     | Plentiful      |
-| - Scalptaker                             | Pistol | 35m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | Reliable                    | 2kg   | 40    | -     | Plentiful      |
+| Solid Projectile Weapons                                 |        |           |       |          |     |       |        |                             |       |       |       |                |
+| -------------------------------------------------------- | ------ | --------- | ----- | -------- | --- | ----- | ------ | --------------------------- | ----- | ----- | ----- | -------------- |
+| Name                                                     | Class  | R a n g e | RoF   | Dam      | Pen | Clip  | Rld    | Special                     | Wt    | Cost  | World | Availability   |
+| [[#Autopistol]] (generic)                                | Pistol | 30m       | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.5kg | 75    | -     | Common         |
+| - [[#Disposable Pistol]]                                 | Pistol | 30m       | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | Inaccurate, Unreliable      | 2kg   | 15    | -     | Ubiquitous     |
+| - [[#Sulymann Encarmine Service Pistol\|Encarmine]]      | Pistol | 20m       | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                           | 2kg   | 90    | -     | Average        |
+| - [[#Hecuter 9/5 Combat Autopistol\|Hecuter]]            | Pistol | 30m       | S/3/6 | 1d10+3 I | 0   | 15    | Full   | Reliable                    | 2kg   | 175   | -     | Average        |
+| - [[#Naval Pistol]]                                      | Pistol | 20m       | S/3/- | 1d10+4 I | 0   | 6     | Full   | Tearing                     | 3kg   | 120   | -     | Scarce         |
+| - [[#Orthlack Mark IV Thollos]]                          | Pistol | 20m       | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                           | 2.5kg | 75    | -     | Scarce         |
+| - [[#Hax-Orthlack Puritan-14 Double Pistol\|Puritan-14]] | Pistol | 20m       | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                           | 1.7kg | 100   | -     | Scarce         |
+| - [[#As shotgun                                          | Pistol | 15m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Scatter                     |       |       |       |                |
+| - Salvation                                              | Pistol | 10m       | S/3/- | 1d10 I   | 0   | 7     | -      | -                           | 0.7kg | 80    | -     | Common         |
+| - Talon Mark III                                         | Pistol | 30m       | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                           | 2.3kg | 85    | -     | Common         |
+| Flametongue                                              | Pistol | 20m       | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | Primitive, Reliable,Tearing | 2kg   | 140   | -     | Rare           |
+| Hand Cannon (generic)                                    | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
+| - .54 Tranter                                            | Pistol | 30m       | S/2/- | 1d10+5 I | 2   | 7     | Full   | Unreliable                  | 3.5kg | 95    | -     | Common         |
+| - Carnodon                                               | Pistol | 35m       | S/3/- | 1d10+4 I | 2   | 6     | Full   | Accurate                    | 2.5kg | 200   | -     | Scarce         |
+| - Fate Bringer                                           | Pistol | 40m       | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | Accurate, Reliable          | 1.6kg | 200   | -     | Rare           |
+| - Storm child                                            | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                           | 3kg   | 65    | -     | Average        |
+| [[#Hack Shotgun]]                                        | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | 2 Full | Inaccurate, Scatter,Tearing | 3kg   | 60    | -     | Common         |
+| Mariette                                                 | Pistol | 20m       | S/2/- | 2d5+3 I  | 0   | 2     | 2 Full | Tearing                     | 0.5k  | 400   | -     | Rare           |
+| Mercy Killer                                             | Pistol | 20m       | S/-/- | 1d10+2 I | 0   | 1     | 2 Full | Inaccurate, Unreliable      | 1kg   | 10    | -     | Plentiful      |
+| Panoptic                                                 | Pistol | 35m       | S/2/- | 1d10+3 I | 0   | 5(x2) | 2 Full | Reliable                    | 2kg   | 225   | -     | Rare           |
+| Ripper Clip                                              | Pistol | 20m       | -/-/6 | 1d10+2 I | 0   | 12    | Full   | Inaccurate, Unreliable      | 3kg   | 40    | Volg  | Common         |
+| Ripper Pistol                                            | Pistol | 30m       | S/2/- | 1d10+1 I | 7   | 8     | Full   | Tearing, Toxic              | 4kg   | 2,000 | -     | Extremely Rare |
+| Shotgun Pistol                                           | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | Reliable, Scatter           | 1kg   | 60    | -     | Average        |
+| [[#Stub Automatic]] (generic)                            | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                           | 1.5kg | 50    | -     | Plentiful      |
+| - Arms man-10                                            | Pistol | 35m       | S/3/- | 1d10+3 I | 0   | 13    | Full   | -                           | 1.5kg | 75    | -     | Plentiful      |
+| - Dorcas-Pattern                                         | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Half   | -                           | 1.5kg | 125   | -     | Rare           |
+| - Phobos Stubber                                         | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                           | 1.3kg | 50    | -     | Plentiful      |
+| Stub Revolver (generic)                                  | Pistol | 30m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | Reliable                    | 1kg   | 40    | -     | Plentiful      |
+| - Scalptaker                                             | Pistol | 35m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | Reliable                    | 2kg   | 40    | -     | Plentiful      |
 ### Autopistol
 
 Small but effective, autopistols are the preferred backup weapon of many military types who need a compact but rapid-firing gun for situations where their main long-arm is unsuitable. They are also the sidearm of choice for many gangers and outlaws as they conceal quite a bit of firepower in a relatively small package that can be stuffed into a pocket and carried all day, while more than a few of those scummers have met their end from another autopistol wielded by an Arbitrator opposite his suppression shield. Numerous autopistol patterns throughout the Imperium are similar enough to fall into this weapon's entry, while the fanes and forges in the Calixis Sector produce some more exotic variants as listed below.
@@ -527,7 +527,7 @@ This large-calibre autopistol has a strong following among junior officers of ma
 #### Hax-Orthlack Puritan-14 Double Pistol:
 Squat and ugly, the Puritan-14 is a pure combat pistol meant to impress with killing power rather than looks. The area ahead of the pistol's grip is occupied by a muzzle-loading shotgun chamber, giving the weapon a very boxy and, according to gangers, "business-like" look. This pistol is produced explicitly for Lord Hax's Magistratum enforcers, and is the standard sidearm of the elite "Crimson Sashes" unit. Many have also turned up in the hands of Adeptus Arbites troopers who share the Magistratum's approval of brutally efficient weapons, and there are more than a few on the black market as well. The Puritan-14 can fire its autopistol or shotgun barrel at the firer's discretion but cannot shoot both in the same round. The shotgun's sharp recoil imposes a -10 penalty to the user's Ballistic Skill unless the weapon is held in two hands or the firer has a Strength Bonus of 4 or more.
 
-**Sulymann "Salvation" Holdout Pistol:**
+#### Sulymann "Salvation" Holdout Pistol:
 The Salvation is an extremely compact pistol no larger than a thick deck of cards and intended for use by merchants, adepts, and common citizens who are untrained in weapons. It is entirely self-contained and easy to use with no extraneous levers or knobs, but is also ill-suited for anything but emergency self-defence use since it must be partially dismantled to reload its internal ammunition supply.
 
 The Salvation's small size grants a +10 bonus to Sleight of Hand Tests made to conceal it, and the firer suffers no penalties for shooting it without the appropriate Talent.
