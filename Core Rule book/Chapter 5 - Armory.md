@@ -1,4 +1,3 @@
-# Chapter V: Money armory 
 *"Place your faith in the Emperor, and always carry a big gun."* — Mordechai Voght, High Marshall.
 
 The 41st Millennium is a dangerous place, rife with war and conflict, and if an Acolyte hopes to survive he must make sure that he is well armed and equipped. This chapter deals with some of the many types of weapons, armor and gear that exist within the Imperium. Equipment, especially weapons and armor, make up a vital part of an Acolyte's resources and the difference between success and failure on a mission can often come down to having the right gear.
@@ -23,20 +22,20 @@ You can use Thrones to gauge the price of items from world to world as well as t
 
 All Acolytes gain a monthly income while in the employ of an Inquisitor. This represents money they generate in their spare time doing other (sometimes shady) jobs, investments or trusts they might have or even a stipend from their illustrious employer. In game terms, however, a character always receives their income without having to specifically do anything. GMs of course are free to increase, decrease or halt an Acolyte's income should he decide the plot calls for it, or if they are not pleasing their master!
 
-| Table 5-1: Income and Social Class |                       |               |                                                                                                                                      |
-|------------------------------------|-----------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Social Class                       | Thrones/Month         | Rank Increase | Description                                                                                                                          |
-| Outcasts (Scum)                    | 20†                   | Special†      | Those that have no rightful place within the structure ofImperial society, living below even the lowest classes.                 |
-| Drudging Classes                   | 30                    | 3             | Those that work in the fields, factoriums and hives ofthe Imperium, by far making up the bulk of mankind.                        |
-| Military Class (Guardsmen)         | 50                    | 5             | Those that fight.                                                                                                                    |
-| Supine Class (Arbitors, Psykers)   | 70                    | 7             | Thosethatserveclassesbetterthanthemselves,benefiting from the wealth of their masters.                   |
-| Learned Class (Adepts)             | 100                   | 10            | Those that make their way with knowledge.                                                                                            |
-| Trading Classes (Assassins)        | 120                   | 12            | Those that buy and sell or have specialist trades withwhich to make their living.                                                |
-| Mechanicus (Tech-Priests)          | 150                   | 15            | Those that follow the Machine God are a class untothemselves.                                                                    |
-| Ministorum (Clerics)               | 200                   | 20            | Those of the Cult of the Emperor and benefit greatlyfrom the uncounted wealth of His domain.                                     |
-| Nobility                           | 500                   | 50            | Those born to wealth and power by right of blood.                                                                                    |
-| Unbound Classes                    | <expunged></expunged> |               | Those with the freedom to travel the Imperium as theywish, such as Inquisitors of the dreaded Ordos or elusiveRogue Traders. |
-| †see Table 5-2: Scum Income.   |                       |               |                                                                                                                                      |
+| Table 5-1: Income and Social Class |                       |               |                                                                                                                                |
+| ---------------------------------- | --------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Social Class                       | Thrones/Month         | Rank Increase | Description                                                                                                                    |
+| Outcasts (Scum)                    | 20†                   | Special†      | Those that have no rightful place within the structure of Imperial society, living below even the lowest classes.              |
+| Drudging Classes                   | 30                    | 3             | Those that work in the fields, factoriums and hives ofthe Imperium, by far making up the bulk of mankind.                      |
+| Military Class (Guardsmen)         | 50                    | 5             | Those that fight.                                                                                                              |
+| Supine Class (Arbitors, Psykers)   | 70                    | 7             | Those that serve classes better than themselves, benefiting from the wealth of their masters.                                  |
+| Learned Class (Adepts)             | 100                   | 10            | Those that make their way with knowledge.                                                                                      |
+| Trading Classes (Assassins)        | 120                   | 12            | Those that buy and sell or have specialist trades with which to make their living.                                             |
+| Mechanicus (Tech-Priests)          | 150                   | 15            | Those that follow the Machine God are a class unto themselves.                                                                 |
+| Ministorum (Clerics)               | 200                   | 20            | Those of the Cult of the Emperor and benefit greatly from the uncounted wealth of His domain.                                  |
+| Nobility                           | 500                   | 50            | Those born to wealth and power by right of blood.                                                                              |
+| Unbound Classes                    | <expunged></expunged> |               | Those with the freedom to travel the Imperium as they wish, such as Inquisitors of the dreaded Ordos or elusive Rogue Traders. |
+| †see Table 5-2: Scum Income.       |                       |               |                                                                                                                                |
 All income is based on social class. An Acolyte's starting Career Path determines his social class and consequently his starting wealth—see **Table 1-9: Starting Wealth** on **[page](#page-29-0) [2](#page-29-0)**9. All of this does not, of course, preclude a character from engaging in other moneymaking schemes during play.
 
 Every time a character gains a new Rank in their Career Path their monthly income may increase, subject to the GMs agreement, by the amount indicated in the Rank Increase column of **Table 5-1: Rank and Social Class**. *For example*, *a Guardsman has a basic monthly income of 50 Thrones. This will increase to 55 Thrones after he achieves his second Rank in his Career Path.* GMs should feel free to change this Rank-based increase depending on such achievements as titles and honours which would not otherwise have any game effect.
@@ -87,15 +86,15 @@ Scales or Fins—On the water world of Spectoris, fish are found in all aspects 
 
 *Drake needs a new lasgun. A lasgun is a Common item, and so he gains a +10 bonus on his Inquiry Test to find it in a typical settlement with a population of about 7,000. If he looks in a small farming outpost with a population of only 400 the Difficulty becomes Challenging (no bonus), but if he looks in a city with a population of 80,000, the Difficulty lessens to Routine, giving him a +20 bonus.*
 
-| AvailabilityDifficultyModifierAbundantEasy+30Routine+20Ordinary+10 |
-|--------------------------------------------------------------------------------------------------------|
-| PlentifulCommon                                                                                    |
-|                                                                                                        |
-|                                                                                                        |
-| AverageChallenging+0                                                                           |
-| ScarceDifficult–10                                                                             |
-| RareHard–20                                                                                    |
-| Very RareVery Hard–30                                                                          |
+| Availability +30Routine+20Ordinary+10 | Difficulty  | Modifier |
+| ------------------------------------- | ----------- | -------- |
+| Abundant                              | Easy        |          |
+| Plentiful                             |             |          |
+| Common                                |             |          |
+| Average                               | Challenging | +0       |
+| Scarce                                | Difficult   | –10      |
+| Rare                                  | Hard        | –20      |
+| Very Rare                             | Very Hard   | –30      |
 
 # **TIME**
 
