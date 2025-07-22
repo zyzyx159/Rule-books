@@ -35,7 +35,13 @@ graph TD
 A[Trooper 0-499] --> B[Enforcer 500-999]
 B --> C[Regulator 1,000-1,999]
 C --> D[Investigator 2,000-2,999]
-D --> E[Arbitrator 3,000]
+D --> E[Arbitrator 3,000-5,999]
+E --> F[Proctor 6,000-7,999]
+F --> G[Marshal 8,000-9,999]
+G --> H[Lord Marshal 10,000-14,999]
+E --> I[Intelligencer 6,000-7,999]
+I --> J[Magistrate 8,000-9,999]
+J --> K[Justicar 10,000-14,999]
 ```
 # **Trooper Advances**
 

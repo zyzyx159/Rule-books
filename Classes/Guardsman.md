@@ -31,7 +31,7 @@ graph TD
 A[Conscript 0-499] --> B[Guard 500-999];
 B --> C[Armsman 1,000-1,999];
 C --> D[Sergant 2,000-2,999];
-D --> E{Veteran 3,000-5,999}
+D --> E[Veteran 3,000-5,999]
 E -- Heavy Weapons --> F[Assult Veteran 6.000-7,999]
 F --> G[Shock Trooper 8,000-9,9999]
 G --> H[Storm Trooper 10,000-14,999]
