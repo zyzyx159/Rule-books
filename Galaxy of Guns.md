@@ -332,29 +332,29 @@ The Venom is powered via an internal non-removable power cell rather than Munito
 
 ### BASIC & HEAVY LAS
 
-| Las Weapons                  |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
-| ---------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
-| Name                         | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
-| [[#Merovech Assault Lasgun]] | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.5kg | 250   | -          | Average      |
-| [[#Hellgun]]                 | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                                                                   | 6kg†  | 2,700 | -          | Rare         |
-| [[#D'laku Crusade Hellgun]]  | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
-| [[#Man-Portable Lascannon]]  | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
-| [[#Lascarbine]] (generic)    | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
-| - [[#Death Light Lasgun]]    | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
-| - Locke                      | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
-| - Minerva-Aegis              | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
-| Lascutter                    | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
-| Lasgun (generic)             | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 100   | -          | Common       |
-| - Drusus Prime               | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
-| - Mark III                   | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
-| - Roth                       | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
-| - Storm Front                | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
-| Laslock                      | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | [[#Unreliable]], [[#Unstable]]                                      | 4kg   | 40    | -          | Plentiful    |
-| Long Las                     | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | [[#Accurate]],[[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 4.5kg | 100   | -          | Scarce       |
-| Multi-Laser                  | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                                                                   | -     | 2,000 | -          | Scarce       |
-| Shotlas                      | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                                                                   | 4kg   | 90    | -          | Scarce       |
-| Twin Lasgun                  | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | [[#Tearing]], [[#Unreliable]]                                       | 7kg   | 220   | -          | Rare         |
-| †_Not including power pack_  |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
+| Las Weapons                         |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
+| ----------------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
+| Name                                | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
+| [[#Merovech Assault Lasgun]]        | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.5kg | 250   | -          | Average      |
+| [[#Hellgun]]                        | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                                                                   | 6kg†  | 2,700 | -          | Rare         |
+| [[#D'laku Crusade Hellgun]]         | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
+| [[#Man-Portable Lascannon]]         | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
+| [[#Lascarbine]] (generic)           | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
+| - [[#Death Light Lasgun]]           | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
+| - [[#Locke-Pattern]]                | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
+| - [[#Minerva-Aegis]]                | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
+| [[# Mezoa-Pattern Lascutter ]]      | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
+| [[#Lasgun]] (generic)               | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 100   | -          | Common       |
+| - [[#Drusus Prime-Pattern]]         | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
+| - [[#Mars-Pattern Mark III Lasgun]] | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
+| - [[#Roth Lightning Lasgun]]        | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
+| - [[#Storm Front Lasgun]]           | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
+| [[#Laslock Class]]                  | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | [[#Unreliable]], [[#Unstable]]                                      | 4kg   | 40    | -          | Plentiful    |
+| [[#Long Las Class]]                 | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | [[#Accurate]],[[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 4.5kg | 100   | -          | Scarce       |
+| Multi-Laser                         | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                                                                   | -     | 2,000 | -          | Scarce       |
+| Shotlas                             | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                                                                   | 4kg   | 90    | -          | Scarce       |
+| Twin Lasgun                         | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | [[#Tearing]], [[#Unreliable]]                                       | 7kg   | 220   | -          | Rare         |
+| †_Not including power pack_         |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
 #### Merovech Assault Lasgun
 Class: Basic (Las)
 
@@ -415,16 +415,16 @@ Class: Basic (Las)
 
 Nothing is more synonymous with the Imperial Guard and other ground troops than the lasgun. Ubiquitous and widespread, lasguns are reliable, sturdy, and exist in a myriad of different patterns and makes, most of which are similar enough to be considered the same weapon. These common lasguns can be equipped with different sorts of charge packs, and all include the appropriate hardware to attach a one-handed melee weapon as a bayonet. Because of their extremely high production figures, lasguns are used by cultists, gangers, and other foes of the Imperium almost as often as its loyal defenders. Some more exotic patterns of lasguns are listed here.
 
-**Drusus Prime-Pattern:**
+##### Drusus Prime-Pattern:
 This simple lasgun was made in large numbers to equip the growing forces of Saint Drusus' followers during the Angevin Crusade, and can still be found in the armouries of various PDFs in the Calixis Sector, and some dusty (though still wholly functional) examples hang on the walls of descendants of warriors from that time. While official production of the Drusus Prime ended centuries ago, many of those extremely robust weapons can still be found in use, and clones are manufactured in smaller forges throughout the sector. According to collectors, "authentic" Crusade-era lasguns can be identified by the more detailed stamping of Saint Drusus' likeness on the housing, which is crude or absent entirely on reproductions. In all cases, these sturdy weapons balance surprisingly well in the hand, and can easily be used as a bludgeoning melee weapon (treat this function as a staff).
 
-**Mars-Pattern Mark III Lasgun:**
+##### Mars-Pattern Mark III Lasgun:
 Made in large numbers on the forges of Malfi and Scintilla, this particular pattern of lasgun has been in use since M36 and was chosen as the standard model for most Imperial Guard regiments raised in the Calixis Sector. It is mentioned by name in the _Imperial Infantryman's Uplifting Primer_ as the "Guardsman's Friend" and is combination of easy to use sights and ergonomic grips make it one of the more popular lasguns employed by the Imperial Guard.
 
-**Roth Lightning Lasgun:**
+##### Roth Lightning Lasgun:
 An unusual pattern of lasgun, the Roth is fairly unremarkable at first glance until one recognises that its power packs are loaded into a port under the stock, rather than the centre housing. By moving back the innards of the gun, the Roth can use a longer barrel while maintaining the standard lasgun profile. This pattern is favoured by sharpshooters who operate in situations where the more accurate but unwieldy long las can impair movement.
 
-**Storm Front Lasgun:**
+##### Storm Front Lasgun:
 This is a "local variant" of the very widespread Kantrael and is only encountered in any large numbers in the Calixis Sector. A polished wood stock and brass hardware create a more "classic" look than the blockish greens and camouflaged polysteel of other lasguns, and its suitability for use in close combat with a folding bayonet makes it popular with Guard regiments that favour assaults, such as the Brontian Longknives. If used as a melee weapon, treat the Stormfront as a mono-edge spear with the Balanced quality.
 
 #### Laslock Class: 
