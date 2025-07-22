@@ -34,7 +34,9 @@ D --> E[Assassin 3,000-5,999]
 E --> F[Death Adept 6,000-7,999]
 F --> G[Nihilator 8,000-9,999]
 G --> H[Imerator-Mortis 10,000-14,999]
-E --
+E --> I[Freeblade 6,000-7,999]
+I --> J[Assassin at Marque 8,000-9,999]
+J --> K[Assassin Palatine 10,000-14,999]
 ```
 
 #### **Sell - Steel Advances**
@@ -42,11 +44,6 @@ E --
 *"Two in the head makes sure they're dead."*
 
 The Imperium is rife with killers, men and women who promise murder for a fee. Some even have the skills to deliver.
-#### **Shadesman Advances**
-
-*"Killed 'em all with a single round: no waste, no fuss, then melted back into the shadows like he was never there."*
-
-Shadesmen are talented mur derers whose skills extend beyond those of mere killers. They seek to turn their kill ing into an art form, honing their bloodletting skills and turning their minds to a pas sionless pursuit of death.
 
 | Advance                                                     | Cost     | Type     | Prerequisites |
 |-------------------------------------------------------------|----------|----------|---------------|
@@ -68,6 +65,12 @@ Shadesmen are talented mur derers whose skills extend beyond those of mere kille
 | Thrown Weapon Training (Primitive)                          | 100      | T        | —             |
 | Literacy                                                    | 200      | S        | —             |
 | †You may take this Talent up to two times at this Rank. |          |          |               |
+
+#### **Shadesman Advances**
+
+*"Killed 'em all with a single round: no waste, no fuss, then melted back into the shadows like he was never there."*
+
+Shadesmen are talented mur derers whose skills extend beyond those of mere killers. They seek to turn their kill ing into an art form, honing their bloodletting skills and turning their minds to a pas sionless pursuit of death.
 
 | Advance                         | Cost     | Type     | Prerequisites               |
 |---------------------------------|----------|----------|-----------------------------|
@@ -96,12 +99,6 @@ Shadesmen are talented mur derers whose skills extend beyond those of mere kille
 *"Never seen the sun, nor mercy neither. Figure a murderer like her ain't got much need for either."*
 
 Many cultures fear the night, and these killers are just one of the reasons why. Striking from darkness, with maximum effect, the Nighthawk leaves behind not only death, but fear also.
-
-# **Secluse Advances**
-
-*"We didn't even know he was there until the screams started, of course by then it was far too late…"*
-
-Accustomed to working alone, the Secluse is skilled at infiltration and stealth, able to go where others can't and willing to do what others won't.
 
 | Advance                          | Cost | Type | Prerequisites              |
 |----------------------------------|------|------|----------------------------|
@@ -134,6 +131,12 @@ Accustomed to working alone, the Secluse is skilled at infiltration and stealth,
 | Swift Attack                     | 200  | T    | WS 35                      |
 | Two-Weapon Wielder (Ballistic)   | 200  | T    | BS 35, Ag 35               |
 | Two-Weapon Wielder (Melee)       | 200  | T    | WS 35, Ag 35               |
+
+# **Secluse Advances**
+
+*"We didn't even know he was there until the screams started, of course by then it was far too late…"*
+
+Accustomed to working alone, the Secluse is skilled at infiltration and stealth, able to go where others can't and willing to do what others won't.
 
 | Advance                                | Cost | Type | Prerequisites                         |
 |----------------------------------------|------|------|---------------------------------------|
@@ -174,12 +177,6 @@ Accustomed to working alone, the Secluse is skilled at infiltration and stealth,
 
 Assassination is a constant throughout the Imperium and an accepted political tool on countless worlds. The absolute rule of many planetary governors is often enforced at the tip of an assassin's blade.
 
-#### **Death Adept Advances**
-
-*"Your screams are as music, and your blood is as wine to me."*
-
-The Death Adept pursues killing as an art form, training themselves into a perfection of martial grace and death. Many Death Adepts no longer kill for money or on the whim of their masters, but rather to indulge in the purity of death itself.
-
 | Advance                               | Cost     | Type     | Prerequisites                            |
 |---------------------------------------|----------|----------|------------------------------------------|
 | Contortionist                         | 100      | S        | —                                        |
@@ -217,29 +214,34 @@ The Death Adept pursues killing as an art form, training themselves into a perfe
 | Pistol Training (Plasma)              | 200      | T        | —                                        |
 | Sharpshooter                          | 200      | T        | BS 40, Deadeye Shot                      |
 
-| Advance                      | Cost     | Type     | Prerequisites                     |
-|------------------------------|----------|----------|-----------------------------------|
-| Ciphers (War Cant) +20       | 100      | S        | Ciphers (War Cant) +10            |
-| Climb +20                    | 100      | S        | Climb +10                         |
-| Concealment +10              | 100      | S        | Concealment                       |
-| Contortionist +10            | 100      | S        | Contortionist                     |
-| Drive (Walker)               | 100      | S        | —                                 |
-| Intimidate +10               | 100      | S        | Intimidate                        |
-| Silent Move +20              | 100      | S        | Silent Move +10                   |
-| Survival +10                 | 100      | S        | Survival                          |
-| Ambidextrous                 | 100      | T        | Ag 30                             |
-| Assassin Strike              | 100      | T        | Ag 40, Acrobatics                 |
-| Double Team                  | 100      | T        | —                                 |
-| Blind Fighting               | 200      | T        | Per 30                        |
-| Counter Attack               | 200      | T        | WS 40                             |
-| Dual Strike                  | 200      | T        | Ag 40, Two-Weapon Wielder (Melee) |
-| Frenzy                       | 200      | T        | —                                 |
-| Heavy Weapon Training (Bolt) | 200      | T        | —                                 |
-| Heavy Weapon Training (Las)  | 200      | T        | —                                 |
-| Nerves of Steel              | 200      | T        | —                                 |
-| Pistol Training (Melta)      | 200      | T        | —                                 |
-| Sound Constitution           | 200      | T        | —                                 |
-| Step Aside                   | 200      | T        | Ag 40, Dodge                      |
+#### **Death Adept Advances**
+
+*"Your screams are as music, and your blood is as wine to me."*
+
+The Death Adept pursues killing as an art form, training themselves into a perfection of martial grace and death. Many Death Adepts no longer kill for money or on the whim of their masters, but rather to indulge in the purity of death itself.
+
+| Advance                      | Cost | Type | Prerequisites                     |
+| ---------------------------- | ---- | ---- | --------------------------------- |
+| Ciphers (War Cant) +20       | 100  | S    | Ciphers (War Cant) +10            |
+| Climb +20                    | 100  | S    | Climb +10                         |
+| Concealment +10              | 100  | S    | Concealment                       |
+| Contortionist +10            | 100  | S    | Contortionist                     |
+| Drive (Walker)               | 100  | S    | —                                 |
+| Intimidate +10               | 100  | S    | Intimidate                        |
+| Silent Move +20              | 100  | S    | Silent Move +10                   |
+| Survival +10                 | 100  | S    | Survival                          |
+| Assassin Strike              | 100  | T    | Ag 40, Acrobatics                 |
+| Double Team                  | 100  | T    | —                                 |
+| Blind Fighting               | 200  | T    | Per 30                            |
+| Counter Attack               | 200  | T    | WS 40                             |
+| Dual Strike                  | 200  | T    | Ag 40, Two-Weapon Wielder (Melee) |
+| Frenzy                       | 200  | T    | —                                 |
+| Heavy Weapon Training (Bolt) | 200  | T    | —                                 |
+| Heavy Weapon Training (Las)  | 200  | T    | —                                 |
+| Nerves of Steel              | 200  | T    | —                                 |
+| Pistol Training (Melta)      | 200  | T    | —                                 |
+| Sound Constitution           | 200  | T    | —                                 |
+| Step Aside                   | 200  | T    | Ag 40, Dodge                      |
 
 # **Freeblade Advances**
 
@@ -260,11 +262,10 @@ A Nihilator takes the philosophy of the Death Adept a step further, embracing th
 The Imperator-Mortis is an embodiment of graceful slaughter, an angel of death with few peers.
 
 | Advance                     | Cost | Type | Prerequisites           |
-|-----------------------------|------|------|-------------------------|
+| --------------------------- | ---- | ---- | ----------------------- |
 | Disguise +10                | 100  | S    | Disguise                |
 | Light Sleeper               | 100  | T    | Per 30                  |
 | Resistance (Poisons)        | 100  | T    | —                       |
-| Unremarkable                | 100  | T    | —                       |
 | Blather                     | 200  | S    | —                       |
 | Charm                       | 200  | S    | —                       |
 | Deceive                     | 200  | S    | —                       |
