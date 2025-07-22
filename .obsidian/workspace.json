@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cleric.md",
+                "file": "Classes/Cleric.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19f4a8e19de165d7",
+  "active": "56e164a761991be3",
   "lastOpenFiles": [
     "Core Rule book/Chapter 2.md",
     "Classes/Scum.md",
@@ -192,7 +192,7 @@
     "Classes/Assassin.md",
     "Classes/Arbitrator.md",
     "Classes/Adept.md",
-    "Cleric.md",
+    "Classes/Cleric.md",
     "Core Rule book/Chapter 13.md",
     "Core Rule book/Chapter 1.md",
     "Core Rule book/Chapter 0.md",

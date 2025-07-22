@@ -102,12 +102,6 @@ Initiates are instructed to defend the Cult of the Emperor with more than simple
 
 A Priest learns more of the things that seek to undo the Emperor's works, and the methods whereby such enemies may themselves be undone.
 
-# **Preacher Advances**
-
-*"You hold within you the Emperor's own truth! Never forget we are right and they are wrong!"*
-
-A Preacher learns to lead men, to inspire and guide mankind, and to drive the word of the Ecclesiarchy home—upon the teeth of an eviscerator if need be.
-
 | Advance                          | Cost | Type | Prerequisites                |
 |----------------------------------|------|------|------------------------------|
 | Awareness +10                    | 100  | S    | Awareness                    |
@@ -136,6 +130,11 @@ A Preacher learns to lead men, to inspire and guide mankind, and to drive the wo
 | Heightened Senses (Sight)        | 200  | T    | —                            |
 | Quick Draw                       | 200  | T    | —                            |
 | Melee Weapon Training (Shock)    | 300  | T    | —                            |
+# **Preacher Advances**
+
+*"You hold within you the Emperor's own truth! Never forget we are right and they are wrong!"*
+
+A Preacher learns to lead men, to inspire and guide mankind, and to drive the word of the Ecclesiarchy home—upon the teeth of an eviscerator if need be.
 
 | Advance                                                     | Cost | Type | Prerequisites                      |  |
 |-------------------------------------------------------------|------|------|------------------------------------|--|
@@ -167,49 +166,47 @@ A Preacher learns to lead men, to inspire and guide mankind, and to drive the wo
 | Disguise                                                    | 300  | S    | —                                  |  |
 | Gamble                                                      | 300  | S    | —                                  |  |
 | †You may take this Talent up to two times at this Rank. |      |      |                                    |  |
-
-#### **Cleric Advances**
+# **Cleric Advances**
 
 *"The Emperor guides with his knowledge. We are but blind men groping towards His light amidst the darkness of the universe."*
 
 The Cleric navigates the twisting corridors of power, learning the wisdom of the Ecclesiarchy in order to be a better leader. The Cleric may inspire upon the field of battle, in the halls of learning or the holdings of the Ministorum.
 
+| Advance                          | Cost | Type | Prerequisites                  |
+| -------------------------------- | ---- | ---- | ------------------------------ |
+| Charm +10                        | 100  | S    | Charm                          |
+| Command +10                      | 100  | S    | Command                        |
+| Common Lore (Ecclesiarchy) +20   | 100  | S    | Common Lore (Ecclesiarchy) +10 |
+| Drive (Ground Vehicle) +20       | 100  | S    | Drive (Ground Vehicle) +10     |
+| Forbidden Lore (Heresy) +10      | 100  | S    | Forbidden Lore (Heresy)        |
+| Forbidden Lore (Psykers)         | 100  | S    | —                              |
+| Inquiry +20                      | 100  | S    | Inquiry +10                    |
+| Interrogation                    | 100  | S    | —                              |
+| Scholastic Lore (Philosophy)     | 100  | S    | —                              |
+| Secret Tongue (Ecclesiarchy) +10 | 100  | S    | Secret Tongue (Ecclesiarchy)   |
+| Air of Authority                 | 100  | T    | Fel 30                         |
+| Hatred (Psykers)                 | 100  | T    | —                              |
+| Iron Discipline                  | 100  | T    | WP 30, Command                 |
+| Iron Jaw                         | 100  | T    | T 40                           |
+| Nerves of Steel                  | 100  | T    | —                              |
+| True Grit                        | 100  | T    | T 40                           |
+| Heavy Weapon Training (Flame)    | 200  | T    | —                              |
+| Heavy Weapon Training (SP)       | 200  | T    | —                              |
+| Navigation (Surface)             | 200  | S    | —                              |
+| Scrutiny +10                     | 200  | S    | Scrutiny                       |
+| Tech-Use +10                     | 200  | S    | Tech-Use                       |
+| Crushing Blow                    | 200  | T    | S 40                           |
+| Two-Weapon Wielder (Melee)       | 200  | T    | WS 35, Ag 35                   |
+| Talented (Medicae)               | 200  | T    | Medicae                        |
+| Sound Constitution               | 200  | T    | —                              |
+| Medicae                          | 300  | S    | —                              |
+| Secret Tongue (Gutter)           | 300  | S    | —                              |
+| Swift Attack                     | 300  | T    | WS 35                          |
 # **Confessor Advances**
 
 *"We had to put more than half of them into the fire, but Father Kyrinov got his confessions in the end."*
 
 A Confessor watches his fellow man for weakness, heresy and doubt. Many take up the Hammer of Doctrine and the Blade of Piety as a sign of their dedication to humanity, and its master, the Emperor.
-
-| Advance                          | Cost    | Type | Prerequisites                  |
-|----------------------------------|---------|------|--------------------------------|
-| Charm +10                        | 100     | S    | Charm                          |
-| Command +10                      | 100     | S    | Command                        |
-| Common Lore (Ecclesiarchy) +20   | 100     | S    | Common Lore (Ecclesiarchy) +10 |
-| Drive (Ground Vehicle) +20       | 100     | S    | Drive (Ground Vehicle) +10     |
-| Forbidden Lore (Heresy) +10      | 100     | S    | Forbidden Lore (Heresy)        |
-| Forbidden Lore (Psykers)         | 100     | S    | —                              |
-| Inquiry +20                      | 100     | S    | Inquiry +10                    |
-| Interrogation                    | 100     | S    | —                              |
-| Scholastic Lore (Philosophy)     | 100     | S    | —                              |
-| Secret Tongue (Ecclesiarchy) +10 | 100     | S    | Secret Tongue (Ecclesiarchy)   |
-| Air of Authority                 | 100     | T    | Fel 30                         |
-| Hatred (Psykers)                 | 100     | T    | —                              |
-| Iron Discipline                  | 100     | T    | WP 30, Command                 |
-| Iron Jaw                         | 100     | T    | T 40                           |
-| Nerves of Steel                  | 100     | T    | —                              |
-| True Grit                        | 100     | T    | T 40                           |
-| Heavy Weapon Training (Flame)    | 200     | T    | —                              |
-| Heavy Weapon Training (SP)       | 200     | T    | —                              |
-| Navigation (Surface)             | 200     | S    | —                              |
-| Scrutiny +10                     | 200     | S    | Scrutiny                       |
-| Tech-Use +10                     | 200     | S    | Tech-Use                       |
-| Crushing Blow                    | 200     | T    | S 40                           |
-| Two-Weapon Wielder (Melee)       | 200     | T    | WS 35, Ag 35                   |
-| Talented (Medicae)               | 200     | T    | Medicae                        |
-| Sound Constitution               | 200     | T    | —                              |
-| Medicae                          | 300     | S    | —                              |
-| Secret Tongue (Gutter)           | 300     | S    | —                              |
-| Swift Attack                     | 300     | T    | WS 35                      |
 
 | Advance                              | Cost    | Type | Prerequisites                      |
 |--------------------------------------|---------|------|------------------------------------|
@@ -244,24 +241,11 @@ A Confessor watches his fellow man for weakness, heresy and doubt. Many take up 
 | Two-Weapon Wielder (Ballistic)       | 200     | T    | BS 35, Ag 35                       |
 | Resistance (Psychic Powers)          | 300     | T    | —                                  |
 |                                      |         |      |                                    |
-
 # **Exorcist Advances**
 
 *"Better the flesh should die clean than the soul become tainted."*
 
 The Exorcist learns of the forbidden, the corrupt and the Daemonic in order to better destroy that which would harm the Imperium.
-
-# **Bishop Advances**
-
-*"Heed the teachings of the God-Emperor, and your death will not be in vain."*
-
-The Bishop is a sage and charismatic leader, advisor and champion of the Ecclesiarchy. Close ties with the Administratum brings knowledge and power to the Bishop, and therefore, the Ecclesiarchy.
-
-# **Zealot Advances**
-
-*"Doubt is a weakness that must be cut from the flesh."*
-
-The Zealot has learnt well the terrible lessons of the past, and knows only the deepest zeal can withstand the corrupting grip of Chaos.
 
 | Advance                              | Cost | Type | Prerequisites                    |
 |--------------------------------------|------|------|----------------------------------|
@@ -286,6 +270,12 @@ The Zealot has learnt well the terrible lessons of the past, and knows only the 
 | Common Lore (War)                    | 300  | S    | —                                |
 | Heavy Weapon Training (Launcher)     | 300  | T    | —                                |
 | Heavy Weapon Training (Primitive)    | 300  | T    | —                                |
+
+# **Bishop Advances**
+
+*"Heed the teachings of the God-Emperor, and your death will not be in vain."*
+
+The Bishop is a sage and charismatic leader, advisor and champion of the Ecclesiarchy. Close ties with the Administratum brings knowledge and power to the Bishop, and therefore, the Ecclesiarchy.
 
 | Advance                                  | Cost | Type | Prerequisites                        |
 |------------------------------------------|------|------|--------------------------------------|
@@ -316,8 +306,14 @@ The Zealot has learnt well the terrible lessons of the past, and knows only the 
 | Wall of Steel                            | 300  | T    | Ag 35                                |
 | Sound Constitution                       | 300  | T    | —                                    |
 
+# **Zealot Advances**
+
+*"Doubt is a weakness that must be cut from the flesh."*
+
+The Zealot has learnt well the terrible lessons of the past, and knows only the deepest zeal can withstand the corrupting grip of Chaos.
+
 | Advance                              | Cost | Type | Prerequisites                      |
-|--------------------------------------|------|------|------------------------------------|
+| ------------------------------------ | ---- | ---- | ---------------------------------- |
 | Scholastic Lore (Legend) +20         | 100  | S    | Scholastic Lore (Legend) +10       |
 | Scholastic Lore (Occult) +20         | 100  | S    | Scholastic Lore (Occult) +10       |
 | Scholastic Lore (Tactica Imperialis) | 100  | S    | —                                  |
@@ -327,59 +323,54 @@ The Zealot has learnt well the terrible lessons of the past, and knows only the 
 | Strong Minded                        | 100  | T    | WP 30, Resistance (Psychic Powers) |
 | Forbidden Lore (Warp)                | 200  | S    | —                                  |
 | Intimidate +10                       | 200  | S    | Intimidate                         |
+| Forbidden Lore (Mutants) +10         | 200  | S    | Forbidden Lore (Mutants)           |
+| Basic Weapon Training (Melta)        | 200  | T    | —                                  |
+| Insanely Faithful                    | 200  | T    | —                                  |
+| Sound Constitution                   | 200  | T    | —                                  |
+| Talented (Chem-Use)                  | 200  | T    | Chem-Use                           |
+| Chem-Use                             | 300  | S    | —                                  |
+| Ciphers (War Cant)                   | 300  | S    | —                                  |
+| Battle Rage                          | 300  | T    | Frenzy                             |
+| Bulging Biceps                       | 300  | T    | S 45                               |
+| Crack Shot                           | 300  | T    | BS 40                              |
+| Frenzy                               | 300  | T    | —                                  |
+| Lightning Attack                     | 300  | T    | Swift Attack                       |
 
-# **Zealot Advances (continued )**
-
-#### **Hierophant Advances**
+# **Hierophant Advances**
 
 *"Of course this is a matter for the Ecclesiarchy. Why? Because it involves the Imperium of course…"*
 
 The Hierophant whispers in the ears of governors and kings, counselling on matters spiritual, political and malefic. Wise, yet also deadly, Hierophants study the greatest enemies of mankind, to discover how they may be crushed be neath the armies of the na tions they advise.
 
+| Advance                                  | Cost | Type | Prerequisites                            |
+| ---------------------------------------- | ---- | ---- | ---------------------------------------- |
+| Carouse +20                              | 100  | S    | Carouse +10                              |
+| Common Lore (Machine Cult)               | 100  | S    | —                                        |
+| Interrogation +20                        | 100  | S    | Interrogation +10                        |
+| Logic +20                                | 100  | S    | Logic +10                                |
+| Scholastic Lore (Philosophy) +10         | 100  | S    | Scholastic Lore (Philosophy)             |
+| Scholastic Lore (Tactica Imperialis) +20 | 100  | S    | Scholastic Lore (Tactica Imperialis) +10 |
+| Speak Language (High Gothic) +20         | 100  | S    | Speak Language (High Gothic) +10         |
+| Wrangling                                | 100  | S    | —                                        |
+| Combat Master                            | 100  | T    | WS 30                                    |
+| Crippling Strike                         | 100  | T    | WS 50                                    |
+| Peer (Astropaths)                        | 100  | T    | Fel 30                                   |
+| Peer (Government)                        | 100  | T    | Fel 30                                   |
+| Lip Reading +10                          | 200  | S    | Lip Reading                              |
+| Gunslinger                               | 200  | T    | BS 40, Two-Weapon Wielder (Ballistic)    |
+| Dual Shot                                | 200  | T    | Ag 40, Two-Weapon Wielder (Ballistic)    |
+| Independent Targeting                    | 200  | T    | BS 40                                    |
+| Pistol Training (Melta)                  | 200  | T    | —                                        |
+| Evaluate                                 | 300  | S    | —                                        |
+| Forbidden Lore (Daemonology)             | 300  | S    | —                                        |
+| Forbidden Lore (Psykers) +10             | 300  | S    | Forbidden Lore (Psykers)                 |
+| Forbidden Lore (Warp)                    | 300  | S    | —                                        |
+| Sound Constitution                       | 300  | T    | —                                        |
 # **Redemptionist Advances**
 
 # *"Burn the heretic!"*
 
 The Redemptionist leads the battle charge, spewing litany and destruction upon those that would seek to harm the Emperor, the Imperium and man.
-
-| Forbidden Lore (Mutants) +10  | 200     | S | Forbidden Lore (Mutants) |
-|-------------------------------|---------|---|--------------------------|
-| Basic Weapon Training (Melta) | 200     | T | —                        |
-| Insanely Faithful             | 200     | T | —                        |
-| Sound Constitution            | 200     | T | —                        |
-| Talented (Chem-Use)           | 200     | T | Chem-Use                 |
-| Chem-Use                      | 300     | S | —                        |
-| Ciphers (War Cant)            | 300     | S | —                        |
-| Battle Rage                   | 300     | T | Frenzy                   |
-| Bulging Biceps                | 300     | T | S 45                     |
-| Crack Shot                    | 300     | T | BS 40                |
-| Frenzy                        | 300     | T | —                        |
-| Lightning Attack              | 300     | T | Swift Attack             |
-
-| Advance                                  | Cost    | Type | Prerequisites                            |
-|------------------------------------------|---------|------|------------------------------------------|
-| Carouse +20                              | 100     | S    | Carouse +10                              |
-| Common Lore (Machine Cult)               | 100     | S    | —                                        |
-| Interrogation +20                        | 100     | S    | Interrogation +10                        |
-| Logic +20                                | 100     | S    | Logic +10                                |
-| Scholastic Lore (Philosophy) +10         | 100     | S    | Scholastic Lore (Philosophy)             |
-| Scholastic Lore (Tactica Imperialis) +20 | 100     | S    | Scholastic Lore (Tactica Imperialis) +10 |
-| Speak Language (High Gothic) +20         | 100     | S    | Speak Language (High Gothic) +10         |
-| Wrangling                                | 100     | S    | —                                        |
-| Combat Master                            | 100     | T    | WS 30                                |
-| Crippling Strike                         | 100     | T    | WS 50                                |
-| Peer (Astropaths)                        | 100     | T    | Fel 30                                   |
-| Peer (Government)                        | 100     | T    | Fel 30                                   |
-| Lip Reading +10                          | 200     | S    | Lip Reading                              |
-| Gunslinger                               | 200     | T    | BS 40, Two-Weapon Wielder (Ballistic)    |
-| Dual Shot                                | 200     | T    | Ag 40, Two-Weapon Wielder (Ballistic)    |
-| Independent Targeting                    | 200     | T    | BS 40                                |
-| Pistol Training (Melta)                  | 200     | T    | —                                        |
-| Evaluate                                 | 300     | S    | —                                        |
-| Forbidden Lore (Daemonology)             | 300     | S    | —                                        |
-| Forbidden Lore (Psykers) +10             | 300     | S    | Forbidden Lore (Psykers)                 |
-| Forbidden Lore (Warp)                    | 300     | S    | —                                        |
-| Sound Constitution                       | 300     | T    | —                                        |
 
 | Advance                          | Cost    | Type | Prerequisites                    |
 |----------------------------------|---------|------|----------------------------------|
