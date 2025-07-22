@@ -1099,39 +1099,40 @@ Flame weapons of the Imperium typically use a highly flammable substance known a
 To use flame weapons without penalty, a character must have the Pistol Training (Flame), Basic Weapon Training (Flame), or Heavy Weapon Training (Flame) talents.
 ### Flame Weapons list
 
-| Flame Weapons              |        |       |       |          |     |      |        |                             |       |       |       |                   |
-| -------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ------ | --------------------------- | ----- | ----- | ----- | ----------------- |
-| Name                       | Class  | Range | RoF   | Dam      | Pen | Clip | Rld    | Special                     | Wt    | Cost  | World | Availability      |
-| Flamer (generic)           | Basic  | 20m   | S/-/- | 1d10+4 E | 3   | 3    | 2 Full | Flame, Unreliable           | 6kg   | 200   | -     | Scarce            |
-| - Burst                    | Basic  | 5m    | S/-/- | 1d5 E    | 0   | 10   | 2 Full | Flame, Primitive            | 3kg   | 50    | -     | Scarce            |
-| - Nightfire                | Basic  | 20m   | S/-/- | 1d10+5 E | 2   | 3    | 2 Full | Flame, Toxic,Unreliable | 7kg   | 400   | -     | Very Rare         |
-| - Salamander               | Basic  | 10m   | S/-/- | 1d10+4 E | 1   | 3    | 2 Full | Flame, Unreliable           | 6kg   | 250   | -     | Scarce            |
-| Gas Torch                  | Basic  | 5m    | S/-/- | 1d10+1 E | 2   | 20   | 5 Full | Flame, Unreliable           | 20kg  | 150   | Hive  | Average           |
-| Hand Flamer (generic)      | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 2    | 2 Full | Flame, Unreliable           | 3.5kg | 200   | -     | Rare              |
-| - Destroyer                | Pistol | 15m   | S/-/- | 1d10+5 E | 2   | 5    | 2 Full | Flame, Unreliable           | 2.1kg | 750   | -     | Very Rare         |
-| - Seraphim                 | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 6    | Full   | Flame                       | 2kg   | 1,000 | -     | ExtremelyRare |
-| Heavy Flamer               | Heavy  | 30m   | S/-/- | 2d10+4 E | 4   | 30   | 2 Full | Flame, Unreliable           | 20kg† | 1,000 | -     | Rare              |
-| Stingray                   | Basic  | 15m   | S/-/- | 1d10+3 E | 2   | 4    | Full   | Flame                       | 3kg   | 100   | Void  | Scarce            |
-| Tox Spray                  | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | Flame, Toxic                | 8kg   | 200   | Hive  | Scarce            |
-| †_Not including ammo pack_ |        |       |       |          |     |      |        |                             |       |       |       |                   |
-#### Flamer
+| Flame Weapons                                   |        |       |       |          |     |      |        |                         |       |       |       |               |
+| ----------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ------ | ----------------------- | ----- | ----- | ----- | ------------- |
+| Name                                            | Class  | Range | RoF   | Dam      | Pen | Clip | Rld    | Special                 | Wt    | Cost  | World | Availability  |
+| [[#Flamer]] (generic)                           | Basic  | 20m   | S/-/- | 1d10+4 E | 3   | 3    | 2 Full | Flame, Unreliable       | 6kg   | 200   | -     | Scarce        |
+| - [[#Anoxis Burst Flamer\|Burst]]               | Basic  | 5m    | S/-/- | 1d5 E    | 0   | 10   | 2 Full | Flame, Primitive        | 3kg   | 50    | -     | Scarce        |
+| - [[#Voss "Nightfire" Flame Device\|Nightfire]] | Basic  | 20m   | S/-/- | 1d10+5 E | 2   | 3    | 2 Full | Flame, Toxic,Unreliable | 7kg   | 400   | -     | Very Rare     |
+| - [[#Salamander Assault Flamer\|Salamander]]    | Basic  | 10m   | S/-/- | 1d10+4 E | 1   | 3    | 2 Full | Flame, Unreliable       | 6kg   | 250   | -     | Scarce        |
+| [[#Gas Torch]]                                  | Basic  | 5m    | S/-/- | 1d10+1 E | 2   | 20   | 5 Full | Flame, Unreliable       | 20kg  | 150   | Hive  | Average       |
+| [[#Hand Flamer]] (generic)                      | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 2    | 2 Full | Flame, Unreliable       | 3.5kg | 200   | -     | Rare          |
+| - Destroyer                                     | Pistol | 15m   | S/-/- | 1d10+5 E | 2   | 5    | 2 Full | Flame, Unreliable       | 2.1kg | 750   | -     | Very Rare     |
+| - Seraphim                                      | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 6    | Full   | Flame                   | 2kg   | 1,000 | -     | ExtremelyRare |
+| Heavy Flamer                                    | Heavy  | 30m   | S/-/- | 2d10+4 E | 4   | 30   | 2 Full | Flame, Unreliable       | 20kg† | 1,000 | -     | Rare          |
+| Stingray                                        | Basic  | 15m   | S/-/- | 1d10+3 E | 2   | 4    | Full   | Flame                   | 3kg   | 100   | Void  | Scarce        |
+| Tox Spray                                       | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | Flame, Toxic            | 8kg   | 200   | Hive  | Scarce        |
+| †_Not including ammo pack_                      |        |       |       |          |     |      |        |                         |       |       |       |               |
+### Flamer
 Class: Basic (Flame)
 
 Flame guns, known more popularly as flamers, are the most common type of flame weapon used by the military forces of the Imperium. Most assault squads in the Imperial Guard have at least one or two men armed with flamers, and they are also commonly wielded by specialised shock troops and others who can make the best use of fire's intimidating effects. All common patterns of flamers are designed to make use of attached fuel canisters with enough Promethium for a few shots, which is normally sufficient for frying enclosed troops and enemies behind cover. This configuration provides the listed figures. Flamers can also be used with a backpack fuel canister and hose feed weighing 6kg and providing double the listed Clip size, or a larger rig weighing 25kg with enough fuel for 60 shots. Most flamers produced in the Imperium can fit into this category, while some more unique patterns are listed here.
 
-Anoxis Burst Flamer: Also known (very informally) as "Hax's Breath", this flamer variant is designed primarily as a tool of intimidation and for crowd control rather than outright annihilation. Its fuel mixture ignites before leaving the weapon, resulting in a quick burst of heat that will singe eyebrows and burn loose clothing but is unlikely to cause serious injury unless the target is within arm's reach of the firer. Burst-pattern flamers are commonly used aboard ships as a means of quelling angry ratings as their minor output is unlikely to start a shipboard fire, but some have wound up being used by the Adeptus Arbites and planetary enforcers to "gently encourage" riots to disperse.
+#### Anoxis Burst Flamer:
+Also known (very informally) as "Hax's Breath", this flamer variant is designed primarily as a tool of intimidation and for crowd control rather than outright annihilation. Its fuel mixture ignites before leaving the weapon, resulting in a quick burst of heat that will singe eyebrows and burn loose clothing but is unlikely to cause serious injury unless the target is within arm's reach of the firer. Burst-pattern flamers are commonly used aboard ships as a means of quelling angry ratings as their minor output is unlikely to start a shipboard fire, but some have wound up being used by the Adeptus Arbites and planetary enforcers to "gently encourage" riots to disperse.
 
-**Voss "Nightfire" Flame Device:**
+#### Voss "Nightfire" Flame Device:
 A pure terror weapon, the Nightfire is most commonly used by troops in full protective suits due to its doubly terrible effects. It uses a special fuel compound made of highly purified Promethium mixed with virulently poisonous chemicals; it not only scorches the flesh of its victims but those who survive the fire find themselves inundated in toxic smoke.
 
 When fired, a Nightfire flamer produces a cloud of smoke that expands 2 metres beyond the normal 30 degree arc in all directions, including in the direction of the firer. Each Round any characters are caught within the smoke they must succeed on a Challenging (+0) Toughness Test or take 1d10 Impact Damage with no reduction from Armour or Toughness. The smoke remains dangerous for 1d10 Rounds and totally dissipates another 1d10 Rounds later though adverse weather conditions may clear it away faster. Characters wearing a re-breather or within a sealed suit of armour are immune to this effect. Nightfire fuel costs twice as much as standard flamer fuel and is considered Rare.
 
-**Salamander Assault Flamer:**
+#### Salamander Assault Flamer:
 The Salamander started out as a field-improvised weapon rigged up by Enginseers at the front during the Tranch War, and was picked up by several forges in the Calixis Sector after many Guardsmen found its performance to be exceptional for the fast-paced open warfare there. Salamander flamers use an inert propellant gas combined with a wide, thin nozzle that forcefully sprays Promethium over a significantly wider area. Troops equipped with Salamander Assault Flamers can burn down a numerically superior force with total ease, and against lightly armoured foes like cult mobs the effect is spectacular to say the least.
 
 Salamander flamers project flame over a 45 degree arc rather than a normal 30 degree arc as described in the Flame quality.
 
-#### Gas Torch
+### Gas Torch
 Class: Basic (Flame)
 
 Gas torches are industrial tools that project an incandescent vapour used to clear away fungal growths and other obstructions (vermin nests, desiccated corpses, and so forth) from a hive city's labyrinthine duct-systems. While not intended for use as a weapon, the availability of gas torches to low-rent gangers and other underhive scum see them pressed into service as improvised flamers that can still be perfectly deadly as many unsuspecting rival gangs and upper hive enforcers have fatally discovered.
@@ -1140,12 +1141,12 @@ Gas torches use bulky packs of pressurised and highly reactive gas to produce th
 
 Gas Torches have an Availability of Average on Hive Worlds and are Rare on most other developed worlds within the Imperium.
 
-#### Hand Flamer
+### Hand Flamer
 Class: Pistol (Flame)
 
 Hand flamers are just as they sound: a flamer cut down in size to be used as a pistol-like weapon. Although they have a very short range thanks to a much smaller air compressor, at "personal" distances a hand flamer is an exceptionally effective weapon. Warriors who favour close combat often employ a hand flamer in their off hand to soften up a group of foes before righteously smiting them with their melee weapon. The Sisters of Battle and particularly zealous members of the Ecclesiarchy are perhaps the most enthusiastic users of hand flamers, for much the same reasons as they enjoy the full size counterparts as well. Just as with normal flamers, hand flamers are reasonably simple weapons, and the majority of all patterns manufactured in the Imperium can fit into this description. A few with some more unique features are listed here.
 
-**Cadence "Destroyer" Pistol:**
+##Cadence "Destroyer" Pistol:
 A weapon produced only to commission by the mysterious Cadence tech-artisan cult, the Destroyer is an extremely sophisticated hand flamer that uses force-compression technology similar to that of a plasma weapon to create a superheated thermal-incandescent blast that burns far hotter and with greater fuel efficiency than most other flame weapons. About the only thing that the Destroyer has in common with other Imperial hand flamers is the ability to use standard-size Promethium fuel canisters. This flamer has a strong association with the Inquisition of the Calixian Conclave, and if the stories are to be believed, the first commissioner of the Destroyer was none other than the legendary Inquisitor Ark-Ashten of the Ordo Xenos.
 
 **Seraphim Hand Flamer:**
@@ -1153,12 +1154,12 @@ Like much of the Adepta Soroitas' reliquary-arsenal, hand flamers issued to elit
 
 If armed with two Seraphim hand flamers, a character with the Dual Shot talent can make a combined attack with both weapons. Ammunition is consumed from each flamer as normal, but the attack deals 1d10+10 Energy Damage and targets hit by its flames suffer a -20 penalty to their Agility Tests to avoid its effects. This penalty stacks with that from the Cleanse and Purify talent. A Seraphim hand flamer can be used to make melee attacks against single opponents which deal its normal Damage as long as the weapon has at least one shot left in its Clip. This attack does not have the Flame quality and so will not set targets on fire; likewise, the weapon does not Jam if the wielder rolls a result that would ordinarily cause one. Individual melee attacks do not consume fuel, but a protracted battle may end up spending some over time.
 
-#### Heavy Flamer Class: Heavy (Flame)
+### Heavy Flamer Class: Heavy (Flame)
 Enormously oversized flamers sometimes sporting two nozzles, heavy flamers are designed to bring fiery ruin to huge swaths of terrain at once. The great amount of flaming Promethium hurled out by these weapons more closely resembles an inferno at a processing plant than a battlefield weapon, and a heavy flamer is quite possibly the least subtle armament that can be hauled by troops onto a battlefield. Heavy flamers are most commonly employed on Imperial armoured vehicles where a large amount of fuel can be carried with (relative) safety, though small numbers are also carried into battle by Guardsmen for special situations. In this role one trooper carries the flamer itself while his assistant hauls its fuel and a backup weapon such as a lascarbine. Especially strong or power armoured soldiers are capable of wielding a heavy flamer and its fuel supply by themselves. Among those who believe in the purifying power of fire, a heavy flamer is its ultimate expression as far as individual weapons go.
 
 Heavy flamers include a backpack fuel tank weighing 25kg that provides the listed Clip size.
 
-#### Anoxis Stingray Rifle
+### Anoxis Stingray Rifle
 Class: Basic (Flame)
 
 The Stingray is not actually a flamer at all but produces similar results (horrible burns) by directional microwave projection instead of a fiery jet of Promethium. This causes immediate blistering heat on organic substances, such as unruly crewmembers or boarding parties, but will not damage most shipboard equipment and is extremely unlikely to start a fire. This makes the Stingray an exceptionally useful weapon for use aboard ships in the void. Planetary users who can acquire a Stingray often find them to be just as efficient as their voidsman counterparts, but the microwave beam can be significantly hampered by rainfall, high humidity, and other atmospheric weather conditions.
@@ -1167,7 +1168,7 @@ Targets caught in a Stingray's 30 degree arc suffer a -10 penalty to their Agili
 
 Stingrays are Scarce around large space stations and planetary dock yards and are Very Rare elsewhere.
 
-#### Tox Spray
+### Tox Spray
 Class: Basic (Flame)
 
 Tox sprays are terrifying weapons founds in the hands of the worst type of gang scum in the most polluted hive sumps. The weapon uses an absolutely foul mixture of highly corrosive industrial residue and toxic waste contained under high pressure, which is unleashed on its extremely unfortunate victim(s) through a juryrigged spray gun. The effects of the mixture on flesh are truly horrific and most armour offers little protection from the burning and sickening poisonous fluids. Notoriously, tox sprays are used by the gangers of Volg on Fenksworld to execute traitors and informants in the most gruesome manner possible – and without doubt there are few worse ways to die.
