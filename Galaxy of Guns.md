@@ -817,26 +817,27 @@ Bolters are literally as old as the Imperium itself, and have been firmly connec
 
 To use bolt weapons without penalty, a character must have the Pistol Training (Bolt), Basic Weapon Training (Bolt), or Heavy Weapon Training (Bolt) talents.
 
-| Bolt Weapons                                     |        |       |        |          |     |      |        |                              |       |        |         |               |
-| ------------------------------------------------ | ------ | ----- | ------ | -------- | --- | ---- | ------ | ---------------------------- | ----- | ------ | ------- | ------------- |
-| Name                                             | Class  | Range | RoF    | Dam      | Pen | Clip | Rld    | Special                      | Wt    | Cost   | World   | Availability  |
-| [[#Angelus Bolt Carbine\|Angelus]]               | Basic  | 120m  | S/-/-  | 2d10+2 X | 5   | 3    | 3 Full | Accurate, Tearing            | 11kg  | 2,000  | -       | Very Rare     |
-| [[#Boltgun]] (generic)                           | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | Tearing                      | 7kg   | 500    | -       | Rare          |
-| - [[#Godwyn-De'az-Pattern\|Godwyn-De'az]]        | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 30   | Full   | Reliable, Tearing            | 6kg   | 1,000  | -       | Very Rare     |
-| - [[#-Locke-Pattern Boldgun\|Locke-Pattern]]     | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 24   | Full   | Tearing                      | 7kg   | 900    | -       | Very Rare     |
-| - [[#Scourge Mark II\|Scourge]]                  | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | Reliable, Tearing            | 10kg  | 650    | -       | Very Rare     |
-| - [[#Perinetus "Solo" Boltgun\|Solo]]            | Basic  | 100m  | S/-/-  | 1d10+5 X | 4   | 24   | Full   | Accurate,Reliable, Tearing   | 7kg   | 500    | -       | Very Rare     |
-| [[#Bolt Pistol]] (generic)                       | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | Tearing                      | 3.5kg | 250    | -       | Rare          |
-| - [[#Garm-Pattern Service Pistol\|Garm-Pattern]] | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | Tearing                      | 4.5kg | 350    | -       | Rare          |
-| - [[#Godwyn-De'az-Pattern]]                      | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 6    | Full   | Reliable, Tearing            | 3kg   | 550    | -       | Very Rare     |
-| - [[#Cinder Crag "Mauler" Pistol\|Mauler]]       | Pistol | 30m   | S/3/-  | 1d10+5 X | 4   | 6    | Full   | Reliable, Tearing            | 2.7kg | 375    | -       | Very Rare     |
-| - [[#Sacristan Bolt Pistol\|Sacristan]]          | Pistol | 30m   | S/2/-  | 1d10+6 X | 4   | 6    | Full   | Tearing                      | 3.3kg | 380    | -       | Rare          |
-| [[#Cane Bolter]]                                 | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | Tearing                      | 3kg   | 600    | -       | Very Rare     |
-| [[#Heavy Bolter]]                                | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | Tearing                      | 40kg  | 2,000  | -       | Very Rare     |
-| [[#Psycannon]]                                   | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | Reliable,Sanctified, Tearing | 20kg  | 12,000 | Malleus | ExtremelyRare |
-| [[Volg "Spitfire" Bolter\|Spitfire]]             | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | Tearing, Unreliable          | 3kg   | 75     | Volg    | Scarce        |
-| Storm Bolter                                     | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Storm, Tearing               | 9kg   | 4,000  | -       | ExtremelyRare |
-| - Godwyn-De'az                                   | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Reliable, Storm,Tearing      | 12kg  | 9,000  | -       | ExtremelyRare |
+| Bolt Weapons                                           |        |       |        |          |     |      |        |                                                     |       |        |         |               |
+| ------------------------------------------------------ | ------ | ----- | ------ | -------- | --- | ---- | ------ | --------------------------------------------------- | ----- | ------ | ------- | ------------- |
+| Name                                                   | Class  | Range | RoF    | Dam      | Pen | Clip | Rld    | Special                                             | Wt    | Cost   | World   | Availability  |
+| [[#Angelus Bolt Carbine\|Angelus]]                     | Basic  | 120m  | S/-/-  | 2d10+2 X | 5   | 3    | 3 Full | [[#Accurate]], [[#Tearing]]                         | 11kg  | 2,000  | -       | Very Rare     |
+| [[#Boltgun]] (generic)                                 | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | [[#Tearing]]                                        | 7kg   | 500    | -       | Rare          |
+| - [[#Godwyn-De'az-Pattern\|Godwyn-De'az]]              | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 30   | Full   | [[#Reliable]], [[#Tearing]]                         | 6kg   | 1,000  | -       | Very Rare     |
+| - [[#-Locke-Pattern Boldgun\|Locke-Pattern]]           | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 24   | Full   | [[#Tearing]]                                        | 7kg   | 900    | -       | Very Rare     |
+| - [[#Scourge Mark II\|Scourge]]                        | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | [[#Reliable]], [[#Tearing]]                         | 10kg  | 650    | -       | Very Rare     |
+| - [[#Perinetus "Solo" Boltgun\|Solo]]                  | Basic  | 100m  | S/-/-  | 1d10+5 X | 4   | 24   | Full   | [[#Accurate]], [[#Reliable]], [[#Tearing]]          | 7kg   | 500    | -       | Very Rare     |
+| [[#Bolt Pistol]] (generic)                             | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | [[#Tearing]]                                        | 3.5kg | 250    | -       | Rare          |
+| - [[#Garm-Pattern Service Pistol\|Garm-Pattern]]       | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | [[#Tearing]]                                        | 4.5kg | 350    | -       | Rare          |
+| - [[#Godwyn-De'az-Pattern]]                            | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 6    | Full   | [[#Reliable]], [[#Tearing]]                         | 3kg   | 550    | -       | Very Rare     |
+| - [[#Cinder Crag "Mauler" Pistol\|Mauler]]             | Pistol | 30m   | S/3/-  | 1d10+5 X | 4   | 6    | Full   | [[#Reliable]], [[#Tearing]]                         | 2.7kg | 375    | -       | Very Rare     |
+| - [[#Sacristan Bolt Pistol\|Sacristan]]                | Pistol | 30m   | S/2/-  | 1d10+6 X | 4   | 6    | Full   | [[#Tearing]]                                        | 3.3kg | 380    | -       | Rare          |
+| [[#Cane Bolter]]                                       | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | [[#Tearing]]                                        | 3kg   | 600    | -       | Very Rare     |
+| [[#Heavy Bolter]]                                      | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | [[#Tearing]]                                        | 40kg  | 2,000  | -       | Very Rare     |
+| [[#Psycannon]]                                         | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | [[#Reliable]], [[#Sanctified Weapon]], [[#Tearing]] | 20kg  | 12,000 | Malleus | ExtremelyRare |
+| [[Volg "Spitfire" Bolter\|Spitfire]]                   | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | [[#Tearing]], Unreliable                            | 3kg   | 75     | Volg    | Scarce        |
+| [[#Storm Bolter]]                                      | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | Storm, [[#Tearing]]                                 | 9kg   | 4,000  | -       | ExtremelyRare |
+| - [[#Godwyn-De'az-Pattern Storm Bolter\|Godwyn-De'az]] | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Reliable]], Storm, [[#Tearing]]                  | 12kg  | 9,000  | -       | ExtremelyRare |
+
 ### Angelus Bolt Carbine
 Class: Bolt (Basic)
 
@@ -917,7 +918,7 @@ Class: Basic (Bolt)
 
 Storm bolters are truly devastating weapons created by the very careful and time-consuming process of combining two boltguns together into one implement of the Emperor's wrath. A storm bolter can literally saw a well-armoured target in half, while an unprotected man would be reduced to a fine mist with a few chunks of fleshpulp decorating his cohorts. Storm bolters are exceptionally difficult weapons to craft in no small part due to the frustrating travails of wheedling two machine spirits into functioning in concert with one another, as that harmonious cooperation is the true source of a storm bolter's exponentially greater power. Because of the great effort and skill required to create them, storm bolters are typically only made on the greatest of the Imperium's forge worlds, such as Ryza in Ultima Segmentum and even Holy Mars itself. Storm bolters can be most commonly found as auxiliary weapons attached to Imperial armoured vehicles, with small numbers endowed as personal weapons to especially favoured Imperial officers and senior agents of the Inquisition. The Sisters of Battle are known to make use of storm bolters with some frequency with a specific pattern assigned to their arsenals.
 
-#### Godwyn-De'az-Pattern:
+#### Godwyn-De'az-Pattern Storm Bolter:
 This pattern of storm bolter is based off of the standard Godwyn-De'az boltgun used by the bulk of the Sisters of Battle, and is issued as a reward for Battle Sisters who have proven themselves in combat prowess and spiritual dedication to be worthy of such withering firepower. It is exceptionally rare outside of their ranks.
 
 ## MELTA WEAPONS
