@@ -341,14 +341,14 @@ The Venom is powered via an internal non-removable power cell rather than Munito
 | [[#Man-Portable Lascannon\|Lascannon]]        | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
 | [[#Lascarbine]] (generic)                     | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
 | - [[#Death Light Lasgun\|Death Light]]        | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
-| - [[#Locke-Pattern]]                          | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
+| - [[#Locke-Pattern\|Locke]]                   | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
 | - [[#Minerva-Aegis]]                          | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
-| [[# Mezoa-Pattern Lascutter ]]                | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
+| [[# Mezoa-Pattern Lascutter\|Lascutter]]      | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
 | [[#Lasgun]] (generic)                         | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 100   | -          | Common       |
-| - [[#Drusus Prime-Pattern]]                   | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
-| - [[#Mars-Pattern Mark III Lasgun]]           | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
-| - [[#Roth Lightning Lasgun]]                  | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
-| - [[#Storm Front Lasgun]]                     | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
+| - [[#Drusus Prime-Pattern\|Drusus Prime]]     | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
+| - [[#Mars-Pattern Mark III Lasgun\|Mark III]] | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
+| - [[#Roth Lightning Lasgun\|Roth]]            | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
+| - [[#Storm Front Lasgun\|Storm Front]]        | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
 | [[#Laslock Class]]                            | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | [[#Unreliable]], [[#Unstable]]                                      | 4kg   | 40    | -          | Plentiful    |
 | [[#Long Las Class]]                           | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | [[#Accurate]],[[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 4.5kg | 100   | -          | Scarce       |
 | [[#Multi-Laser Class]]                        | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                                                                   | -     | 2,000 | -          | Scarce       |
@@ -929,19 +929,20 @@ Melta weapons are fairly rare on the battlefield as only a few forge worlds are 
 
 To use melta weapons without penalty, a character must have the Pistol Training (Melta), Basic Weapon Training (Melta), or Heavy Weapon Training (Melta) talents.
 
-| Melta Weapons                            |        |       |       |           |     |      |        |                   |       |        |              |               |
-| ---------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | ----------------- | ----- | ------ | ------------ | ------------- |
-| Name                                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special           | Wt    | Cost   | World        | Availability  |
-| [[#Inferno Pistol]] (generic)            | Pistol | 10m   | S/-/- | 2d10+4 E  | 12  | 3    | Full   | -                 | 2.5kg | 7,500  | -            | Very Rare     |
-| - [[#Mars-Pattern Inferno Pistol\|Mars]] | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | Vicious           | 2.5kg | 12,000 | -            | ExtremelyRare |
-| - [[#Seraphim Inferno Pistol\|Seraphim]] | Pistol | 10m   | S/-/- | 2d10+2 E  | 10  | 6    | Full   | Reliable          | 2kg   | 9,000  | -            | ExtremelyRare |
-| [[#Meltacutter]]                         | Basic  | 10m   | S/-/- | 2d10+4 E  | 10  | 5    | 3 Full | -                 | 30kg  | 600    | Hive & Forge | Scarce        |
-| [[#Meltagun]] (generic)                  | Basic  | 20m   | S/-/- | 2d10+4 E  | 12  | 5    | 2 Full | -                 | 8kg   | 4,000  | -            | Rare          |
-| - [[#Mars-Pattern Meltagun\|Mars]]       | Basic  | 20m   | S/-/- | 2d10+8 E  | 13  | 5    | 2 Full | Vicious           | 7.5kg | 9,000  | -            | Very Rare     |
-| - [[#Ultima-Pattern Meltagun\|Ultima]]   | Basic  | 40m   | S/-/- | 2d10+2 E  | 8   | 8    | 2 Full | -                 | 10kg  | 2,500  | -            | Rare          |
-| [[#Multi-Melta]] (generic)               | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | Blast (1)         | 55kg  | 8,500  | -            | Very Rare     |
-| - [[#Mars-Pattern Multi-Melta\|Mars]]    | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | Blast (1),Vicious | 40kg  | 15,000 | -            | ExtremelyRare |
-| [[#Thermal Lance]]                       | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | Accurate          | 55kg  | 3,000  | -            | Rare          |
+| Melta Weapons                            |        |       |       |           |     |      |        |                                         |       |        |              |               |
+| ---------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | --------------------------------------- | ----- | ------ | ------------ | ------------- |
+| Name                                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                 | Wt    | Cost   | World        | Availability  |
+| [[#Inferno Pistol]] (generic)            | Pistol | 10m   | S/-/- | 2d10+4 E  | 12  | 3    | Full   | -                                       | 2.5kg | 7,500  | -            | Very Rare     |
+| - [[#Mars-Pattern Inferno Pistol\|Mars]] | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | [[#Vicious]]                            | 2.5kg | 12,000 | -            | ExtremelyRare |
+| - [[#Seraphim Inferno Pistol\|Seraphim]] | Pistol | 10m   | S/-/- | 2d10+2 E  | 10  | 6    | Full   | [[#Reliable]]                           | 2kg   | 9,000  | -            | ExtremelyRare |
+| [[#Meltacutter]]                         | Basic  | 10m   | S/-/- | 2d10+4 E  | 10  | 5    | 3 Full | -                                       | 30kg  | 600    | Hive & Forge | Scarce        |
+| [[#Meltagun]] (generic)                  | Basic  | 20m   | S/-/- | 2d10+4 E  | 12  | 5    | 2 Full | -                                       | 8kg   | 4,000  | -            | Rare          |
+| - [[#Mars-Pattern Meltagun\|Mars]]       | Basic  | 20m   | S/-/- | 2d10+8 E  | 13  | 5    | 2 Full | [[#Vicious]]                            | 7.5kg | 9,000  | -            | Very Rare     |
+| - [[#Ultima-Pattern Meltagun\|Ultima]]   | Basic  | 40m   | S/-/- | 2d10+2 E  | 8   | 8    | 2 Full | -                                       | 10kg  | 2,500  | -            | Rare          |
+| [[#Multi-Melta]] (generic)               | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | [[#Blast (X)\|Blast]] (1)               | 55kg  | 8,500  | -            | Very Rare     |
+| - [[#Mars-Pattern Multi-Melta\|Mars]]    | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Vicious]] | 40kg  | 15,000 | -            | ExtremelyRare |
+| [[#Thermal Lance]]                       | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | [[#Accurate]]                           | 55kg  | 3,000  | -            | Rare          |
+
 ### Inferno Pistol
 Class: Pistol (Melta)
 
@@ -1002,25 +1003,25 @@ As weapons that contain a miniature fusion device and use arcane magnetic fields
 
 To use plasma weapons without penalty, a character must have the Pistol Training (Plasma), Basic Weapon Training (Plasma), or Heavy Weapon Training (Plasma) talents.
 
-| Plasma Weapons           |        |       |       |           |     |      |        |                                            |       |       |        |                   |
-| ------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | ------------------------------------------ | ----- | ----- | ------ | ----------------- |
-| Name                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                    | Wt    | Cost  | World  | Availability      |
-| Phased Plasma Gun        | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                    | 12kg  | 1,500 | Lathes | Very Rare         |
-| Plasma Blaster           | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | Blast (1), Overheats,Recharge, Vicious | 20kg  | 7,500 | -      | Very Rare         |
-| Plasma Cannon            | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | Overheats                                  | 38kg† | 8,500 | -      | Very Rare         |
-| - (Maximal)              |        |       |       | 4d10+10 E |     |      |        | Blast (3), Overheats,Recharge, Vicious |       |       |        |                   |
-| Plasma Gun (Ryza)        | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | Overheats                                  | 9kg   | 3,000 | -      | Very Rare         |
-| - (Maximal)              |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | Overheats, Recharge                        |       |       |        |                   |
-| - Clovis                 | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | Overheats                                  | 20kg  | 6,000 | -      | ExtremelyRare |
-| - (Maximal)              |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | Overheats, Recharge                        |       |       |        |                   |
-| - Mezoa                  | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | Overheats                                  | 17kg  | 2,200 | -      | Very Rare         |
-| - Sunfury                | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | Overheats                                  | 12kg  | 3,000 | -      | Very Rare         |
-| Plasma Pistol (Ryza)     | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | Overheats                                  | 4kg   | 4,000 | -      | Very Rare         |
-| - (Maximal)              |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | Overheats, Recharge                        |       |       |        |                   |
-| - Kronos                 | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | Overheats                                  | 4kg   | 5,000 | -      | Very Rare         |
-| - (Maximal)              |        |       |       | 2d10+10 E | 8   |      |        | Overheats, Recharge                        |       |       |        |                   |
-| - Wrath                  | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | Accurate, Overheats                        | 5kg   | 6,500 | -      | ExtremelyRare |
-| †Not including ammo pack |        |       |       |           |     |      |        |                                            |       |       |        |                   |
+| Plasma Weapons           |        |       |       |           |     |      |        |                                                         |       |       |        |               |
+| ------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | ------------------------------------------------------- | ----- | ----- | ------ | ------------- |
+| Name                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                 | Wt    | Cost  | World  | Availability  |
+| Phased Plasma Gun        | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                                 | 12kg  | 1,500 | Lathes | Very Rare     |
+| Plasma Blaster           | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), Overheats, Recharge, Vicious | 20kg  | 7,500 | -      | Very Rare     |
+| Plasma Cannon            | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                          | 38kg† | 8,500 | -      | Very Rare     |
+| - (Maximal)              |        |       |       | 4d10+10 E |     |      |        | [[#Blast (X)\|Blast]] (3), Overheats, Recharge, Vicious |       |       |        |               |
+| Plasma Gun (Ryza)        | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | Overheats                                               | 9kg   | 3,000 | -      | Very Rare     |
+| - (Maximal)              |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | Overheats, Recharge                                     |       |       |        |               |
+| - Clovis                 | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | Overheats                                               | 20kg  | 6,000 | -      | ExtremelyRare |
+| - (Maximal)              |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | Overheats, Recharge                                     |       |       |        |               |
+| - Mezoa                  | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | Overheats                                               | 17kg  | 2,200 | -      | Very Rare     |
+| - Sunfury                | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | Overheats                                               | 12kg  | 3,000 | -      | Very Rare     |
+| Plasma Pistol (Ryza)     | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | Overheats                                               | 4kg   | 4,000 | -      | Very Rare     |
+| - (Maximal)              |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | Overheats, Recharge                                     |       |       |        |               |
+| - Kronos                 | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | Overheats                                               | 4kg   | 5,000 | -      | Very Rare     |
+| - (Maximal)              |        |       |       | 2d10+10 E | 8   |      |        | Overheats, Recharge                                     |       |       |        |               |
+| - Wrath                  | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | Accurate, Overheats                                     | 5kg   | 6,500 | -      | ExtremelyRare |
+| †Not including ammo pack |        |       |       |           |     |      |        |                                                         |       |       |        |               |
 
 #### Phased Plasma Gun
 Class: Basic (Plasma)
