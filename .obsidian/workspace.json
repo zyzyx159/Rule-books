@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inquisitors Handbook/Chapter 2 - Calixian Career Paths.md",
+                "file": "Core Rule book/Chapter 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Calixian Career Paths"
+              "title": "Chapter 2"
             }
           }
         ]
@@ -169,10 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56e164a761991be3",
+  "active": "19f4a8e19de165d7",
   "lastOpenFiles": [
-    "Core Rule book/Classes/Alternative paths/Warden of the Divisio Immoralis.md",
+    "Core Rule book/Chapter 1.md",
+    "Core Rule book/Chapter 0.md",
+    "Galaxy of Guns.md",
+    "Inquisitors Handbook/Chapter 9 - Life as an Acolyte.md",
+    "Inquisitors Handbook/Chapter 8 - Religion & Superstition.md",
+    "Inquisitors Handbook/Chapter 7 - The Holy Ordos.md",
+    "Inquisitors Handbook/Chapter 6 - War Zones.md",
+    "Inquisitors Handbook/Chapter 5 - Frontier Worlds & The Void.md",
+    "Inquisitors Handbook/Chapter 4 - Hive & Forge Worlds.md",
+    "Inquisitors Handbook/Chapter 3 - Feral & Feudal Worlds.md",
     "Inquisitors Handbook/Chapter 2 - Calixian Career Paths.md",
+    "Core Rule book/Classes/Alternative paths/Warden of the Divisio Immoralis.md",
     "Core Rule book/Classes/Alternative paths/Tyrantine Shadow Agent.md",
     "Core Rule book/Classes/Alternative paths/Templar Calix of the Scholastia Psykana.md",
     "Core Rule book/Classes/Alternative paths/Sister Oblatia.md",
@@ -188,16 +198,6 @@
     "Core Rule book/Classes/Alternative paths/Bonded Emissary.md",
     "Core Rule book/Classes/Alternative paths/Black Priest of Maccabeus.md",
     "Core Rule book/Classes/Alternative paths",
-    "Inquisitors Handbook/Chapter 1 - Advanced Character Creation.md",
-    "Core Rule book/Chapter 13.md",
-    "Core Rule book/Chapter 12.md",
-    "Core Rule book/Chapter 11.md",
-    "Core Rule book/Chapter 10.md",
-    "Core Rule book/Chapter 9.md",
-    "Core Rule book/Chapter 8.md",
-    "Core Rule book/Chapter 7.md",
-    "Notes.md",
-    "Core Rule book/Chapter 6.md",
     "Core Rule book/Classes",
     "Core Rule book",
     "Pics/Adepta Sororitas Ranks.png",
