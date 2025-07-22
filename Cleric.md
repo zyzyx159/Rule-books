@@ -33,6 +33,12 @@ A[Novice 0-499] --> B[Initate 500-999]
 B --> C[Priest 1,000-1,999]
 C --> D[Preacher 2,000-2,999]
 D --> E[Cleric 3,000-5,999]
+E --> F[Confessor 6,000-7,999]
+F --> G[Bishop 8,000-9,999]
+G --> H[Hierophant 10,000-14,999]
+E --> I[Exorcist 6,000-7,999]
+I --> J[Zealot 8,000-9,999]
+J --> K[Redemptionist 10,000-14,999]
 ```
 #### **Novice Advances**
 
