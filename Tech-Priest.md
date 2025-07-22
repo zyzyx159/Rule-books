@@ -45,10 +45,10 @@ A[Technographer 0-499] --> B[Mech-Wright 500-999]
 B --> C[Electro-Priest 1,000-1,999]
 C --> D[Engineer 2,000-2,999]
 D --> E[Tech-Priest 3,000-5,999]
-E --> F[Technomancer 6,000-7,000]
+E -- Focused Knowlage --> F[Technomancer 6,000-7,000]
 F --> G[Cyber-Seer 8,000-9,999]
 G --> H[Magos 10,000-14,999]
-E --> I[Mech-Deacon 6,000-7,999]
+E -- General Knowlage --> I[Mech-Deacon 6,000-7,999]
 I --> J[Omniprophet 8,000-9,999]
 J --> K[Magos Errant 10,000-14,999]
 ```
@@ -59,29 +59,29 @@ J --> K[Magos Errant 10,000-14,999]
 
 Technographers learn the many patterns of manufacture and formation that they might better comprehend the many mysteries of the Omnissiah. They can identify and catalogue technology with ease.
 
-| Advance                                                     | Cost | Type | Prerequisites |
-|-------------------------------------------------------------|------|------|---------------|
-| Common Lore (Machine Cult)                                  | 100  | S    | —             |
-| Common Lore (Tech)                                          | 100  | S    | —             |
-| Drive (Ground Vehicle)                                      | 100  | S    | —             |
-| Evaluate                                                    | 100  | S    | —             |
-| Literacy +10                                                | 100  | S    | Literacy      |
-| Logic                                                       | 100  | S    | —             |
-| Pilot (Civilian Craft)                                      | 100  | S    | —             |
-| Trade (Copyist)                                             | 100  | S    | —             |
-| Trade (Scrimshawer)                                         | 100  | S    | —             |
-| Basic Weapon Training (Primitive)                           | 100  | T    | —             |
-| Basic Weapon Training (SP)                                  | 100  | T    | —             |
-| Binary Chatter                                              | 100  | T    | —             |
-| Chem Geld                                                   | 100  | T    |               |
-| Feedback Screech                                            | 100  | T    | Tech-Priest   |
-| Light Sleeper                                               | 100  | T    | Per 30        |
-| Pistol Training (Primitive)                                 | 100  | T    | —             |
-| Pistol Training (SP)                                        | 100  | T    | —             |
-| Rapid Reload                                                | 100  | T    | —             |
-| Sound Constitution†                                         | 100  | T    | —             |
-| Technical Knock                                             | 100  | T    | Int 30        |
-| Thrown Weapon Training (Primitive)                          | 300  | T    | —             |
+| Advance                                                 | Cost | Type | Prerequisites |
+| ------------------------------------------------------- | ---- | ---- | ------------- |
+| Common Lore (Machine Cult)                              | 100  | S    | —             |
+| Common Lore (Tech)                                      | 100  | S    | —             |
+| Drive (Ground Vehicle)                                  | 100  | S    | —             |
+| Evaluate                                                | 100  | S    | —             |
+| Literacy +10                                            | 100  | S    | Literacy      |
+| Logic                                                   | 100  | S    | —             |
+| Pilot (Civilian Craft)                                  | 100  | S    | —             |
+| Trade (Copyist)                                         | 100  | S    | —             |
+| Trade (Scrimshawer)                                     | 100  | S    | —             |
+| Basic Weapon Training (Primitive)                       | 100  | T    | —             |
+| Basic Weapon Training (SP)                              | 100  | T    | —             |
+| Binary Chatter                                          | 100  | T    | —             |
+| Chem Geld                                               | 100  | T    |               |
+| Feedback Screech                                        | 100  | T    | Tech-Priest   |
+| Light Sleeper                                           | 100  | T    | Per 30        |
+| Pistol Training (Primitive)                             | 100  | T    | —             |
+| Pistol Training (SP)                                    | 100  | T    | —             |
+| Rapid Reload                                            | 100  | T    | —             |
+| Sound Constitution†                                     | 100  | T    | —             |
+| Technical Knock                                         | 100  | T    | Int 30        |
+| Thrown Weapon Training (Primitive)                      | 300  | T    | —             |
 | †You may take this Talent up to two times at this Rank. |      |      |               |
 
 # **Mech-Wright Advance Scheme**
@@ -89,12 +89,6 @@ Technographers learn the many patterns of manufacture and formation that they mi
 *"Explosive breech… bzztttt… shell gantry five… gzzkkkkttt… plete macro cannon failure… zzztkkkk… mechwright team immediately!"*
 
 Mech-Wrights learn the properties of metal, plasteel and many other materials. They conduct heavy repairs and tend dangerous manufactorum processes.
-
-# **Electro-Priest Advance Scheme**
-
-*"Dunno what he said but this red light started blinking under the electro-priest's hood, then it touched him, and Throne blind me if he didn't fly back across the room with an almighty thump! I knew there was a reason they guarded the generator-temple!"*
-
-Having mastered form and material components, Electro-Priests apply themselves to the sacred study of energy. Thence they learn the animating principles of machine spirits, and the means by which they may be propitiated.
 
 | Advance                     | Cost | Type | Prerequisites                          |
 |-----------------------------|------|------|----------------------------------------|
@@ -121,8 +115,14 @@ Having mastered form and material components, Electro-Priests apply themselves t
 | Blind Fighting              | 200  | T    | Per 30                                 |
 | Luminen Shock               | 200  | T    | Tech-Priest                            |
 
+# **Electro-Priest Advance Scheme**
+
+*"Dunno what he said but this red light started blinking under the electro-priest's hood, then it touched him, and Throne blind me if he didn't fly back across the room with an almighty thump! I knew there was a reason they guarded the generator-temple!"*
+
+Having mastered form and material components, Electro-Priests apply themselves to the sacred study of energy. Thence they learn the animating principles of machine spirits, and the means by which they may be propitiated.
+
 | Advance                          | Cost | Type | Prerequisites              |
-|----------------------------------|------|------|----------------------------|
+| -------------------------------- | ---- | ---- | -------------------------- |
 | Common Lore (Machine Cult) +10   | 100  | S    | Common Lore (Machine Cult) |
 | Common Lore (Imperial Creed)     | 100  | S    | —                          |
 | Common Lore (Imperium)           | 100  | S    | —                          |
@@ -143,7 +143,6 @@ Having mastered form and material components, Electro-Priests apply themselves t
 | Mechadendrite Use (Utility)      | 100  | T    | Tech-Priest                |
 | Nerves of Steel                  | 100  | T    | —                          |
 | Sound Constitution               | 100  | T    | —                          |
-| Ciphers (Acolyte)                | 200  | S    | —                          |
 | Secret Tongue (Acolyte)          | 200  | S    | —                          |
 | Basic Weapon Training (Bolt)     | 200  | T    | —                          |
 | Basic Weapon Training (Launcher) | 200  | T    | —                          |
