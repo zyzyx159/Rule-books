@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Imperial Psyker.md",
+                "file": "Classes/Adept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperial Psyker"
+              "title": "Adept"
             }
           },
           {
@@ -202,12 +202,12 @@
   "lastOpenFiles": [
     "Classes/Guardsman.md",
     "Classes/Adept.md",
+    "Classes/Scum.md",
+    "Classes/Imperial Psyker.md",
     "Arbitrator.md",
     "Core Rule book/Chapter 13.md",
     "Core Rule book/Chapter 2.md",
     "Core Rule book/Chapter 1.md",
-    "Classes/Scum.md",
-    "Classes/Imperial Psyker.md",
     "Core Rule book/Chapter 0.md",
     "Galaxy of Guns.md",
     "Inquisitors Handbook/Chapter 9 - Life as an Acolyte.md",
