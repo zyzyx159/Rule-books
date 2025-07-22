@@ -239,7 +239,7 @@ Stub Weapons: Stub automatics, stub revolvers, hand cannons, hunting rifles, hea
 Autoguns and Autopistols: These types of weapons use caseless ammunition that can be used in many different types of weapons; caseless bullets that fit in an autopistol will fit in an autogun just as well. Unless otherwise stated in the weapon's description, autoguns and autopistols can freely share bullets between one another without any issue.
 
 Everything Else: Autocannons, Ripper Pistols, and other large or unusual solid projectile weapons will typically make use of their own type of bullet which cannot be used with any other guns. Sometimes, these types of weapons will have a specific cost and Availability listed for their ammunition as well.
-## LAS WEAPONS
+## LAS PISTOLS
 
 Produced by the millions on countless forge worlds, laser ("las" in parlance) weapons are by far the most numerous type of weapon in the Imperium, and are the basic tool of countless soldiers of the Imperial Guard. While complex to manufacture, their STC design is extremely well understood and their great ruggedness makes them the perfect weapon for the myriad soldiers of the Hammer of the Emperor. Las weapons can be found on almost any developed planet, even outside the Imperium, and can be found in the employ of xeno mercenary tribes who favour them for the same reason as their human betters. Aside from the very common lasguns and las pistols, much larger lascannons and multi-lasers are often mounted to Imperial vehicles, and gigantic lance batteries arming Imperial Navy battleships work off the same principles as their humble infantry counterparts.
 
@@ -259,21 +259,22 @@ Aside from their ease of use, the abundance of ammunition in the form of standar
 
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
 
-| Las Weapons                         |        |       |       |          |     |      |       |                                                       |        |       |            |              |
-| ----------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ----------------------------------------------------- | ------ | ----- | ---------- | ------------ |
-| Name                                | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                                               | Wt     | Cost  | World      | Availability |
-| [[#Dueling Las(Belasco)]]           | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]                                         | 1.5kg  | 250   | -          | Very Rare    |
-| [[#Duelling Las(K-A)]]              | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]]                           | 1.7kg  | 220   | -          | Very Rare    |
-| [[#Hellpistol]]                     | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                                                     | 4kg†   | 2,500 | -          | Rare         |
-| [[#Laspistol]] (generic)            | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 1.5kg  | 50    | -          | Common       |
-| - [[#Civitas-Pattern]]              | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | Reliable                                              | 2kg    | 35    | -          | Common       |
-| - [[#Fury Assault Pistol]]          | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | Reliable                                              | 1.5kg  | 100   | -          | Scarce       |
-| - [[#Mark IV Command Laspistol]]    | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full  | Accurate, Reliable,                                   | 1.75kg | 150   | -          | Rare         |
-| - [[#Palatine Compact Laspistol]]   | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full  | Reliable, Variable                                    | 1.1kg  | 100   | -          | Average      |
-| - [[#Steel Burner Heavy Laspistol]] | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full  | Variable                                              | 2.5kg  | 100   | Fenksworld | Very Rare    |
-| [[#Las Gauntlets]]                  | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | Reliable                                              | 3kg    | 350   | -          | Very Rare    |
-| Series-S Venom                      | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                                                     | 0.5kg  | 120   | -          | Scarce       |
-| †Not including power pack           |        |       |       |          |     |      |       |                                                       |        |       |            |              |
+| Las Weapons                                        |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
+| -------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
+| Name                                               | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                                                             | Wt     | Cost  | World      | Availability |
+| [[#Dueling Las(Belasco)]]                          | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]                                                       | 1.5kg  | 250   | -          | Very Rare    |
+| [[#Duelling Las(K-A)]]                             | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]]                                         | 1.7kg  | 220   | -          | Very Rare    |
+| [[#Hellpistol]]                                    | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                                                                   | 4kg†   | 2,500 | -          | Rare         |
+| [[#Laspistol]] (generic)                           | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.5kg  | 50    | -          | Common       |
+| - [[#Civitas-Pattern]]                             | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | [[#Reliable]]                                                       | 2kg    | 35    | -          | Common       |
+| - [[#Fury Assault Pistol]]                         | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]]                                                       | 1.5kg  | 100   | -          | Scarce       |
+| - [[#Mark IV Command Laspistol]]                   | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full  | [[#Accurate]], [[#Reliable]],[[#WEAPON QUALITY VARIABLE\|Variable]] | 1.75kg | 150   | -          | Rare         |
+| - [[#Palatine Compact Laspistol]]                  | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.1kg  | 100   | -          | Average      |
+| - [[#Steel Burner Heavy Laspistol]]                | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full  | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 2.5kg  | 100   | Fenksworld | Very Rare    |
+| [[#Las Gauntlets]]                                 | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | [[#Reliable]]                                                       | 3kg    | 350   | -          | Very Rare    |
+| [[#Series-S Venom Compact Pistol\|Series-S Venom]] | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                                                                   | 0.5kg  | 120   | -          | Scarce       |
+| †Not including power pack                          |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
+|                                                    |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
 ### Dueling Las
 
 Based around the philosophy of a "one shot kill", Duelling Laspistols (or just Duelling Las for short) are commonly worn as signs of wealth and status by hive nobles and Rogue Traders. While ostentatious and certainly designed with image in mind, a Duelling Las is still nonetheless a very deadly weapon that can generate an extremely powerful las blast, and are accurate enough to hit a single Throne at distances most comparable pistols would only be able to hit a man-sized target.
@@ -325,6 +326,8 @@ These strange weapons use standard power packs but otherwise have very little in
 This Belasco-made pistol is a highly unusual pattern and one benefitting the treacherous reputation of Malfi. The Venom is a highly compact laspistol designed for covert use. It takes the shape of a flat disk that is grasped in the hand, with the short barrel-emitter projecting between the middle fingers. It is fired by applying pressure to a hidden trigger, and must be firmly grasped before it will shoot as a safety feature. Eminently concealable, the Venom is an excellent tool for murder and espionage, making it widely favored both on Malfi and beyond, though it is neither as expensive nor rare as its other local rival, the infamous Mariette pistol.
 
 The Venom is powered via an internal non-removable power cell rather than Munitorum sanctioned power packs. It cannot be reloaded, but can be recharged via a standard port similarly to a las power pack. Because of its strange appearance, its user does not appear to be armed if searched while carrying it unless the searcher is familiar with the Venom's design.
+
+
 
 | Las Weapons                 |       |       |        |           |     |             |        |                                 |       |       |            |              |
 | --------------------------- | ----- | ----- | ------ | --------- | --- | ----------- | ------ | ------------------------------- | ----- | ----- | ---------- | ------------ |
