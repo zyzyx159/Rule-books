@@ -1912,57 +1912,57 @@ Basic hand weapons are a common sight throughout the Imperium and beyond, and in
 
 ### Primitive Weapons List
 
-| Name                                                  | Class              | Dam         | Pen | Special                      | Wt     | Cost | World      | Availability |     |
-| ----------------------------------------------------- | ------------------ | ----------- | --- | ---------------------------- | ------ | ---- | ---------- | ------------ | --- |
-| Armoured Gauntlet                                     | Melee              | 1d5 I       | 0   | Primitive                    | 0.5kg  | 35   | -          | Common       |     |
-| Axe                                                   | Melee              | 1d10+1 R    | 0   | Primitive, Unbalanced        | 4kg    | 10   | -          | Scarce       |     |
-| Bastard Sword †                                       | Melee              | 1d10+1 R    | 1   | Primitive                    | 5kg    | 40   | Feudal     | Scarce       |     |
-| Boarding Pike †                                       | Melee              | 1d10+3 X    | 2   | Special                      | 4kg    | 30   | Void       | Common       |     |
-| Brass Knuckles                                        | Melee              | 1d5-1 I     | 0   | Primitive                    | 0.5kg  | 5    | -          | Plentiful    |     |
-| Buckler                                               | Melee              | 1d5-2 I     | 0   | Balanced, Primitive          | 1kg    | 30   | Feudal     | Common       |     |
-| Club                                                  | Melee              | 1d10 I      | 0   | Primitive                    | 2kg    | 5    | -          | Abundant     |     |
-| Falchion                                              | Melee              | 2d5+1 R     | 0   | Primitive, Unbalanced        | 2.5kg  | 20   | -          | Average      |     |
-| Flail                                                 | Melee              | 1d10+2 I    | 0   | Flexible, Primitive          | 4kg    | 20   | Feudal     | Scarce       |     |
-| Great Weapon †                                        | Melee              | 2d10 R or I | 2   | Primitive, Unwieldy          | 7kg    | 70   | Feudal     | Rare         |     |
-| Hammer                                                | Melee              | 1d10+1 I    | 0   | Primitive, Unbalanced        | 4kg    | 10   | -          | Common       |     |
-| - Great Hammer †                                      | Melee              | 1d10+4 I    | 2   | Unwieldy                     | 8kg    | 70   | Imperial   | Average      |     |
-| - Percussion Mallet                                   | Melee              | 1d10+3 I††  | 5   | Unwieldy                     | 5kg    | 3000 | Forge      | Average      |     |
-| - Warhammer                                           | Melee              | 1d10+2 I    | 1   | Primitive                    | 2kg    | 35   | -          | Common       |     |
-| Improvised Weapon                                     | Melee              | 1d10-2 I    | 0   | Primitive, Unbalanced        | Varies | -    | -          | Abundant     |     |
-| Knife                                                 | Melee/Thrown (3m)  | 1d5 R       | 0   | Primitive                    | 0.5kg  | 5    | -          | Abundant     |     |
-| - Bolo Knife                                          | Melee              | 2d5 R       | 2   | -                            | 2kg    | 50   | Malfi      | Common       |     |
-| - Combat Knife                                        | Melee              | 1d5+3 R     | 0   | Primitive                    | 3kg    | 40   | -          | Average      |     |
-| - Kraken Tooth Dagger                                 | Melee/Thrown (5m)  | 1d5+1 R     | 1   | -                            | 0.4kg  | 200  | Void       | Rare         |     |
-| - Parrying Dagger                                     | Melee              | 1d5 R       | 0   | Defensive, Primitive         | 0.5kg  | 50   | Landunder  | Scarce       |     |
-| - Sigilite Blade                                      | Melee              | 1d5 R       | 3   | Defensive                    | 0.8kg  | 85   | Landunder  | Rare         |     |
-| - Trophy Knife                                        | Melee              | 1d5+1 R     | 1   | Balanced, Primitive          | 0.5kg  | 700  | -          | Very Rare    |     |
-| Man-Catcher †                                         | Melee              | 1d10 I      | 0   | Primitive, Snare, Unwieldy   | 8kg    | 60   | -          | Scarce       |     |
-| Moon Blade                                            | Melee/Thrown (5m)  | 1d10 R      | 0   | Fast, Primitive, Unwieldy    | 3kg    | 25   | Munsk      | Rare         |     |
-| Punch Dagger                                          | Melee              | 1d5+1 R     | 2   | Primitive                    | 0.5kg  | 10   | -          | Average      |     |
-| Punisher Baton                                        | Melee              | 1d10 I      | 0   | -                            | 3kg    | 50   | -          | Rare         |     |
-| Scythe †                                              | Melee              | 1d10+2 R    | 0   | Primitive, Unwieldy          | 5kg    | 12   | Feudal     | Average      |     |
-| Shield                                                | Melee              | 1d5 I       | 0   | Defensive, Primitive         | 3kg    | 25   | Feudal     | Average      |     |
-| - Guard Shield                                        | Melee              | 1d5 I       | 0   | Defensive, Primitive         | 1.5kg  | 100  | -          | Scarce       |     |
-| - Mirror Shield                                       | Melee              | 1d5-1 I     | 0   | Defensive, Primitive         | 3.5kg  | 60   | Sepheris   | Rare         |     |
-| - Naval Shield                                        | Melee              | 1d5+2 I     | 0   | Defensive, Primitive         | 7kg    | 75   | Void       | Average      |     |
-| - Suppression Shield                                  | Melee              | 1d10 I      | 0   | Defensive, Recharge,Shocking | 4kg    | 250  | -          | Rare         |     |
-| - Tower Shield                                        | Melee              | 1d5+2 I     | 0   | Defensive, Primitive         | 10kg   | 60   | Feudal     | Rare         |     |
-| Spear †                                               | Melee/Thrown (10m) | 1d10 R      | 0   | Primitive, Unwieldy          | 3kg    | 15   | -          | Common       |     |
-| Spetum †                                              | Melee              | 1d10 R      | 2   | Primitive, Unbalanced        | 6kg    | 45   | Balecaster | Rare         |     |
-| Steam Drill †                                         | Melee              | 2d10 I      | 3   | Primitive, Unwieldy          | 18kg   | 100  | -          | Very Rare    |     |
-| Stiletto                                              | Melee              | 1d5-1 R     | 2   | Fast, Primitive, Unbalanced  | 0.2kg  | 25   | -          | Average      |     |
-| - Devil's Kiss                                        | Melee              | 1d5 R       | 3   | Fast, Primitive              | 0.3kg  | 70   | Landunder  | Rare         |     |
-| Staff †                                               | Melee              | 1d10 I      | 0   | Balanced, Primitive          | 3kg    | 10   | -          | Plentiful    |     |
-| Sword                                                 | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2.5kg  | 15   | -          | Common       |     |
-| - Long-Sabre †                                        | Melee              | 1d10+2 R    | 2   | Balanced, Primitive          | 3kg    | 100  | Fervious   | Very Rare    |     |
-| - Quicksilver Sword                                   | Melee              | 1d10+2 R    | 0   | Balanced, Primitive          | 2kg    | 500  | Balecaster | Rare         |     |
-| - Reliquary Blade                                     | Melee              | 1d10+2 R    | 3   | Balanced, Sanctified         | 3kg    | 3000 | -          | Very Rare    |     |
-| - Render                                              | Melee              | 1d5+1 R     | 0   | Primitive, Tearing           | 1.2kg  | 50   | Landunder  | Rare         |     |
-| - Sabre                                               | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2kg    | 15   | -          | Common       |     |
-| - Short Sword                                         | Melee              | 1d10-1 R    | 0   | Primitive                    | 1.5kg  | 10   | -          | Common       |     |
-| † _Requires two hands to be used effectively_         |                    |             |     |                              |        |      |            |              |     |
-| †† _Add twice the wielder's Strength Bonus to Damage_ |                    |             |     |                              |        |      |            |              |     |
-#### Armoured Gauntlet
+| Name                  | Class              | Dam         | Pen | Special                      | Wt     | Cost | World      | Availability |     |
+| --------------------- | ------------------ | ----------- | --- | ---------------------------- | ------ | ---- | ---------- | ------------ | --- |
+| Armoured Gauntlet     | Melee              | 1d5 I       | 0   | Primitive                    | 0.5kg  | 35   | -          | Common       |     |
+| Axe                   | Melee              | 1d10+1 R    | 0   | Primitive, Unbalanced        | 4kg    | 10   | -          | Scarce       |     |
+| Bastard Sword †       | Melee              | 1d10+1 R    | 1   | Primitive                    | 5kg    | 40   | Feudal     | Scarce       |     |
+| Boarding Pike †       | Melee              | 1d10+3 X    | 2   | Special                      | 4kg    | 30   | Void       | Common       |     |
+| Brass Knuckles        | Melee              | 1d5-1 I     | 0   | Primitive                    | 0.5kg  | 5    | -          | Plentiful    |     |
+| Buckler               | Melee              | 1d5-2 I     | 0   | Balanced, Primitive          | 1kg    | 30   | Feudal     | Common       |     |
+| Club                  | Melee              | 1d10 I      | 0   | Primitive                    | 2kg    | 5    | -          | Abundant     |     |
+| Falchion              | Melee              | 2d5+1 R     | 0   | Primitive, Unbalanced        | 2.5kg  | 20   | -          | Average      |     |
+| Flail                 | Melee              | 1d10+2 I    | 0   | Flexible, Primitive          | 4kg    | 20   | Feudal     | Scarce       |     |
+| Great Weapon †        | Melee              | 2d10 R or I | 2   | Primitive, Unwieldy          | 7kg    | 70   | Feudal     | Rare         |     |
+| Hammer                | Melee              | 1d10+1 I    | 0   | Primitive, Unbalanced        | 4kg    | 10   | -          | Common       |     |
+| - Great Hammer †      | Melee              | 1d10+4 I    | 2   | Unwieldy                     | 8kg    | 70   | Imperial   | Average      |     |
+| - Percussion Mallet   | Melee              | 1d10+3 I††  | 5   | Unwieldy                     | 5kg    | 3000 | Forge      | Average      |     |
+| - Warhammer           | Melee              | 1d10+2 I    | 1   | Primitive                    | 2kg    | 35   | -          | Common       |     |
+| Improvised Weapon     | Melee              | 1d10-2 I    | 0   | Primitive, Unbalanced        | Varies | -    | -          | Abundant     |     |
+| Knife                 | Melee/Thrown (3m)  | 1d5 R       | 0   | Primitive                    | 0.5kg  | 5    | -          | Abundant     |     |
+| - Bolo Knife          | Melee              | 2d5 R       | 2   | -                            | 2kg    | 50   | Malfi      | Common       |     |
+| - Combat Knife        | Melee              | 1d5+3 R     | 0   | Primitive                    | 3kg    | 40   | -          | Average      |     |
+| - Kraken Tooth Dagger | Melee/Thrown (5m)  | 1d5+1 R     | 1   | -                            | 0.4kg  | 200  | Void       | Rare         |     |
+| - Parrying Dagger     | Melee              | 1d5 R       | 0   | Defensive, Primitive         | 0.5kg  | 50   | Landunder  | Scarce       |     |
+| - Sigilite Blade      | Melee              | 1d5 R       | 3   | Defensive                    | 0.8kg  | 85   | Landunder  | Rare         |     |
+| - Trophy Knife        | Melee              | 1d5+1 R     | 1   | Balanced, Primitive          | 0.5kg  | 700  | -          | Very Rare    |     |
+| Man-Catcher †         | Melee              | 1d10 I      | 0   | Primitive, Snare, Unwieldy   | 8kg    | 60   | -          | Scarce       |     |
+| Moon Blade            | Melee/Thrown (5m)  | 1d10 R      | 0   | Fast, Primitive, Unwieldy    | 3kg    | 25   | Munsk      | Rare         |     |
+| Punch Dagger          | Melee              | 1d5+1 R     | 2   | Primitive                    | 0.5kg  | 10   | -          | Average      |     |
+| Punisher Baton        | Melee              | 1d10 I      | 0   | -                            | 3kg    | 50   | -          | Rare         |     |
+| Scythe †              | Melee              | 1d10+2 R    | 0   | Primitive, Unwieldy          | 5kg    | 12   | Feudal     | Average      |     |
+| Shield                | Melee              | 1d5 I       | 0   | Defensive, Primitive         | 3kg    | 25   | Feudal     | Average      |     |
+| - Guard Shield        | Melee              | 1d5 I       | 0   | Defensive, Primitive         | 1.5kg  | 100  | -          | Scarce       |     |
+| - Mirror Shield       | Melee              | 1d5-1 I     | 0   | Defensive, Primitive         | 3.5kg  | 60   | Sepheris   | Rare         |     |
+| - Naval Shield        | Melee              | 1d5+2 I     | 0   | Defensive, Primitive         | 7kg    | 75   | Void       | Average      |     |
+| - Suppression Shield  | Melee              | 1d10 I      | 0   | Defensive, Recharge,Shocking | 4kg    | 250  | -          | Rare         |     |
+| - Tower Shield        | Melee              | 1d5+2 I     | 0   | Defensive, Primitive         | 10kg   | 60   | Feudal     | Rare         |     |
+| Spear †               | Melee/Thrown (10m) | 1d10 R      | 0   | Primitive, Unwieldy          | 3kg    | 15   | -          | Common       |     |
+| Spetum †              | Melee              | 1d10 R      | 2   | Primitive, Unbalanced        | 6kg    | 45   | Balecaster | Rare         |     |
+| Steam Drill †         | Melee              | 2d10 I      | 3   | Primitive, Unwieldy          | 18kg   | 100  | -          | Very Rare    |     |
+| Stiletto              | Melee              | 1d5-1 R     | 2   | Fast, Primitive, Unbalanced  | 0.2kg  | 25   | -          | Average      |     |
+| - Devil's Kiss        | Melee              | 1d5 R       | 3   | Fast, Primitive              | 0.3kg  | 70   | Landunder  | Rare         |     |
+| Staff †               | Melee              | 1d10 I      | 0   | Balanced, Primitive          | 3kg    | 10   | -          | Plentiful    |     |
+| Sword                 | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2.5kg  | 15   | -          | Common       |     |
+| - Long-Sabre †        | Melee              | 1d10+2 R    | 2   | Balanced, Primitive          | 3kg    | 100  | Fervious   | Very Rare    |     |
+| - Quicksilver Sword   | Melee              | 1d10+2 R    | 0   | Balanced, Primitive          | 2kg    | 500  | Balecaster | Rare         |     |
+| - Reliquary Blade     | Melee              | 1d10+2 R    | 3   | Balanced, Sanctified         | 3kg    | 3000 | -          | Very Rare    |     |
+| - Render              | Melee              | 1d5+1 R     | 0   | Primitive, Tearing           | 1.2kg  | 50   | Landunder  | Rare         |     |
+| - Sabre               | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2kg    | 15   | -          | Common       |     |
+| - Short Sword         | Melee              | 1d10-1 R    | 0   | Primitive                    | 1.5kg  | 10   | -          | Common       |     |
+† _Requires two hands to be used effectively_
+†† _Add twice the wielder's Strength Bonus to Damage_
+#### Armored Gauntlet
 
 The heavy gauntlets of carapace or power armour can make a surprisingly effective weapon in a pinch, especially against lesser foes. Similar weapons can also be scratch-built by sewing powdered lead into the knuckles of heavy leather gloves, and shipboard voidsmen and hive-workers alike have fabricated their own punchers by stripping down protective heat mitts made for handling overheated conduit pipes or plasma coils. Gangers are known to fabricate their own "punchers" as tools of intimidation as well as face-smashing; these home-made weapons are often studded with points or other metal hardware to make them look more frightening.
 
@@ -2046,23 +2046,23 @@ This is a heavy single-edged cutting tool suitable for hacking through dense fol
 
 Bolo knives are Common on Malfi and Rare elsewhere.
 
-###Combat Knife:
+##### Combat Knife:
 Combat knives can only liberally be called knives to begin with, often featuring a straight blade the size of a human forearm with a clipped point that is both intimidating in profile and can make for nasty piercing and slashing attacks, and are commonly used as bayonets by the Imperial Guard. They also make fine can openers.
 
-**Kraken Tooth Dagger:**
+##### Kraken Tooth Dagger:
 Gleaming pearlescent knives of this type are often carried by veteran voidsmen who typically claim their blades are fashioned from enormous teeth found lodged in the hulls of their ships or on debris encountered in the void. Whether or not these knives are actually a product of horrific gargantuan creatures that lurk on the edge of system space, ready to attack unfortunate vessels just as they emerge from the warp, is more or less inconsequential to the void born that carry them as good luck charms. Many are decorated with intricate scrimshaw carvings depicting horrendous tentacled beasts tearing ships apart, which in the strange proclivities of the void born is supposedly said to ensure safe passage for the vessel they crew. Knives of this type are sought after by collectors for their artistic merit and intrinsic craftsmanship, and there are plenty of Rogue Traders who have been known to sport a kraken tooth dagger on their belts.
 
-**Parrying Dagger:**
+##### Parrying Dagger:
 Typically formed with an intricate guard or twin, tine-like blade, parrying daggers are a more specialist variety of knife designed principally for defence. A parrying dagger's construction creates a number of wedges or gaps explicitly devised to catch an opponent's blade, and in the hands of a skilled swordsman can actually be more effective at deflecting blows than a shield while being much lighter and easier to carry. Parrying daggers are typically the provenance of duellists due to their specialised nature, and are often wielded in the off-hand by more swashbuckling types.
 
 When used to Parry an edged weapon, such as a sword or axe, a parrying dagger grants an additional +5 bonus on the Weapon Skill Test.
 
-**Landrian "Sigilite" Blade:**
+##### Landrian "Sigilite" Blade:
 Named after a half-forgotten holy figure from a time long past, the Sigilite is a curious weapon wielded by the gelt-brokers of Landunder who broker the price with crystal miners for the load yielded from the deep-sea mineral chimneys. Traditionally a weapon of self-defence to protect the broker from robbery, the Sigilite is outlandishly formed from a set of intersecting crescents sharpened along their edges and tapering-off to wicked points. The blade's curious shape, combined with the twirls and circling passes of the gelt broker's knife-work, allows it to deflect incoming blows before delivering savage, raking counter-attacks.
 
 If a Sigilite's wielder has the Counter-attack talent, he does not take the usual -10 penalty to Weapon Skill Tests made to attack when using that talent to follow up a successful Parry.
 
-**Trophy Knife:**
+##### Trophy Knife:
 Many fighters use the remains of their kill to fashion a memento of the action, and those who battle xenos are no exception. Among Guardsmen who commonly go to war against such foes there is a thriving secondary business in many regiments where the claws and teeth of terrible alien creatures are removed and honed into valuable weapons. Each is a unique creation representing some of the monstrous races that have threatened the sector, some even unknown by scholars. They serve to show off the battlefield prowess of a warrior to their fellow troopers, and are fine weapons in their own right. Of course, a trophy knife's final dispensation is often as a collector's mantelpiece, and even after intermediaries have skimmed their "cut" of the profits a Guardsman will often have enough left over to buy a commission (or pay his way out of his service early).
 
 #### Man-Catcher
@@ -2091,29 +2091,29 @@ Scythes are principally an agri-tool intended to reap grains for harvest, but th
 
 A shield is a useful protective device that can be made from any of a large variety of materials. Their uses, shapes, and specific employments are just as varied. In general, a shield is intended to be used in a defensive role as a means to deflect an enemy's melee attacks, though they may have a number of other features depending on the exact mark or pattern used.
 
-**Guard Shield:**
+##### Guard Shield:
 Some Imperial Guard regiments make use of shields made of thin but sturdy plasteel plates that can provide protection from incoming projectiles and fragments as well as to turn aside an opponent's blades. Many include a small glassteel visor so the user can peek out from behind the shield without sacrificing protection.
 
 A Guard shield can be used as cover against ranged attacks, providing 6 Armour Points to all hit locations as long as they are stationary or using the Tactical Advance action, though the user must expose at least one arm to attack.
 
-**Sepherin Mirror Shield:**
+##### Sepherin Mirror Shield:
 Made famous by the Royal Scourges of Sepheris Secundus, the mirror shield is an ornate rectangular device capable of covering about two-thirds of its wielder's body. Constructed from layers of metal and stained crystal-silicate glass, bearing the colourful crests and armorials of the nobility, the refractive glass gives the shield a mirrored effect that supposedly deflects evil spirits (although it can also repel las bolts as well). As such, it is considered an exemplar of ennobled warfare and "affairs of honour" on a world where such advanced weapons are restricted to the elite retainers of the ruling barons.
 
 If used as cover against ranged attacks, the shield is large enough to protect the arm that carries it and the wearer's body, though it may shield the head instead (if the wearer is taking cover behind a barricade, for instance). This provides 8 Armour Points (Primitive) to those locations; thanks to its reflective construction, a mirror shield's APs are not considered Primitive against las weapons.
 
-**Naval Shield:**
+##### Naval Shield:
 Shipboard armsmen, boarding crews, and other naval troops often utilise shields of this type for personal protection as they protect their ship. Each shield is a huge and solid plasteel plate in a roughly rectangular shape that is uncomfortable to carry for any prolonged period but offers superior protection. Unlike most Imperial shields they are totally flat and have a smooth surface so they can be used as emergency hull and bulkhead sealers. A Naval shield is large enough to totally conceal the user's body, and boarding parties facing defensive strong-points often make use of these shields to create a solid wall of plasteel that completely covers themselves and their allies.
 
 A Naval shield can be used as cover against ranged attacks, providing 8 Armour Points to all hit locations as long as long as they are stationary or using the Tactical Advance action, though the user must expose their head and at least one arm to attack.
 
-**Arbitrator Suppression Shield:**
+##### Arbitrator Suppression Shield:
 This type of shield is produced for the Adeptus Arbites and the aquila emblazoned on its front is often the first sign of an Arbitrator raid as it is thrust through a recently-breached door. Suppression shields are large ceramite slabs with a minor outward curve, sufficiently large to completely cover an Arbitrator's form but still manoeuvrable enough to be used in close quarters. Each one has an arc-lumin built in on an upper corner, with a powerful shock plate taking the form of the aquila symbol at the shield's centre. Arbitrators who can't draw their shock maul in time can rely on a quick smash from their suppression shield to do the job. A suppression shield includes a small but much appreciated feature in the form of a lock-grip opposite the arc-lumin, which can securely anchor a basic weapon to where only one hand is required to use it. This gives Arbitrators the flexibility to use their issued weapon instead of a sidearm while conducting assaults from behind their shields.
 
 A Suppression Shield's lock-grip allows its user to wield a basic weapon with one hand. After making a successful melee attack, a Suppression Shield must spend a Round building up a charge (per the Recharge quality), during which time it can still be used to make attacks though it gains the Primitive quality and loses the Shocking quality. As long as the user is not Surprised (see _Dark Heresy_, page 187), a Suppression Shield provides 4 Armour Points to the user's arm and body locations (which stacks with any worn armours). It can also be used as cover against ranged attacks, providing 4 APs to all hit locations as long as they are stationary or using the Tactical Advance action, though the user must expose at least one arm to attack.
 
 To use the Suppression Shield's shock plate, the user must have the Melee Weapon Training (Shock) talent.
 
-**Tower Shield:**
+##### Tower Shield:
 An immense barricade of wood or metal, tower shields are more of a mobile barrier than an active means of defence. Tower shields find their most frequent use on feudal worlds where warfare places a heavy emphasis on massed archer attacks; troops protected by a tower shield can endure almost any arrow shower, while those with lesser protections are riddled like archery targets. Simple plated iron examples are a common sight in the canyons and narrow passages of Coseflame, while the inland bronze and wood shields found on Monrass are considered works of art in their own right.
 
 A tower shield can be used as cover against ranged attacks, providing 8 Armour Points (Primitive) to all hit locations as long as long as the user is stationary or using the Tactical Advance action, though they must expose at least their head and one arm to attack. A tower shield's great bulk and mass imposes a -2 penalty to the user's Agility Bonus due to its difficulty in handling, though most would rather be slower in moving than dead from an arrow storm.
@@ -2151,15 +2151,15 @@ Basic ranged weapons that are well balanced and constructed for use in clobberin
 
 Swords are the classic melee weapon of chivalric knights and men-at-arms alike, and are used by almost innumerable classes and types of fighters throughout the expanse of the Imperium. In general a sword will have a striking blade with a single or double edge and a grip suitable for use with one or both hands, but any number of other features – blade length, curvature, thickness, presence of lack of a crossguard, intention for chopping or thrusting – vary widely with the design of the blade. A sword might be a simple iron blade built expressly for war, a finely wrought piece of art as beautiful as it is deadly, or even concealed within a cane or walking stick.
 
-**Fervious Long-Sabre: **
+##### Fervious Long-Sabre: 
 The Fervious longsabre is an overly-long sword with a dramatic curve designed for a two-handed grip. It is very sharp among feudal weapons since the metallic ores of Fervious are extremely stubborn and difficult to work with, requiring numerous folding and reforging to work out the impurities. This creates a naturally razor-fine edge that holds quite well, even after hacking through armoured opponents. Long-sabres are wielded by the nobles and wealthy armsmen of Fervious, but can also be found among the many death cults that world generates. Fervious' society is a bloodthirsty and violent one, founded on ritual murder as a means to gain status and wealth, and those in positions of power and authority invariably carry one of these swords to ward off assassins and other would-be usurpers.
 
-**Quicksilver Sword:**
+##### Quicksilver Sword:
 Among the nobles on Balecaster, a quicksilver sword is viewed as a sign of divine lineage and right to rule, with each blade being passed down from previous generations - the further back the current bearer can prove that the blade has been in their line, the greater their status in the courts. As a combat weapon, a quicksilver sword is a remarkably dangerous instrument. Though looking much like a normal, if finely-crafted, sword, these weapons seem preternaturally fast, bending and twisting in the wielder's hand as they lash out. Administratum tithe-keepers visiting Balecaster have noted the peculiar tendencies of its quicksilver swords, which has aroused the suspicion of certain elements of the Inquisition that the blades may be of xenos origin.
 
 Opponents attempting to Parry an attack from a quicksilver sword suffer a -10 penalty to their Weapon Skill Tests.
 
-**Reliquary Blade:**
+##### Reliquary Blade:
 This blade is a typical example of sacred weaponry formed partly from the corporal remains of saints and seers - in this case, a human femur forms the pommel and grip, giving way to a cruciform guard and a cold iron blade inscribed with litanies of protection and blessings against heretics and sinners. Weapons of such provenance are typically kept under close watch in the sacristy of great temples and shrines, only to be used in periods of great need, although especially faithful or honoured warriors may be gifted such a valuable tool of the Emperor's strength while they crusade in His name. Regardless of the weapon's exact shape or construction, a reliquary blade is an immediate and undeniable mark of the bearer's holy convictions and will.
 
 A reliquary blade is always of Best Craftsmanship. If wielded by a character with the Pure Faith talent, this weapon gains the Vicious quality. Whenever a character spends a Fate Point within 10 metres of a strongly displayed reliquary blade, roll 1d10. On a result of "8" or higher, the character immediately recovers the Fate Point. Characters with more than 10 Corruption Points cannot benefit from this effect, the relic offering no succour for those of a tainted soul. If the character burns a Fate Point it is still lost as usual.
