@@ -2404,24 +2404,24 @@ Like their ranged counterparts, exotic melee weapons cover a wide range of devic
 
 ### Exotic Weapons List
 
-| Name                                            | Class      | Dam        | Pen | Special                              | Wt    | Cost   | World     | Availability  |
-| ----------------------------------------------- | ---------- | ---------- | --- | ------------------------------------ | ----- | ------ | --------- | ------------- |
-| [[#Arc-Welder]]                                 | Melee      | 1d10+5 E†† | 10  | Fast, Unwieldy                       | 2kg   | 1,700  | Lathes    | Very Rare     |
-| [[#Breacher]] †                                 | Melee      | 1d10+5 R   | 4   | Special, Tearing, Unwieldy           | 18kg  | 750    | Forge     | Scarce        |
-| [[#Bulkhead Cutters]]                           | Melee      | 1d10+3 R   | 6   | Tearing, Unwieldy                    | 8kg   | 100    | -         | Average       |
-| [[#Fervious Chain-Sticks\|Chain Sticks]]        | Melee      | 1d10+1 I   | 0   | Fast, Primitive, Toxic               | 1kg   | 30     | Fervious  | Scarce        |
-| [[#Coil Whip]]                                  | Melee      | 1d10+5 E   | 4   | Flexible, Shocking                   | 3kg   | 600    | Lathes    | Very Rare     |
-| [[#Penolpass Double Flail\|Double Flail]] †     | Melee      | 1d10 I     | 0   | Balanced, Flexible, Primitive        | 4kg   | 28     | Penolpass | Scarce        |
-| [[#Sollex-Aegis Energy Blade\|Energy Blade]]    | Melee      | 1d10+6 E†† | 7   | Balanced, Power Field                | 1kg   | 5,000  | Forge     | Very Rare     |
-| [[#Forearm Power Blade]]                        | Melee      | 1d10+1 E   | 4   | Balanced, Defensive,Power Field      | 1.5kg | 2,200  | -         | Very Rare     |
-| [[#Fractal Sword]]                              | Melee      | 1d10+1 R   | 8   | Balanced                             | 1kg   | 10,000 | -         | ExtremelyRare |
-| [[#Garrotte]] †                                 | Melee      | 1d10 R     | 0   | Flexible, Primitive, Unwieldy        | 0.5kg | 30     | Hive      | Scarce        |
-| [[#Groxwhip]]                                   | Melee (3m) | 1d10+3 R   | 0   | Flexible, Primitive, Special,Tearing | 4kg   | 45     | -         | Scarce        |
-| [[#Acreage Lightning Chain\|Lightning Chain]] † | Melee      | 1d10+1 I   | 0   | Flexible, Primitive, Shocking        | 4kg   | 100    | Acreage   | Very Rare     |
-| Lightning Gauntlet                              | Melee      | 1d10 I     | 0   | Primitive, Shocking                  | 2kg   | 80     | Acreage   | Very Rare     |
-| Sieve Blade                                     | Melee      | 1d10-1 R   | 0   | Primitive                            | 0.5kg | 200    | -         | Rare          |
-| Soft Sword                                      | Melee      | 1d10 R     | 2   | Balanced                             | 1.5kg | 400    | -         | Rare          |
-| Vivisector                                      | Melee      | 1d5+5 R    | 4   | Tearing, Unwieldy                    | 1.5kg | 650    | Forge     | Rare          |
+| Name                                                | Class      | Dam        | Pen | Special                              | Wt    | Cost   | World     | Availability  |
+| --------------------------------------------------- | ---------- | ---------- | --- | ------------------------------------ | ----- | ------ | --------- | ------------- |
+| [[#Arc-Welder]]                                     | Melee      | 1d10+5 E†† | 10  | Fast, Unwieldy                       | 2kg   | 1,700  | Lathes    | Very Rare     |
+| [[#Breacher]] †                                     | Melee      | 1d10+5 R   | 4   | Special, Tearing, Unwieldy           | 18kg  | 750    | Forge     | Scarce        |
+| [[#Bulkhead Cutters]]                               | Melee      | 1d10+3 R   | 6   | Tearing, Unwieldy                    | 8kg   | 100    | -         | Average       |
+| [[#Fervious Chain-Sticks\|Chain Sticks]]            | Melee      | 1d10+1 I   | 0   | Fast, Primitive, Toxic               | 1kg   | 30     | Fervious  | Scarce        |
+| [[#Coil Whip]]                                      | Melee      | 1d10+5 E   | 4   | Flexible, Shocking                   | 3kg   | 600    | Lathes    | Very Rare     |
+| [[#Penolpass Double Flail\|Double Flail]] †         | Melee      | 1d10 I     | 0   | Balanced, Flexible, Primitive        | 4kg   | 28     | Penolpass | Scarce        |
+| [[#Sollex-Aegis Energy Blade\|Energy Blade]]        | Melee      | 1d10+6 E†† | 7   | Balanced, Power Field                | 1kg   | 5,000  | Forge     | Very Rare     |
+| [[#Forearm Power Blade]]                            | Melee      | 1d10+1 E   | 4   | Balanced, Defensive, Power Field     | 1.5kg | 2,200  | -         | Very Rare     |
+| [[#Fractal Sword]]                                  | Melee      | 1d10+1 R   | 8   | Balanced                             | 1kg   | 10,000 | -         | ExtremelyRare |
+| [[#Garrotte]] †                                     | Melee      | 1d10 R     | 0   | Flexible, Primitive, Unwieldy        | 0.5kg | 30     | Hive      | Scarce        |
+| [[#Groxwhip]]                                       | Melee (3m) | 1d10+3 R   | 0   | Flexible, Primitive, Special,Tearing | 4kg   | 45     | -         | Scarce        |
+| [[#Acreage Lightning Chain\|Lightning Chain]] †     | Melee      | 1d10+1 I   | 0   | Flexible, Primitive, Shocking        | 4kg   | 100    | Acreage   | Very Rare     |
+| [[#Acreage Lightning Gauntlet\|Lightning Gauntlet]] | Melee      | 1d10 I     | 0   | Primitive, Shocking                  | 2kg   | 80     | Acreage   | Very Rare     |
+| [[#Sieve Blade]]                                    | Melee      | 1d10-1 R   | 0   | Primitive                            | 0.5kg | 200    | -         | Rare          |
+| [[#Soft Sword]]                                     | Melee      | 1d10 R     | 2   | Balanced                             | 1.5kg | 400    | -         | Rare          |
+| [[#Vivisector]]                                     | Melee      | 1d5+5 R    | 4   | Tearing, Unwieldy                    | 1.5kg | 650    | Forge     | Rare          |
 † _Requires two hands to be used effectively_
 ††  _Do not add the wielder's Strength Bonus to Damage with this weapon_
 #### Arc-Welder
