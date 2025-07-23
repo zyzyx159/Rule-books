@@ -1,4 +1,4 @@
-Nuns with Guns. The Sisters of battle are the imperiams answer to the church not being allowed to have men at arms. The little sister's of the Emperor's astartes have the subtlety of a wrecking ball, the personality of an imperial cult member, power armor, big guns 
+Nuns with Guns. The Sisters of battle are the imperiams answer to the church not being allowed to have men at arms. The little sister's of the Emperor's astartes have the subtlety of a wrecking ball, the personality of an imperial cult member, power armor, big guns, and absolutely zero F's to give. Their advancement tree is as narrow as their minds. There is but one path and they will follow it without, question, hesitation, or delay.  
 
 | Battle Sister Characteristic Advances |        |              |         |        |
 |---------------------------------------|--------|--------------|---------|--------|
@@ -13,7 +13,7 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 | Willpower                             | 100    | 250          | 500     | 750    |
 | Fellowship                            | 250    | 500          | 1000    | 1000   |
 
-### Rank 1 Advances
+# Rank 1 Advances
 
 | Name                         | Cost | Type | Prerequisites |
 | ---------------------------- | ---- | ---- | ------------- |
@@ -29,15 +29,14 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 | Flagellant                   | 200  | T    | —             |
 | Pistol Training (Las)        | 200  | T    | —             |
 | Pistol Training (SP)         | 200  | T    | —             |
-| Sound Constitution<br>†      | 200  | T    | —             |
-| Faith Talent<br>†            | 300  | T    | Varies        |
-
+| Sound Constitution †         | 200  | T    | —             |
+| Faith Talent †               | 300  | T    | Varies        |
 *† You may take this Talent two times at this Rank.*
 
-### Rank 2 Advances
+# Rank 2 Advances
 
 | Name                               | Cost | Type | Prerequisites      |
-|------------------------------------|------|------|--------------------|
+| ---------------------------------- | ---- | ---- | ------------------ |
 | Intimidate                         | 100  | S    | —                  |
 | Performer (Singer) +10             | 100  | S    | Performer (Singer) |
 | Tech Use                           | 100  | S    | —                  |
@@ -56,11 +55,10 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 | Scholastic Lore (Philosophy)       | 200  | T    | —                  |
 | Thrown Weapon Training             | 200  | T    | —                  |
 | Faith Talent                       | 300  | T    | Varies             |
-|                                    |      |      |                    |
+# Rank 3 Advances
 
-| Rank 3 Advances                  |      |      |                          |
-|----------------------------------|------|------|--------------------------|
 | Name                             | Cost | Type | Prerequisites            |
+| -------------------------------- | ---- | ---- | ------------------------ |
 | Common Lore (Ecclesiarchy) +10   | 100  | S    | Common Lore (Eccles.)    |
 | Common Lore (Imperial Creed) +10 | 100  | S    | Common Lore (Imp. Creed) |
 | Dodge                            | 100  | S    | —                        |
@@ -82,7 +80,7 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 | Unshakeable Faith                | 200  | T    | —                        |
 | Faith Talent                     | 300  | T    | Varies                   |
 
-#### Rank 4 Advances
+# Rank 4 Advances
 
 | Name                          | Cost | Type | Prerequisites                          |
 | ----------------------------- | ---- | ---- | -------------------------------------- |
@@ -103,18 +101,10 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 | Heavy Weapon Training (Flame) | 300  | T    | —                                      |
 | Litany of Battle              | 300  | T    | Fel 30                                 |
 | Hardy                         | 400  | T    | —                                      |
+# Rank 5 Advances
 
-## **THE POWER OF FAITH**
-
-A Sororitas sister's faith is a series of Talents that allow her to use her Fate Points in unique ways. Full details on the power of Faith and how characters can use it in **DARK HERESY** can be found in **Chapter 4: Fire and Faith**.
-
-# **TALENT: LITANY OF BATTLE**
-
-The Battle Sister knows hundreds of litanies and always recites exactly the most appropriate verse in battle, bolstering her allies with the wisdom of saints. The Sister of Battle may spend a fate point to allow an ally who can hear her to re-roll a failed Weapon Skill or Ballistic skill test. Characters may still only re-roll a test once.
-
-| Rank 5 Advances                  |      |      |                                  |
-| -------------------------------- | ---- | ---- | -------------------------------- |
 | Name                             | Cost | Type | Prerequisites                    |
+| -------------------------------- | ---- | ---- | -------------------------------- |
 | Common Lore (Ecclesiarchy) +20   | 100  | S    | Common Lore (Ecclesiarchy) +10   |
 | Common Lore (Imperial Creed) +20 | 100  | S    | Common Lore (Imperial Creed) +10 |
 | Dodge +10                        | 100  | S    | Dodge                            |
@@ -134,8 +124,7 @@ The Battle Sister knows hundreds of litanies and always recites exactly the most
 | Die Hard                         | 300  | T    | WP 40                            |
 | Faith Talent†                    | 300  | T    | Varies                           |
 | Marksman                         | 300  | T    | BS 35                            |
-
-#### Rank 6 Advances
+# Rank 6 Advances
 
 | Name                                 | Cost | Type | Prerequisites                |
 |--------------------------------------|------|------|------------------------------|
@@ -157,14 +146,7 @@ The Battle Sister knows hundreds of litanies and always recites exactly the most
 | Litany of Hate                       | 300  | T    | Hatred                       |
 | Tests of Faith                       | 300  | T    | WP 30                        |
 |                                      |      |      |                              |
-
-## **HEAVY WEAPON REQUISITIONS**
-
-While Battle Sisters may be capable of using Heavy Weapons they are not typically issued them when serving as part of an Acolyte Cell and not part of a Sisters of Battle Squad. It is up to the GM's discretion when a Sister of Battle has access to these weapons.
-
-## **TALENT: TESTS OF FAITH**
-
-The Battle Sister's faith has been tested in the fi res of combat and she has emerged with her faith tempered and sharpened. Once per game session the Battle Sister may activate an Emperor's Wrath Faith talent without spending a Fate Point. The effect activates as normal as if the character had spent a Fate Point but not as if she burned a Fate Point.
+# Rank 7 Advances
 
 | Name                                     | Cost | Type | Prerequisites                        |
 |------------------------------------------|------|------|--------------------------------------|
@@ -187,7 +169,7 @@ The Battle Sister's faith has been tested in the fi res of combat and she has em
 | Faith Talent                             | 300  | T    | Varies                               |
 | Iron Discipline                          | 300  | T    | WP 30, Command                       |
 
-#### Rank 8 Advances
+# Rank 8 Advances
 
 | Name                                     | Cost | Type | Prerequisites                            |
 |------------------------------------------|------|------|------------------------------------------|
@@ -206,6 +188,21 @@ The Battle Sister's faith has been tested in the fi res of combat and she has em
 | Into the Jaws of Hell                    | 300  | T    | Iron Discipline                          |
 | Peer (Ecclesiarchy)                      | 300  | T    | Fel 30                                   |
 | Miraculous Survival                      | 400  | T    | —                                        |
+## **THE POWER OF FAITH**
+
+A Sororitas sister's faith is a series of Talents that allow her to use her Fate Points in unique ways. Full details on the power of Faith and how characters can use it in **DARK HERESY** can be found in **Chapter 4: Fire and Faith**.
+
+## **TALENT: LITANY OF BATTLE**
+
+The Battle Sister knows hundreds of litanies and always recites exactly the most appropriate verse in battle, bolstering her allies with the wisdom of saints. The Sister of Battle may spend a fate point to allow an ally who can hear her to re-roll a failed Weapon Skill or Ballistic skill test. Characters may still only re-roll a test once.
+
+## **HEAVY WEAPON REQUISITIONS**
+
+While Battle Sisters may be capable of using Heavy Weapons they are not typically issued them when serving as part of an Acolyte Cell and not part of a Sisters of Battle Squad. It is up to the GM's discretion when a Sister of Battle has access to these weapons.
+
+## **TALENT: TESTS OF FAITH**
+
+The Battle Sister's faith has been tested in the fi res of combat and she has emerged with her faith tempered and sharpened. Once per game session the Battle Sister may activate an Emperor's Wrath Faith talent without spending a Fate Point. The effect activates as normal as if the character had spent a Fate Point but not as if she burned a Fate Point.
 
 ## **TALENT: MIRACULOUS SURVIVAL**
 
