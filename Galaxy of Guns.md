@@ -1430,14 +1430,14 @@ Grenade launchers produced on Mezoa are designed for simplicity and effectivenes
 ##### Voss Assault Grenade Launcher: 
 This grenade launcher resembles more common patterns but with the addition of a clockwork cylinder mechanism that must be wound up during reloading. The cylinder remains under tension and can fire off its grenades with a frightening pace, making it an excellent choice for shock troops who need to suppress a large enemy force at once. The violent motion of the cylinder's rotation tends to make the assault launcher want to jump out of the shooter's hands; they are known for their volume of firepower, not pinpoint accuracy.
 
-#### Hunter-Killer Missile
+### Hunter-Killer Missile
 Class: Heavy (Launcher)
 
-This specialty missile is a marvel of Mechanicus engineering that is almost capable of firing itself. Because of its very large weight and back blast it is usually mounted to Imperial vehicles, with wide stubby patterns used on tanks and armoured personnel carriers while longer and thinner versions are attached to the wings of flyers. Hunter-killer missiles are fitted with an advanced guidance system and a large fuel supply, giving them exceptional range and accuracy. Once fired, a hunter-killer missile's internal cogitator andsensorum suite make adjustments to the missile's path to lead it almost unerringly to its target. Armed with a krak warhead and leaving a corkscrewing spiral of smoke behind it, the sight of a hunter-killer missile bearing down on one's position is a sign of almost certain doom.
+This specialty missile is a marvel of Mechanicus engineering that is almost capable of firing itself. Because of its very large weight and back blast it is usually mounted to Imperial vehicles, with wide stubby patterns used on tanks and armoured personnel carriers while longer and thinner versions are attached to the wings of flyers. Hunter-killer missiles are fitted with an advanced guidance system and a large fuel supply, giving them exceptional range and accuracy. Once fired, a hunter-killer missile's internal cogitator and sensorum suite make adjustments to the missile's path to lead it almost unerringly to its target. Armed with a krak warhead and leaving a corkscrewing spiral of smoke behind it, the sight of a hunter-killer missile bearing down on one's position is a sign of almost certain doom.
 
 The listed rules are for a hunter-killer missile attached to an infantry tripod so that it can be hauled around in the field; vehicular versions weigh 10kg less. A hunter-killer missile's guidance systems grant a +20 bonus to Ballistic Skill Tests made to attack with it and reduce penalties for shooting at Long or Extreme range by half. Additionally, a hunter-killer missile may reroll a failed attack as long as it was by two degrees of failure or less. Hunter-killer missiles take a few moments to get up to speed and do not benefit from shooting at Short or Point-Blank range (not that it would be wise to employ one at such distances regardless!).
 
-#### Mole Mortar
+### Mole Mortar
 Class: Heavy (Launcher)
 
 Mole mortars are curious devices that look like something between a handheld missile launcher and a typical mortar weapon. As the name suggests, a mole mortar fires a special tunnelling torpedo that mimics the ballistic arc of a normal mortar except in a reversed fashion underground rather than in the air. They are set to explode just beneath the surface of their target which can often catch the enemy unprepared. The resulting underground blast can have devastating results on structures as well as enemy troops; those not killed or maimed by the blast itself are typically sent flying by the concussive force. A mole mortar can also be used to destroy enemies in subterranean tunnels, and are particularly effective in collapsing bunkers.
@@ -1605,87 +1605,87 @@ Used With: Thrown, GL
 
 Photon flash grenades are extensively used by various enforcer types to disorient and surprise their targets, and are favourites for covering the entry into a hostile building. After landing, a photon flash grenade's chemical-powder core ignites and produces a flash like a small star, causing temporary blindness to anyone nearby. The flash is bright enough to overload cheap or primitive vision protection systems, so even better-equipped gangers and scum can still be disabled by one. Anyone caught in a photon flash grenade's blast must succeed on a Challenging (+0) Toughness Test or be blinded for 1d5 Rounds.
 
-## Plasma Grenade
+### Plasma Grenade
 Used With: Thrown, GL
 
 These use a deliberate plasma containment failure, causing a blast of heat and light to burst forth like a miniature sun. Plasma grenades are similar to a compressed hydrogen flask used as ammunition by plasma weapons; the fuel is maintained in an excited state by a small onboard generator, with the resultant blast closely resembling a hit from a powerful plasma weapon. However, this apparatus becomes unstable over time, and plasma grenades have a short "shelf life" as some recidivists have discovered the hard way after looting Imperial armouries to supply their own men.
 
-#### Psychotroke Grenade
+### Psychotroke Grenade
 Used With: Thrown, GL
 
 A more refined and "tactical" variant of the better-known hallucinogen grenade, this weapon contains a purer mixture of psycho-reactive compounds and synthetic amplifiers to create a suitably more powerful effect. Moreover, instead of releasing a cloud of translucent vapour, the psychotroke jettisons a massive burst of microscopic particulates that can pierce virtually any form of protection from gas masks to full power armour. However, while it is capable of defeating significantly better protection, the grenade's coverage area is drastically smaller and shorter lived, the same properties that allow it to pass through respirator filters and life-sustainers being ill-suited to persistence once they have been released from their housing. Moreover, the active ingredients themselves are so unstable that they must be contained within a tiny stasis field before use; in addition to increasing the cost and complexity of the grenade, it also adds a measureable "shelf life" before the grenade expires and becomes a harmless shell.
 
 Anyone caught within the blast area of a psychotroke grenade must pass a Hard (-20) Toughness Test or suffer the effects of a hallucinogen grenade. For each Degree of Failure on the Test, add a +5 bonus to the Hallucinogen Effect roll.
 
-#### Psyk-Out Grenade
+### Psyk-Out Grenade
 Used With: Thrown, GL
 
 Psyk-out grenades are a terrifying tool of retribution against witches and daemons, typically off-limits to anyone but the Inquisition and especially favoured servants of the Adeptus Ministorum. It is said that psyk-out grenades come directly from the Golden Throne itself, and while this may be more legend than fact, the weapons are produced only on Holy Terra, often travelling incredible distances through the warp before being used in anger. Because of their rarity and sacred origin, even newlymanufactured psyk-out grenades tend to be treated as venerated artefacts and invariably come in a gleaming alloy casing that resembles a holy relic. Once armed, a psyk-out grenade shatters on impact with a hard surface, spewing a cloud of glittering particles impregnated with negative psychic energies in the immediate vicinity. This has severely warp-dampening effects that can completely cut off daemons and witches from their source of power, making it often the first (or last...) recourse for those who would persecute these eternal enemies of mankind. However, a psyk-out grenade's effects can be wildly unpredictable - only a fool would trust one to bring a rogue psyker to his knees entirely by itself.
 
 A psyk-out grenade's Blast extends out 1d10+3 metres. Any creature with a Psy Rating caught in the blast area, or who enters into the dust field before it becomes inert, must make a Very Hard (-30) Willpower Test. On failure, the affected target's Psy Rating is reduced by 1, plus an additional Rating for each Degree of Failure. Psy Rating lost in this fashion returns at a rate of 1 Rating every six hours. If a the affected target loses 2 or more Psy Rating from this effect, it also suffers Psychic Phenomena automatically any time it manifests a psychic power until its Psy Rating is fully restored. As an additional effect, the dust left behind by a psyk-out grenade remains active in suppressing warp energies any attempts to manifest a psychic power or make Psyniscience Tests within its affected area automatically fail, and daemons and other warp creatures must Test for Warp Instability each time they suffer Damage. The dust's effect fades after 5 Rounds; it clings tenaciously to surfaces within the area, making it essentially impossible to disperse any faster.
 
-#### Rad Grenade
+### Rad Grenade
 Used With: Thrown
 
 Frighteningly insidious yet effective weapons, a rad grenade releases a sharp burst of powerful ionising radiation that can pierce heavy armour and cover with ease, while unprotected victims are further subject to painful burns on the skin. The grenade itself is an entirely unremarkable affair save for charitable warning symbols as to its terrible effects, and doesn't detonate so much as merely "open" when releasing its malignant payload. There is little visual effect, though auspex, IR goggles, and photovisors along with similar equipment are briefly blinded by the streaming waves of deadly particles. Alone, a single rad grenade is unlikely to kill unless its victims are of a more frail constitution, but the sickening secondary effects can linger for days as well as cause growth of potentially lethal tumours in the long term. Using any kind of subcritical isotropic pile as a weapon can be perilously hazardous, however, and even slight misalignments in the radioactive contents can result in an unfortunately premature release.
 
 A rad grenade deals both direct Damage while also savaging the vitals of its victims. Characters caught within the rad grenade's blast must pass a Hard (-20) Toughness Test or suffer 2d10 Toughness Damage. Failure by three or more Degrees results in the Damage being permanent. This additional Damage ignores cover that is not made of a shielded material and can even affect targets on the other side of some walls. Characters who are heavily shielded against radiation, such as wearing a suit of engine plating or a Tech-Priest with the Machine trait, may be immune to the Toughness Damage. If an attack with a rad grenade results in a Jam, it is always considered to have rolled a result of "BOOM!" on the Explosives Mishaps chart.
 
-#### Smoke Grenadeu
+### Smoke Grenadeu
 Used With: Thrown, GL, RPG
 
 A more basic form of blind grenades, these simply generate a voluminous cloud of coloured smoke that obscures vision and little more. Smoke grenades can be useful for signalling friendly forces from a great distance, while kill teams equipped with IR goggles and auspex can make use of a smoke grenade to confuse and hinder an opposing force that lacks such equipment. Smoke grenades are cheap and easy to manufacture, and can produce a variety of colours for signalling purposes.
 
-#### Starflare Grenade
+### Starflare Grenade
 Used With: GL, RPG
 
 Starflare grenades contain a powerful longburning pyrotechnic charge that is intended to provide illumination to dark areas. When fired into the air a starflare grenade ignites at the top of its path and deploys a small parachute. It takes about one minute for a starflare grenade to return to the ground, during which time it provides bright illumination in a 100 metre radius and shadowy illumination a further 100 metres beyond that.
 
 If fired directly at a character, a starflare grenade uses the listed Damage and Penetration values, and the target must succeed on a Challenging (+0) Agility Test or be set on fire.
 
-#### Stunner Grenade
+### Stunner Grenade
 Used With: Thrown
 
 This grenade carries a gas that disorients its victims through neurological bio-agents that cause a stupefying effect but no actual physical harm. Covert operatives and well-equipped thieves make use of these devices in situations where no permanent harm is required or it is more desirable to leave opponents temporarily incapacitated. Stunner grenades are weapons of opportunity and are ineffective against opponents wearing any kind of protective gear, as more than a few would-be professionals have found out the hard way. Anyone within the blast area of a stunner grenade must succeed on an Ordinary (+10) Toughness Test or be Stunned for 1 Round plus a number of Rounds equal to the Degrees of Failure of the Test.
 
-#### Terror Grenade
+### Terror Grenade
 Used With: Thrown, GL
 
 An eccentric weapon to say the least, terror grenades are loaded with a fast-acting psychotropic aerosol that begins affecting its victims on contact with the skin. Those who succumb to its effects begin experiencing intense feelings of dread and paranoia, which can be more debilitating than choke gas on those who have a less than steely reserve. However, a terror grenade's effects are anything but consistent, and what sends some men into gibbering wrecks does little more than annoy others. As a result, this type of weapon is only rarely employed by "legitimate" users, such as local enforcer cadres or troopers of the Adeptus Arbites. Meanwhile, raiders, pirates, insurrectionists, and other assorted scummers who value fear as a weapon in and of itself tend to be perfectly content with the unpredictable results if it means they can traumatize their opponents into submission.
 
 All characters within a terror grenade's blast must succeed on a Difficult (-10) Toughness Test or suffer intense distress as though they had failed a Fear Test; as normal, add +10 to the roll on the Shock Table for each Degree of Failure. Wearing filtration plugs, a gas mask or rebreather offers no benefit against a terror grenade, though sealed armour still provides immunity to its effects. Traits or talents that grant a bonus on Tests against Fear or Poison apply as usual, and a terror grenade is obviously useless against a character with the Fearless talent or Machine trait.
 
-#### Thermal Grenade
+### Thermal Grenade
 Used With: Thrown, GL, RPG
 
 Also known as inferno grenades, this powerful weapon uses an incendiary fuel mixture designed to violently melt its sturdy outer casing, with a subsequent explosion that causes liquefied metal shards to fill the blast area. While they are not as powerful as a melta-bomb, they are easier to handle and use, and offer a wider area of destruction that can easily ignite enclosed areas into blazing conflagrations. They can also burn down most barricades and lesser internal structures, and are often used by suppression teams during uprisings for just that purpose. In a bind, a thermal grenade can be employed in sabotaging equipment as the high-intensity heat can warp metal. Anyone caught within a thermal grenade's blast must succeed on a Challenging (+0) Agility Test or be set on fire.
 
-#### Toxin Grenade
+### Toxin Grenade
 Used With: Thrown, GL
 
 Deadly and fast-acting chemicals, viral agents, and other unpleasant substances fill these bloated-looking grenades. The toxic cocktail is specially formulated to permeate through a victim's skin as well as their respiratory system, and can even seep through light protective gear. As a result they can be just as dangerous to the user as their target since only the best protection can offer immunity to its effects.
 
 Any characters caught within a toxin grenade's blast area must succeed on a Difficult (-10) Toughness Test or suffer 2d10+4 Impact Damage with the Toxic quality. This Damage is not reduced by Armour or Toughness. Gas masks provide a +10 bonus to this Test while rebreathers offer a +20 bonus; both allow a reroll on a failed test. Filtration plugs are totally useless as the toxins can still attack through the mouth and eyes. Only sealed armour can offer total protection – characters wearing such a suit are effectively immune to a toxin grenade's effects.
 
-#### Virus Grenade
+### Virus Grenade
 Used With: Thrown, GL
 
 This grenade houses a tiny sample of the horrific life-eater virus culture that was once used (in much greater quantities) as a tool to execute an Exterminatus on a condemned world. Though far weaker and designed to burn out on its own after a short while, the effects of a virus grenade are still terrible as organic matter is reduced to a sickening sludge, its victims only capable of watching in horror as their bodies slough off in great sheets. Once loose, a virus breaks down biological systems in mere moments before leaping to a new victim, leaving little more than sticky puddles of putrefied waste in its wake.
 
 Anyone caught within a virus grenade's blast area who is not wearing sealed armour automatically takes the listed Damage with no reduction for Armour or Toughness. Each character who takes Damage from a virus grenade allows the virus to propagate further, and any previously-unaffected targets within 1d5 metres of them are then attacked by it as above. This process continues until there are no victims left for the virus to attack or 1d5+5 Rounds have passed from the virus grenade's initial use, after which it mutates into a harmless strain.
 
-#### Web Grenade
+### Web Grenade
 Used With: Thrown, GL
 
 A web grenade is really little more than a highly compressed webber canister which splits open while still in flight, showering the area around it with a cascade of sticky web filaments as though the area had been hit by a webber attack. Although they can easily be thrown, the principal use is typically via a launcher as a means to circumvent the very low clip capacity of most web weapons.
 
 See the section on Exotic Weapons for more information on the use of web weapons.
-### Frag Missile/Shell
+### Frag Missile/Shell List
 
 | Missiles and Shells |           |     |                     |       |      |              |
 | ------------------- | --------- | --- | ------------------- | ----- | ---- | ------------ |
 | Name                | Dam       | Pen | Special             | Wt    | Cost | Availability |
-| Frag                | 2d10+2 X  | 4   | Blast (6)           | 1kg   | 75   | Average      |
+| [[#Frag             | 2d10+2 X  | 4   | Blast (6)           | 1kg   | 75   | Average      |
 | Krak                | 3d10+10 X | 10  | -                   | 1.5kg | 150  | Scarce       |
 | Minefield           | 2d10 X    | 1   | Blast (1)           | 2kg   | 100  | Rare         |
 | Scatter             | Special   | 0   | Blast (10)          | 3kg   | 175  | Very Rare    |
