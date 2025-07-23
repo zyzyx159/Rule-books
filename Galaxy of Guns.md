@@ -1915,20 +1915,20 @@ Basic hand weapons are a common sight throughout the Imperium and beyond, and in
 | Name                                                     | Class              | Dam         | Pen | Special                                      | Wt     | Cost | World      | Availability |     |
 | -------------------------------------------------------- | ------------------ | ----------- | --- | -------------------------------------------- | ------ | ---- | ---------- | ------------ | --- |
 | [[#Armored Gauntlet]]                                    | Melee              | 1d5 I       | 0   | [[#Primitive]]                               | 0.5kg  | 35   | -          | Common       |     |
-| [[#Axe]]                                                 | Melee              | 1d10+1 R    | 0   | [[#Primitive]], Unbalanced                   | 4kg    | 10   | -          | Scarce       |     |
+| [[#Axe]]                                                 | Melee              | 1d10+1 R    | 0   | [[#Primitive]], [[#Unbalanced]]              | 4kg    | 10   | -          | Scarce       |     |
 | [[#Bastard Sword]] †                                     | Melee              | 1d10+1 R    | 1   | [[#Primitive]]                               | 5kg    | 40   | Feudal     | Scarce       |     |
 | [[#Boarding Pike]] †                                     | Melee              | 1d10+3 X    | 2   | Special                                      | 4kg    | 30   | Void       | Common       |     |
 | [[#Brass Knuckles]]                                      | Melee              | 1d5-1 I     | 0   | [[#Primitive]]                               | 0.5kg  | 5    | -          | Plentiful    |     |
-| [[#Buckler]]                                             | Melee              | 1d5-2 I     | 0   | Balanced, [[#Primitive]]                     | 1kg    | 30   | Feudal     | Common       |     |
+| [[#Buckler]]                                             | Melee              | 1d5-2 I     | 0   | [[#Balanced]], [[#Primitive]]                | 1kg    | 30   | Feudal     | Common       |     |
 | [[#Club]]                                                | Melee              | 1d10 I      | 0   | [[#Primitive]]                               | 2kg    | 5    | -          | Abundant     |     |
-| [[#Falchion]]                                            | Melee              | 2d5+1 R     | 0   | [[#Primitive]], Unbalanced                   | 2.5kg  | 20   | -          | Average      |     |
-| [[#Flail]]                                               | Melee              | 1d10+2 I    | 0   | Flexible, [[#Primitive]]                     | 4kg    | 20   | Feudal     | Scarce       |     |
-| [[#Great Weapons]] †                                     | Melee              | 2d10 R or I | 2   | [[#Primitive]], Unwieldy                     | 7kg    | 70   | Feudal     | Rare         |     |
-| [[#Hammer]]                                              | Melee              | 1d10+1 I    | 0   | [[#Primitive]], Unbalanced                   | 4kg    | 10   | -          | Common       |     |
-| - [[#Great Hammer]] †                                    | Melee              | 1d10+4 I    | 2   | Unwieldy                                     | 8kg    | 70   | Imperial   | Average      |     |
-| - [[#Percussion Mallet]]                                 | Melee              | 1d10+3 I††  | 5   | Unwieldy                                     | 5kg    | 3000 | Forge      | Average      |     |
+| [[#Falchion]]                                            | Melee              | 2d5+1 R     | 0   | [[#Primitive]], [[#Unbalanced]]              | 2.5kg  | 20   | -          | Average      |     |
+| [[#Flail]]                                               | Melee              | 1d10+2 I    | 0   | [[#Flexible]], [[#Primitive]]                | 4kg    | 20   | Feudal     | Scarce       |     |
+| [[#Great Weapons]] †                                     | Melee              | 2d10 R or I | 2   | [[#Primitive]], [[#Unwieldy]]                | 7kg    | 70   | Feudal     | Rare         |     |
+| [[#Hammer]]                                              | Melee              | 1d10+1 I    | 0   | [[#Primitive]], [[#Unbalanced]]              | 4kg    | 10   | -          | Common       |     |
+| - [[#Great Hammer]] †                                    | Melee              | 1d10+4 I    | 2   | [[#Unwieldy]]                                | 8kg    | 70   | Imperial   | Average      |     |
+| - [[#Percussion Mallet]]                                 | Melee              | 1d10+3 I††  | 5   | [[#Unwieldy]]                                | 5kg    | 3000 | Forge      | Average      |     |
 | - [[#Warhammer]]                                         | Melee              | 1d10+2 I    | 1   | [[#Primitive]]                               | 2kg    | 35   | -          | Common       |     |
-| [[#Improvised Weapon]]                                   | Melee              | 1d10-2 I    | 0   | [[#Primitive]], Unbalanced                   | Varies | -    | -          | Abundant     |     |
+| [[#Improvised Weapon]]                                   | Melee              | 1d10-2 I    | 0   | [[#Primitive]], [[#Unbalanced]]              | Varies | -    | -          | Abundant     |     |
 | [[#Knife]]                                               | Melee/Thrown (3m)  | 1d5 R       | 0   | [[#Primitive]]                               | 0.5kg  | 5    | -          | Abundant     |     |
 | - [[#Bolo Knife]]                                        | Melee              | 2d5 R       | 2   | -                                            | 2kg    | 50   | Malfi      | Common       |     |
 | - [[#Combat Knife]]                                      | Melee              | 1d5+3 R     | 0   | [[#Primitive]]                               | 3kg    | 40   | -          | Average      |     |
@@ -1956,10 +1956,10 @@ Basic hand weapons are a common sight throughout the Imperium and beyond, and in
 | [[#Sword]]                                               | Melee              | 1d10 R      | 0   | [[#Balanced]], [[#Primitive]]                | 2.5kg  | 15   | -          | Common       |     |
 | - [[#Fervious Long-Sabre\|Long-Sabre]] †                 | Melee              | 1d10+2 R    | 2   | [[#Balanced]], [[#Primitive]]                | 3kg    | 100  | Fervious   | Very Rare    |     |
 | - [[#Quicksilver Sword]]                                 | Melee              | 1d10+2 R    | 0   | [[#Balanced]], [[#Primitive]]                | 2kg    | 500  | Balecaster | Rare         |     |
-| - [[#Reliquary Blade]]                                   | Melee              | 1d10+2 R    | 3   | [[#Balanced]], [[#Sanctified                 | 3kg    | 3000 | -          | Very Rare    |     |
-| - [[#Landrian Render\|Render]]                           | Melee              | 1d5+1 R     | 0   | [[#Primitive]], Tearing                      | 1.2kg  | 50   | Landunder  | Rare         |     |
+| - [[#Reliquary Blade]]                                   | Melee              | 1d10+2 R    | 3   | [[#Balanced]], [[#Sanctified Weapon]]        | 3kg    | 3000 | -          | Very Rare    |     |
+| - [[#Landrian Render\|Render]]                           | Melee              | 1d5+1 R     | 0   | [[#Primitive]], [[#Tearing]]                 | 1.2kg  | 50   | Landunder  | Rare         |     |
 | - [[#Sabre]]                                             | Melee              | 1d10 R      | 0   | [[#Balanced]], [[#Primitive]]                | 2kg    | 15   | -          | Common       |     |
-| - [[#Short Sword                                         | Melee              | 1d10-1 R    | 0   | [[#Primitive]]                               | 1.5kg  | 10   | -          | Common       |     |
+| - [[#Short Sword]]                                       | Melee              | 1d10-1 R    | 0   | [[#Primitive]]                               | 1.5kg  | 10   | -          | Common       |     |
 † _Requires two hands to be used effectively_
 †† _Add twice the wielder's Strength Bonus to Damage_
 #### Armored Gauntlet
@@ -2182,15 +2182,15 @@ Chain weapons are popular amongst many warriors in the 41st Millennium as most r
 
 ### Chain Weapon List
 
-| Name          | Class          | Dam       | Pen | Special                    | Wt    | Cost  | World | Availability |
-| ------------- | -------------- | --------- | --- | -------------------------- | ----- | ----- | ----- | ------------ |
-| Chainsword    | Melee          | 1d10+2 R  | 2   | Balanced, Tearing          | 6kg   | 275   | -     | Scarce       |
-| - Drusian     | Melee          | 1d10 R    | 2   | Balanced, Fast, Tearing    | 7kg   | 250   | -     | Average      |
-| - Locke       | Melee          | 1d10+5 R  | 2   | Special, Tearing           | 6kg   | 400   | -     | Scarce       |
-| Chain Axe     | Melee          | 1d10+4 R  | 2   | Tearing                    | 13kg  | 450   | -     | Rare         |
-| Chain Knife   | Melee          | 1d5+3 R   | 2   | Tearing                    | 2.5kg | 80    | Hive  | Scarce       |
-| Crimson Crown | Thrown (SBx4m) | 1d10+2 R  | 2   | Special, Tearing           | 0.5kg | 2,000 | -     | Very Rare    |
-| Eviscerator † | Melee          | 1d10+10 R | 5   | Special, Tearing, Unwieldy | 12kg  | 750   | -     | Rare         |
+| Name                                          | Class          | Dam       | Pen | Special                    | Wt    | Cost  | World | Availability |
+| --------------------------------------------- | -------------- | --------- | --- | -------------------------- | ----- | ----- | ----- | ------------ |
+| [[#Chainsword]]                               | Melee          | 1d10+2 R  | 2   | [[#Balanced]], Tearing     | 6kg   | 275   | -     | Scarce       |
+| - [[#Drusian "Crusader" Chainsword\|Drusian]] | Melee          | 1d10 R    | 2   | Balanced, Fast, Tearing    | 7kg   | 250   | -     | Average      |
+| - [[#Locke-Pattern Chainsword\|Locke]]        | Melee          | 1d10+5 R  | 2   | Special, Tearing           | 6kg   | 400   | -     | Scarce       |
+| [[#Chain Axe]]                                | Melee          | 1d10+4 R  | 2   | Tearing                    | 13kg  | 450   | -     | Rare         |
+| [[#Chain Knife]]                              | Melee          | 1d5+3 R   | 2   | Tearing                    | 2.5kg | 80    | Hive  | Scarce       |
+| [[#Crimson Crown]]                            | Thrown (SBx4m) | 1d10+2 R  | 2   | Special, Tearing           | 0.5kg | 2,000 | -     | Very Rare    |
+| [[#Eviscerator]] †                            | Melee          | 1d10+10 R | 5   | Special, Tearing, Unwieldy | 12kg  | 750   | -     | Rare         |
 
 † Requires two hands to be used effectively
 #### Chainsword
