@@ -246,18 +246,8 @@ All powers use the following format.
 
 Minor Psychic Powers are tricks and knacks that those with even a shadow of psychic ability can learn. They are nothing compared to the "true" Disciplines, but are useful nonetheless.
 
-# **Call Creatures**
-
-| Threshold:  | 9           |
-|-------------|-------------|
-| Focus Time: | Full Action |
-| Sustained:  | No          |
-| Range:      | 1 km radius |
-
-You call a number of simple-minded creatures within range to travel to your location. Creatures called depend on the nature of the environment, though the sorts of creatures called may include rats, ash slugs and other
-
 | Table 6–4: Minor Psychic Powers |           |             |         |
-|---------------------------------|-----------|-------------|---------|
+| ------------------------------- | --------- | ----------- | ------- |
 | Name                            | Threshold |             | Sustain |
 | Call Creatures                  | 9         | Full Action | No      |
 | Call Item                       | 5         | Half Action | No      |
@@ -291,8 +281,15 @@ You call a number of simple-minded creatures within range to travel to your loca
 | Weapon Jinx                     | 8         | Full Action | No      |
 | White Noise                     | 8         | Full Action | Yes     |
 | Wither                          | 6         | Full Action | No      |
+# **Call Creatures**
 
-kinds of vermin. If no such creatures are likely to be in the area, the power has no effect. Under most circumstances, 1d10 such creatures appear after 2d10 minutes have passed. The creatures are not compelled to serve the Psyker; they simply appear and behave as normal for their species.
+| Threshold:  | 9           |
+|-------------|-------------|
+| Focus Time: | Full Action |
+| Sustained:  | No          |
+| Range:      | 1 km radius |
+
+You call a number of simple-minded creatures within range to travel to your location. Creatures called depend on the nature of the environment, though the sorts of creatures called may include rats, ash slugs and other kinds of vermin. If no such creatures are likely to be in the area, the power has no effect. Under most circumstances, 1d10 such creatures appear after 2d10 minutes have passed. The creatures are not compelled to serve the Psyker; they simply appear and behave as normal for their species.
 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you extend the powers Range by 1km.
 
@@ -643,6 +640,19 @@ Psychic Discipline reflect a deeper understanding of a Psyker's capabilities and
 
 Biomancers specialise in manipulating bio-electrical energy with their minds. They are masters of the flesh, learning to shape and direct their bodies according to their wills. Biomancers are often considered venal souls. Most are viewed with no small amount of jealousy, as they freely feast and drink, yet maintain a healthy, toned physique.
 
+| Table 6–5: Biomancy Powers |           |             |         |
+| -------------------------- | --------- | ----------- | ------- |
+| Name                       | Threshold | FocusTime   | Sustain |
+| Bio-lightning              | 14        | Half Action | No      |
+| Blood Boil                 | 19        | Half Action | Yes     |
+| Cellular Control           | 16        | Half Action | Yes     |
+| Constrict                  | 13        | Half Action | No      |
+| Enhance Senses             | 10        | Half Action | Yes     |
+| Hammerhand                 | 15        | Full Action | Yes     |
+| Regenerate                 | 23        | Full Action | Yes     |
+| Seal Wounds                | 10        | Half Action | No      |
+| Shape Flesh                | 19        | Full Action | Yes     |
+| Toxic Siphon               | 11        | Half Action | No      |
 # **Bio-lightning**
 
 | Threshold:  | 14          |
@@ -666,20 +676,6 @@ You channel your life force through the meridians of your body, causing your for
 With a rhythmic crushing gesture, you tune into an enemy's body, flexing their heart muscles to accelerate their pulse. This continues until their blood pressure reaches lethal levels. As you continue to exert your will, blood vessels begin to rupture, causing haemorrhaging across the target's body. Each Round (including the Round in which the power manifests), you may spend a Half Action to make an Opposed Test, pitting your Willpower against your target's Toughness. If you win the Test, your opponent takes one level of Fatigue plus one level of Fatigue per degree of success, until he collapses un-conscious. Each level of Fatigue beyond those that the target can take deals 5 Damage instead. Should Damage equal the target's Wounds, their heart and brain explodes, showering gore around.
 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you gain a +10 bonus on your Opposed Willpower Tests.
-
-| Table 6–5: Biomancy Powers |           |               |         |
-|----------------------------|-----------|---------------|---------|
-| Name                       | Threshold | FocusTime | Sustain |
-| Bio-lightning              | 14        | Half Action   | No      |
-| Blood Boil                 | 19        | Half Action   | Yes     |
-| Cellular Control           | 16        | Half Action   | Yes     |
-| Constrict                  | 13        | Half Action   | No      |
-| Enhance Senses             | 10        | Half Action   | Yes     |
-| Hammerhand                 | 15        | Full Action   | Yes     |
-| Regenerate                 | 23        | Full Action   | Yes     |
-| Seal Wounds                | 10        | Half Action   | No      |
-| Shape Flesh                | 19        | Full Action   | Yes     |
-| Toxic Siphon               | 11        | Half Action   | No      |
 
 # **Cellular Control**
 
@@ -795,6 +791,19 @@ You draw poisons from the flesh. This has the same effect as taking a dose of de
 
 Diviners seek to discern the hidden past and know the course of future events. Their abilities allow them to look into the immaterium to find the answers they seek. Their art is horribly taxing, though. The warp lies heavy on diviners; many of them are morose and sullen individuals. Insanity is common amongst their ranks. Divination is the most widely known Psychic Discipline, mainly due to use of the Emperor's Tarot.
 
+| Table 6–6: Divination Powers |           |             |         |
+| ---------------------------- | --------- | ----------- | ------- |
+| Name                         | Threshold | FocusTime   | Sustain |
+| Divine Shot                  | 15        | Free Action | No      |
+| Dowsing                      | 11        | Full Action | Yes     |
+| Far Sight                    | 17        | Full Action | Yes     |
+| Glimpse                      | 18        | Half Action | No      |
+| PrecognitiveDodge            | 11        | Free Action | No      |
+| PrecognitiveStrike           | 17        | Free Action | No      |
+| PreternaturalAwareness       | 9         | Half Action | Yes     |
+| Psychometry                  | 16        | Full Action | Yes     |
+| PersonalAugury               | 14        | Full Action | No      |
+| Soul Sight                   | 23        | Full Action | Yes     |
 # **Divine Shot**
 
 | Threshold:  | 15          |
@@ -814,20 +823,6 @@ Using this power enables you to make near impossible ranged shots, allowing you 
 | Range:      | You         |
 
 By focusing his mind the diviner can single out an object or person somewhere in his immediate vicinity, pushing aside all other distractions until he can unerringly find it. First the Psyker must choose an item or person to be the subject of the power. This can be anything, but it must be a specific item. So for instance, the Psyker could say, "I want to know where the key to this lock is" but not "I want to know where a key is". Likewise with a person, the Psyker must have either seen them before (possibly remotely or in a pict) or know their name. Simply trying to find the person who murdered the governor, for example, will not work.
-
-| Table 6–6: Divination Powers |           |               |         |
-|------------------------------|-----------|---------------|---------|
-| Name                         | Threshold | FocusTime | Sustain |
-| Divine Shot                  | 15        | Free Action   | No      |
-| Dowsing                      | 11        | Full Action   | Yes     |
-| Far Sight                    | 17        | Full Action   | Yes     |
-| Glimpse                      | 18        | Half Action   | No      |
-| PrecognitiveDodge        | 11        | Free Action   | No      |
-| PrecognitiveStrike       | 17        | Free Action   | No      |
-| PreternaturalAwareness   | 9         | Half Action   | Yes     |
-| Psychometry                  | 16        | Full Action   | Yes     |
-| PersonalAugury           | 14        | Full Action   | No      |
-| Soul Sight                   | 23        | Full Action   | Yes     |
 
 Once the Psyker has chosen his subject, he makes a Pysniscience Test. The following factors modify this roll:
 
