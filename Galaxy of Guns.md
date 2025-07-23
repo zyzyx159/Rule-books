@@ -1682,51 +1682,52 @@ A web grenade is really little more than a highly compressed webber canister whi
 See the section on Exotic Weapons for more information on the use of web weapons.
 ### Frag Missile/Shell List
 
-| Missiles and Shells |           |     |                     |       |      |              |
-| ------------------- | --------- | --- | ------------------- | ----- | ---- | ------------ |
-| Name                | Dam       | Pen | Special             | Wt    | Cost | Availability |
-| [[#Frag             | 2d10+2 X  | 4   | Blast (6)           | 1kg   | 75   | Average      |
-| Krak                | 3d10+10 X | 10  | -                   | 1.5kg | 150  | Scarce       |
-| Minefield           | 2d10 X    | 1   | Blast (1)           | 2kg   | 100  | Rare         |
-| Scatter             | Special   | 0   | Blast (10)          | 3kg   | 175  | Very Rare    |
-| Starflare           | -         | -   | Special             | 1kg   | 60   | Scarce       |
-| TunnellingTorpedo   | 2d10+3 X  | 2   | Blast (4), Shocking | 3kg   | 200  | Very Rare    |
-| Web                 | -         | -   | Blast (6), Snare    | 2kg   | 200  | Rare         |
+| Missiles and Shells                     |           |     |                                          |       |      |              |
+| --------------------------------------- | --------- | --- | ---------------------------------------- | ----- | ---- | ------------ |
+| Name                                    | Dam       | Pen | Special                                  | Wt    | Cost | Availability |
+| [[#Frag Missile/Shell\|Frag]]           | 2d10+2 X  | 4   | [[#Blast (X)\|Blast]] (6)                | 1kg   | 75   | Average      |
+| [[#Krak Missile\|Krag]]                 | 3d10+10 X | 10  | -                                        | 1.5kg | 150  | Scarce       |
+| [[#Minefield Missile/Shell\|Minefield]] | 2d10 X    | 1   | [[#Blast (X)\|Blast]] (1)                | 2kg   | 100  | Rare         |
+| [[#Scatter Missile/Shell\|Scatter]]     | Special   | 0   | [[#Blast (X)\|Blast]] (10)               | 3kg   | 175  | Very Rare    |
+| [[#Starflare Shell\|Starflare]]         | -         | -   | Special                                  | 1kg   | 60   | Scarce       |
+| [[#Tunnelling Torpedo]]                 | 2d10+3 X  | 2   | [[#Blast (X)\|Blast]] (4), [[#Shocking]] | 3kg   | 200  | Very Rare    |
+| [[#Web Missile\|Web]]                   | -         | -   | [[#Blast (X)]] (6), Snare                | 2kg   | 200  | Rare         |
 ​
-#### Used With: Missile Launcher/Mortar
+#### Frag Missile/Shell
+Used With: Missile Launcher/Mortar
 
 A large-size fragmentation device meant to obliterate exposed enemies. Frag missiles and shells are fairly similar to one another, each incorporating what looks like an inflated frag grenade attached to a rocket motor or propellant charge depending on which launcher will be firing it. The greatly increased explosive charge as well as shrapnel quantity makes a blast from a frag round far more deadly, even for well-armoured targets. Although they use the same warhead, frag missiles and shells are not interchangeable.
 
-##### Krak Missile
+#### Krak Missile
 Used With: Missile Launcher
 
 Krak missiles offer superb armour penetration thanks to their very large focusing charge and a detonator rod in the nose that ignites the warhead at the optimum moment to ensure maximum destruction of the target. Krak missiles are typically used against enemy tanks due to their ability to defeat even heavy armour, but they also make fine choices to demolish bunkers and create openings in buildings too.
 
-##### Minefield Missile/Shell
+#### Minefield Missile/Shell
 Used With: Missile Launcher/Mortar
 
 This type of weapon is a handy method to quickly and safely deploy a large number of mines at once. Minefield rounds are designed to explode at a pre-determined point along their trajectory and shower the ground with tiny submunitions that arm on impact and patiently wait until an unfortunate victim walks across them. Minefield rounds are thus an easy way to deny access to a given area to opposing forces, and can be used defensively to set up an explosive cordon around a strategic location.
 
 Minefield rounds saturate the ground with miniature mines in a 10 metre radius from their point of landing. Anything passing through this area that is larger than Puny sets off mines which attack with the listed values, once for every metre the trespasser attempts to move through the area. Each 1 metre area of the minefield has sufficient mines to attack 5 times before all mines are expended. Aside from using specialized mine removal equipment, mines can be quickly cleared away by attacks from weapons with the Flame quality.
 
-##### Scatter Missile/Shell
+#### Scatter Missile/Shell
 Used With: Missile Launcher/Mortar
 
 Also known as cluster bombs, rounds of this type spread a large amount of grenade-sized bomblets over a huge area, and timely deployment of a scatter round can utterly obliterate an entire enemy company at once. The sound of dozens upon dozens of bomblets going off in sequence is more akin to the report of a Vulcan Mega-bolter than any explosive, and the only thing more satisfying than the sight of the round's detonation is observing the total carnage left behind on one's enemies.
 
 A scatter shell deploys bomblets equivalent to a frag grenade into every 1 metre area within its blast area. These are considered multiple attacks for the purposes of attempting to avoid the individual blasts.
 
-##### Starflare Shell
+#### Starflare Shell
 Used With: Mortar
 
 This is an extremely scaled-up version of a starflare grenade and works on roughly the same principles. After exploding at altitude, a starflare shell provides bright illumination in a 300 metre radius and shadowy illumination out to a total of 500 metres, and takes roughly five minutes to burn out as it nears the ground.
 
-##### Tunnelling Torpedo
+#### Tunnelling Torpedo
 Used With: Mole Mortar
 
 A specialty munition to be certain, a tunnelling torpedo is designed to be used with a mole mortar. Once fired it uses a powerful boring drill backed up by a miniature power field to rapidly tunnel through earth, stone, and anything else that might be in its way before reversing course and exploding just beneath the feet of its unsuspecting victims.
 
-##### Web Missile
+#### Web Missile
 Used With: Missile Launcher
 
 Instead of an explosive payload, a web missile's distended body contains a brace of webber canisters that are scattered over a wide area while the missile is still airborne, ensuring a very generous dispersion of sticky web filaments. While less precise than a webber and ill-suited for close quarters or indoors use, a missile launcher armed with a web missile represents a very efficient means to immobilize a group of enemies at once from far outside the effective range of other web weapons. Further, the choice of a missile as the delivery means can create other opportunities for a creative shooter, such as sending one through an open window into a room full of miscreants and scraping the whole mess out at once to sort out at leisure.
