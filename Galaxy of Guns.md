@@ -2413,7 +2413,7 @@ Like their ranged counterparts, exotic melee weapons cover a wide range of devic
 | [[#Coil Whip]]                                      | Melee      | 1d10+5 E   | 4   | [[#Flexible]], [[#Shocking]]                         | 3kg   | 600    | Lathes    | Very Rare     |
 | [[#Penolpass Double Flail\|Double Flail]] †         | Melee      | 1d10 I     | 0   | [[#Balanced]], [[#Flexible]], [[#Primitive]]         | 4kg   | 28     | Penolpass | Scarce        |
 | [[#Sollex-Aegis Energy Blade\|Energy Blade]]        | Melee      | 1d10+6 E†† | 7   | [[#Balanced]], [[#Power Field]]                      | 1kg   | 5,000  | Forge     | Very Rare     |
-| [[#Forearm Power Blade]]                            | Melee      | 1d10+1 E   | 4   | [[#Balanced]], Defensive, [[#Power Field]]           | 1.5kg | 2,200  | -         | Very Rare     |
+| [[#Forearm Power Blade]]                            | Melee      | 1d10+1 E   | 4   | [[#Balanced]], [[#Defensive]], [[#Power Field]]      | 1.5kg | 2,200  | -         | Very Rare     |
 | [[#Fractal Sword]]                                  | Melee      | 1d10+1 R   | 8   | [[#Balanced]]                                        | 1kg   | 10,000 | -         | ExtremelyRare |
 | [[#Garrotte]] †                                     | Melee      | 1d10 R     | 0   | [[#Flexible]], [[#Primitive]], [[#Unwieldy]]         | 0.5kg | 30     | Hive      | Scarce        |
 | [[#Groxwhip]]                                       | Melee (3m) | 1d10+3 R   | 0   | [[#Flexible]], [[#Primitive]], [[#Tearing]], Special | 4kg   | 45     | -         | Scarce        |
@@ -2421,7 +2421,7 @@ Like their ranged counterparts, exotic melee weapons cover a wide range of devic
 | [[#Acreage Lightning Gauntlet\|Lightning Gauntlet]] | Melee      | 1d10 I     | 0   | [[#Primitive]], [[#Shocking]]                        | 2kg   | 80     | Acreage   | Very Rare     |
 | [[#Sieve Blade]]                                    | Melee      | 1d10-1 R   | 0   | [[#Primitive]]                                       | 0.5kg | 200    | -         | Rare          |
 | [[#Soft Sword]]                                     | Melee      | 1d10 R     | 2   | [[#Balanced]]                                        | 1.5kg | 400    | -         | Rare          |
-| [[#Vivisector]]                                     | Melee      | 1d5+5 R    | 4   | [[#Tearing]], Unwieldy                               | 1.5kg | 650    | Forge     | Rare          |
+| [[#Vivisector]]                                     | Melee      | 1d5+5 R    | 4   | [[#Tearing]], [[#Unwieldy]]                          | 1.5kg | 650    | Forge     | Rare          |
 † _Requires two hands to be used effectively_
 ††  _Do not add the wielder's Strength Bonus to Damage with this weapon_
 #### Arc-Welder
@@ -2520,72 +2520,74 @@ A Vivisector grants the wielder a +10 bonus to Medicae Tests for the purposes of
 
 # Upgrades
 
+## Upgrade information
 While a weapon is only as efficient as its wielder – whose performance in combat is no better than his faith in the Emperor – various types of modifications and additional equipment can be used to augment this to some extent. Upgrades enhance the performance or capability of a weapon in some way, and can perform a variety of functions. Upgrading a weapon requires a successful Trade (Armourer) Test, whose difficulty depends on the upgrade itself. Trade (Technomat) can be used instead, but the difficulty increases by two steps.
 
 The cost and availability of each upgrade refers to the component itself, not the cost of attaching it. Characters that can't perform that work will usually have to pay separately for an armourer to do the labour. Some weapons may already have one or more upgrades already installed; in this case, simply add the cost of the upgrade to the weapon's cost. An upgrade may modify a weapon's weight as well. Upgrades usually do not modify a weapon's availability, although especially rare ones may be an exception at the GM's discretion.
 
-| Weapons Upgrades                                                               |         |         |      |                |
-| ------------------------------------------------------------------------------ | ------- | ------- | ---- | -------------- |
-| Name                                                                           | Weight  | Cost    | Test | Availability   |
-| Backpack Ammo Pack                                                             | +25kg   | 100     | +10  | Rare           |
-| Bipod                                                                          | +2kg    | 10      | +30  | Average        |
-| Calamity Vent                                                                  | +0.5kg  | 250     | +0   | Very Rare      |
-| Combi-Weapon                                                                   | Special | Special | -20  | Special        |
-| Combi-Weapon (Military)                                                        | Special | Special | +0   | Special        |
-| Compact                                                                        | x 1/2   | 50      | +0   | Average        |
-| Dipole Mag-Lock                                                                | +0.5kg  | 75      | +30  | Average        |
-| Duplus Ammo Clips                                                              | -       | 10      | -    | Scarce         |
-| Exterminator                                                                   | +1kg    | 35      | +30  | Common         |
-| Exterminator Cartridge                                                         | +0.5kg  | 50      | +30  | Average        |
-| Extra Grip                                                                     | +0.5kg  | 25      | +10  | Average        |
-| Fire Selector                                                                  | +0.5kg  | 50      | +20  | Scarce         |
-| Force Weapon                                                                   | -       | 3,500   | -20  | Very Rare      |
-| Forearm Weapon Mount                                                           | +1kg    | 300     | +0   | Scarce         |
-| Gene-Lock Circuit                                                              | +0.5kg  | 100     | +0   | Rare           |
-| Grav-Accelerator                                                               | +2kg    | 550     | -20  | Very Rare      |
-| Integrated Weapon                                                              | +0.5kg  | 200     | -30  | Extremely Rare |
-| Lathe Blade                                                                    | -       | 2,500   | -20  | Very Rare      |
-| Melee Attachment                                                               | +0.3kg  | 5       | +30  | Plentiful      |
-| Mono Edge                                                                      | -       | 40      | -10  | Scarce         |
-| Mono-Sight                                                                     | +1kg    | 400     | +10  | Scarce         |
-| Motion Predictor                                                               | +0.5kg  | 1,000   | +10  | Rare           |
-| Pyre-Lance Aperture                                                            | +0.5kg  | 200     | +0   | Rare           |
-| Rangefinder Sight                                                              | +1.5kg  | 1,200   | +0   | Rare           |
-| Red-Dot Laser Sight                                                            | +0.5kg  | 50      | +20  | Scarce         |
-| Sanctified Weapon                                                              | -       | 500     | †    | Very Rare      |
-| Silencer                                                                       | +1kg    | 10      | +30  | Plentiful      |
-| Spoor Targeter                                                                 | +1.5kg  | 3,000   | -10  | Very Rare      |
-| Stabiliser Rig                                                                 | +8kg    | 700     | +10  | Scarce         |
-| Starflare Vent                                                                 | +0.5kg  | 300     | -10  | Very Rare      |
-| Stutter-Las                                                                    | -       | 50      | -10  | Average        |
-| Suspensors                                                                     | x 1/2   | 2,500   | -10  | Extremely Rare |
-| Targeter                                                                       | +1.5kg  | 2,250   | +0   | Rare           |
-| Telescopic Sight                                                               | +1kg    | 35      | +20  | Average        |
-| Tripod                                                                         | +5kg    | 20      | +30  | Common         |
-| Vox Operated                                                                   | +0.3kg  | 500     | +10  | Rare           |
-| Whisper-Bolt Discharger                                                        | +2kg    | 80      | +0   | Scarce         |
-| †This upgrade requires the attentions of a suitable member of the Ecclesiarchy |         |         |      |                |
+## Upgrades List
 
-#### Backpack Ammo Pack
+| Name                    | Weight  | Cost    | Test | Availability   |
+| ----------------------- | ------- | ------- | ---- | -------------- |
+| Backpack Ammo Pack      | +25kg   | 100     | +10  | Rare           |
+| Bipod                   | +2kg    | 10      | +30  | Average        |
+| Calamity Vent           | +0.5kg  | 250     | +0   | Very Rare      |
+| Combi-Weapon            | Special | Special | -20  | Special        |
+| Combi-Weapon (Military) | Special | Special | +0   | Special        |
+| Compact                 | x 1/2   | 50      | +0   | Average        |
+| Dipole Mag-Lock         | +0.5kg  | 75      | +30  | Average        |
+| Duplus Ammo Clips       | -       | 10      | -    | Scarce         |
+| Exterminator            | +1kg    | 35      | +30  | Common         |
+| Exterminator Cartridge  | +0.5kg  | 50      | +30  | Average        |
+| Extra Grip              | +0.5kg  | 25      | +10  | Average        |
+| Fire Selector           | +0.5kg  | 50      | +20  | Scarce         |
+| Force Weapon            | -       | 3,500   | -20  | Very Rare      |
+| Forearm Weapon Mount    | +1kg    | 300     | +0   | Scarce         |
+| Gene-Lock Circuit       | +0.5kg  | 100     | +0   | Rare           |
+| Grav-Accelerator        | +2kg    | 550     | -20  | Very Rare      |
+| Integrated Weapon       | +0.5kg  | 200     | -30  | Extremely Rare |
+| Lathe Blade             | -       | 2,500   | -20  | Very Rare      |
+| Melee Attachment        | +0.3kg  | 5       | +30  | Plentiful      |
+| Mono Edge               | -       | 40      | -10  | Scarce         |
+| Mono-Sight              | +1kg    | 400     | +10  | Scarce         |
+| Motion Predictor        | +0.5kg  | 1,000   | +10  | Rare           |
+| Pyre-Lance Aperture     | +0.5kg  | 200     | +0   | Rare           |
+| Rangefinder Sight       | +1.5kg  | 1,200   | +0   | Rare           |
+| Red-Dot Laser Sight     | +0.5kg  | 50      | +20  | Scarce         |
+| Sanctified Weapon       | -       | 500     | †    | Very Rare      |
+| Silencer                | +1kg    | 10      | +30  | Plentiful      |
+| Spoor Targeter          | +1.5kg  | 3,000   | -10  | Very Rare      |
+| Stabiliser Rig          | +8kg    | 700     | +10  | Scarce         |
+| Starflare Vent          | +0.5kg  | 300     | -10  | Very Rare      |
+| Stutter-Las             | -       | 50      | -10  | Average        |
+| Suspensors              | x 1/2   | 2,500   | -10  | Extremely Rare |
+| Targeter                | +1.5kg  | 2,250   | +0   | Rare           |
+| Telescopic Sight        | +1kg    | 35      | +20  | Average        |
+| Tripod                  | +5kg    | 20      | +30  | Common         |
+| Vox Operated            | +0.3kg  | 500     | +10  | Rare           |
+| Whisper-Bolt Discharger | +2kg    | 80      | +0   | Scarce         |
+†This upgrade requires the attentions of a suitable member of the Ecclesiarchy
+
+### Backpack Ammo Pack
 Upgrades: Most non-primitive ranged weapons
 
 Most ranged weapons store their ammunition in clips, canisters or packs attached to the weapon itself, but for extended battles or situations where the user doesn't want to reload, a large external supply can be carried in a backpack. A backpack ammo pack employs a powered feed for projectiles or a cable supply for other sources that plugs into the weapon's loading port, keeping a steady supply of ammunition ready to be fired at the wearer's foes. Because of its bulk, backpack ammo packs are often employed by fighters wearing power armour, but a brawny trooper can muscle one along if need be.
 
 A backpack ammo pack is the size of a normal backpack, but has half of its volume given over to ammunition storage and a feed mechanism. Most las, solid projectile, bolt, melta, plasma, and flame weapons can be used with a backpack ammo pack. Grenades and rockets used by launchers are too large for any sort of meaningful feed line, and exotic weapons in general are varied to such an extent that trying to make a backpack ammo pack for one would be a tech-nightmare in and of itself. Some weapons, such as man-portable lascannons, already include an external ammunition or power source and cannot benefit from this upgrade. Unless otherwise stated, a backpack ammo pack can provide sufficient ammo for 300 shots for las weapons (high-powered hellguns and hellpistols consume this more quickly), 80 shots for plasma and melta weapons, 200 shots for bolt and solid projectile weapons, and 60 shots for flame weapons. Note that some weapons may not be compatible with a backpack ammo pack in spite of their type, often due to design considerations. Creating a backpack ammo pack for a stub revolver, for example, would likely be impossible. The GM has final discretion on what may or may not be upgraded with a backpack ammo pack.
 
-#### Bipod
+### Bipod
 Upgrades: Heavy weapons
 
 A bipod consists of two telescoping metal legs attached to a weapon's barrel or housing, allowing it to be stably deployed on any sort of flat surface, including windowsills and low walls. Bipods are sometimes used on sniper rifles to help steady the sniper's aim, but their main application is in bearing some of the weight and recoil of heavy weapons. When fitted with a bipod, a heavy weapon can be Braced as a Half-Action, and the firer can use it to attack targets within a 90-degree arc of his position.
 
-#### Calamity Vent
+### Calamity Vent
 Upgrades: Plasma weapons
 
 These emergency cut-offs are carefully installed into the capacitance rings of plasma weapons and are designed to activate if a dangerous overload is detected by a small cogitator unit. Instead of dumping heat into the weapon's housing, often causing injury to the firer, the calamity vents cause it to be harmlessly expelled in a gout of searing blue flame away from the firer's hands and body. When they function as designed, a calamity vent gives the plasma weapon's wielder a surprise but nothing else, the overheat dissipated and weapon ready to be used again. However, these intrusions do not sit well with the machine spirits of most plasma weapons, and a mishap with one can be worse than if the weapon had been allowed to overheat in the first place.
 
 If a plasma weapon with calamity vents overheats, roll 1d10. On a roll of "4" or higher, the vents function as designed and the plasma is jettisoned safely. This attack is simply treated as a miss, and the weapon does not need to spend a round cooling off. On a "2" or "3", however, the overheat is still vented away, but it goes directly into the wielder's face instead! Resolve this as if the wielder was shot by the plasma weapon, including the normal Damage and Penetration values; the wayward blast hits the wielder in the body unless they had used the Aim action just before the overheat, in which case it hits them in the head. On a result of "1", the vents have caused a catastrophic feedback loop and the plasma weapon violently explodes; treat this as though the weapon had rolled maximum Damage with a Blast of 3. The wielder cannot attempt an Agility Test to avoid the blast.
 
-#### Combi-Weapon
+### Combi-Weapon
 Upgrades: Any two Basic weapons
 
 A combi-weapon is formed from two weapons that have been combined together, giving a fighter a high degree of versatility. Combiweapons are typically formed from two different types of weapons; the firer can choose to shoot either one at will, without having to switch between two separate guns (not to mention carrying both at once). A combi-weapon starts off with a "primary" weapon, typically an autogun or bolt gun, with a "secondary" weapon
@@ -2594,61 +2596,61 @@ attached under it. Most are formed using a more powerful, but less versatile, fi
 
 When armed with a combi-weapon, the user may fire either weapon, but not both, in any given Round. A combi-weapon's primary weapon uses the same statistics as it would on its own, while the secondary weapon's Clip size is reduced by half (round up) as it must be made small enough to fit below the primary without significantly altering its profile. A combi-weapon's cost is usually that of the primary weapon plus double that of the secondary weapon, and its rarity is one step rarer than whichever weapon is the rarest of the two. The GM has the final say on which weapons may and may not be combined.
 
-#### Combi-Weapon (Military)
+### Combi-Weapon (Military)
 Upgrades: Any two Pistol or Basic weapons 
 
 A simpler style of combi-weapon is employed by the Adepta Soroitas and other well-equipped military organizations. Military combi-weapons are Munitorumsanctioned tools that are produced on many forge worlds, and are often carried by Imperial Guard assault troops, Sisters of Battle, Inquisitorial Storm Troopers, and even Space Marines are known to wield combi-weapons employing their own divinely-powerful (and divinely-large) guns. This type of combi-weapon makes no attempt to reconcile the quibbling machine spirits of the individual weapons; the secondary weapon is intentionally designed so that it can only be fired once between reloads, keeping the amount of "cross machine" interference to a minimum.
 
 A military combi-weapon's secondary weapon can only be fired once before needing to be reloaded; its RoF becomes S/-/- and Clip size becomes 1. Its weight is also reduced by half. A military combi-weapon's cost is just the combined cost of both of the weapons used to make it, and its rarity is equal to the rarer of the two weapons. A military combi-weapon may be formed from two Basic weapons, two Pistol weapons, or a Basic weapon with a Pistol weapon as the secondary.
 
-#### Compact
+### Compact
 Upgrades: Any Pistol or Basic Las, Solid Projectile, Flame, Bolt, or Plasma weapon
 
 By reducing the size of the barrel and clip, a weapon can be made significantly smaller. This assists in concealment, handling, as well as the ease of carrying an otherwise heavy gun all day. Compact weapons are favoured by those that believe in subterfuge more than pure firepower. A compact weapon's Weight, Clip size, and Range are all reduced by half, and its Damage is also decreased by 1 as well. If the weapon has the Accurate quality it loses it, as there is insufficient barrel remaining to adequately stabilize the projectile for pinpoint shots. Pistol class weapons grant a +10 bonus on Sleight of Hand Tests made to conceal the weapon, while Basic class weapons can be used in melee combat as if they were pistols.
 
-#### Dipole Mag-Lock
+### Dipole Mag-Lock
 Upgrades: Any Pistol or melee weapon that can be wielded in one hand
 
 Mag-locks are common pieces of equipment used to secure articulated sections of power armour together. They are also used in a wide variety of other applications, such as on large monotask cargo haulers. Enterprising armourers have found that the use of a dipole mag-lock can also replace a holster or baldric for users wearing carapace or power armour. When fitted to a weapon, the dipole mag-lock causes it to "stick" to a paired plate attached to the user's armour. The mag-lock is usually released by a small stud on the weapon's grip, though more advanced (and expensive) versions might use a proximity trigger, vox-link operation, or some other somatic cue to produce the same effect.
 
 A dipole mag-lock grants the Quick Draw talent for the upgraded weapon. If the user already has Quick Draw, the weapon may instead be drawn as part of a Reaction, such as to produce a pistol while diving for cover, or to draw a melee weapon to Parry an incoming attack. A dipole mag-lock is only usable if the character is wearing carapace or power armour, as lesser armours lack the suitable rigidity to support a weapon attached to them.
 
-#### Duplus Ammo Clips
+### Duplus Ammo Clips
 Upgrades: Any Pistol or Basic Las, Solid Projectile, or Bolt weapon with a removable clip
 
 These double-ended clips store twice as much ammunition (or two charge packs) as the standard models, and when one runs dry, the user simply flips it over and inserts the other end. This significantly shortens reload time, and experienced users can load a fresh clip with almost no "dead time" at all.
 
 A duplus ammo clip reduces a weapon's Reload time by half when used to switch between its stored ammunition. For example, a weapon that normally takes two Full Actions to reload becomes a single Full Action. If the user also has the Rapid Reload talent, it further decreases to a Half Action. Duplus ammo clips can't be used in a weapon with a fire selector due to their size.
 
-#### Exterminator
+### Exterminator
 Upgrades: Any Basic weapon or melee weapon without the Flexible quality that deals at least 1d10 Damage
 
 This small device stores highly compressed Promethium with a gas cartridge to propel it, and is designed to be attached to another weapon. On command, it can unleash a burst of purifying fire just like a flamer, and is something of a "poor man's combi-weapon" that can be encountered among many different groups. Redemptionists are especially fond of them, and have been known to affix Exterminators to their melee weapons in addition to whatever other ordnance they may wield (Eviscerators are a particular favourite). Once fired the Exterminator burns out and must be discarded. However, they are cheap to manufacture and produced in significant quantities; it is easier to consider an Exterminator to be a unit of ammo rather than a weapon upgrade.
 
 The wielder of a weapon fitted with an Exterminator may choose to fire it instead of use the weapon's normal attack for that Round. Its effect is identical to a standard flamer. Because of its weight, an Exterminator can be detrimental to a melee weapon's handling; if attached to a melee weapon with the Balanced quality, it loses that quality as long as the Exterminator is attached (including after it has been expended).
 
-#### Exterminator Cartridge
+### Exterminator Cartridge
 Upgrades: Any weapon
 
 An even smaller Exterminator, the Cartridge version could easily fit in a pocket and can be attached to just about any other weapon. Although its flame is somewhat less impressive, few would expect a cumbersome heavy stubber or missile launcher to suddenly spew forth a column of fire at them.
 
 An Exterminator Cartridge uses the same rules as the normal Exterminator except it counts as a standard hand flamer. It can be fired in melee combat even if attached to a Basic or Heavy weapon.
 
-#### Extra Grip
+### Extra Grip
 Upgrades: Any Basic weapon
 
 Most Basic weapons can be fired with one hand, but the extremely awkward balancing and position of the grip make this an emergency measure at best. For those wielders who must keep a hand free, an extra grip is a valuable upgrade. As the name suggests, this installs a second grip along with a trigger near the weapon's centre of gravity, allowing it to be held more naturally with one hand. Though functional, some precision is lost as it becomes difficult to aim carefully.
 
 A Basic weapon with an extra grip can be fired with one hand without incurring the usual -20 penalty to Ballistic Skill Tests. However, its Range is halved and it gains the Inaccurate quality while being wielded like this. An extra grip does not remove the weapon's standard grip and trigger, and it can still be held with two hands and used at its normal capabilities.
 
-#### Fire Selector
+### Fire Selector
 upgrades: Any Pistol or Basic Solid Projectile or Bolt weapon with a removable clip
 
 Some weapons have the ability to use different types of ammunition readily, but this usually requires switching clips to do so. A fire selector is a mechanical device that replaces the weapon's feed port, and when paired with a special clip, allows the user to select between ammunition loaded inside. This creates a somewhat bulky look, but few would argue its efficiency in combat, and fire selectors are common additions among professional mercenaries, assault troops, and other types of operatives.
 
 A weapon fitted with a fire selector can have any combination of specialty or unusual ammo loaded into its clip. At the start of the user's Turn, he can use the fire selector to choose which type of ammo he wishes to use for that Round.
 
-#### Force Weapon
+### Force Weapon
 Upgrades: Special, see text
 
 A force weapon is capable of channelling the mental power and aggression of a psyker into a deadly, reality-rending force. It is said that force weapons were originally designed by the Emperor himself, and the Holy Ordos of the Inquisition carefully guards the method of their manufacture. Force weapons are created by reforging the blade of a high quality weapon with an arcane psi-convector and channelling circuitry, which take the form of a precise serpentine pattern visible on the sides of the blade under close observation. Axes, swords, and staffs are the most common type of force weapon, but theoretically almost any solid weapon could be remade as a force weapon. Force weapons are perhaps best associated with the Ordo Malleus' famed Grey Knights, but they are also carried by psychic Inquisitors and some sanctioned psykers in the military service to the Imperial Guard.
@@ -2661,7 +2663,7 @@ When wielded by a psyker, a force weapon cannot be destroyed by another weapon w
 
 Finally, for an additional 200 Thrones, a force weapon may include a psy-focus that is integrated into its form, giving the weapon's wielder its benefits any time the weapon is held.
 
-#### Forearm Weapon Mounting
+### Forearm Weapon Mounting
 Upgrades: Any Pistol or Basic weapon (see text) 
 
 A heavy bracing replaces the upgraded weapon's trigger and grip, allowing it to be fixed along the line of the user's forearm. A special cable-attached glove is provided to control the weapon's functions and triggering. This arrangement keeps the wielder's hands free, allowing them to use other weapons or perform fine manipulation while keeping their attached weapon ready to be used at a moment's notice. The weapon is usually turned on its axis with the clip positioned straight up or towards the wielder's body to assist in reloading. It also creates a strong visual impression as bolts, flame or plasma blasts seem to erupt from the user's outstretched arm.
@@ -2670,21 +2672,21 @@ A weapon fitted to a forearm weapon mounting's range is reduced by 30% but other
 
 If the user is wearing power armour or heavy power armour, the increased size of the arm and augmented strength can be used to mount a Basic weapon in this way instead.
 
-#### Gene-Lock Circuit
+### Gene-Lock Circuit
 Upgrades: Any non-Primitive ranged weapon
 
 This upgrade is designed for those who have a special dislike of the idea of being shot with their own gun. A gene-lock circuit is installed in the grip and interfaces with the weapon's firing mechanism, and prevents the gun from being discharged unless it is deactivated. Most use a reader strip that matches the thumb or palm prints of the weapon's owner; users who wear gloves or heavy armours can have a tensiometric pad instead, while more sophisticated versions might use a micro-needle to take a sample of the wielder's blood or a proximity detector linked to a subdermal implant. Regardless of its exact construction, a weapon upgraded with a genelock circuit will not fire unless wielded by the hand that was keyed to it.
 
 Gene-locks are excellent precautions against theft and being disarmed in combat, but they are far from immune to the predations of a skilled tech-adept. A gene-lock can be reset to a different owner or simply shut off so the weapon will function for anyone with a Hard (-20) Tech-Use Test that takes about an hour. Normally there are no consequences for a failed Test, though specially-crafted gene-locks might include some sort of booby trap.
 
-#### Grav-Accelerator
+### Grav-Accelerator
 Upgrades: Any Pistol or Basic Solid Projectile weapon
 
 Slug-throwers of all walks and means invariably rely on controlled explosions of their chemical propellant charges to fling a projectile at speed down the barrel. The velocity, and by association power, can be increased through the crude expedience of simply using more propellant, but those with access to salvaged or recycled gravplating have devised an altogether more efficient, though entirely illegal, means of putting more force into their shots. A gravaccelerator is permanently attached to the housing of a slug-thrower and linked into its firing system. When the weapon is fired, a directional gravitic force is blasted at the projectile to put greater power behind it without the risk of exploding the barrel or chamber. While succeeding admirably at improving the slug-thrower's ballistic performance, the grav-accelerator does add considerably to the weapon's bulk and recoil. Further, the accelerator requires a separate power source to function, complicating reloading and increasing the complexity of the gun. As an ancillary concern, the Cult Mechanicus considers most of these modifications to be proscribed in the extreme – as a result, most who would dare to upgrade their gun in such a fashion are those already on the wrong side of the law.
 
 A grav-accelerator increases the weapon's Damage by 1 and Range by 10 metres. If applied to a Pistol class weapon, the enhanced recoil inflicts a -10 penalty to the shooter's Ballistic Skill Tests unless the shooter has a Strength Bonus of 4 or higher, or holds the weapon with both hands. If the weapon already has a similar requirement, the shooter's Strength Bonus must be 5 or higher instead. Finally, the gravaccelerator itself requires an additional power source, typically a small battery unit or lasgun charge pack. The accelerator is configured to expend power equally as the gun's Clip is exhausted and must be replaced when it runs out of bullets or shells, adding another Full Action to its Reload time.
 
-#### Integrated Weapon
+### Integrated Weapon
 Upgrades: See text
 
 Integrated weapons blur the line between personal weapons and augmetics, deriving their superior lethality from the wielder's own body. This sort of weapon is a wonder of the Mechanicus Magi of the Lathe Worlds and are common fixtures for their elite Venatorii "Crimson Guard"; so far, they have been extraordinarily resistant to its propagation to other arms of the Priesthood, much less the broader Imperium. An integrated weapon is directly linked by a cable or conduit connection to the wielder's potentia coil - as a result, only ordained Tech-Priests or Venatorius can use them in their intended fashion. This nearly limitless supply of bio-power can be used for a variety of purposes depending on the type of weapon that is integrated to it, typically either improving firepower, stretching ammunition supply, or increasing reliability. In all cases, the weapon loses the benefits of this upgrade, and may cease to function entirely, if it loses a direct connection to a potentia coil.
