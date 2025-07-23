@@ -2223,42 +2223,42 @@ Because of the great cost of manufacturing the power field generators themselves
 When deactivated, a power weapon counts as a Primitive weapon of the same type with the mono-edged upgrade and can be used without penalty by a character with the Melee Weapon Training (Primitive) talent. Otherwise, a character must have the Melee Weapon Training (Power) to use power weapons without penalty.
 ### Power Weapons List
 
-| Name                                               | Class              | Dam        | Pen | Special                                  | Wt     | Cost   | World            | Availability   |
-| -------------------------------------------------- | ------------------ | ---------- | --- | ---------------------------------------- | ------ | ------ | ---------------- | -------------- |
-| [[#Null Rod]]                                      | Melee              | 1d10+4 E   | 6   | Power Field, Special                     | 3kg    | 9,000  | -                | Extremely Rare |
-| [[#Omnissian Rod]]                                 | Melee              | 1d10+10 E  | 7   | Balanced, Flexible, PowerField, Special  | 9kg    |        | Tech-Priest Only | Extremely Rare |
-| [[#Power Axe]]                                     | Melee              | 1d10+7 E   | 8   | Power Field, Unbalanced                  | 6kg    | 2,700  |                  | -              |
-| - [[#Loi-Pattern]] †                               | Melee              | 1d10+8 E   | 10  | Power Field, Unbalanced                  | 7kg    | 3,200  |                  | -              |
-| - [[#Omnissian Axe]]                               | Melee              | 2d10+4 E   | 8   | Power Field, Unbalanced                  | 8kg    |        | Tech-Priest Only | Extremely Rare |
-| [[#Power Blade]]                                   | Melee              | 1d10+3 E   | 6   | Power Field                              | 1.5kg  | 1,750  | -                | Very Rare      |
-| - [[#Khayer-Addin "Serpentine" Blade\|Serpentine]] | Melee              | 1d10+2 E   | 6   | Fast, Power Field                        | 1.5kg  | 2,000  | -                | Extremely Rare |
-| [[#Power Discus]]                                  | Thrown (SBx4m)     | 1d10+4 E   | 5   | Power Field, Special                     | 0.2kg  | 10,000 | -                | Extremely Rare |
-| [[#Power Fist]] (gauntlet)                         | Melee              | 2d10 E††   | 9   | Power Field, Unwieldy                    | 12kg   | 3,200  | -                | Very Rare      |
-| [[#Power Fist]] (glove)                            | Melee              | 2d10 E††   | 7   | Power Field, Unwieldy                    | 7kg††† | 3,000  | -                | Very Rare      |
-| [[#Power Longsword]] †                             | Melee              | 1d10+7 E   | 7   | Balanced, Power Field                    | 4.5kg  | 3,500  | -                | Very Rare      |
-| [[#Arbitrator Power Maul]] (high)                  | Melee              | 1d10+5 E   | 5   | Power Field                              | 3.5kg  | 2,500  | -                | Very Rare      |
-| [[#Arbitrator Power Maul]] (low)                   | Melee              | 1d10+1 I   | 2   | Shocking                                 |        |        |                  |                |
-| [[#Power Stake]]                                   | Melee              | 1d10+7 E   | 5   | Power Field, Sanctified,Unbalanced       | 1kg    | 20,000 | -                | Extremely Rare |
-| [[#Power Sword]]                                   | Melee              | 1d10+6 E   | 6   | Balanced, Power Field                    | 3.5kg  | 2,500  | -                | Very Rare      |
-| - [[#Power Sabre                                   | Melee              | 1d10+5 E   | 5   | Balanced, Power Field                    | 3kg    | 2,700  | -                | Very Rare      |
-| Thunder Hammer †                                   | Melee              | 2d10+2 E†† | 10  | Power Field, Recharge,Shocking, Unwieldy | 15kg   | 4,000  | -                | Very Rare      |
-| Witch Lance                                        | Melee/Thrown (10m) | 1d10+5 E   | 6   | Power Field, Special                     | 5kg    | 2,800  | -                | Very Rare      |
+| Name                                               | Class              | Dam        | Pen | Special                                                       | Wt     | Cost   | World            | Availability   |
+| -------------------------------------------------- | ------------------ | ---------- | --- | ------------------------------------------------------------- | ------ | ------ | ---------------- | -------------- |
+| [[#Null Rod]]                                      | Melee              | 1d10+4 E   | 6   | [[#Power Field]], Special                                     | 3kg    | 9,000  | -                | Extremely Rare |
+| [[#Omnissian Rod]]                                 | Melee              | 1d10+10 E  | 7   | [[#Balanced]], [[#Flexible]], [[#Power Field]], Special       | 9kg    |        | Tech-Priest Only | Extremely Rare |
+| [[#Power Axe]]                                     | Melee              | 1d10+7 E   | 8   | [[#Power Field]], [[#Unbalanced]]                             | 6kg    | 2,700  |                  | -              |
+| - [[#Loi-Pattern]] †                               | Melee              | 1d10+8 E   | 10  | [[#Power Field]], [[#Unbalanced]]                             | 7kg    | 3,200  |                  | -              |
+| - [[#Omnissian Axe]]                               | Melee              | 2d10+4 E   | 8   | [[#Power Field]], [[#Unbalanced]]                             | 8kg    |        | Tech-Priest Only | Extremely Rare |
+| [[#Power Blade]]                                   | Melee              | 1d10+3 E   | 6   | [[#Power Field]]                                              | 1.5kg  | 1,750  | -                | Very Rare      |
+| - [[#Khayer-Addin "Serpentine" Blade\|Serpentine]] | Melee              | 1d10+2 E   | 6   | [[#Fast]], [[#Power Field]]                                   | 1.5kg  | 2,000  | -                | Extremely Rare |
+| [[#Power Discus]]                                  | Thrown (SBx4m)     | 1d10+4 E   | 5   | [[#Power Field]], Special                                     | 0.2kg  | 10,000 | -                | Extremely Rare |
+| [[#Power Fist]] (gauntlet)                         | Melee              | 2d10 E††   | 9   | [[#Power Field]], [[#Unwieldy]]                               | 12kg   | 3,200  | -                | Very Rare      |
+| [[#Power Fist]] (glove)                            | Melee              | 2d10 E††   | 7   | [[#Power Field]], [[#Unwieldy]]                               | 7kg††† | 3,000  | -                | Very Rare      |
+| [[#Power Longsword]] †                             | Melee              | 1d10+7 E   | 7   | [[#Balanced]], [[#Power Field]]                               | 4.5kg  | 3,500  | -                | Very Rare      |
+| [[#Arbitrator Power Maul]] (high)                  | Melee              | 1d10+5 E   | 5   | [[#Power Field]]                                              | 3.5kg  | 2,500  | -                | Very Rare      |
+| [[#Arbitrator Power Maul]] (low)                   | Melee              | 1d10+1 I   | 2   | [[#Shocking]]                                                 |        |        |                  |                |
+| [[#Power Stake]]                                   | Melee              | 1d10+7 E   | 5   | [[#Power Field]], [[#Sanctified Weapon]], [[#Unbalanced]]     | 1kg    | 20,000 | -                | Extremely Rare |
+| [[#Power Sword]]                                   | Melee              | 1d10+6 E   | 6   | [[#Balanced]], [[#Power Field]]                               | 3.5kg  | 2,500  | -                | Very Rare      |
+| - [[#Power Sabre]]                                 | Melee              | 1d10+5 E   | 5   | [[#Balanced]], [[#Power Field]]                               | 3kg    | 2,700  | -                | Very Rare      |
+| [[#Thunder Hammer]] †                              | Melee              | 2d10+2 E†† | 10  | [[#Power Field]], [[#Recharge]], [[#Shocking]], [[#Unwieldy]] | 15kg   | 4,000  | -                | Very Rare      |
+| [[#Witch Lance]]                                   | Melee/Thrown (10m) | 1d10+5 E   | 6   | [[#Power Field]], Special                                     | 5kg    | 2,800  | -                | Very Rare      |
 † _Requires two hands to be used effectively_
 †† _Add twice the wielder's Strength Bonus to Damage_
 ††† _Not including external power source_
-#### Null Rod
+### Null Rod
 
 Equal parts weapon and tool, a null rod takes the form of an obsidian shaft about a metre long heavily inscribed with runic wards and prayers against the daemon and witch. The grip is formed from simple leather strips bearing inscriptions of protection, giving a null rod a very "low-tech" and mundane appearance, but this is deceiving in the extreme. The unique material is mined from an unknown world in the Koronus Expanse, its location kept secret by the Calixian Conclave explicitly for this enigmatic substance alone. When gripped strongly the rod reacts to the wielder's own life force, emitting a crackling energy field that pulses with warpdisrupting power, weakening a daemon's hold on reality while filling a witch's head with vertigo and false perceptions. The Inquisition's own tech-artisans have installed a compact power field generator within the body of the rod, further amplifying the effect as well as allowing the tool to function as a power weapon in handto-hand combat. Null rods are indispensible tools to witch and daemon hunters alike; agents of the Throne who are granted such exclusive gear are favoured indeed. The vast majority of null rods are wielded by militant Inquisitors and their minions, but more fanatical elements of the Ecclesiarchy and the Adepta Soroitas have obtained them from time to time as well.
 
 A null rod emits a field that can totally nullify psychic powers and other warp phenomena out to a distance of 20 metres. When a psychic power is manifested, roll 1d10 - only on a result of "8" or higher is the power actually manifested. This roll should be made before checking for any Psychic Phenomena; if the null rod prevents the psychic power from manifesting then no Psychic Phenomena occur. Active or sustained powers entering the field are subject to its effects and must make this roll upon contact with the field and when making the subsequent Power Roll to sustain. If a power is manifested outside the null rod's field, but its effect encroaches into the area warded by the field, the power is still manifested but may have no effect within the field itself; roll to determine this as above. If a psychic power is successfully manifested within a null rod's field area, reduce any Psychic Phenomena results by 10. In addition, a null rod forces daemonic creatures and other warp entities to make a Warp Instability Test with a -10 penalty each time they take Damage from it in melee. Finally, each time a psyker or other creature with a Psy Rating spends 10 continuous Rounds within a null rod's field, it must succeed on a Hard (-20) Willpower Test or gain 1d5 Insanity Points. Failure by two or more Degrees also affects the character as though he was affected by a hallucinogen grenade.
 
-#### Omnissian Rod
+### Omnissian Rod
 
 An exceptionally rare device, an Omnissian rod is gifted only to ranking Magi, Fabricators, and other elites of the Cult Mechanicus who wield this weapon as a staff or standard. Taking the form of a two metre tall staff of consummate discs stacked end to end, an Omnissian Rod is topped with a broad escutcheon of the Imperial aquila inlaid with the skull-and-cog device of the Adeptus Mechanicus, a symbolic representation of the (sometimes tenuous) unity of the Imperium of Man and the Martian Priesthood. Though impressive to behold, when wielded by a Tech-Priest an Omnissian rod becomes an extremely potent weapon. The rod's body can separate into its individual segments, an internal spine of bundled monomolecular wire preventing it from flying apart while the escutcheon acts as the head of a flail. When wired in to the Tech-Priest's potentia coil, the rod can be sheathed in a high energy field analogous to a power weapon. This energy can be used to make ranged attacks as well by turning the rod on its side and using the haft as a focusing barrel, giving the Tech-Priest wielding it firepower equivalent to a fine plasma gun as well.
 
 An Omnissian rod gains the listed profile when connected to the wielder's potentia coil, which requires a Half Action and a successful Ordinary (+10) Tech-Use Test. If the wielder uses the rod to Parry, it loses the Flexible quality for one Round. Alternatively, the wielder can choose to use the Omnissian rod as a ranged weapon, in which case it counts as a phased plasma gun (and requires both hands to wield). The weapon cannot be used as both a melee and ranged weapon in the same Round. If used without a connection to a potentia coil, the weapon loses the Power Field quality, can't be used as a ranged weapon, and reduces its Damage and Penetration by 7 each. In all cases, a Tech-Priest bearing an Omnissian rod gifted to him gains a +20 bonus to Interaction Tests made with other members of the Cult Mechanicus, while the Disposition of members of Imperial organisations that chafe with the Mechanicus improve by one step.
 
-#### Power Axe
+### Power Axe
 
 As with the simple axes wielded by commoners and feudal warriors, a power axe makes use of a heavy blade atop a stout haft that dramatically increases its chopping power. When combined with a power field, even a heavily-armoured foe can be split in half like a piece of kindling. Power axes are somewhat clumsier than more common power swords, but those that wield them believe the extra lethality more than makes up for a slower swing.
 
@@ -2270,20 +2270,20 @@ No "mere" power weapon, this is a holy icon of the Cult Mechanicus that is grant
 
 The wielder of an Omnissian axe receives a +10 bonus to Interaction Tests involving followers of the Cult Mechanicus, and the weapon's machine spirit is so advanced that it acts as a multi-tool when wielded by an adherent. An Omnissian axe may never be bought or deliberately obtained – it is gifted only to Tech-Priests by their superiors, and to wield one without that blessing is a suicidal act.
 
-#### Power Blade
+### Power Blade
 
 Power blades are modest dagger-sized weapons that are infinitely more dangerous than their size suggests because of their power field. Though only slightly larger than any of a multitude of knives popular throughout the Imperium, a power blade can still punch through almost any armour as though it were made of wet parchment, and a particularly serious wielder might go so far as to use a kick to drive an impaled power blade deeper still into his opponent's body.
 
 ##### Khayer-Addin "Serpentine" Blade: 
 Blades concealed in walking canes, umbrellas, and other innocuous objects are far from uncommon among the Calixis Sector's wealthy and connected, but the Khayer-Addin Forge's Serpentine escalates this concept to an entirely higher level. The Serpentine's incredibly thin blade is forged from the highest-quality adamantine alloys to ensure strength in spite of its slender shape, and it is capable of generating a power field from a sophisticated unit no longer than a common autogun clip that is concealed within the handle. Khayer-Addin produces this exclusive weapon by commission and no two are exactly alike, though most take the form of elaborate walking sticks or rods of office. The Serpentine may be drawn normally or erupt through its decoy housing with a field burst to create a suitably dramatic deployment, and most users typically keep one or two "spares" to conceal their weapon again after its use is no longer required.
 
-#### Power Discus
+### Power Discus
 
 Few would consider throwing a costly and rare power weapon at any enemy as anything other than madness, but the archeotech power discus is designed to do just that. A power discus is formed of a seamless silvery disc with a mirrorlike gloss finish no more than 30 centimetres across, roughly five centimetres in thickness in the centre but tapering to whisper thin edges that can inflict cuts on a careless wielder. A power discus has almost no weight to it in spite of its size and construction, and when thrown it flies almost noiselessly through the air until a power field crackles to existence around it. The power discus' generator activates once it detects the airborne spinning motion, and deactivates several moments after its movement ceases (often embedded into an object behind the opponent it just cut through). Most who own a power discus are wealthy collectors or aficionados, but they make perfectly deadly combat weapons to those who can afford their cost and don't mind hunting through underbrush or tangled hive-works to recover a thrown discus that's gone awry.
 
 A power discus can be used by characters without the Thrown Weapon Training (Power) talent if they have both the Melee Weapon Training (Power) and Thrown Weapon Training (Primitive) talents. A character wielding a power discus risks cutting himself when throwing the weapon if he lacks adequate protection for his hands. If the wielder rolls an unmodified 91-00 on his Ballistic Skill Test when attacking, he also takes 1d5 Rending Damage to whichever arm is wielding the weapon.
 
-#### Power Fist
+### Power Fist
 
 Power fists are heavy armoured gloves or gauntlets with a built in power field generator that can turn a simple punch into a blow capable of completely obliterating an opponent and putting holes through the side of thick bulkheads. The broad surface of a power fist's field means a struck foe is disrupted over a wide area; armour is punctured and rent open like fabric, while an unprotected foe erupts in a shower of ruined flesh as though a grenade had exploded inside their bodies. Power fists are imprecise instruments that are poor choices for swordplay and quick manoeuvres, but their destructive power is unquestioned.
 
@@ -2291,36 +2291,36 @@ Power fists are usually produced in two distinct patterns: a sturdy "power glove
 
 Power fists provide Armour Points to the arm covered by them but impose a penalty to Skill Tests involving fine dexterity made with that hand on account of the bulky digits. Glove-type power fists provide 6 APs and gauntlet-type power fists provide 8 APs; these do not stack with worn armour, so count whichever provides more APs when calculating reduction. A glovetype power fist imposes a -5 penalty to Skill Tests involving fine manual dexterity, while the gauntlet-type's penalty is -10. A glove-type power fist requires an external power flask weighing 5kg, typically carried on the belt or on an equipment pack.
 
-#### Power Longsword
+### Power Longsword
 
 Most power swords are designed to be easy to wield with one hand, but two-handed patterns with a much longer blade are made for those with a particular zeal for close combat. While somewhat more difficult to handle, a power longsword can put much greater force on its blows to rend open heavily-armoured opponents or thrust deeply into the guts of even the largest beasts and aliens. Officers of the Brontian Longknives, already well known for their love of blades and melee battles, are known to be particular enthusiasts for these weapons, and they are also often found in the employ of militant operatives of the Ordo Xenos who desire a potent weapon to use against foul creatures of great size and power.
 
-#### Arbitrator Power Maul
+### Arbitrator Power Maul
 
 This weapon is designed to look similar to the shock maul used by rank-and-file Adeptus Arbites troopers but is far more capable thanks to the use of a variable power field generator. Most power weapons are only designed to be switched on or off, but a power maul's more sophisticated field can be adjusted with a selector stud set into the base of the shaft. At maximum power it is just as deadly as any other power weapon and can be used to smash through walls or annihilate opponents, but at a reduced setting produces just enough energy to duplicate a shock maul's incapacitating jolts. This gives veteran troopers and judges the flexibility to exert as much restraint as they feel is necessary, and the power maul's simple appearance reduces some of the class division that exists in most Imperial institutions. Veteran Arbitrators who become judges or proctors may be presented with one of these simple but highly effective weapons as an award for dutiful service, and most are quite eager to put it to use at once.
 
-#### Power Stake
+### Power Stake
 
 The power stake is another item in the Inquisitor's arsenal that is designed to be as much a symbol as it is a weapon. It takes the form of a solid metre-long shaft of cold-forged iron, tapering to a wicked point on one end. The other end is fashioned into a handle, containing the power field generator and suitable for gripping in combat as well as use as a walking stick. Thousands of etched runes, prayers against the psyker and invocations against the warp, decorate the shaft of the weapon, giving it a wrinkled look from a distance. These weapons are the progeny of the noted witch hunter Inquisitor Rykehuss of the Calixian Conclave, and carry his hatred of psykers and witches. He has commissioned dozens of these bane stakes and issued them to favoured minions and other servants of the Emperor deemed to harbour the same fanatic zeal as he himself for the persecution of these unclean mutants and scum.
 
 A successful attack with a power stake is crippling against witches. This weapon deals an additional 1d10 Damage for every point of the target's Psy Rating. Power stakes are invariably a Best craftsmanship weapon and grant their user a +10 bonus to their Weapon Skill when wielding it (the +1 Damage bonus has already been added to the profile).
 
-#### Power Sword
+### Power Sword
 
 Power swords are the most common type of power weapon, at least as far as these rare and valuable arms can be considered. A power sword is an immediate sign of the wearer's status as well as their preference for close range combat, as few weapons are as functional, deadly, and immediately ostentatious as a power sword. Depending on the mark, power swords might be simply elegant weapons that could pass for a conventional blade or obvious tech-marvels that ripple energy along their exposed power cabling. Regardless of whether it's wielded by an Inquisitor, Imperial Guard officer, or Rogue Trader, a power sword sets its user apart from those below his station.
 
-##### Power Sabre: 
+#### Power Sabre: 
 This sweeping single-edged blade is often made as a power weapon for wielders that value a sabre's swift cuts and basket hilt but would like something with quite a bit more bite. A power sabre is somewhat less effective at cutting down an armoured opponent than the thicker blades of "normal" power swords, but when wielded by a skilled swordsman the blade seems to become just a flash of light as it darts around before striking true. Power sabres are often wielded by Commissars for their dramatic appearance and wicked point, though anyone – regardless of their skill – could appreciate one's appearance.
 
 A power sabre's excellent handling grants its wielder an additional +5 bonus to Weapon Skill Tests made to Parry; with the Balanced quality, the wielder's total bonus to these Tests is +15.
 
-#### Thunder Hammer
+### Thunder Hammer
 
 Normally carried into battle by heroic Space Marines, thunder hammers are also made in a shape that can be wielded by mere humans, though it is by no means easy to do so. Compared to other power weapons, a thunder hammer's power field is employed to build up a devastating charge which is released on impact with a foe, rending them asunder with the force of a lightning strike (hence the name). Those who are not utterly obliterated after being struck, reduced to a smouldering pile of cooked flesh and ruined armour, are often sent reeling from the meteoric force of the blow as energy courses through their bodies. To carry a thunder hammer is a sign not only of the wielder's wealth or connections, but of true faith in the justice and might of the Emperor.
 
 A thunder hammer takes time to build up maximum energy. After striking an opponent it loses the Shocking quality for one Round (per the Recharge quality), but can otherwise still be used to attack normally.
 
-#### Witch Lance
+### Witch Lance
 
 A potent weapon that is a mix of the technoarcane and the sacred, witch lances are designed to destroy rogue psykers and witches utterly and without mercy. These heavily modified power weapons take the form of an ornate spear, pike, or some other pole-arm with a cold iron and adamantine blade and haft. Contained at the weapon's heart is a pressure-release reservoir of concentrated promethium mixed with sacred oils and anti-psy compounds. Should the lance successfully impale a victim's body, this mixture is explosively vented, utterly consuming them in a blast of holy fire. Although ostensibly intended for use against psykers, a witch lance is a perfectly useful weapon against any enemy of the Emperor, as it is guilt, rather than warp power, that causes them to ignite.
 
