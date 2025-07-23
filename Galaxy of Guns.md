@@ -2527,45 +2527,45 @@ The cost and availability of each upgrade refers to the component itself, not th
 
 ## Upgrades List
 
-| Name                    | Weight  | Cost    | Test | Availability   |
-| ----------------------- | ------- | ------- | ---- | -------------- |
-| Backpack Ammo Pack      | +25kg   | 100     | +10  | Rare           |
-| Bipod                   | +2kg    | 10      | +30  | Average        |
-| Calamity Vent           | +0.5kg  | 250     | +0   | Very Rare      |
-| Combi-Weapon            | Special | Special | -20  | Special        |
-| Combi-Weapon (Military) | Special | Special | +0   | Special        |
-| Compact                 | x 1/2   | 50      | +0   | Average        |
-| Dipole Mag-Lock         | +0.5kg  | 75      | +30  | Average        |
-| Duplus Ammo Clips       | -       | 10      | -    | Scarce         |
-| Exterminator            | +1kg    | 35      | +30  | Common         |
-| Exterminator Cartridge  | +0.5kg  | 50      | +30  | Average        |
-| Extra Grip              | +0.5kg  | 25      | +10  | Average        |
-| Fire Selector           | +0.5kg  | 50      | +20  | Scarce         |
-| Force Weapon            | -       | 3,500   | -20  | Very Rare      |
-| Forearm Weapon Mount    | +1kg    | 300     | +0   | Scarce         |
-| Gene-Lock Circuit       | +0.5kg  | 100     | +0   | Rare           |
-| Grav-Accelerator        | +2kg    | 550     | -20  | Very Rare      |
-| Integrated Weapon       | +0.5kg  | 200     | -30  | Extremely Rare |
-| Lathe Blade             | -       | 2,500   | -20  | Very Rare      |
-| Melee Attachment        | +0.3kg  | 5       | +30  | Plentiful      |
-| Mono Edge               | -       | 40      | -10  | Scarce         |
-| Mono-Sight              | +1kg    | 400     | +10  | Scarce         |
-| Motion Predictor        | +0.5kg  | 1,000   | +10  | Rare           |
-| Pyre-Lance Aperture     | +0.5kg  | 200     | +0   | Rare           |
-| Rangefinder Sight       | +1.5kg  | 1,200   | +0   | Rare           |
-| Red-Dot Laser Sight     | +0.5kg  | 50      | +20  | Scarce         |
-| Sanctified Weapon       | -       | 500     | †    | Very Rare      |
-| Silencer                | +1kg    | 10      | +30  | Plentiful      |
-| Spoor Targeter          | +1.5kg  | 3,000   | -10  | Very Rare      |
-| Stabiliser Rig          | +8kg    | 700     | +10  | Scarce         |
-| Starflare Vent          | +0.5kg  | 300     | -10  | Very Rare      |
-| Stutter-Las             | -       | 50      | -10  | Average        |
-| Suspensors              | x 1/2   | 2,500   | -10  | Extremely Rare |
-| Targeter                | +1.5kg  | 2,250   | +0   | Rare           |
-| Telescopic Sight        | +1kg    | 35      | +20  | Average        |
-| Tripod                  | +5kg    | 20      | +30  | Common         |
-| Vox Operated            | +0.3kg  | 500     | +10  | Rare           |
-| Whisper-Bolt Discharger | +2kg    | 80      | +0   | Scarce         |
+| Name                         | Weight  | Cost    | Test | Availability   |
+| ---------------------------- | ------- | ------- | ---- | -------------- |
+| [[#Backpack Ammo Pack]]      | +25kg   | 100     | +10  | Rare           |
+| [[#Bipod]]                   | +2kg    | 10      | +30  | Average        |
+| [[#Calamity Vent]]           | +0.5kg  | 250     | +0   | Very Rare      |
+| [[#Combi-Weapon]]            | Special | Special | -20  | Special        |
+| [[#Combi-Weapon (Military)]] | Special | Special | +0   | Special        |
+| [[#Compact]]                 | x 1/2   | 50      | +0   | Average        |
+| [[#Dipole Mag-Lock]]         | +0.5kg  | 75      | +30  | Average        |
+| [[#Duplus Ammo Clips]]       | -       | 10      | -    | Scarce         |
+| [[#Exterminator]]            | +1kg    | 35      | +30  | Common         |
+| [[#Exterminator Cartridge]]  | +0.5kg  | 50      | +30  | Average        |
+| [[#Extra Grip]]              | +0.5kg  | 25      | +10  | Average        |
+| [[#Fire Selector]]           | +0.5kg  | 50      | +20  | Scarce         |
+| [[#Force Weapon]]            | -       | 3,500   | -20  | Very Rare      |
+| [[#Forearm Weapon Mount      | +1kg    | 300     | +0   | Scarce         |
+| Gene-Lock Circuit            | +0.5kg  | 100     | +0   | Rare           |
+| Grav-Accelerator             | +2kg    | 550     | -20  | Very Rare      |
+| Integrated Weapon            | +0.5kg  | 200     | -30  | Extremely Rare |
+| Lathe Blade                  | -       | 2,500   | -20  | Very Rare      |
+| Melee Attachment             | +0.3kg  | 5       | +30  | Plentiful      |
+| Mono Edge                    | -       | 40      | -10  | Scarce         |
+| Mono-Sight                   | +1kg    | 400     | +10  | Scarce         |
+| Motion Predictor             | +0.5kg  | 1,000   | +10  | Rare           |
+| Pyre-Lance Aperture          | +0.5kg  | 200     | +0   | Rare           |
+| Rangefinder Sight            | +1.5kg  | 1,200   | +0   | Rare           |
+| Red-Dot Laser Sight          | +0.5kg  | 50      | +20  | Scarce         |
+| Sanctified Weapon            | -       | 500     | †    | Very Rare      |
+| Silencer                     | +1kg    | 10      | +30  | Plentiful      |
+| Spoor Targeter               | +1.5kg  | 3,000   | -10  | Very Rare      |
+| Stabiliser Rig               | +8kg    | 700     | +10  | Scarce         |
+| Starflare Vent               | +0.5kg  | 300     | -10  | Very Rare      |
+| Stutter-Las                  | -       | 50      | -10  | Average        |
+| Suspensors                   | x 1/2   | 2,500   | -10  | Extremely Rare |
+| Targeter                     | +1.5kg  | 2,250   | +0   | Rare           |
+| Telescopic Sight             | +1kg    | 35      | +20  | Average        |
+| Tripod                       | +5kg    | 20      | +30  | Common         |
+| Vox Operated                 | +0.3kg  | 500     | +10  | Rare           |
+| Whisper-Bolt Discharger      | +2kg    | 80      | +0   | Scarce         |
 †This upgrade requires the attentions of a suitable member of the Ecclesiarchy
 
 ### Backpack Ammo Pack
@@ -2707,77 +2707,77 @@ To use an integrated weapon, a character must have the relevant Training talent 
 
 **Shock:** Through the crude but effective expedience of pumping more current into the business end, the debilitating effect of an integrated shock weapon is much harder to shake off. Toughness Tests made to avoid being stunned suffer a -30 penalty after any bonus from Armour is taken into account.
 
-#### Lathe Blade
+### Lathe Blade
 Upgrades: Any edged melee weapon with the Primitive quality
 
 The astronomical and gravitic alignment of the Lathe Worlds creates conditions where metal alloys of rare and singular properties can be manufactured. If used in the construction of a bladed melee weapon, an armament of exquisite quality can be made. A Lathe blade's edge is paper thin, yet is flexible enough to withstand savage blows in combat. They are also virtually indestructible – even the devastating action of a power field can't shatter one. A Lathe blade's cutting power rivals that of a power weapon simply on account of its construction, and there are some users who favour these weapons for their quality and repute. There are others who prefer the lack of a power weapon's crackling arcane energy field, and there is certainly something to be said for a Lathe blade's ability to kill quietly.
 
 A weapon forged as a Lathe blade replaces the Primitive quality with the Razor Sharp quality and increases its Damage and Penetration by 3. Lathe blades are invariably of Best craftsmanship and give their wielder a +10 bonus on Weapon Skill Tests made to attack (the extra Damage is already factored in). Finally, a Lathe blade cannot be destroyed by being parried by another weapon with a power field.
 
-#### Melee Attachment
+### Melee Attachment
 Upgrades: Any Basic weapon
 
 Basic weapons are usually too cumbersome to be used against an opponent in melee combat. By fitting a close combat weapon under the Basic weapon's barrel, a handy and immediately available melee weapon can be created. A melee attachment creates a sturdy hardpoint for a onehanded edged melee weapon to be fixed to. Most lasguns already have this upgrade installed, and some military-type autoguns include it as well.
 
 A knife or similar blade allows the Basic weapon to be used as a spear, while a longer weapon like a sword allows it to be used as an axe. Use the Damage and Penetration values of those weapons or that of the mounted weapon, whichever is favourable, and special qualities having to do with Damage – Power Field, Tearing, Toxic, and so forth – are maintained as well, while the spear and axe retain their other qualities as normal (such as the axe's Unbalanced quality). Either one requires both hands to wield.
 
-#### Mono Edge
+### Mono Edge
 Upgrades: Any Primitive melee weapon with the Primitive quality
 
 Normal knives and swords can cut through flesh and bone just fine, but typically have a much harder time puncturing armour made on any of the Imperium's many forges. By reforging the blade with a monomolecular edge (Mono for short), these simple weapons stand a much better chance at digging through an opponent's protective gear and mangling the soft flesh behind it. A mono-edged blade never loses its sharpness no matter how often it is used as each slice and chop causes the blade to hone itself rather than becoming duller. Mono-knives and swords are fairly common equipment for better equipped fighters throughout the Imperium.
 
 Only an edged weapon can benefit from having a monomolecular edge, however this upgrade can also be used to represent a similar modification or re-design of blunt weapons too; a hammer might have a pneumatic accelerator built into the head, while a staff could have a liquid metal core that enhances the force of struck blows. In all cases, the weapon loses the Primitive quality and increases its Penetration value by 2. Note that weapons which have received the Mono Edge upgrade cannot benefit from any other upgrades that require a weapon to have the Primitive quality.
 
-#### Mono-Sight
+### Mono-Sight
 Upgrades: Any non-Primitive ranged weapon
 
 Typically the purview of well-paid mercenaries and more "tactical" hit-teams, a mono-sight integrates a high-quality pict-thief in a scope mount that provides its visual data to a wired augmetic monocle. This allows the shooter to aim without actually shouldering his weapon simply by focusing on the monocle; the visual is displayed from the gun's point of view. While this may have an interesting appeal on its own, the main application is in allowing the shooter to look around corners or above cover, exposing only the weapon and the arms holding it. With steady hands, firing the weapon while aiming through the mono-sight is possible, making this an exceptional tool for tactical advances and infiltration missions. Its use in battle situations or large-scale combats is significantly less impressive as these environs typically do not feature a large amount of heavy cover, leaving the mono-sight taking up valuable scope space.
 
 A character can use a mono-sight to look around corners or over obstacles, and can use the weapon to attack targets he observes through the mono-sight. The shooter must use the Aim action to take advantage of the mono-sight in this way. A mono-sight counts towards a gun's one sight limit.
 
-#### Motion Predictor
+### Motion Predictor
 Upgrades: Any ranged weapon with a Full Automatic setting
 
 Motion predictors are something of a "poor man's targeter", although that expression is somewhat inaccurate as they are still costly pieces of wargear. A motion predictor uses an onboard cogitator unit to calculate a target's movements and literally "chases" them with a full auto barrage. Motion predictors are most often employed by mercenaries and the crack troops of noble house militias; elite Imperial Guard Storm Troopers are provided with more advanced targeters instead.
 
 A weapon fitted with a motion predictor grants its wielder a +10 bonus to his Ballistic Skill Tests made to attack as part of a Full Auto Burst. This stacks with the Full Auto Burst's usual +20 bonus for a total bonus of +30. The weapon uses ammunition at the normal rate, but its maximum number of hits are halved (round up) to reflect some wasted shots as the motion predictor tracks the target. A motion predictor does not count towards a gun's one sight limit, but cannot be used in conjunction with a proper targeter - the machine spirits are simply incompatible with one another.
 
-#### Pyre-Lance Aperture
+### Pyre-Lance Aperture
 Upgrades: Any Melta weapon other than Marspattern weapons
 
 A favoured modification by the Orders Militant of the Adepta Soroitas as well as the best-equipped Redemptionist fanatics, a pyrelance aperture adds extra focusing emitters to the barrel and muzzle of most common meltaguns, giving a more focused blast that can extend the reach of these staggeringly powerful weapons out to a more meaningful distance. The baroque, brazier-like pyre-lance creates a very dramatic appearance as well, keeping up with the aesthetics and fearsome look that the Sisters of Battle prefer. However, the modified aperture is woefully inefficient with the weapon's fuel supply, burning off a substantial amount of the chemical admixture for several seconds after every firing and further reinforcing the incendiary appearance. The well-equipped Orders Militant typically do not have any difficulty keeping up the flow of supplies, while Redemption Cultists rarely get into the sort of intense, pitched battles that would leave them with impressive-looking clubs. The same cannot be said for most Imperial Guard regiments and legions, however, so this modification can be considered a strictly "non-military" upgrade.
 
 Melta weapons outfitted with a pyre-lance aperture increase their Range by 10 metres but halve the Clip size due to horribly wasteful (though visually stunning) use of fuel. The threatening yet elegant appearance of a melta weapon modified by this upgrade grants a +10 bonus to Intimidate Skill Tests in anytime the weapon has been fired in the previous Round. This is in addition to the _Carry a Big Gun_ rule (see _The Inquisitor's Handbook,_ page 232 for more information).
 
-#### Rangefinder Sight
+### Rangefinder Sight
 Upgrades: Any Basic or Heavy Las, Solid Projectile, Bolt, Plasma, or Launcher weapon
 
 Rangefinders are most commonly encountered in the targeting apparatuses of Imperial tanks, but smaller and less powerful versions exist to equip man-portable weapons as well. Most ranged weapons are lethal well beyond the distance at which they can be fired with even the thinnest margin of a successful hit; a rangefinder sight combines the magnification of a telescopic sight with the ballistic calculance cogitator stacks of a targeter with the sole purpose of making those hits possible. By aggregating atmospheric pressure, wind speed, the trajectory characteristics of the weapon, and a host of other esoteric and arcane measures, a rangefinder scope can guide the shooter to making truly heroic shots. This application is of particular use to military snipers as well as hunters tracking the most dangerous and savage of death world game, but heavy weapons teams in fixed positions can also make use of this assistance to rain death on attacking enemy forces even longer.
 
 A character using a rangefinder sight must spend a Full Action to Aim to obtain its benefits. Any Ballistic Skill Tests made to attack benefitting from the Aim ignores the normal penalties for Long and Extreme range; furthermore, its Extreme range increases to five times the weapon's listed Range, rather than the usual four. The shooter can passively use the rangefinder sight to determine the exact distance of any target he Aims at. A rangefinder sight counts towards a gun's one sight limit.
 
-#### #### Red-Dot Laser Sight
+### Red-Dot Laser Sight
 Upgrades: Any non-Primitive ranged weapon 
 
 This simple but highly effective sight projects a low-power red laser at whatever the weapon is pointed at. The firer is able to determine exactly where his shot will land simply based on where the dot created by the laser lies. Being "painted" by a laser sight can be a potent tool of intimidation as well, the targeted character having exact knowledge of where a bullet or bolt is about to land on them. However, the bright targeting beam can have detrimental effects on a character attempting to shoot from concealment. A red-dot laser sight automatically shuts off if the weapon it is attached to is fired on Semi-Auto or Full Auto as the vibration can destroy the focusing lens if it is powered up.
 
 A weapon fitted with a red-dot laser sight grants the wielder a +10 bonus to his Ballistic Skill Test made to attack whenever it is fired on single shot. If used to threaten a character as part of an Intimidate Test, it grants a +10 bonus to that Test as well. If the shooter is hiding, attacking or Aiming while using the sight grants opponents a +30 bonus to their Awareness Tests to spot the shooter. A red-dot laser sight counts towards a gun's one sight limit.
 
-#### Sanctified Weapon
+### Sanctified Weapon
 Upgrades: Any Primitive or Chain melee weapon of Good or Best craftsmanship
 
 The prayers and blessings of those of true faith in the God-Emperor of Mankind, coupled with the ancient lore of Ecclesiastical alchemistry, is able to turn a mundane blade into a fell weapon that can cut down the foul denizens of the warp and other unnatural horrors. Once soaked in anointing oils, affixed with purity seals and blessed in the name of the Emperor, even a humble sword can become a powerful weapon against warp-spawned fiends.
 
 The effect of this upgrade is to make the Damage caused by the upgraded weapon be counted as "Holy", which has certain effects on some Daemonic and warp creatures (as will be noted in their description). It also takes on a distinctly sacred appearance, which can put the wielder in better graces when interacting with members of the Ecclesiarchy.
 
-#### Silencer
+### Silencer
 Upgrades: Pistol and Basic Solid Projectile weapons without the Scatter quality
 
 A silencer is a large can-like device fitted to the muzzle of a compatible weapon. Its internal baffles absorb the sound and flash of gunfire, making it far harder to detect by its victims (and sparing the shooter from future deafness). It is a favourite of snipers, assassins, and other types of operatives who value stealthy approaches.
 
 Awareness Tests to hear or spot shots made with a silenced weapon suffer a -20 penalty and can only be attempted within the weapon's standard range. At the GM's discretion, the targets of a Suppressing Fire action may receive a bonus on their Tests to resist Pinning as the racket of automatic gunfire greatly enhances the intimidating effect.
 
-#### Spoor Targeter
+### Spoor Targeter
 Upgrades: Any ranged weapon without the Blast, Flame, or any similar qualities
 
 This rare and highly specialized gun-scope contains extremely sophisticated spoor-sniffers and miniature cogitators linked directly to the attached weapon's firing mechanism. A spoor targeter prevents a gun from being fired when pointed directly at someone it has been programmed to recognise as an ally, making it literally impossible for the user to shoot his comrades in the swirling confusion of combat. Because of their cost and very specific purpose, spoor targeters are typically only employed by the most elite of the Imperium's combat troops: squads of Inquisitorial agents, Adeptus Arbites kill-teams, and so forth.
@@ -2786,63 +2786,63 @@ A spoor targeter may be loaded with the profiles of up to 10 allies. This proces
 
 As a tool that is employed by the Inquisition, a spoor targeter is designed not to leave its user helpless should an "unfortunate situation" arise. To this effect, it can be switched off at any point. A spoor targeter counts towards a gun's one sight limit.
 
-#### Stabiliser Rig
+### Stabiliser Rig
 Upgrades: Any Heavy weapon
 
 A stabiliser rig makes use of a powered, articulated metal armature attached to a bulky chest harness to support some of the ungainly mass of Heavy weapons. While effective at spreading the weight of the ported weapon out over the wielder's body, the rig on the whole is an awkward and cumbersome affair, making it ill suited for troops that need to move fast or with any degree of stealth. However, a stabiliser rig is greatly less costly and exceptional than a suspensor set, making it available to many of he Imperium's more humble forces that would ordinarily be saddled with dragging around tripods and sandbags. Finally, while not an explicit design feature, a stabiliser rig does prevent the attached weapon from leaving the wielder's possession (for better or worse).
 
 When using a Heavy weapon affixed to a stabiliser rig, the shooter counts as having the Bulging Biceps talent regardless of whether they meet the prerequisites, and cannot lose the weapon as a result of a Disarm attack. The bulk and poor balance of the rig and the weapon attached to it cause the shooter to suffer a -10 penalty to all movement-related Tests. Donning or removing a stabiliser rig is an Extended Action that takes 3 Rounds.
 
-#### Starflare Vent
+### Starflare Vent
 Upgrades: Any Plasma weapon
 
 This modification is both dangerous and a blatant act of tech-heresy, but the results are stunning enough that heretek tinkerers and outlaw tech-wrights with the right skill and luck seem to have no shortage of demand. By deliberately weakening and obfuscating a plasma weapon's magnetic containment field, the weapon ceases being able to generate coherent bolts of photonic hydrogen and instead vomits forth a great column of annihilation out to a short distance. On already temperamental weapons armed with fickle fusion cores and unstable ammunition, use of a starflare vent can very easily have disastrous consequences - and not just from the righteous retribution of incensed Tech-Priests and their Secutors cohorts. Of course, the power to utterly vaporise an entire mob of enemies with a single burst of solar intensity can make these concerns seem significantly less pressing.
 
 A plasma weapon modified with a starflare vent reduces its Range to one quarter (25%) its normal value, its Rate of Fire becomes S/-/- if it wasn't already, and its Clip size is halved due to the massively increased rate of hydrogen consumption. However, the weapon's massive attack now affects an area as though it had the Flame quality. If a plasma weapon modified with a starflare vent overheats, roll 1d10. On a result of "8" or higher, the vents have caused a catastrophic feedback loop and the plasma weapon violently explodes; treat this as though the weapon had rolled maximum Damage with a Blast of 5. The wielder cannot attempt an Agility Test to avoid the blast. This modification is essentially permanent; only the Tech-Priests of Ryza or another forge world blessed with the rare understanding of plasma weaponry could reverse the modifications, which most would be eager to do immediately after terminating the fool that would bring them such a blasphemously defiled weapon.
 
-#### Stutter-Las
+### Stutter-Las
 Upgrades: Any Pistol or Basic Las weapon without a Full-Auto setting
 
 While proscribed by the Mechanicus for very obvious reasons, stutter-las weapons are remarkably common gear in the hands of various scummers operating on the far side of the law. By modifying the fast-discharge capacitors used on most las weapons, the rate of fire can be significantly increased, albeit at the cost of modestly reduced beam intensity. As this upgrade is commonly favoured by those with a preference for quantity over quality, the wielder of a stutter-las will commonly opine that the loss of power is more than made up for by volume of fire. Moreover, the dull red las-bolts and short bursts of sparks that are often created can make a fine stand-in for the rattle of automatic gunfire on worlds and within regions where obtaining bullets for slug-throwers is more difficult than ubiquitous lasgun charge packs.
 
 A stutter-las gains a Full-Auto setting that expends 5 shots as well as the Inaccurate quality and reduces its Damage to 1d10+2 E when using standard charge packs; if the weapon's Damage was already lower than this value then the upgrade has no further reduction.
 
-#### Suspensors
+### Suspensors
 Upgrades: Any Heavy weapon
 
 These plates and studs are similar to those employed on skimmers and grav-cars, effectively reducing the mass of a weapon they are attached to. Elite Imperial troops make use of suspensors to make their Heavy weapons more portable, allowing one trooper to haul around the weapon as well as its ammunition with surprising speed. A Heavy weapon fitted with suspensors can be fired without bracing first, giving its shooter great mobility and the ability to support his allies during tactical advances and manoeuvres. As a result, suspensors are an invaluable asset to assault teams and other forces that rely on moving quickly.
 
 A Heavy weapon fitted with suspensors has its weight reduced by half, and the operator is considered to have the Auto-stabilised Trait as well (see Trait Descriptions onpage 329 of _Dark Heresy_). Note that suspensors do not reduce the weight of external ammunition supplies, such as a man-portable lascannon's power cells or a heavy flamer's Promethium tanks. Subtract the weight of the ammunition supply first, then factor the suspensors' reduction on the remaining weight.
 
-#### Targeter
+### Targeter
 Upgrades: Any non-Primitive ranged weapon
 
 Targeters are incredibly valuable and soughtafter devices that boost the efficiency of any weapon they are attached to. A miniature guidance cogitator along with a multi-spectrum omni-scope calculates and tabulates ballistic information and other values, such as windage, and aggregates them into easily-readable data that is displayed on a cable-attached visor or some similar item worn by the user. Armed with this knowledge, a trained shooter can make far more accurate shots in any condition. Targeters are standard-issue wargear for the Imperial Guard's elite Storm Troopers as well as their Inquisitorial counterparts, and may be employed by well-funded mercenaries, bounty hunters, and other private troops as well.
 
 A targeter grants a +10 bonus to all Ballistic Skill Tests made to attack with the weapon it is attached to. Additionally, the shooter is always aware of his exact distance to a target within the weapon's range, prevalent wind speed and pressure, and how much ammunition remains within the weapon's Clip. A targeter counts towards a gun's one sight limit.
 
-#### Telescopic Sight
+### Telescopic Sight
 Upgrades: Any Pistol with the Accurate quality or any Basic ranged weapon
 
 Also known as a sniper scope, a telescopic sight magnifies distant targets, making them easier to shoot than with the naked eye alone. Basic sights will just include a rudimentary but functional set of crosshairs, while more advanced models might include adjustable reticules or range-estimating stadia marks as part of the sight itself. Telescopic sights are usually employed by marksmen and hunters to better pick out a far-away victim, but assassins who prefer to do their work from a healthy distance make use of them as well. There are anecdotal stories of snipers betraying their position when sunlight glints off the lenses of their scopes, and as a result some sharpshooters believe that a true sniper wouldn't use a telescope, their own eyes being far superior to any mechanical device.
 
 When the shooter takes an Aim action, a weapon with a telescopic sight ignores penalties to Ballistic Skill Tests made to attack a target at Long or Extreme range. A telescopic sight counts towards a gun's one sight limit.
 
-#### Tripod
+### Tripod
 Upgrades: Any Heavy weapon
 
 A tripod is a large and sturdy three-legged mount commonly used by Imperial Guard heavy weapon teams. A tripod attaches to a weapon's centre of gravity and allows the wielder to turn it in any direction, a handy feature for use in defensive positions such as dugouts and pillboxes. Because of their bulk and that they do not offer any benefits until the weapon is set down, a tripod is usually carried separately by an assistant, with the gunner planting the weapon down via a mag-lock onto the tripod's central shaft after reaching a suitable point.
 
 Bracing with a tripod is a Full Action. Once Braced, the firer may attack any target within a 180-degree arc of his position.
 
-#### Vox Operated
+### Vox Operated
 Upgrades: Any non-Primitive ranged weapon (including Grenades)
 
 For some users, simply clicking a switch or pressing a stud just isn't good enough. A specially coded vox receiver can be integrated into a weapon's firing mechanism and other innards so that the user can operate it simply by speaking the appropriate command words. This includes firing, switching fire modes, and ejecting a spent clip (though it must be replaced manually as normal). Weapons with a fire selector upgrade can have it operated vocally as well, and some who make use of this esoteric upgrade take particular appreciation of stating out loud exactly what type of projectile they are about to blast a foe with. For security reasons each receiver is usually keyed to a specific voice pattern to prevent unintended operation at a potentially disastrous moment.
 
 A vox operated weapon can be adjusted and fired without direct physical manipulation but otherwise has no immediate statistical effect. The receiver can pick out the shooter's voice from around 10 metres away, though this range may be extended or reduced based on ambient noise. Vox operated weapons may have some other situational utility; for example, if the wielder has been apprehended by his opponents who are presently rifling through his equipment.
 
-#### Whisper-Bolt Discharger
+### Whisper-Bolt Discharger
 Upgrades: Any Pistol or Basic Las weapon
 
 Las weapons, produced in countless billions by forges and manufactorums across the Imperium, are well designed for the large-scale battles that the Imperial Guard is constantly mired in. However, the lightning-like crack and bright beam of energy are very poorly suited for stealth and infiltration, and conventional blast and flash mufflers and silencers can't be used with a las weapon for obvious reasons. "Whisper-Bolts" are a type of modified lasgun produced by a few lesser manufactorums largely for use by mercenary companies and other "private" concerns - modification of an STC design is frowned upon at best and violently persecuted by the Adeptus Mechanicus at worst, so most stay well clear of such efforts. The modified discharger shifts the las-bolt out of the visible spectrum; combined with a noise dampener wrapping around the length of the barrel, a "Whisper-Bolt" is almost as difficult to observe as a silenced slug-thrower. The modified discharger does reduce the lasgun's overall power, however, making this upgrade more suitable for use in ambushes or infiltrations than open combat.
