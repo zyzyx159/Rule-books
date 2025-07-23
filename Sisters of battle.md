@@ -1,3 +1,5 @@
+Nuns with Guns. The Sisters of battle are the imperiams answer to the church not being allowed to have men at arms. The little sister's of the Emperor's astartes have the subtlety of a wrecking ball, the personality of an imperial cult member, power armor, big guns 
+
 | Battle Sister Characteristic Advances |        |              |         |        |
 |---------------------------------------|--------|--------------|---------|--------|
 | Characteristic                        | Simple | Intermediate | Trained | Expert |
