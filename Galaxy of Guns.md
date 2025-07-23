@@ -2849,7 +2849,7 @@ Las weapons, produced in countless billions by forges and manufactorums across t
 
 A las weapon with a whisper-bolt discharger forces a -20 penalty on Awareness Tests to hear or spot the attack, and can only be attempted within the weapon's standard Range, though the las-bolts can still be seen by characters wearing IR goggles or holo-visors. Energy is lost in hiding the beam within the visible spectrum; reduce the weapon's Damage by 1.
 
-## Ammunition
+# AMMUNITION
 
 Without ammunition, even the most exquisite firearms are reduced to glorified cudgels. Different types of weapons make use of different ammo, and while some simplifications are made with regards to ease of playing the game, no amount of effort, no matter how valiant, will ever make a lasgun charge pack fit into an autogun's feed port (much less allow it to shoot!). The table details the availability as well as how much the ammunition costs. Weapons that fire single projectiles (Solid Projectile, Bolt, and Primitive weapons) as well as refillable Flamer tanks are calculated based on the price of individual projectiles, while those that use containerized ammo (Las, Melta, and Plasma weapons) is for one tank, pack or canister that usually provides a full clip's worth of shots. Check the weapon's entry for further information. The weight of ammunition is not listed; unless the weapon includes a set weight, such as a flamer's optional 10kg fuel tank, assume a full clip's weight weighs 10% of the weight of the weapon itself.
 
@@ -3241,7 +3241,7 @@ This type of armour is made from layers of tough, laminated strips of hide, bond
 
 The pelts of various creatures can make suitable clothing, with the denser types having adequate strength to fend off blades and claws. The nature of the furs is highly dependent on their world of origin and who's wearing them.
 
-> Feral savages might wear ragged strips of fur sewn together to provide rudimentary protection and warmth, while ermine or sand-fox furs can be finely bound into luxuriously soft coats or vests for hive nobles, trading magnates, and other well-to-do citizens.
+Feral savages might wear ragged strips of fur sewn together to provide rudimentary protection and warmth, while ermine or sand-fox furs can be finely bound into luxuriously soft coats or vests for hive nobles, trading magnates, and other well-to-do citizens.
 
 #### Bone Armour
 
