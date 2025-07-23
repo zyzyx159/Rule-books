@@ -127,26 +127,28 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 *† You may take this Talent two times at this Rank.*
 # Rank 6 Advances
 
-| Name                                   | Cost | Type | Prerequisites                |
-| -------------------------------------- | ---- | ---- | ---------------------------- |
-| Heightened Senses (Hearing)            | 100  | T    | —                            |
-| Heightened Senses (Sight)              | 100  | T    | —                            |
-| Insanely Faithful                      | 100  | T    | —                            |
-| Ciphers (Sororitas War Cant) +10       | 200  | S    | Ciphers (Sororitas War Cant) |
-| Command +10                            | 200  | S    | Command                      |
-| Drive (Ground) +10                     | 200  | S    | Drive (Ground)               |
-| Scholastic Lore (Imperial Creed)       | 200  | S    | —                            |
-| Scholastic Lore (Tactica Imperialis)   | 200  | S    | —                            |
-| Deadeye Shot                           | 200  | T    | BS 30                        |
-| Light Sleeper                          | 200  | T    | Per 30                       |
-| Peer (Adepta Sororitas)                | 200  | T    | Fel 30                       |
-| Sound Constitution                     | 200  | T    | —                            |
-| Search +20                             | 300  | S    | Search +10                   |
-| [[#THE POWER OF FAITH\|Faith Talent]]† | 300  | T    | Varies                       |
-| Heavy Weapon Training (Melta)†         | 300  | T    | —                            |
-| Litany of Hate                         | 300  | T    | Hatred                       |
-| Tests of Faith                         | 300  | T    | WP 30                        |
-† HEAVY WEAPON REQUISITIONS - While Battle Sisters may be capable of using Heavy Weapons they are not typically issued them when serving as part of an Acolyte Cell and not part of a Sisters of Battle Squad. It is up to the GM's discretion when a Sister of Battle has access to these weapons.
+| Name                                      | Cost | Type | Prerequisites                |
+| ----------------------------------------- | ---- | ---- | ---------------------------- |
+| Heightened Senses (Hearing)               | 100  | T    | —                            |
+| Heightened Senses (Sight)                 | 100  | T    | —                            |
+| Insanely Faithful                         | 100  | T    | —                            |
+| Ciphers (Sororitas War Cant) +10          | 200  | S    | Ciphers (Sororitas War Cant) |
+| Command +10                               | 200  | S    | Command                      |
+| Drive (Ground) +10                        | 200  | S    | Drive (Ground)               |
+| Scholastic Lore (Imperial Creed)          | 200  | S    | —                            |
+| Scholastic Lore (Tactica Imperialis)      | 200  | S    | —                            |
+| Deadeye Shot                              | 200  | T    | BS 30                        |
+| Light Sleeper                             | 200  | T    | Per 30                       |
+| Peer (Adepta Sororitas)                   | 200  | T    | Fel 30                       |
+| Sound Constitution                        | 200  | T    | —                            |
+| Search +20                                | 300  | S    | Search +10                   |
+| [[#THE POWER OF FAITH\|Faith Talent]]†    | 300  | T    | Varies                       |
+| Heavy Weapon Training (Melta)††           | 300  | T    | —                            |
+| Litany of Hate                            | 300  | T    | Hatred                       |
+| [[#TALENT TESTS OF FAITH\|Test of Faith]] | 300  | T    | WP 30                        |
+*† You may take this Talent two times at this Rank.*
+*†† HEAVY WEAPON REQUISITIONS - While Battle Sisters may be capable of using Heavy Weapons they are not typically issued them when serving as part of an Acolyte Cell and not part of a Sisters of Battle Squad. It is up to the GM's discretion when a Sister of Battle has access to these weapons.*
+
 # Rank 7 Advances
 
 | Name                                     | Cost | Type | Prerequisites                        |
@@ -172,23 +174,24 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 
 # Rank 8 Advances
 
-| Name                                     | Cost | Type | Prerequisites                            |
-|------------------------------------------|------|------|------------------------------------------|
-| Scholastic Lore (Tactica Imperialis) +10 | 100  | S    | Scholastic Lore (Tactica Imperialis)     |
-| Command +20                              | 200  | S    | Command +20                              |
-| Scholastic Lore (Archaic) +20            | 200  | S    | Scholastic Lore (Archaic) +10            |
-| Scholastic Lore (Bureaucracy) +10        | 200  | S    | Scholastic Lore (Bureaucracy)            |
-| Scholastic Lore (Imperial Creed) +20     | 200  | S    | Scholastic Lore (Imperial Creed) +10     |
-| Scholastic Lore (Tactica Imperialis) +20 | 200  | S    | Scholastic Lore (Tactica Imperialis) +10 |
-| Blind Fighting                           | 200  | T    | Per 30                                   |
-| Foresight                                | 200  | T    | Int 30                                   |
-| Sound Constitution †                     | 200  | T    | —                                        |
-| Drive (Ground) +20                       | 300  | S    | Drive (Ground) +10                       |
-| Forbidden Lore (Psykers) +10             | 300  | S    | Forbidden Lore (Psykers)                 |
-| Faith Talent                             | 300  | T    | Varies                                   |
-| Into the Jaws of Hell                    | 300  | T    | Iron Discipline                          |
-| Peer (Ecclesiarchy)                      | 300  | T    | Fel 30                                   |
-| Miraculous Survival                      | 400  | T    | —                                        |
+| Name                                                 | Cost | Type | Prerequisites                            |
+| ---------------------------------------------------- | ---- | ---- | ---------------------------------------- |
+| Scholastic Lore (Tactica Imperialis) +10             | 100  | S    | Scholastic Lore (Tactica Imperialis)     |
+| Command +20                                          | 200  | S    | Command +20                              |
+| Scholastic Lore (Archaic) +20                        | 200  | S    | Scholastic Lore (Archaic) +10            |
+| Scholastic Lore (Bureaucracy) +10                    | 200  | S    | Scholastic Lore (Bureaucracy)            |
+| Scholastic Lore (Imperial Creed) +20                 | 200  | S    | Scholastic Lore (Imperial Creed) +10     |
+| Scholastic Lore (Tactica Imperialis) +20             | 200  | S    | Scholastic Lore (Tactica Imperialis) +10 |
+| Blind Fighting                                       | 200  | T    | Per 30                                   |
+| Foresight                                            | 200  | T    | Int 30                                   |
+| Sound Constitution †                                 | 200  | T    | —                                        |
+| Drive (Ground) +20                                   | 300  | S    | Drive (Ground) +10                       |
+| Forbidden Lore (Psykers) +10                         | 300  | S    | Forbidden Lore (Psykers)                 |
+| Faith Talent                                         | 300  | T    | Varies                                   |
+| Into the Jaws of Hell                                | 300  | T    | Iron Discipline                          |
+| Peer (Ecclesiarchy)                                  | 300  | T    | Fel 30                                   |
+| [[#TALENT MIRACULOUS SURVIVAL\|Miraculous Survival]] | 400  | T    | —                                        |
+*† You may take this Talent two times at this Rank.*
 ## THE POWER OF FAITH
 
 A Sororitas sister's faith is a series of Talents that allow her to use her Fate Points in unique ways. Full details on the power of Faith and how characters can use it in **DARK HERESY** can be found in **Chapter 4: Fire and Faith**.
