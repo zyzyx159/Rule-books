@@ -2223,26 +2223,26 @@ Because of the great cost of manufacturing the power field generators themselves
 When deactivated, a power weapon counts as a Primitive weapon of the same type with the mono-edged upgrade and can be used without penalty by a character with the Melee Weapon Training (Primitive) talent. Otherwise, a character must have the Melee Weapon Training (Power) to use power weapons without penalty.
 ### Power Weapons List
 
-| Name                  | Class              | Dam        | Pen | Special                                  | Wt     | Cost   | World            | Availability   |
-| --------------------- | ------------------ | ---------- | --- | ---------------------------------------- | ------ | ------ | ---------------- | -------------- |
-| [[#Null Rod]]         | Melee              | 1d10+4 E   | 6   | Power Field, Special                     | 3kg    | 9,000  | -                | Extremely Rare |
-| [[#Omnissian Rod]]    | Melee              | 1d10+10 E  | 7   | Balanced, Flexible, PowerField, Special  | 9kg    |        | Tech-Priest Only | Extremely Rare |
-| [[#Power Axe]]        | Melee              | 1d10+7 E   | 8   | Power Field, Unbalanced                  | 6kg    | 2,700  |                  | -              |
-| - Loi-Pattern †       | Melee              | 1d10+8 E   | 10  | Power Field, Unbalanced                  | 7kg    | 3,200  |                  | -              |
-| - Omnissian Axe       | Melee              | 2d10+4 E   | 8   | Power Field, Unbalanced                  | 8kg    |        | Tech-Priest Only | Extremely Rare |
-| Power Blade           | Melee              | 1d10+3 E   | 6   | Power Field                              | 1.5kg  | 1,750  | -                | Very Rare      |
-| - Serpentine          | Melee              | 1d10+2 E   | 6   | Fast, Power Field                        | 1.5kg  | 2,000  | -                | Extremely Rare |
-| Power Discus          | Thrown (SBx4m)     | 1d10+4 E   | 5   | Power Field, Special                     | 0.2kg  | 10,000 | -                | Extremely Rare |
-| Power Fist (gauntlet) | Melee              | 2d10 E††   | 9   | Power Field, Unwieldy                    | 12kg   | 3,200  | -                | Very Rare      |
-| Power Fist (glove)    | Melee              | 2d10 E††   | 7   | Power Field, Unwieldy                    | 7kg††† | 3,000  | -                | Very Rare      |
-| Power Longsword †     | Melee              | 1d10+7 E   | 7   | Balanced, Power Field                    | 4.5kg  | 3,500  | -                | Very Rare      |
-| Power Maul (high)     | Melee              | 1d10+5 E   | 5   | Power Field                              | 3.5kg  | 2,500  | -                | Very Rare      |
-| Power Maul (low)      | Melee              | 1d10+1 I   | 2   | Shocking                                 |        |        |                  |                |
-| Power Stake           | Melee              | 1d10+7 E   | 5   | Power Field, Sanctified,Unbalanced       | 1kg    | 20,000 | -                | Extremely Rare |
-| Power Sword           | Melee              | 1d10+6 E   | 6   | Balanced, Power Field                    | 3.5kg  | 2,500  | -                | Very Rare      |
-| - Power Sabre         | Melee              | 1d10+5 E   | 5   | Balanced, Power Field                    | 3kg    | 2,700  | -                | Very Rare      |
-| Thunder Hammer †      | Melee              | 2d10+2 E†† | 10  | Power Field, Recharge,Shocking, Unwieldy | 15kg   | 4,000  | -                | Very Rare      |
-| Witch Lance           | Melee/Thrown (10m) | 1d10+5 E   | 6   | Power Field, Special                     | 5kg    | 2,800  | -                | Very Rare      |
+| Name                                               | Class              | Dam        | Pen | Special                                  | Wt     | Cost   | World            | Availability   |
+| -------------------------------------------------- | ------------------ | ---------- | --- | ---------------------------------------- | ------ | ------ | ---------------- | -------------- |
+| [[#Null Rod]]                                      | Melee              | 1d10+4 E   | 6   | Power Field, Special                     | 3kg    | 9,000  | -                | Extremely Rare |
+| [[#Omnissian Rod]]                                 | Melee              | 1d10+10 E  | 7   | Balanced, Flexible, PowerField, Special  | 9kg    |        | Tech-Priest Only | Extremely Rare |
+| [[#Power Axe]]                                     | Melee              | 1d10+7 E   | 8   | Power Field, Unbalanced                  | 6kg    | 2,700  |                  | -              |
+| - [[#Loi-Pattern]] †                               | Melee              | 1d10+8 E   | 10  | Power Field, Unbalanced                  | 7kg    | 3,200  |                  | -              |
+| - [[#Omnissian Axe]]                               | Melee              | 2d10+4 E   | 8   | Power Field, Unbalanced                  | 8kg    |        | Tech-Priest Only | Extremely Rare |
+| [[#Power Blade]]                                   | Melee              | 1d10+3 E   | 6   | Power Field                              | 1.5kg  | 1,750  | -                | Very Rare      |
+| - [[#Khayer-Addin "Serpentine" Blade\|Serpentine]] | Melee              | 1d10+2 E   | 6   | Fast, Power Field                        | 1.5kg  | 2,000  | -                | Extremely Rare |
+| [[#Power Discus]]                                  | Thrown (SBx4m)     | 1d10+4 E   | 5   | Power Field, Special                     | 0.2kg  | 10,000 | -                | Extremely Rare |
+| [[#Power Fist]] (gauntlet)                         | Melee              | 2d10 E††   | 9   | Power Field, Unwieldy                    | 12kg   | 3,200  | -                | Very Rare      |
+| [[#Power Fist]] (glove)                            | Melee              | 2d10 E††   | 7   | Power Field, Unwieldy                    | 7kg††† | 3,000  | -                | Very Rare      |
+| [[#Power Longsword]] †                             | Melee              | 1d10+7 E   | 7   | Balanced, Power Field                    | 4.5kg  | 3,500  | -                | Very Rare      |
+| [[#Arbitrator Power Maul]] (high)                  | Melee              | 1d10+5 E   | 5   | Power Field                              | 3.5kg  | 2,500  | -                | Very Rare      |
+| [[#Arbitrator Power Maul]] (low)                   | Melee              | 1d10+1 I   | 2   | Shocking                                 |        |        |                  |                |
+| [[#Power Stake]]                                   | Melee              | 1d10+7 E   | 5   | Power Field, Sanctified,Unbalanced       | 1kg    | 20,000 | -                | Extremely Rare |
+| [[#Power Sword]]                                   | Melee              | 1d10+6 E   | 6   | Balanced, Power Field                    | 3.5kg  | 2,500  | -                | Very Rare      |
+| - [[#Power Sabre                                   | Melee              | 1d10+5 E   | 5   | Balanced, Power Field                    | 3kg    | 2,700  | -                | Very Rare      |
+| Thunder Hammer †                                   | Melee              | 2d10+2 E†† | 10  | Power Field, Recharge,Shocking, Unwieldy | 15kg   | 4,000  | -                | Very Rare      |
+| Witch Lance                                        | Melee/Thrown (10m) | 1d10+5 E   | 6   | Power Field, Special                     | 5kg    | 2,800  | -                | Very Rare      |
 † _Requires two hands to be used effectively_
 †† _Add twice the wielder's Strength Bonus to Damage_
 ††† _Not including external power source_
