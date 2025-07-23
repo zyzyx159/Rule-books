@@ -853,10 +853,13 @@ If the Psyker passes the Test, and the subject is within a number of kilometres 
 As long as the Psyker sustains this power he can spend a Full Action to gain updated information on the location of the subject (the level of this information remains dependant on his original degrees of success). Thus, a Psyker can follow a person who is actively trying to evade them for instance.
 
 # **Far Sight**
+| Threshold:  | 17                  |
+| ----------- | ------------------- |
+| Focus Time: | Full Action         |
+| Sustained:  | Yes                 |
+| Range:      | 1km/Willpower Bonus |
 
-# **Threshold:** 17 **Focus Time:** Full Action **Sustained:** Yes
-
-**Range:** 1km/Willpower Bonus Some diviners are capable of opening their inner eye to perceive events that occur at places far away from them. Far Sight may be used to make you aware of a single space anywhere within Range of this power. You need not be aware of the destination; you merely need to identify how far away you need to cast your senses (for example: "I look two kilometres to the west"). Should the point you select be inside a solid object, such as a wall, tree, cliff face or the like, the power simply fails. You may use Far Sight to cast your view inside buildings, bodies of water, pockets of gas and so on without impediment.
+Some diviners are capable of opening their inner eye to perceive events that occur at places far away from them. Far Sight may be used to make you aware of a single space anywhere within Range of this power. You need not be aware of the destination; you merely need to identify how far away you need to cast your senses (for example: "I look two kilometres to the west"). Should the point you select be inside a solid object, such as a wall, tree, cliff face or the like, the power simply fails. You may use Far Sight to cast your view inside buildings, bodies of water, pockets of gas and so on without impediment.
 
 Once you have cast your sight to a particular place, you can see up to the normal range of your vision from a specific point of view. You may change your facing by 90-degrees by spending a Half Action. Once you choose your point, you may not select another. You must use the power again to select a new point. Far Sight does not grant any special forms of vision; if your clairvoyant point is within a darkened room and you cannot normally see in darkness, you perceive nothing but darkness. In addition, Far Sight does not pick up sound (though if you have the Lip Reading skill, you can use it to work out what speakers are saying).
 
@@ -894,9 +897,7 @@ Like a spider on a web, you are able to sense disturbances to your immediate fut
 
 You may manipulate probability to your own advantage. The threads of your immediate future appear clearly in your mind. You have the power to Dodge projectiles before they've been fired. When you manifest this power, you can walk into combat with what appears to be astounding grace (or incredible luck), weaving your way through fields of gunfire without a scratch. Until the end of your next Turn, all Ballistic Skill Tests made to hit you with ranged weapons suffer a –30 penalty.
 
-# **Preternatural**
-
-# **Awareness**
+# **Preternatural Awareness**
 
 | Threshold:  | 9           |
 |-------------|-------------|
@@ -1096,8 +1097,11 @@ Each Round you can choose a new effect or apply the same effects to the same sou
 **Overbleed:** For every 5 points by which you exceed the power's Threshold, you can manipulate fire more efficiently. If you exceed the PT by 5 points, you can create easily recognisable images. If you exceed by 10 points, you can create near lifelike figures, as if carved from flame. You can increase the distance of spreading fire: for every 5 points you exceed the PT, the distance is double your Willpower Bonus; for exceeding by 10 points the distance is four times your Willpower Bonus and so on.
 
 # **Wall of Fire**
-
-**Threshold:** 17 **Focus Time:** Full Action **Sustained:** Yes **Range:** 60m
+| Threshold:  | 17          |
+| ----------- | ----------- |
+| Focus Time: | Full Action |
+| Sustained:  | Yes         |
+| Range:      | 60m         |
 
 A relatively blunt, but effective, ability in the pyrokinetic's arsenal, this power allows you to place an immobile barrier of flame that lingers for as long as you will it. The wall is three metres high and a metre thick and can be up to ten metres long for every point of your Willpower Bonus. You can place it anywhere within Range and even on top of foes, though they are allowed an Easy (+20) Agility Test to get out of the way. Foes crossing the wall or failing the Test take 1d10+5 Energy Damage (ignoring armor) and must Test Agility again or catch on fire.
 
