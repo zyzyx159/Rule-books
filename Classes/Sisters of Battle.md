@@ -35,72 +35,72 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 
 # Rank 2 Advances
 
-| Name                               | Cost | Type | Prerequisites      |
-| ---------------------------------- | ---- | ---- | ------------------ |
-| Intimidate                         | 100  | S    | —                  |
-| Performer (Singer) +10             | 100  | S    | Performer (Singer) |
-| Tech Use                           | 100  | S    | —                  |
-| Trade (Copyist) +10                | 100  | S    | Trade (Copyist)    |
-| Pistol Training (Bolt)             | 100  | T    | —                  |
-| Quick Draw                         | 100  | T    | —                  |
-| Scrutiny                           | 200  | S    | —                  |
-| Secret Tongue (Sororitas War Cant) | 200  | S    | —                  |
-| Sound Constitution                 | 200  | S    | —                  |
-| Basic Weapon Training (Flame)      | 200  | T    | Awareness          |
-| Forbidden Lore (Ordo Hereticus)    | 200  | T    | —                  |
-| Hatred (Heretics)                  | 200  | T    | —                  |
-| Hatred (Mutants)                   | 200  | T    | —                  |
-| Hatred (Psykers)                   | 200  | T    | —                  |
-| Scholastic Lore (Archaic)          | 200  | T    | —                  |
-| Scholastic Lore (Philosophy)       | 200  | T    | —                  |
-| Thrown Weapon Training             | 200  | T    | —                  |
-| Faith Talent                       | 300  | T    | Varies             |
+| Name                                  | Cost | Type | Prerequisites      |
+| ------------------------------------- | ---- | ---- | ------------------ |
+| Intimidate                            | 100  | S    | —                  |
+| Performer (Singer) +10                | 100  | S    | Performer (Singer) |
+| Tech Use                              | 100  | S    | —                  |
+| Trade (Copyist) +10                   | 100  | S    | Trade (Copyist)    |
+| Pistol Training (Bolt)                | 100  | T    | —                  |
+| Quick Draw                            | 100  | T    | —                  |
+| Scrutiny                              | 200  | S    | —                  |
+| Secret Tongue (Sororitas War Cant)    | 200  | S    | —                  |
+| Sound Constitution                    | 200  | S    | —                  |
+| Basic Weapon Training (Flame)         | 200  | T    | Awareness          |
+| Forbidden Lore (Ordo Hereticus)       | 200  | T    | —                  |
+| Hatred (Heretics)                     | 200  | T    | —                  |
+| Hatred (Mutants)                      | 200  | T    | —                  |
+| Hatred (Psykers)                      | 200  | T    | —                  |
+| Scholastic Lore (Archaic)             | 200  | T    | —                  |
+| Scholastic Lore (Philosophy)          | 200  | T    | —                  |
+| Thrown Weapon Training                | 200  | T    | —                  |
+| [[#THE POWER OF FAITH\|Faith Talent]] | 300  | T    | Varies             |
 # Rank 3 Advances
 
-| Name                             | Cost | Type | Prerequisites            |
-| -------------------------------- | ---- | ---- | ------------------------ |
-| Common Lore (Ecclesiarchy) +10   | 100  | S    | Common Lore (Eccles.)    |
-| Common Lore (Imperial Creed) +10 | 100  | S    | Common Lore (Imp. Creed) |
-| Dodge                            | 100  | S    | —                        |
-| Drive (Ground)                   | 100  | S    | —                        |
-| Melee Weapon Training (Chain)    | 100  | T    | —                        |
-| Awareness +10                    | 200  | S    | Awareness                |
-| Meditation                       | 200  | T    | —                        |
-| Mighty Shot                      | 200  | T    | BS 40                    |
-| Sound Constitution               | 200  | T    | —                        |
-| Heavy Weapon Training (Bolt)     | 300  | T    | —                        |
-| Resistance (Psychic Powers)      | 300  | T    | —                        |
-| Search                           | 200  | S    | —                        |
-| Ambidextrous                     | 200  | T    | —                        |
-| Hatred (Abhumans)                | 200  | T    | —                        |
-| Hatred (Radical Inquisitors)     | 200  | T    | —                        |
-| Hatred (Xenos)                   | 200  | T    | —                        |
-| Pistol Training (Flame)          | 200  | T    | —                        |
-| Rapid Reload                     | 200  | T    | —                        |
-| Unshakeable Faith                | 200  | T    | —                        |
-| Faith Talent                     | 300  | T    | Varies                   |
+| Name                                  | Cost | Type | Prerequisites            |
+| ------------------------------------- | ---- | ---- | ------------------------ |
+| Common Lore (Ecclesiarchy) +10        | 100  | S    | Common Lore (Eccles.)    |
+| Common Lore (Imperial Creed) +10      | 100  | S    | Common Lore (Imp. Creed) |
+| Dodge                                 | 100  | S    | —                        |
+| Drive (Ground)                        | 100  | S    | —                        |
+| Melee Weapon Training (Chain)         | 100  | T    | —                        |
+| Awareness +10                         | 200  | S    | Awareness                |
+| Meditation                            | 200  | T    | —                        |
+| Mighty Shot                           | 200  | T    | BS 40                    |
+| Sound Constitution                    | 200  | T    | —                        |
+| Heavy Weapon Training (Bolt)          | 300  | T    | —                        |
+| Resistance (Psychic Powers)           | 300  | T    | —                        |
+| Search                                | 200  | S    | —                        |
+| Ambidextrous                          | 200  | T    | —                        |
+| Hatred (Abhumans)                     | 200  | T    | —                        |
+| Hatred (Radical Inquisitors)          | 200  | T    | —                        |
+| Hatred (Xenos)                        | 200  | T    | —                        |
+| Pistol Training (Flame)               | 200  | T    | —                        |
+| Rapid Reload                          | 200  | T    | —                        |
+| Unshakeable Faith                     | 200  | T    | —                        |
+| [[#THE POWER OF FAITH\|Faith Talent]] | 300  | T    | Varies                   |
 
 # Rank 4 Advances
 
-| Name                          | Cost | Type | Prerequisites                          |
-| ----------------------------- | ---- | ---- | -------------------------------------- |
-| Climb +10                     | 100  | S    | Climb                                  |
-| Common Lore (Imperium)        | 100  | S    | —                                      |
-| Common Lore (War)             | 100  | S    | —                                      |
-| Literacy +10                  | 100  | S    | —                                      |
-| Command                       | 200  | S    | —                                      |
-| Crack Shot                    | 200  | S    | BS 40                                  |
-| Forbidden Lore (Heresy) +10   | 200  | S    | Forbidden Lore (Heresy)                |
-| Forbidden Lore (Psykers)      | 200  | S    | —                                      |
-| Basic Weapon Training (Melta) | 200  | T    | —                                      |
-| Cleanse and Purify            | 200  | T    | Basic Weapon (Flame)                   |
-| Sound Constitution            | 200  | T    | —                                      |
-| Armour of Contempt            | 300  | T    | WP 40                                  |
-| Arms Master                   | 300  | T    | BS 30, Basic Weapon Training (any two) |
-| Faith Talent                  | 300  | T    | Varies                                 |
-| Heavy Weapon Training (Flame) | 300  | T    | —                                      |
-| Litany of Battle              | 300  | T    | Fel 30                                 |
-| Hardy                         | 400  | T    | —                                      |
+| Name                                  | Cost | Type | Prerequisites                          |
+| ------------------------------------- | ---- | ---- | -------------------------------------- |
+| Climb +10                             | 100  | S    | Climb                                  |
+| Common Lore (Imperium)                | 100  | S    | —                                      |
+| Common Lore (War)                     | 100  | S    | —                                      |
+| Literacy +10                          | 100  | S    | —                                      |
+| Command                               | 200  | S    | —                                      |
+| Crack Shot                            | 200  | S    | BS 40                                  |
+| Forbidden Lore (Heresy) +10           | 200  | S    | Forbidden Lore (Heresy)                |
+| Forbidden Lore (Psykers)              | 200  | S    | —                                      |
+| Basic Weapon Training (Melta)         | 200  | T    | —                                      |
+| Cleanse and Purify                    | 200  | T    | Basic Weapon (Flame)                   |
+| Sound Constitution                    | 200  | T    | —                                      |
+| Armour of Contempt                    | 300  | T    | WP 40                                  |
+| Arms Master                           | 300  | T    | BS 30, Basic Weapon Training (any two) |
+| [[#THE POWER OF FAITH\|Faith Talent]] | 300  | T    | Varies                                 |
+| Heavy Weapon Training (Flame)         | 300  | T    | —                                      |
+| Litany of Battle                      | 300  | T    | Fel 30                                 |
+| Hardy                                 | 400  | T    | —                                      |
 # Rank 5 Advances
 
 | Name                             | Cost | Type | Prerequisites                    |
@@ -124,6 +124,7 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 | Die Hard                         | 300  | T    | WP 40                            |
 | Faith Talent†                    | 300  | T    | Varies                           |
 | Marksman                         | 300  | T    | BS 35                            |
+*† You may take this Talent two times at this Rank.*
 # Rank 6 Advances
 
 | Name                                 | Cost | Type | Prerequisites                |
@@ -188,7 +189,7 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 | Into the Jaws of Hell                    | 300  | T    | Iron Discipline                          |
 | Peer (Ecclesiarchy)                      | 300  | T    | Fel 30                                   |
 | Miraculous Survival                      | 400  | T    | —                                        |
-## **THE POWER OF FAITH**
+## THE POWER OF FAITH
 
 A Sororitas sister's faith is a series of Talents that allow her to use her Fate Points in unique ways. Full details on the power of Faith and how characters can use it in **DARK HERESY** can be found in **Chapter 4: Fire and Faith**.
 
@@ -196,14 +197,14 @@ A Sororitas sister's faith is a series of Talents that allow her to use her Fate
 
 The Battle Sister knows hundreds of litanies and always recites exactly the most appropriate verse in battle, bolstering her allies with the wisdom of saints. The Sister of Battle may spend a fate point to allow an ally who can hear her to re-roll a failed Weapon Skill or Ballistic skill test. Characters may still only re-roll a test once.
 
-## **HEAVY WEAPON REQUISITIONS**
+## HEAVY WEAPON REQUISITIONS
 
 While Battle Sisters may be capable of using Heavy Weapons they are not typically issued them when serving as part of an Acolyte Cell and not part of a Sisters of Battle Squad. It is up to the GM's discretion when a Sister of Battle has access to these weapons.
 
-## **TALENT: TESTS OF FAITH**
+## TALENT: TESTS OF FAITH
 
-The Battle Sister's faith has been tested in the fi res of combat and she has emerged with her faith tempered and sharpened. Once per game session the Battle Sister may activate an Emperor's Wrath Faith talent without spending a Fate Point. The effect activates as normal as if the character had spent a Fate Point but not as if she burned a Fate Point.
+The Battle Sister's faith has been tested in the fires of combat and she has emerged with her faith tempered and sharpened. Once per game session the Battle Sister may activate an Emperor's Wrath Faith talent without spending a Fate Point. The effect activates as normal as if the character had spent a Fate Point but not as if she burned a Fate Point.
 
-## **TALENT: MIRACULOUS SURVIVAL**
+## TALENT: MIRACULOUS SURVIVAL
 
 The Sister of Battle is not merely protected by her faith in the Emperor, it is clear to all that He has plans for her and she will not die until He ordains it. When the Sister of Battle burns a Fate Point to avoid death, she stands up (or climbs her way out of the rubble, etc.) at the beginning of her next action completely unharmed in any way. She has full wounds, no fatigue and is cured of any critical effects that she has sustained, even if the damage was incurred before the event that would have caused her death.
