@@ -25,7 +25,7 @@ In addition to these "free" augmentations, Tech-Priest Player Characters can als
 As ever, questions about the damage or removal of implants, and what this does to a Tech-Priest's Talents, should be adjudicated by the Game Master. No doubt this wise and august person will provide a common-sense answer, agreeable to all.
 
 | Table 2-9: Tech-Priest Characteristic Advances |        |              |         |        |
-|------------------------------------------------|--------|--------------|---------|--------|
+| ---------------------------------------------- | ------ | ------------ | ------- | ------ |
 | Characteristic                                 | Simple | Intermediate | Trained | Expert |
 | Weapon Skill                                   | 250    | 500          | 750     | 1,000  |
 | Ballistic Skill                                | 250    | 500          | 750     | 1,000  |
@@ -36,7 +36,7 @@ As ever, questions about the damage or removal of implants, and what this does t
 | Perception                                     | 250    | 500          | 750     | 1,000  |
 | Willpower                                      | 100    | 250          | 500     | 750    |
 | Fellowship                                     | N/A    | N/A          | N/A     | N/A    |
-|                                                |        |              |         |        |
+
 # Advancement Tree
 
 ```mermaid

@@ -2,7 +2,7 @@
 	- [x] Split the book into files by chapters
 - [ ] Galaxy of Guns
 	- [ ] Need to do the links
-		- [ ] Done up to Primitive weapons
+		- [ ] Done up to Ammunition
 - [ ] Inquisitor's Handbook
 	- [x] Splitting the book into files by chapters
 	- [x] Split out alternative paths
