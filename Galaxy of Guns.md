@@ -1756,21 +1756,21 @@ Exotic weapons typically make use of equally exotic ammunition. In general, assu
 | [[#Digital Weapon\|Digi-mine]]                               | Thrown | SBx3m | S/-/-  | 3d10 X   | 5   | 1    | -      | Blast (3)                  | .1kg  | 2,000  | -      | Extremely Rare |
 | [[#Digital Weapon\|Digi-melta]]                              | Pistol | 3m    | S/-/-  | 2d10+4 E | 12  | 1    | 3 Full | -                          | .1kg  | 20,000 | -      | Extremely Rare |
 | [[#Digital Weapon\|Digi-needler]]                            | Pistol | 3m    | S/-/-  | 1d10 R   | 0   | 1    | 3 Full | Toxic                      | .1kg  | 11,000 | -      | Extremely Rare |
-| Graviton Gun                                                 | Basic  | 30m   | S/-/-  | Special  | -   | 3    | 2 Full | Blast (5), Special         | 5kg   | 3,500  | Forge  | Very Rare      |
-| Empyrian Brain Mine                                          | Thrown | SBx3m | S/-/-  | Special  | -   | 1    | -      | Special                    | 1kg   | 500    | -      | Extremely Rare |
-| Heavy Catalytic Mass Driver                                  | Heavy  | 150m  | S/3/10 | 1d10+4 R | 12  | 400  | Full   | Special                    | 16kg  | 2,800  | Lathes | Very Rare      |
-| Heavy Webber                                                 | Heavy  | 70m   | S/-/-  | -        | -   | 3    | Full   | Blast (5), Snare           | 14kg  | 1,200  | -      | Rare           |
-| - Aegis-Redback                                              | Heavy  | 80m   | S/-/-  | -        | -   | 4    | 3 Full | Blast (6), Snare           | 17kg  | 2,000  | -      | Rare           |
-| Needle Pistol                                                | Pistol | 30m   | S/-/-  | 1d10 R   | 0   | 6    | Full   | Accurate, Toxic            | 1.5kg | 1,250  | -      | Very Rare      |
-| - Glavian Needler                                            | Pistol | 30m   | S/3/-  | 1d10-1 R | 0   | 7    | Full   | Toxic                      | 1kg   | 950    | -      | Very Rare      |
-| Needle Rifle                                                 | Basic  | 180m  | S/-/-  | 1d10 R   | 0   | 6    | 2 Full | Accurate, Toxic            | 2kg   | 1,000  | -      | Very Rare      |
-| Rad-Cleanser                                                 | Heavy  | 30m   | S/-/-  | 2d10+2 E | 7   | 20   | -      | Blast (2), Recharge, Toxic | 26kg  | 7,000  | -      | Very Rare      |
-| Razorweb Launcher                                            | Heavy  | 10m   | S/-/-  | 2d10+4 R | 5   | 1    | Full   | Blast (1), Tearing         | 3kg   | 10,000 | -      | Extremely Rare |
-| Rocketfire Gun                                               | Basic  | 80m   | S/-/-  | 1d10+5 I | 4   | 6    | Full   | Tearing                    | 4kg   | 1,000  | -      | Very Rare      |
-| Shock Blaster                                                | Pistol | 20m   | S/2/-  | 1d10+2 E | 4   | 7    | Full   | Shocking                   | 3kg   | 650    | Forge  | Scarce         |
-| Sonic Rifle                                                  | Basic  | 30m   | S/2/-  | 1d10+3 X | 2   | 8    | Full   | Shocking, Tearing          | 3.5kg | 800    | Void   | Rare           |
-| Synapse Disruptor                                            | Pistol | 40m   | S/-/-  | -        | -   | 10   | 2 Full | Special                    | 3kg   | 3,500  | -      | Very Rare      |
-| Webber                                                       | Basic  | 50m   | S/-/-  | -        | -   | 1    | Full   | Blast (5), Snare           | 8kg   | 1,800  | -      | Rare           |
+| [[#Graviton Gun]]                                            | Basic  | 30m   | S/-/-  | Special  | -   | 3    | 2 Full | Blast (5), Special         | 5kg   | 3,500  | Forge  | Very Rare      |
+| [[#Empyrian Brain Mine]]                                     | Thrown | SBx3m | S/-/-  | Special  | -   | 1    | -      | Special                    | 1kg   | 500    | -      | Extremely Rare |
+| [[#Heavy Catalytic Mass Driver]]                             | Heavy  | 150m  | S/3/10 | 1d10+4 R | 12  | 400  | Full   | Special                    | 16kg  | 2,800  | Lathes | Very Rare      |
+| [[#Heavy Webber]]                                            | Heavy  | 70m   | S/-/-  | -        | -   | 3    | Full   | Blast (5), Snare           | 14kg  | 1,200  | -      | Rare           |
+| - [[#Aegis-Redback]]                                         | Heavy  | 80m   | S/-/-  | -        | -   | 4    | 3 Full | Blast (6), Snare           | 17kg  | 2,000  | -      | Rare           |
+| [[#Needle Pistol]]                                           | Pistol | 30m   | S/-/-  | 1d10 R   | 0   | 6    | Full   | Accurate, Toxic            | 1.5kg | 1,250  | -      | Very Rare      |
+| - [[#Glavian Needler]]                                       | Pistol | 30m   | S/3/-  | 1d10-1 R | 0   | 7    | Full   | Toxic                      | 1kg   | 950    | -      | Very Rare      |
+| [[#Needle Rifle]]                                            | Basic  | 180m  | S/-/-  | 1d10 R   | 0   | 6    | 2 Full | Accurate, Toxic            | 2kg   | 1,000  | -      | Very Rare      |
+| [[#Rad-Cleanser]]                                            | Heavy  | 30m   | S/-/-  | 2d10+2 E | 7   | 20   | -      | Blast (2), Recharge, Toxic | 26kg  | 7,000  | -      | Very Rare      |
+| [[#Razorweb Launcher]]                                       | Heavy  | 10m   | S/-/-  | 2d10+4 R | 5   | 1    | Full   | Blast (1), Tearing         | 3kg   | 10,000 | -      | Extremely Rare |
+| [[#Rocketfire Gun]]                                          | Basic  | 80m   | S/-/-  | 1d10+5 I | 4   | 6    | Full   | Tearing                    | 4kg   | 1,000  | -      | Very Rare      |
+| [[#Aegis Anbaric Shock Blaster\|Shock Blaster]]              | Pistol | 20m   | S/2/-  | 1d10+2 E | 4   | 7    | Full   | Shocking                   | 3kg   | 650    | Forge  | Scarce         |
+| [[#Demerite "Screamer" Sonic Rifle\|Sonic Rifle]]            | Basic  | 30m   | S/2/-  | 1d10+3 X | 2   | 8    | Full   | Shocking, Tearing          | 3.5kg | 800    | Void   | Rare           |
+| [[#Synapse Disruptor]]                                       | Pistol | 40m   | S/-/-  | -        | -   | 10   | 2 Full | Special                    | 3kg   | 3,500  | -      | Very Rare      |
+| [[#Webber]]                                                  | Basic  | 50m   | S/-/-  | -        | -   | 1    | Full   | Blast (5), Snare           | 8kg   | 1,800  | -      | Rare           |
 | Web Pistol                                                   | Pistol | 30m   | S/-/-  | -        | -   | 1    | Full   | Snare                      | 3.5kg | 1,200  | -      | Rare           |
 #### Catalytic Mass Driver
 Class: Basic (Exotic)
@@ -1828,7 +1828,8 @@ Class: Heavy (Exotic)
 
 This particularly huge webber is cumbersome and difficult to handle but has correspondingly huge takedown power. Aside from being able to entangle a whole band of scummers at once, a heavy webber can project its sticky filament nets far enough away to put the shooter outside the range of some autoguns. Heavy webbers use a very large web chem canister that allows them to be fired several times before being expended, making it a more suitable choice for highintensity situations where multiple targets need to be apprehended. A heavy webber's webs break down on their own after 1d5+2 hours.
 
-Aegis-Redback Pattern: Held by the Adeptus Mechanicus of the Lathe System, this advanced heavy webber pattern is produced under license by the Hax-Orthlack manufactorums on Scintilla. It is a standard issue item in most Adeptus Arbites arsenals in the Calixis Sector, and can also (perhaps unsurprisingly) be found in the employ of Lord Hax's Magistratum enforcers. Unlike most heavy webber marks, the Aegis-Redback stores its web chem in a canister on the wearer's back, making the weapon itself significantly easier to port around while still providing a larger volume of shots. This quality has led to some of its users, especially the Magistratum in Hive Sibellus, to be rather overzealous in its use. Of course, most innocent bystanders would probably prefer to be caught in its web than blown apart by a riot gun.
+##### Aegis-Redback Pattern:
+Held by the Adeptus Mechanicus of the Lathe System, this advanced heavy webber pattern is produced under license by the Hax-Orthlack manufactorums on Scintilla. It is a standard issue item in most Adeptus Arbites arsenals in the Calixis Sector, and can also (perhaps unsurprisingly) be found in the employ of Lord Hax's Magistratum enforcers. Unlike most heavy webber marks, the Aegis-Redback stores its web chem in a canister on the wearer's back, making the weapon itself significantly easier to port around while still providing a larger volume of shots. This quality has led to some of its users, especially the Magistratum in Hive Sibellus, to be rather overzealous in its use. Of course, most innocent bystanders would probably prefer to be caught in its web than blown apart by a riot gun.
 
 #### Needle Pistol
 Class: Pistol (Exotic)
