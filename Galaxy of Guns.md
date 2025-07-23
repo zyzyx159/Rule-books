@@ -2518,7 +2518,7 @@ The Vivisector is a long ornate gauntlet that locks over the user's forearm with
 
 A Vivisector grants the wielder a +10 bonus to Medicae Tests for the purposes of repairing servitors or conducting autopsies. Its frightening appearance is also a useful tool in and of itself, and grants the wielder a +10 bonus to Interrogation and Intimidation Tests as well. For an additional 500 Thrones, a Vivisector may be upgraded with stronger bio-solvents and other corrosives that give it the Toxic quality as well.
 
-# Upgrades
+# UPGRADES
 
 ## Upgrade information
 While a weapon is only as efficient as its wielder – whose performance in combat is no better than his faith in the Emperor – various types of modifications and additional equipment can be used to augment this to some extent. Upgrades enhance the performance or capability of a weapon in some way, and can perform a variety of functions. Upgrading a weapon requires a successful Trade (Armourer) Test, whose difficulty depends on the upgrade itself. Trade (Technomat) can be used instead, but the difficulty increases by two steps.
@@ -2542,30 +2542,30 @@ The cost and availability of each upgrade refers to the component itself, not th
 | [[#Extra Grip]]              | +0.5kg  | 25      | +10  | Average        |
 | [[#Fire Selector]]           | +0.5kg  | 50      | +20  | Scarce         |
 | [[#Force Weapon]]            | -       | 3,500   | -20  | Very Rare      |
-| [[#Forearm Weapon Mount      | +1kg    | 300     | +0   | Scarce         |
-| Gene-Lock Circuit            | +0.5kg  | 100     | +0   | Rare           |
-| Grav-Accelerator             | +2kg    | 550     | -20  | Very Rare      |
-| Integrated Weapon            | +0.5kg  | 200     | -30  | Extremely Rare |
-| Lathe Blade                  | -       | 2,500   | -20  | Very Rare      |
-| Melee Attachment             | +0.3kg  | 5       | +30  | Plentiful      |
-| Mono Edge                    | -       | 40      | -10  | Scarce         |
-| Mono-Sight                   | +1kg    | 400     | +10  | Scarce         |
-| Motion Predictor             | +0.5kg  | 1,000   | +10  | Rare           |
-| Pyre-Lance Aperture          | +0.5kg  | 200     | +0   | Rare           |
-| Rangefinder Sight            | +1.5kg  | 1,200   | +0   | Rare           |
-| Red-Dot Laser Sight          | +0.5kg  | 50      | +20  | Scarce         |
-| Sanctified Weapon            | -       | 500     | †    | Very Rare      |
-| Silencer                     | +1kg    | 10      | +30  | Plentiful      |
-| Spoor Targeter               | +1.5kg  | 3,000   | -10  | Very Rare      |
-| Stabiliser Rig               | +8kg    | 700     | +10  | Scarce         |
-| Starflare Vent               | +0.5kg  | 300     | -10  | Very Rare      |
-| Stutter-Las                  | -       | 50      | -10  | Average        |
-| Suspensors                   | x 1/2   | 2,500   | -10  | Extremely Rare |
-| Targeter                     | +1.5kg  | 2,250   | +0   | Rare           |
-| Telescopic Sight             | +1kg    | 35      | +20  | Average        |
-| Tripod                       | +5kg    | 20      | +30  | Common         |
-| Vox Operated                 | +0.3kg  | 500     | +10  | Rare           |
-| Whisper-Bolt Discharger      | +2kg    | 80      | +0   | Scarce         |
+| [[#Forearm Weapon Mounting]] | +1kg    | 300     | +0   | Scarce         |
+| [[#Gene-Lock Circuit]]       | +0.5kg  | 100     | +0   | Rare           |
+| [[#Grav-Accelerator]]        | +2kg    | 550     | -20  | Very Rare      |
+| [[#Integrated Weapon]]       | +0.5kg  | 200     | -30  | Extremely Rare |
+| [[#Lathe Blade]]             | -       | 2,500   | -20  | Very Rare      |
+| [[#Melee Attachment]]        | +0.3kg  | 5       | +30  | Plentiful      |
+| [[#Mono Edge]]               | -       | 40      | -10  | Scarce         |
+| [[#Mono-Sight]]              | +1kg    | 400     | +10  | Scarce         |
+| [[#Motion Predictor]]        | +0.5kg  | 1,000   | +10  | Rare           |
+| [[#Pyre-Lance Aperture]]     | +0.5kg  | 200     | +0   | Rare           |
+| [[#Rangefinder Sight]]       | +1.5kg  | 1,200   | +0   | Rare           |
+| [[#Red-Dot Laser Sight]]     | +0.5kg  | 50      | +20  | Scarce         |
+| [[#Sanctified Weapon]]       | -       | 500     | †    | Very Rare      |
+| [[#Silencer]]                | +1kg    | 10      | +30  | Plentiful      |
+| [[#Spoor Targeter]]          | +1.5kg  | 3,000   | -10  | Very Rare      |
+| [[#Stabiliser Rig]]          | +8kg    | 700     | +10  | Scarce         |
+| [[#Starflare Vent]]          | +0.5kg  | 300     | -10  | Very Rare      |
+| [[#Stutter-Las]]             | -       | 50      | -10  | Average        |
+| [[#Suspensors]]              | x 1/2   | 2,500   | -10  | Extremely Rare |
+| [[#Targeter]]                | +1.5kg  | 2,250   | +0   | Rare           |
+| [[#Telescopic Sight]]        | +1kg    | 35      | +20  | Average        |
+| [[#Tripod]]                  | +5kg    | 20      | +30  | Common         |
+| [[#Vox Operated]]            | +0.3kg  | 500     | +10  | Rare           |
+| [[#Whisper-Bolt Discharger]] | +2kg    | 80      | +0   | Scarce         |
 †This upgrade requires the attentions of a suitable member of the Ecclesiarchy
 
 ### Backpack Ammo Pack
@@ -3192,7 +3192,8 @@ Conventional slug-throwers usually do not work as well in airless environments a
 
 Effects: The weapon functions normally in an airless or void environment. If used in atmosphere the rounds reduce the weapon's Damage by 1 due to their coating slowing down the projectile via air resistance.
 
-# Armour
+# ARMOR
+## Armon Information
 
 The 41st Millennium is not only filled with dangerous enemies but also dangerous weapons, either of which could easily maim or kill in a heartbeat. Nearly every race in the galaxy has developed defensive measures, ranging from simple animal skins to highly sophisticated powered battlesuits and protective energy fields. Mankind is no exception, and the abundance of armours within the Imperium is such that even everyday clothes might offer some protective value. Military personnel and Imperial agents are almost always equipped with some sort of personal armour, be it cheap layered padding that can turn away knives or artificer-crafted power suits that can withstand almost any attack. Regardless of what shape it takes, armour exists to protect the wearer's body from harm – of course, any true servant of the Emperor would know that while armour may protect the flesh, only faith can protect the soul.
 
