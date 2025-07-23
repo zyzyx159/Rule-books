@@ -1378,24 +1378,25 @@ Whenever a Jam results from throwing or launching a grenade, missile, mortar, an
 - 9-0 BOOM! The round or explosive immediately goes off with any and all effects centred on the firer. If this was the result of firing a launcher the results may be even worse; "non-lethal" grenades, like howlers and smokes, must be cleared as though jammed, while an explosive like a frag or krak grenade destroys the launcher as well as setting off any other grenades that are loaded into it!
 ### Launchers, Grenades, and Bombs List
 
-| Launchers             |                                                                                        |          |       |          |     |      |        |                                |      |       |       |               |
-| --------------------- | -------------------------------------------------------------------------------------- | -------- | ----- | -------- | --- | ---- | ------ | ------------------------------ | ---- | ----- | ----- | ------------- |
-| Name                  | Class                                                                                  | Range    | RoF   | Dam      | Pen | Clip | Rld    | Special                        | Wt   | Cost  | World | Availability  |
-| Bola Launcher         | Basic                                                                                  | 20m      | S/-/- | 1d5+1 I  | 0   | 6    | Full   | Primitive, Snare               | 12kg | 250   | -     | Rare          |
-| Disposable Launcher   | Heavy                                                                                  | 175m     | S/-/- | †        | †   | 1    | -      | †                              | 20kg | 600   | -     | Scarce        |
-| Grenade Launcher      | Basic                                                                                  | 60m      | S/-/- | †        | †   | 6    | 2 Full | †                              | 9kg  | 500   | -     | Scarce        |
-| - Aux                 | Special                                                                                | 45m      | S/-/- | †        | †   | 1    | Full   | †                              | +2kg | 250   | -     | Rare          |
-| - Gorge               | Basic                                                                                  | 60m      | S/-/- | †        | †   | 1    | 2 Full | Reliable, †                    | 8kg  | 300   | Hive  | Average       |
-| - Mezoa               | Basic                                                                                  | 80m      | S/-/- | †        | †   | 1    | Half   | †                              | 10kg | 400   | -     | Scarce        |
-| - Voss                | Basic                                                                                  | 60m      | S/3/- | †        | †   | 6    | 2 Full | Inaccurate, †                  | 13kg | 1,000 | -     | Very Rare     |
-| Hunter-Killer Missile | Heavy                                                                                  | 350m     | S/-/- | 3d10+6 X | 6   | 1    | -      | -                              | 65kg | 2,000 | -     | Very Rare     |
-| Mole Mortar           | Heavy                                                                                  | 50 –200m | S/-/- | 2d10+2 X | 2   | 1    | Full   | Inaccurate,Shocking, Blast (4) | 50kg | 4,500 | -     | ExtremelyRare |
-| Mortar (generic)      | Heavy                                                                                  | 50 –300m | S/-/- | †        | †   | 1    | Full   | Inaccurate                     | 40kg | 1,500 | -     | Rare          |
-| - Locke               | Heavy                                                                                  | 50 –300m | S/-/- | †        | †   | 6    | 2 Full | Inaccurate                     | 48kg | 3,000 | -     | Very Rare     |
-| Missile Launcher      | Heavy                                                                                  | 250m     | S/-/- | †        | †   | 1    | Full   | †                              | 22kg | 2,500 | -     | Scarce        |
-| - Retobi              | Heavy                                                                                  | 200m     | S/-/- | †        | †   | 5    | 2 Full | Unreliable, †                  | 35kg | 3,000 | -     | Rare          |
-| RPG Launcher          | Basic                                                                                  | 120m     | S/-/- | †        | †   | 1    | Full   | †                              | 15kg | 1,200 | -     | Scarce        |
-|                       | †Damage, Penetration, and any special qualities are determined by the ammunition fired |          |       |          |     |      |        |                                |      |       |       |               |
+| Launchers                            |         |          |       |          |     |      |        |                                |      |       |       |               |
+| ------------------------------------ | ------- | -------- | ----- | -------- | --- | ---- | ------ | ------------------------------ | ---- | ----- | ----- | ------------- |
+| Name                                 | Class   | Range    | RoF   | Dam      | Pen | Clip | Rld    | Special                        | Wt   | Cost  | World | Availability  |
+| [[#Bola Launcher]]                   | Basic   | 20m      | S/-/- | 1d5+1 I  | 0   | 6    | Full   | Primitive, Snare               | 12kg | 250   | -     | Rare          |
+| [[#Disposable Launcher]]             | Heavy   | 175m     | S/-/- | †        | †   | 1    | -      | †                              | 20kg | 600   | -     | Scarce        |
+| [[#Grenade Launcher]]                | Basic   | 60m      | S/-/- | †        | †   | 6    | 2 Full | †                              | 9kg  | 500   | -     | Scarce        |
+| - [[#Aux Grenade Launcher\|Aux]]     | Special | 45m      | S/-/- | †        | †   | 1    | Full   | †                              | +2kg | 250   | -     | Rare          |
+| - [[#Gorge Grenade Launcher\|Gorge]] | Basic   | 60m      | S/-/- | †        | †   | 1    | 2 Full | Reliable, †                    | 8kg  | 300   | Hive  | Average       |
+| - Mezoa                              | Basic   | 80m      | S/-/- | †        | †   | 1    | Half   | †                              | 10kg | 400   | -     | Scarce        |
+| - Voss                               | Basic   | 60m      | S/3/- | †        | †   | 6    | 2 Full | Inaccurate, †                  | 13kg | 1,000 | -     | Very Rare     |
+| Hunter-Killer Missile                | Heavy   | 350m     | S/-/- | 3d10+6 X | 6   | 1    | -      | -                              | 65kg | 2,000 | -     | Very Rare     |
+| Mole Mortar                          | Heavy   | 50 –200m | S/-/- | 2d10+2 X | 2   | 1    | Full   | Inaccurate,Shocking, Blast (4) | 50kg | 4,500 | -     | ExtremelyRare |
+| Mortar (generic)                     | Heavy   | 50 –300m | S/-/- | †        | †   | 1    | Full   | Inaccurate                     | 40kg | 1,500 | -     | Rare          |
+| - Locke                              | Heavy   | 50 –300m | S/-/- | †        | †   | 6    | 2 Full | Inaccurate                     | 48kg | 3,000 | -     | Very Rare     |
+| Missile Launcher                     | Heavy   | 250m     | S/-/- | †        | †   | 1    | Full   | †                              | 22kg | 2,500 | -     | Scarce        |
+| - Retobi                             | Heavy   | 200m     | S/-/- | †        | †   | 5    | 2 Full | Unreliable, †                  | 35kg | 3,000 | -     | Rare          |
+| RPG Launcher                         | Basic   | 120m     | S/-/- | †        | †   | 1    | Full   | †                              | 15kg | 1,200 | -     | Scarce        |
+†Damage, Penetration, and any special qualities are determined by the ammunition fired
+
 ### Bola Launcher
 Class: Basic (Launcher)
 
