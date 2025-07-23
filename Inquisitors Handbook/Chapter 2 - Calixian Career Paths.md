@@ -50,25 +50,26 @@ Having taken an Alternate Rank means that your character has deviated from the r
 
 #### Table 2–3: Alternate Career Ranks
 
-| Name                                                                              | Career(s) Required                                    | Rank |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------- | ---- |
-| Black Priest of Maccabeus                                                         | Cleric                                                | 4    |
-| Bonded Emissary                                                                   | Adept or Tech-Priest                                  | 4    |
-| Calixian Xeno-Arcanist                                                            | Adept                                                 | 4    |
-| Chaliced Commissariat                                                             | Guardsman                                             | 3    |
-| Feral Warrior                                                                     | Guardsman                                             | 3    |
-| Legate Investigator                                                               | Adept, Arbitrator,<br>Cleric, Guardsman,<br>or Psyker | 4    |
-| Malfian Bloodsworn                                                                | Assassin, Arbitrator,<br>Guardsman, or Scum           | 5    |
-| Metallican Gunslinger                                                             | Assassin or Scum                                      | 1    |
-| Mechanicus Sectutor                                                               | Tech-Priest                                           | 4    |
-| Moritat Reaper                                                                    | Assassin                                              | 6    |
-| Reclaimator                                                                       | Scum                                                  | 1    |
-| Sister Oblatia                                                                    | Adeptus Sororitas                                     | 5    |
-| Templar Calix                                                                     | Psyker                                                | 4    |
-| Tyrantine Shadow Agent                                                            | Any except for<br>Adeptus Sororitas<br>or Tech-Priest | 5    |
-| Warden/Divisio Immoralis                                                          | Arbitrator                                            | 1    |
-| † Denotes the lowest Rank where the Alternative Career Rank becomes<br>available. |                                                       |      |
-
+| Name                      | Career(s) Required                                    | Rank |
+| ------------------------- | ----------------------------------------------------- | ---- |
+| Black Priest of Maccabeus | Cleric                                                | 4    |
+| Bonded Emissary           | Adept or Tech-Priest                                  | 4    |
+| Calixian Xeno-Arcanist    | Adept                                                 | 4    |
+| Chaliced Commissariat     | Guardsman                                             | 3    |
+| Feral Warrior             | Guardsman                                             | 3    |
+| Legate Investigator       | Adept, Arbitrator,<br>Cleric, Guardsman,<br>or Psyker | 4    |
+| Malfian Bloodsworn        | Assassin, Arbitrator,<br>Guardsman, or Scum           | 5    |
+| Metallican Gunslinger     | Assassin or Scum                                      | 1    |
+| Mechanicus Sectutor       | Tech-Priest                                           | 4    |
+| Moritat Reaper            | Assassin                                              | 6    |
+| Reclaimator               | Scum                                                  | 1    |
+| Sister Oblatia            | Adeptus Sororitas                                     | 5    |
+| Templar Calix             | Psyker                                                | 4    |
+| Tyrantine Shadow Agent    | Any except for<br>Adeptus Sororitas<br>or Tech-Priest | 5    |
+| Warden/Divisio Immoralis  | Arbitrator                                            | 1    |
+|                           |                                                       |      |
+† Denotes the lowest Rank where the Alternative Career Rank becomes
+available.
 ## **Black Priest of Maccabeus**
 
 *"I walk in the footsteps of the Blessed Saint Drusus and I go about the Emperor's work. At my word the unclean spirit baulks and the heretic withers in shame. Who, then, are you to stand against me?"*

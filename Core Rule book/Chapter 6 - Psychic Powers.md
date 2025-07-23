@@ -1109,17 +1109,35 @@ A relatively blunt, but effective, ability in the pyrokinetic's arsenal, this po
 
 The art of the Telekinetic Discipline is to translate mental energy into physical force. Wielders of these powers are known as the telekine, and they readily break the laws of physics with their abilities. Telekine are notorious for their forceful personalities, which, while unpleasant to deal with, are fairly understandable. In many places, there is a common image of the telekine as a pallid, unfit and spoilt individual. In reality, Telekinetics often suffer intense migraines, nose bleeds and high blood pressure as a result of focusing their powers.
 
+| Table 6–8: Telekinetic Powers |           |             |         |
+| ----------------------------- | --------- | ----------- | ------- |
+| Name                          | Threshold | FocusTime   | Sustain |
+| CatchProjectiles              | 16        | Reaction    | No      |
+| Fling                         | 14        | Half Action | No      |
+| Force Barrage                 | 21        | Full Action | No      |
+| Force Bolt                    | 13        | Half Action | No      |
+| PrecisionTelekinesis          | 23        | Half Action | Yes     |
+| Psychic Blade                 | 19        | Half Action | Yes     |
+| Psychic Crush                 | 17        | Half Action | No      |
+| Push                          | 13        | Half Action | No      |
+| Telekinesis                   | 11        | Half Action | Yes     |
+| TelekineticShield             | 17        | Half Action | Yes     |
 # **Catch Projectiles**
+| Threshold:  | 16                 |
+| ----------- | ------------------ |
+| Focus Time: | Reaction           |
+| Sustained:  | No                 |
+| Range:      | 1m×Willpower Bonus |
 
-**Threshold:** 16 **Focus Time:** Reaction **Sustained:** No **Range:** 1m×Willpower Bonus You can use your telekinetic abilities to catch incoming projectiles. This power only works against solid projectiles and so energy attacks get through normally. Until the end of your next Turn, you automatically discount a number of hits from incoming missiles equal to your Willpower Bonus, causing them to immediately stop and hang in the air. When this power ends, they fall harmlessly to the ground.
+You can use your telekinetic abilities to catch incoming projectiles. This power only works against solid projectiles and so energy attacks get through normally. Until the end of your next Turn, you automatically discount a number of hits from incoming missiles equal to your Willpower Bonus, causing them to immediately stop and hang in the air. When this power ends, they fall harmlessly to the ground.
 
 # **Fling**
 
-|     | Threshold:  | 14          |     |     |     |
-| --- | ----------- | ----------- | --- | --- | --- |
-|     | Focus Time: | Half Action |     |     |     |
-|     | Sustained:  | No          |     |     |     |
-|     | Range:      | 10m         |     |     |     |
+| Threshold:  | 14          |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | No          |
+| Range:      | 10m         |
 
 You can telekinetically lift an unattended object from the ground and fling it at a target. You may lift up to 5 kilograms per point of your Willpower Bonus. You can throw the object a number of metres equal to your Willpower Bonus ×3. To hit a target, Test Willpower. On a success resolve the hit as if your Test was an attack. The object deals 1d10 Impact Damage plus 1 point per 5 kilograms of weight.
 
@@ -1133,23 +1151,7 @@ You can telekinetically lift an unattended object from the ground and fling it a
 | Sustained:  | No                  |
 | Range:      | 10m×Willpower Bonus |
 
-This power functions as Force Bolt except you create one bolt per point
-
-| Table 6–8: Telekinetic Powers |           |               |         |
-|-------------------------------|-----------|---------------|---------|
-| Name                          | Threshold | FocusTime | Sustain |
-| CatchProjectiles          | 16        | Reaction      | No      |
-| Fling                         | 14        | Half Action   | No      |
-| Force Barrage                 | 21        | Full Action   | No      |
-| Force Bolt                    | 13        | Half Action   | No      |
-| PrecisionTelekinesis      | 23        | Half Action   | Yes     |
-| Psychic Blade                 | 19        | Half Action   | Yes     |
-| Psychic Crush 17              |           | Half Action   | No      |
-| Push                          | 13        | Half Action   | No      |
-| Telekinesis                   | 11        | Half Action   | Yes     |
-| TelekineticShield         | 17        | Half Action   | Yes     |
-
-of your Willpower Bonus. You may fire each bolt when you manifest this power.
+This power functions as Force Bolt except you create one bolt per point of your Willpower Bonus. You may fire each bolt when you manifest this power.
 
 **Overbleed:** For every 5 points by which you exceed the power's Threshold, you generate an additional bolt.
 
@@ -1211,10 +1213,13 @@ You gather a ball of telekinetic energy and direct it against any single target 
 **Overbleed:** For every 5 points by which you exceed the power's Threshold, you may extend the Range by 10 metres or gain a +10 bonus to your Willpower Test.
 
 # **Telekinesis**
+| Threshold:  | 11          |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | Yes         |
+| Range:      | 10m         |
 
-**Threshold:** 11 **Focus Time:** Half Action **Sustain:** Yes
-
-**Range:** 10m Telekinesis is the ability to use the strength of one's will to move physical inanimate objects around. You may lift or move any object within Range, whose weight does not exceed 5 kilograms × your Willpower Bonus. You may move the object slowly anywhere within Range of the power. This power cannot affect living creatures. You cannot make attacks with objects you manipulate. Once you cease concentrating on the object, it falls slowly to the ground.
+Telekinesis is the ability to use the strength of one's will to move physical inanimate objects around. You may lift or move any object within Range, whose weight does not exceed 5 kilograms × your Willpower Bonus. You may move the object slowly anywhere within Range of the power. This power cannot affect living creatures. You cannot make attacks with objects you manipulate. Once you cease concentrating on the object, it falls slowly to the ground.
 
 # **Telekinetic Shield**
 
@@ -1233,16 +1238,20 @@ You erect a field of telekinetic energy about you. This field functions as a for
 The Discipline of Telepathy allows the practitioner to contact and control the minds of others. From outright mental domination to subtle perceptual effects, the telepath can shape and mould thoughts with but a whim. For all this power, telepaths tend towards misanthropic depression. All too easily they can detect the foetid overspill of thought and emotion that oozes from the human mind, leaving them under no illusions about the nobility of man's soul. As they grow in skill, many telepaths are unable to completely shut out the constant low level chatter of other minds. Consequently many develop great loathing for crowds of people. Along side this constant irritation, telepaths face another peril as they practise their art. By immersing themselves in another person's mind, they can often "catch" personality traits, mad beliefs or even psychic corruption. Sometimes a telepath can lose their selves entirely, becoming little more than a mirror of those around them, a tragic figure with dim memories of the individual they once were. Such telepaths are often given the mercy of mind cleansing and reassignment as some form of servitor.
 
 # **Beastmaster**
-
-**Threshold:** 13 **Focus Time:** Half Action **Sustain:** Yes **Range:** 8m
-
+| Threshold:  | 13          |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | Yes         |
+| Range:      | 8m          |
 You may stretch out your thoughts to animals, becoming able to perceive their emotions and establish a rudimentary form of communication. The relative simplicity of an animal's mind allows you to dominate them. Affected animals must follow your every command. When you manifest this power, select one animal within Range. Each Round you sustain the power, you may spend a Reaction to give the animal a command. The command must be simple, such as "come", "guard", "flee", "heel", "attack" and so on. The animal follows the command to the best of its ability. If the animal feels threatened or is ordered to act in a way that is not suited to its nature, it may make a Willpower Test to break your control. How it acts if it succeeds depends on your treatment of it.
 
 # **Compel**
 
 **Threshold:** 17 **Focus Time:** Half Action **Sustain:** No **Range:** 8m
 
-One of the most direct of all "psyker mind tricks", Compel allows you to force others into briefly acting against their own will. Compel is a highly versatile power, useful for both subtle and blatant effects. When you manifest this power, make an Opposed Test, pitting your Willpower against the
+One of the most direct of all "psyker mind tricks", Compel allows you to force others into briefly acting against their own will. Compel is a highly versatile power, useful for both subtle and blatant effects. When you manifest this power, make an Opposed Test, pitting your Willpower against the target's. If you succeed, the target must follow your command. The nature of the command must be simple and must be able to be taken in a single Round. Good commands include "flee", "attack that target", "dance a jig", and so on. If the command would result in a suicidal act, the target gets a +20 bonus to its Willpower Test.
+
+**Overbleed:** For every 10 points by which you exceed the power's Threshold, you gain a +10 bonus on your Opposed Willpower Test.
 
 # Table 6–9: Telepathic Powers
 
@@ -1258,11 +1267,6 @@ One of the most direct of all "psyker mind tricks", Compel allows you to force o
 | See Me Not      | 14        | Half Action | Yes     |
 | Telepathy       | 11        | Free Action | Yes     |
 | Terrify         | 13        | Half Action | No      |
-
-target's. If you succeed, the target must follow your command. The nature of the command must be simple and must be able to be taken in a single Round. Good commands include "flee", "attack that target", "dance a jig", and so on. If the command would result in a suicidal act, the target gets a +20 bonus to its Willpower Test.
-
-**Overbleed:** For every 10 points by which you exceed the power's Threshold, you gain a +10 bonus on your Opposed Willpower Test.
-
 # **Dominate**
 
 | Threshold:  | 24          |
