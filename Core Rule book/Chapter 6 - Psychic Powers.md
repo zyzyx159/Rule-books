@@ -491,32 +491,33 @@ Reaching out with your mind, you get a vague inkling of other life forms within 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you extend the Range by an additional 10 metres.
 
 # **Spasm**
-|Threshold
-
-### **Threshold:** 7 **Focus Time:** Half Action **Sustained:** No **Range:** 50m
+| Threshold:  | 7           |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | No          |
+| Range:      | 50m         |
 
 You cause a target's muscles to spasm. The target is entitled to a Willpower Test to resist this power. On a failure, the target twitches in an uncontrollable and possibly amusing way. If the target is carrying any ballistic weapon, the weapon goes off—make a Ballistic Skill Test as normal to hit the closest creature. In addition, the target immediately falls to the ground and must use a Stand Action to regain their feet.
 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you may either affect an additional target or worsen the Difficulty of the Willpower Test by one step.
 
 # **Spectral Hands**
-
-### **Threshold:** 10 **Focus Time:** Full Action
-
-**Sustained:** No **Range:** 30m
+| Threshold:  | 10          |
+| ----------- | ----------- |
+| Focus Time: | Full Action |
+| Sustained:  | No          |
+| Range:      | 30m         |
 
 You create an invisible force that you can use to manipulate any object within 30 metres. The force has a Strength Characteristic equal to your Willpower. This power lasts until the end of your next Turn. You can use it to knock over objects, push buttons, pull levers or do any number of other things requiring force. You cannot perform any action that requires precision, such as typing on a dataslate, pulling the pin from another creature's grenade, pull a trigger, and so on. In addition, Spectral Hands has no effect on living targets.
 
 # **Staunch Bleeding**
 
-| Threshold:                             | 8           |
-|----------------------------------------|-------------|
-| Focus Time:                            | Half Action |
-| Sustained:                             | No          |
-| Range:                                 | 10m         |
-| You cause yourself or another creature |             |
-
-within Range to halt Blood Loss. See **Chapter VII: Playing the Game, [page 211](#page-211-0)** for details on Blood Loss.
+| Threshold:  | 8           |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | No          |
+| Range:      | 10m         |
+You cause yourself or another creature within Range to halt Blood Loss. See **Chapter VII: Playing the Game, [page 211](#page-211-0)** for details on Blood Loss.
 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you may affect another target.
 
@@ -534,11 +535,11 @@ By burning the very stuff of your thoughts, you create a ball of glowing psy-fla
 
 # **Touch of Madness**
 
-| Threshold:  | 11          |  |
-|-------------|-------------|--|
-| Focus Time: | Full Action |  |
-| Sustained:  | No          |  |
-| Range:      | 100m        |  |
+| Threshold:  | 11          |
+| ----------- | ----------- |
+| Focus Time: | Full Action |
+| Sustained:  | No          |
+| Range:      | 100m        |
 
 You reach into the mind of a target within Range and force them to believe something that just isn't true. The target is entitled to a Willpower Test to resist this power. On a failed Test, the target must roll 1d100 and consult **Table 8-6 Mental Traumas** on **[page 235](#page-235-0)**.
 
@@ -588,29 +589,23 @@ You send out a long, keening screech throughout the warp that tears through into
 
 # **Weaken Veil**
 
-| Threshold:                               | 9           |  |
-|------------------------------------------|-------------|--|
-| Focus Time:                              | Full Action |  |
-| Sustained:                               | Yes         |  |
-| Range:                                   | 30m         |  |
-| You weaken the fabric of space within 30 |             |  |
-| metres by drawing the immaterium closer. |             |  |
-| Anyone within Range that uses Psychic    |             |  |
-| Powers gains a +2 bonus on Power Rolls.  |             |  |
-| However, as the veil between worlds is   |             |  |
-| weakened, Psychic Phenomena occur on the |             |  |
-| roll of an 8, 9 or 10.                   |             |  |
+| Threshold:  | 9           |
+| ----------- | ----------- |
+| Focus Time: | Full Action |
+| Sustained:  | Yes         |
+| Range:      | 30m         |
+
+You weaken the fabric of space within 30 metres by drawing the immaterium closer. Anyone within Range that uses Psychic Powers gains a +2 bonus on Power Rolls. However, as the veil between worlds is weakened, Psychic Phenomena occur on the roll of an 8, 9 or 10.
 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you extend the Range by an additional 10 metres.
 
 # **Weapon Jinx**
 
 | Threshold:  | 8           |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Full Action |
 | Sustained:  | No          |
 | Range:      | 50m         |
-|             |             |
 
 You reach into nearby machines with your mind to scramble their circuitry. All mechanical devices within range cease to function for 1 Round. In addition, you may Test Willpower to force a single weapon within range to jam. The jammed weapon can be cleared as normal (see **[page 196](#page-196-0)**). Note that the Adeptus Mechanicus are especially loathing of this kind of ability and tend to take a very dim view of Psykers that employ it.
 
@@ -630,14 +625,13 @@ You fill the warp with static, fouling psychic detection and making tech sensors
 
 # **Wither**
 
-| Threshold:  | 6                                  |
-|-------------|------------------------------------|
-| Focus Time: | Full Action                        |
-| Sustained:  | No                                 |
-| Range:      | 3d10m                              |
-|             | You cause a vile wave of invisible |
+| Threshold:  | 6           |
+| ----------- | ----------- |
+| Focus Time: | Full Action |
+| Sustained:  | No          |
+| Range:      | 3d10m       |
 
-pestilence to emerge from your body, extending out to the Range of the power. The wave withers all normal plant life in the area in a matter of moments, leaving the area barren and utterly dead.
+You cause a vile wave of invisible pestilence to emerge from your body, extending out to the Range of the power. The wave withers all normal plant life in the area in a matter of moments, leaving the area barren and utterly dead.
 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you extend the Range of this power by 1d10 metres.
 
@@ -669,7 +663,9 @@ You channel your life force through the meridians of your body, causing your for
 | Sustained:  | Yes         |
 | Range:      | 10m         |
 
-With a rhythmic crushing gesture, you tune into an enemy's body, flexing their heart muscles to accelerate their pulse. This continues until their blood pressure reaches lethal levels. As you continue to exert your will, blood vessels begin to rupture, causing haemorrhaging across the target's body. Each Round (including the Round in which the power manifests), you may spend a Half Action to make an Opposed Test, pitting your Willpower against your target's Toughness. If you win the Test, your opponent takes one level of Fatigue plus one level of Fatigue per degree of success, until he collapses un-
+With a rhythmic crushing gesture, you tune into an enemy's body, flexing their heart muscles to accelerate their pulse. This continues until their blood pressure reaches lethal levels. As you continue to exert your will, blood vessels begin to rupture, causing haemorrhaging across the target's body. Each Round (including the Round in which the power manifests), you may spend a Half Action to make an Opposed Test, pitting your Willpower against your target's Toughness. If you win the Test, your opponent takes one level of Fatigue plus one level of Fatigue per degree of success, until he collapses un-conscious. Each level of Fatigue beyond those that the target can take deals 5 Damage instead. Should Damage equal the target's Wounds, their heart and brain explodes, showering gore around.
+
+**Overbleed:** For every 5 points by which you exceed the Threshold, you gain a +10 bonus on your Opposed Willpower Tests.
 
 | Table 6–5: Biomancy Powers |           |               |         |
 |----------------------------|-----------|---------------|---------|
@@ -685,18 +681,13 @@ With a rhythmic crushing gesture, you tune into an enemy's body, flexing their h
 | Shape Flesh                | 19        | Full Action   | Yes     |
 | Toxic Siphon               | 11        | Half Action   | No      |
 
-conscious. Each level of Fatigue beyond those that the target can take deals 5 Damage instead. Should Damage equal the target's Wounds, their heart and brain explodes, showering gore around.
-
-**Overbleed:** For every 5 points by which you exceed the Threshold, you gain a +10 bonus on your Opposed Willpower Tests.
-
 # **Cellular Control**
 
 | Threshold:  | 16          |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Half Action |
 | Sustained:  | Yes         |
 | Range:      | You         |
-|             |             |
 
 You learn various ways of transcending your body's natural limitations by balancing your humors, modifying cellular structure and meditating upon the meridians of your body. This power enables you to achieve any one of the following effects:
 
@@ -741,11 +732,10 @@ With a moment's thought, you force your senses into impossible feats of percepti
 # **Hammerhand**
 
 | Threshold:  | 15          |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Full Action |
 | Sustained:  | Yes         |
 | Range:      | You         |
-|             |             |
 
 Biomancers who have learned to channel the fierce power of the warp into their limbs can eventually master the art of letting the energy of the immaterium flow unhindered through their body, phenomenally increasing their fighting capabilities. Your body becomes a lethal engine, capable of shredding flesh and bone as if they were tissue paper. Such power comes at a cost though, for there is no subtlety to the Hammerhand. While this power is in effect, your Strength Bonus is multiplied by 4, and you gain the Natural Weapon trait (see **[page](#page-330-0) [330](#page-330-0)**) However, you can wield no weapon save for your bare hands (not that you need any!).
 
@@ -808,11 +798,10 @@ Diviners seek to discern the hidden past and know the course of future events. T
 # **Divine Shot**
 
 | Threshold:  | 15          |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Free Action |
 | Sustained:  | No          |
 | Range:      | You         |
-|             |             |
 
 Using this power enables you to make near impossible ranged shots, allowing you to strike virtually any target you can perceive. You must concentrate on a single firearm or other missile weapon in your possession and the ammunition it carries before casting your psychic gaze into the warp to search down the near-infinite paths of potential future trajectories. When you find the one you seek, you shoot, and while the damage to the target may vary, the attack cannot be avoided in any way. In effect, you automatically hit any one target you can see regardless of Range. Only one shot automatically hits, even if you are using a semi-automatic or automatic weapon. All other shots require Tests as normal.
 
@@ -824,7 +813,7 @@ Using this power enables you to make near impossible ranged shots, allowing you 
 | Sustained:  | Yes         |
 | Range:      | You         |
 
-By focusing his mind the diviner can single out an object or person somewhere in his immediate vicinity, pushing aside all other distractions until he can unerringly find it. First the Psyker must choose an item or person to be the subject of the power. This can be anything, but it must be a specific item. So for instance, the Psyker could say, "I want to know where the key to this lock is" but not "I want to know where a key is". Likewise with a person, the Psyker must have either seen them before (possibly remotely or in a pict) or know their name. Simply trying to find the person
+By focusing his mind the diviner can single out an object or person somewhere in his immediate vicinity, pushing aside all other distractions until he can unerringly find it. First the Psyker must choose an item or person to be the subject of the power. This can be anything, but it must be a specific item. So for instance, the Psyker could say, "I want to know where the key to this lock is" but not "I want to know where a key is". Likewise with a person, the Psyker must have either seen them before (possibly remotely or in a pict) or know their name. Simply trying to find the person who murdered the governor, for example, will not work.
 
 | Table 6–6: Divination Powers |           |               |         |
 |------------------------------|-----------|---------------|---------|
@@ -839,8 +828,6 @@ By focusing his mind the diviner can single out an object or person somewhere in
 | Psychometry                  | 16        | Full Action   | Yes     |
 | PersonalAugury           | 14        | Full Action   | No      |
 | Soul Sight                   | 23        | Full Action   | Yes     |
-
-who murdered the governor, for example, will not work.
 
 Once the Psyker has chosen his subject, he makes a Pysniscience Test. The following factors modify this roll:
 
