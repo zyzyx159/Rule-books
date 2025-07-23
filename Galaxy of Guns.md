@@ -2327,45 +2327,47 @@ A potent weapon that is a mix of the technoarcane and the sacred, witch lances a
 Whenever Righteous Fury results while a character is attacking with a witch lance, the weapon deals an additional 2d10 Energy Damage that ignores Armour, and the victim is set on fire. This extra Damage is considered Holy, which has certain effects on Daemonic creatures and warp entities (as will be noted in their descriptions). These effects are in addition to the normal effects of Righteous Fury. The witch lance's internal reservoir has enough fuel to castigate five of the Emperor's foes before it must be refilled; the mixture has a base cost of 100 Thrones and is Very Rare.
 
 ## SHOCK WEAPONS
+### Shock Weapons Information
+Shock weapons are designed to be generally nonlethal, attacking the subject with incapacitating force through electrical shocks that are discharged on impact. Being hit with a shock weapon is painful and causes mild burns on the skin, but generally will not result in debilitating injury, maiming, or death, making them very useful for crowd control and "encouraging" workers to venerate the Emperor through their labors with more enthusiasm. To use shock weapons without penalty, a character must have the Melee Weapon Training (Shock) or Thrown Weapon Training (Shock) talents.
 
-Shock weapons are designed to be generally nonlethal, attacking the subject with incapacitating force through electrical shocks that are discharged on impact. Being hit with a shock weapon is painful and causes mild burns on the skin, but generally will not result in debilitating injury, maiming, or death, making them very useful for crowd control and "encouraging" workers to venerate the Emperor through their labours with more enthusiasm. To use shock weapons without penalty, a character must have the Melee Weapon Training (Shock) or Thrown Weapon Training (Shock) talents.
+### Shock Weapons List
 
-| Shock Weapons                              |                |          |     |                                       |       |      |       |              |
-| ------------------------------------------ | -------------- | -------- | --- | ------------------------------------- | ----- | ---- | ----- | ------------ |
-| Name                                       | Class          | Dam      | Pen | Special                               | Wt    | Cost | World | Availability |
-| Concussion Mace†                           | Melee          | 1d10+3 I | 4   | Blast (1), Special, Unstable,Unwieldy | 15kg  | 600  | Void  | Scarce       |
-| Electro-Flail                              | Melee          | 1d10+2 I | 0   | Flexible, Shocking                    | 4.5kg | 375  | -     | Rare         |
-| Neural Whip                                | Melee (3m)     | 1d10+1 E | 0   | Flexible, Shocking, Special,Tearing   | 4kg   | 500  | -     | Rare         |
-| Officer's Cutlass                          | Melee          | 1d10 R   | 0   | Shocking, Special                     | 3kg   | 200  | Void  | Scarce       |
-| Shock Glove                                | Melee          | 1d5 E    | 0   | Shocking, Special                     | 1.5kg | 100  | -     | Scarce       |
-| Shock Maul                                 | Melee          | 1d10 I   | 0   | Shocking                              | 2.5kg | 150  | -     | Average      |
-| Shock Staff†                               | Melee          | 1d5+3 I  | 0   | Shocking                              | 2kg   | 100  | -     | Scarce       |
-| Shock Staff (spike)†                       | Melee          | 1d5+1 R  | 2   | Shocking                              | 2kg   | 125  | -     | Rare         |
-| Shock Star                                 | Thrown (SBx3m) | 1d5+2 R  | 0   | Shocking                              | .2kg  | 350  | -     | Rare         |
-| †Requires two hands to be used effectively |                |          |     |                                       |       |      |       |              |
-#### Concussion Mace
+| Name                   | Class          | Dam      | Pen | Special                               | Wt    | Cost | World | Availability |
+| ---------------------- | -------------- | -------- | --- | ------------------------------------- | ----- | ---- | ----- | ------------ |
+| [[#Concussion Mace]]†  | Melee          | 1d10+3 I | 4   | Blast (1), Special, Unstable,Unwieldy | 15kg  | 600  | Void  | Scarce       |
+| [[#Electro-Flail]]     | Melee          | 1d10+2 I | 0   | Flexible, Shocking                    | 4.5kg | 375  | -     | Rare         |
+| [[#Neural Whip]]       | Melee (3m)     | 1d10+1 E | 0   | Flexible, Shocking, Special,Tearing   | 4kg   | 500  | -     | Rare         |
+| [[#Officer's Cutlass]] | Melee          | 1d10 R   | 0   | Shocking, Special                     | 3kg   | 200  | Void  | Scarce       |
+| [[#Shock Glove]]       | Melee          | 1d5 E    | 0   | Shocking, Special                     | 1.5kg | 100  | -     | Scarce       |
+| Shock Maul             | Melee          | 1d10 I   | 0   | Shocking                              | 2.5kg | 150  | -     | Average      |
+| Shock Staff†           | Melee          | 1d5+3 I  | 0   | Shocking                              | 2kg   | 100  | -     | Scarce       |
+| Shock Staff (spike)†   | Melee          | 1d5+1 R  | 2   | Shocking                              | 2kg   | 125  | -     | Rare         |
+| Shock Star             | Thrown (SBx3m) | 1d5+2 R  | 0   | Shocking                              | .2kg  | 350  | -     | Rare         |
+
+†Requires two hands to be used effectively
+### Concussion Mace
 
 Designed for use in zero-gravity mining, concussion maces take the form of a long metallic haft about two metres tall topped with a flanged striking end. A concussion mace makes use of a piece of surplus or salvaged grav-plating, energised by a kinetic generator that spins up as the mace is swung. On impact, the concussion mace discharges a massive burst of stored power, creating a brief pulse of crushing force suitable for shattering rocks and prying out dense deposits from hard ore and other strata. Concussion maces are not intended to be used as weapons, but the powerful augmented impacts can be quite effective at annihilating even wellarmoured opponents. As a result, these tools are carefully guarded by security proctors and armsmen to prevent them from falling into the hands of rioting mining-helots or workers. Outside of the mines, there are small numbers of fighters and other heavies who would use stolen concussion maces as full-time weapons. The impressive result of a particularly solid hit, as well as the ability to smash a fully armoured Arbitrator right through his carapace suit, makes for an appealing choice. However, the unpredictable nature of such improvised potency can have potentially disastrous effects, especially if the concussive wave ends up being reflected back at the wielder.
 
 A concussion mace can be used by characters without the Melee Weapon Training (Shock) talent as a Primitive weapon, but it loses the Blast and Unstable qualities without the precise focus necessary to strike blows with the gravplate. On a successful hit this weapon inflicts its Damage as a Blast weapon, but the blast area does not extend towards or to the sides of the wielder. However, an unmodified roll of 94-00 on a Weapon Skill Test made to attack results in the blast rolling back into the wielder, centring the effect on the originally targeted area or on the wielder himself, whichever is more appropriate for the situation. Regardless of where the blast is centred, the wielder of the concussion mace cannot attempt an Agility Test to avoid the blast.
 
-#### Electro-Flail
+### Electro-Flail
 
 Electro-flails are groups of tendril-like lashes, attached to a short staff or handle and swung in sharp, quick snaps. These flails have a short reach, but as they strike in devastating masses of hits they can be extraordinarily effective at incapacitating a foe. Electro-flails are common sights at manufactorums that use forced labour as they make an intimidating, whip-like crack as they strike an obstinate worker, and there are many types of servitors with electro-flails implanted in their limbs specifically to assist forge overseers in quelling any potential unrest.
 
-#### Neural Whip
+### Neural Whip
 
 This nasty weapon resembles a conventional whip with a thicker length that delivers a powerful electrical shock from a heavy power pack in the grip. Neural whips can't be rightly considered a "non-lethal" weapon; the whip's terrible lacerations alone could kill, never mind the shock discharge that is sufficient to stop the heart and lungs of those with weaker constitutions. The electrostatic charge in the whip seems to help it fly further, and a labour foreman or press-gang captain of sufficient skill can send its painful touch over the heads of wellbehaved mendicants to savage a miscreant in their midst.
 
 A neural whip can be used against a target up to three metres away, but loses the Flexible and Tearing qualities against adjacent opponents as the whip cannot build up the high speed or twisting movements that cause its frightening effects when used on foes further away.
 
-#### Officer's Cutlass
+### Officer's Cutlass
 
 The cutlass has a long tradition of naval service dating to prehistory, and many can still be found aboard voidfaring ships of the present. Swords carried by junior officers and lead ratings often will have a shock generator built in to the handle that greatly increases the force of cuts and blows with a sharp electrical discharge. An officer's cutlass offers an additional versatility in that the shock can also be delivered through the armoured guard to make a significantly less deadly but just as incapacitating blow, a handy feature during a mutiny or revolt among superiors that would prefer to keep losses to a minimum.
 
 A character wielding an officer's cutlass can strike with the guard instead of the blade, which deals 1d5 Impact Damage with a Penetration value of 0 and the Shocking quality.
 
-#### Shock Glove
+### Shock Glove
 
 Shock gloves are designed to deliver an electrical jolt as part of a punch, and are most commonly used by gangers and low-life enforcers as a cheap but effective way to inflict pain and terrorize victims, but they can be devastatingly in brawls and other situations where an opponent might not know exactly what's on his attacker's hands until far too late. Higher quality shock gloves do exist, however, often looking simply like ordinary gloves for keeping the hands warm or even light elegant mitts warn by nobles and dilettantes at formal functions and other gatherings.
 
@@ -2381,15 +2383,15 @@ The bulk and appearance of a shock glove are factors of their quality. The attri
 
 **Best:** Finely crafted and well-fitting, these can be perfectly disguised as mesh or leather gloves, and could even pass for stylish clothing worn by naval officers or hive nobles. The wearer gains a +20 bonus to conceal the nature of these gloves, and they do not show up as weapons on an auspex and other scanners.
 
-#### Shock Maul
+### Shock Maul
 
 Standard equipment for Adeptus Arbites troopers, shock mauls are carried by other enforcers and a wide variety of authority-types throughout the Imperium, and the sound of a shock maul being powered up is often sufficient to persuade a ruffian to cease misbehaving. Because of their use by Arbitrators, shock mauls are commonly associated with the Emperor's Law and its swift retaliation for misdeeds. Hive riots are often met by a line of suppression shields and shock mauls; hivers returning to their toils the next day can be immediately be identified by obvious burns from being clobbered by a shock maul, which may single them out for ridicule or more official persecution depending on the world and the nature of the riot. Shock mauls are nominally non-lethal weapons, though an "enthusiastic" user can make them perfectly deadly by aiming for vulnerable areas and generally just administering an excessive beating.
 
-#### Shock-Staff
+### Shock-Staff
 
 Shock-staffs are basic and somewhat oversized shock weapons that are primarily intended for use in herding pressganged crews aboard ships, though they can be found in similar planetary applications as well. Formed in the main from a long haft of metal or plasteel, a shockstaff has a simple single-power shock emitter mounted at one end with the generator installed in the other. Most use a flat shock-plate, either a plain surface or one decorated with the ship's insignia or naval badge, but some varieties instead feature a nasty-looking spike on the end that is designed to pierce the insulated suits worn by reactor and engine crews, and are typically the favoured type used by scummers and other dregs due to the more fearsome appearance.
 
-#### Shock Star
+### Shock Star
 
 This tiny metal throwing disc contains a small power cell as well as conventional cutting edges. A target hit by a shock star suffers the usual lacerations from the star's blades and points as well as a debilitating jolt as its power cell discharges on impact. A shock star can't be turned on or off; it simply activates when it strikes something at sufficient velocity, and a few users have been shocked by their own stars carried in a pocket or belt thanks to a sudden impact as a result of a fall.
 
