@@ -14,7 +14,7 @@ Naturally the feral world/feudal world distinction is one of simplicity. There a
 
 Weapons and equipment originating from these worlds are primitive and considered obsolete by the more worldly inhabitants of the Imperium, since even a las weapon on its lowest setting packs more punch than a bow. However, in the hands of an expert, such weaponry can prove just as deadly. Any hive scum can wield a laspistol inaccurately, but a practised marksman could shoot an arrow through the eye of his mark without even triggering an energy resistant refractor field. Technology in the 41st Millennium is notoriously unreliable and can let you down at the most inopportune time. More basic and primitive equipment may not have all the gadgets, but in the right hands, it may prove to be the thing that keeps you fighting—and keeps you alive.
 
-### <span id="page-93-0"></span>Ranged Weapons Rang ed Weapons
+### <span id="page-93-0"></span>Ranged Weapons
 
 *"Reload and fire when I say! They may have glowing armour, lads, but we have our muskets and our powder—they don't stand a chance."*
 

@@ -1132,7 +1132,7 @@ You can use your telekinetic abilities to catch incoming projectiles. This power
 | ----------- | ----------- |
 | Focus Time: | Half Action |
 | Sustained:  | No          |
-| Range:      | 10m         |
+| Range:      | 10 m        |
 
 You can telekinetically lift an unattended object from the ground and fling it at a target. You may lift up to 5 kilograms per point of your Willpower Bonus. You can throw the object a number of metres equal to your Willpower Bonus ×3. To hit a target, Test Willpower. On a success resolve the hit as if your Test was an attack. The object deals 1d10 Impact Damage plus 1 point per 5 kilograms of weight.
 
@@ -1140,11 +1140,11 @@ You can telekinetically lift an unattended object from the ground and fling it a
 
 # **Force Barrage**
 
-| Threshold:  | 21                  |
-| ----------- | ------------------- |
-| Focus Time: | Full Action         |
-| Sustained:  | No                  |
-| Range:      | 10m×Willpower Bonus |
+| Threshold:  | 21                     |
+| ----------- | ---------------------- |
+| Focus Time: | Full Action            |
+| Sustained:  | No                     |
+| Range:      | 10 m × Willpower Bonus |
 
 This power functions as Force Bolt except you create one bolt per point of your Willpower Bonus. You may fire each bolt when you manifest this power.
 
@@ -1152,11 +1152,11 @@ This power functions as Force Bolt except you create one bolt per point of your 
 
 # **Force Bolt**
 
-| Threshold:  | 13                  |
-| ----------- | ------------------- |
-| Focus Time: | Half Action         |
-| Sustained:  | No                  |
-| Range:      | 10m×Willpower Bonus |
+| Threshold:  | 13                     |
+| ----------- | ---------------------- |
+| Focus Time: | Half Action            |
+| Sustained:  | No                     |
+| Range:      | 10 m × Willpower Bonus |
 
 Use this power to hurl a burst of tangible mental force at your opponent. Test Willpower to hit the target. If you succeed, your attack deals 1d10 Impact Damage +1 Damage per point of your Willpower Bonus.
 
@@ -1232,6 +1232,20 @@ You erect a field of telekinetic energy about you. This field functions as a for
 
 The Discipline of Telepathy allows the practitioner to contact and control the minds of others. From outright mental domination to subtle perceptual effects, the telepath can shape and mould thoughts with but a whim. For all this power, telepaths tend towards misanthropic depression. All too easily they can detect the foetid overspill of thought and emotion that oozes from the human mind, leaving them under no illusions about the nobility of man's soul. As they grow in skill, many telepaths are unable to completely shut out the constant low level chatter of other minds. Consequently many develop great loathing for crowds of people. Along side this constant irritation, telepaths face another peril as they practise their art. By immersing themselves in another person's mind, they can often "catch" personality traits, mad beliefs or even psychic corruption. Sometimes a telepath can lose their selves entirely, becoming little more than a mirror of those around them, a tragic figure with dim memories of the individual they once were. Such telepaths are often given the mercy of mind cleansing and reassignment as some form of servitor.
 
+ ## Table 6–9: Telepathic Powers
+
+| Name           | Threshold | FocusTime   | Sustain |
+| -------------- | --------- | ----------- | ------- |
+| Beastmaster    | 13        | Half Action | Yes     |
+| Compel         | 17        | Half Action | No      |
+| Dominate       | 24        | Half Action | Yes     |
+| Inspire        | 9         | Half Action | Yes     |
+| Mind Scan      | 23        | Full Action | No      |
+| Projection     | 21        | Full Action | Yes     |
+| Psychic Shriek | 18        | Half Action | No      |
+| See Me Not     | 14        | Half Action | Yes     |
+| Telepathy      | 11        | Free Action | Yes     |
+| Terrify        | 13        | Half Action | No      |
 # **Beastmaster**
 | Threshold:  | 13          |
 | ----------- | ----------- |
@@ -1248,20 +1262,6 @@ One of the most direct of all "psyker mind tricks", Compel allows you to force o
 
 **Overbleed:** For every 10 points by which you exceed the power's Threshold, you gain a +10 bonus on your Opposed Willpower Test.
 
-# Table 6–9: Telepathic Powers
-
-| Name            | Threshold | FocusTime   | Sustain |
-| --------------- | --------- | ----------- | ------- |
-| Beastmaster     | 13        | Half Action | Yes     |
-| Compel          | 17        | Half Action | No      |
-| Dominate        | 24        | Half Action | Yes     |
-| Inspire         | 9         | Half Action | Yes     |
-| Mind Scan       | 23        | Full Action | No      |
-| Projection      | 21        | Full Action | Yes     |
-| Psychic Shriek  | 18        | Half Action | No      |
-| See Me Not      | 14        | Half Action | Yes     |
-| Telepathy       | 11        | Free Action | Yes     |
-| Terrify         | 13        | Half Action | No      |
 # **Dominate**
 
 | Threshold:  | 24          |
