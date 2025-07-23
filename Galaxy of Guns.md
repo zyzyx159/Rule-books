@@ -52,7 +52,7 @@ Normally, Craftsmanship has little effect on game play for regular goods and ser
 | Extremely Rare                    | 3d5 months             | 2d5 months       | 2d5 weeks       | 2d10 days     | 1d10 days    |
 | Near Unique                       | One year               | 3d5 months       | 1d5 months      | 1d5 weeks     | 2d10 days    |
 
-# Weapons
+# Ranged Weapons
 ## Weapons info
 
 Weapons are divided into several groups covering a plethora of ranged weapons, dealing with everything from crossbows to plasma cannons, and melee weapons covering all manner of close combat weaponry. Unless they are of Poor quality, all weapons come with an appropriate holster, sling, or carrying strap as part of their cost so they can be stored on the character's body.
@@ -1771,7 +1771,7 @@ Exotic weapons typically make use of equally exotic ammunition. In general, assu
 | [[#Demerite "Screamer" Sonic Rifle\|Sonic Rifle]]            | Basic  | 30m   | S/2/-  | 1d10+3 X | 2   | 8    | Full   | Shocking, Tearing          | 3.5kg | 800    | Void   | Rare           |
 | [[#Synapse Disruptor]]                                       | Pistol | 40m   | S/-/-  | -        | -   | 10   | 2 Full | Special                    | 3kg   | 3,500  | -      | Very Rare      |
 | [[#Webber]]                                                  | Basic  | 50m   | S/-/-  | -        | -   | 1    | Full   | Blast (5), Snare           | 8kg   | 1,800  | -      | Rare           |
-| Web Pistol                                                   | Pistol | 30m   | S/-/-  | -        | -   | 1    | Full   | Snare                      | 3.5kg | 1,200  | -      | Rare           |
+| [[#Web Pistol]]                                              | Pistol | 30m   | S/-/-  | -        | -   | 1    | Full   | Snare                      | 3.5kg | 1,200  | -      | Rare           |
 #### Catalytic Mass Driver
 Class: Basic (Exotic)
 
@@ -1900,17 +1900,20 @@ Class: Pistol (Exotic)
 
 Web pistols are smaller and handier webbers that can be wielded with one hand. They have a significantly shorter range and only produce sufficient webs to immobilise a single individual, so a web pistol wielder must choose his shots carefully. Particularly devious users might use a web pistol in conjunction with a melee weapon, entangling an opponent and leaving them helpless to defend against subsequent attacks from the wielder's primary weapon. A web pistol's webs are much finer and less numerous than heavier version, and break down on their own after 1d10 Rounds.
 
-## Melee Weapons
+# Melee Weapons
+## Melee Weapons Information
 
 Despite the wide range of ways available to kill the enemy at all sorts of distances, there is still plenty of use for weapons designed for close and personal combat. For some it is a matter of honour to look their foe in the eye, others simply another way to ensure their survival in a dangerous galaxy. After all, a simple sword or hammer will inevitably be more reliable than even the finest and most impressive of firearms, which are dependent on ammunition, often noisy, and prone to failure. Like ranged weapons, melee weapons come in different classes and each requires its own relevant talent to use without penalty. Unless otherwise stated, users add their Strength Bonus to the Damage inflicted by a melee weapon.
 
 ## PRIMITIVE WEAPONS
+### Primitive Weapons Information
 
 Basic hand weapons are a common sight throughout the Imperium and beyond, and in many places it would be unthinkable to go forth without at least one such weapon visible on your person. Depending on the planet's level of technology, and the wealth of the user, these can range from simple metal swords to precisely manufactured blades made of exotic materials, though both will chop through a man just as well. Primitive weapons are generally the most simple brand of melee weapon, carried by feral hunters and soldiers of the Imperial Guard alike, and typically have a hard time penetrating modern armours. To use primitive weapons without penalty, a character must have the Thrown Weapon Training (Primitive) or the Melee Weapon Training (Primitive) talents for ranged and melee attacks, respectively.
 
-| Primitive Weapons                                     |                    |             |     |                              |        |      |            |              |     |
-| ----------------------------------------------------- | ------------------ | ----------- | --- | ---------------------------- | ------ | ---- | ---------- | ------------ | --- |
+### Primitive Weapons List
+
 | Name                                                  | Class              | Dam         | Pen | Special                      | Wt     | Cost | World      | Availability |     |
+| ----------------------------------------------------- | ------------------ | ----------- | --- | ---------------------------- | ------ | ---- | ---------- | ------------ | --- |
 | Armoured Gauntlet                                     | Melee              | 1d5 I       | 0   | Primitive                    | 0.5kg  | 35   | -          | Common       |     |
 | Axe                                                   | Melee              | 1d10+1 R    | 0   | Primitive, Unbalanced        | 4kg    | 10   | -          | Scarce       |     |
 | Bastard Sword †                                       | Melee              | 1d10+1 R    | 1   | Primitive                    | 5kg    | 40   | Feudal     | Scarce       |     |
@@ -2015,17 +2018,17 @@ Depending on its construction, a great weapon may inflict Rending or Impact Dama
 
 This is a heavier version of the regular hand tool used to drive nails or rivets and makes use of a large weighted end to inflict a harder and deadlier blow than similar hafted weapons. Hammers are simple and straightforward, often reflecting on the personality of their users who don't care for swordplay or complex manoeuvres and would rather simply splatter their opponent's brains over the floor.
 
-**Great Hammer:**
+##### Great Hammer:
 This broad-faced hammer is undeniably intended for use as a weapon and features a heavy, sturdy striking face and shaft comprised of modern materials. A great hammer is a step up from the weapons of feudal warriors or salvaged bludgeons of underhive gangers, with a metallic head of dense alloy that can bash a man out of light armour handily. Agents of the Calixian Conclave's Ordo Malleus are common enthusiasts for these cudgels - aside from bearing a passing resemblance to a mighty daemonhammer, the massive blows they can unleash can stagger the most intransigent foe, a testament to a simple expression that there is nothing a large piece of metal backed up by a large amount of faith can't subdue.
 
 A great hammer adds a +10 bonus to Weapon Skill Tests made to Stun.
 
-**Percussion Mallet:**
+##### Percussion Mallet:
 More of a tool than a weapon, a percussion mallet is an almost ubiquitous sight on many forge worlds where it is frequently used by labour menials to hammer ingots and plating into the desired shape. A grav-accelerator built into the bulky head of the mallet greatly augments the force of the wielder's blows, and while strictly not intended for combat, their ability to bash through the armour plating of combat servitors means they are often pressed into the role during uprisings. More rarely, lesser forgemasters will sometimes wield a percussion mallet as a sign of office when their responsibilities encompass macro-assembly and other works where the tool is often used. Due to their utility to the Mechanicus, percussion mallets are never legally sold or traded off of a forge world, and those who have the courage to risk wrath of the Magi-in-attendance by smuggling and trading them elsewhere are few and far between.
 
 Percussion mallets are Average on most forge worlds and Very Rare elsewhere.
 
-**Warhammer:**
+##### Warhammer:
 Mounted on a longer pole grip than a regular hammer, warhammers generally have a thinner striking head and may include a sharply pointed reverse, making it an ideal choice to penetrate light armour and cause deep wounds thanks to concentrating the force of impact to a much smaller area. Many of the more zealous Imperial servants favour a warhammer as an enduring symbol of the Emperor's righteous justice, and it figures prominently on the heraldry and insignia of numerous organizations.
 
 #### Improvised
@@ -2038,12 +2041,12 @@ Smashing an opponent with the butt of most basic weapons usually counts as attac
 
 A short blade with an adequate handle to hold at a variety of grips, knives are ubiquitous backup weapons for warriors all across the Imperium, from lowly hive scum to the elite soldiers of a planetary governor. Though of only modest killing power, a knife is much more mobile than larger weapons, and makes a particularly good implement of intimidation as well. Knives are produced in almost innumerable makes and natures, with some serving very specific purposes (such as a psyker's psykana mercy blade, intended as a weapon of suicide should the psyker be faced with imminent corruption or possession) while others might be nothing more than eating utensils.
 
-**Bolo Knife:**
+##### Bolo Knife:
 This is a heavy single-edged cutting tool suitable for hacking through dense foliage that doubles as a brutally effective man killer. Bolo knives have a particular reputation on Malfi, a world once covered in far more jungle than at the present, where it has a murderous reputation in local folklore in spite of still being used as an everyday tool. Malfian bolos are typically crafted from plexsteel and feature an inwardly curving blade exactly 40 centimeters long that features a distinctive widened tip. This makes it perfect for heavy slashing blows, and in skilled hands can lop a limb off or open a man's torso up in a single stroke. Malfi's jacker-gangs and dacoits invariably carry bolos on their bodies at all times, most with acid-etched glyphs marking noteworthy kills or other exploits.
 
 Bolo knives are Common on Malfi and Rare elsewhere.
 
-**Combat Knife:**
+###Combat Knife:
 Combat knives can only liberally be called knives to begin with, often featuring a straight blade the size of a human forearm with a clipped point that is both intimidating in profile and can make for nasty piercing and slashing attacks, and are commonly used as bayonets by the Imperial Guard. They also make fine can openers.
 
 **Kraken Tooth Dagger:**
