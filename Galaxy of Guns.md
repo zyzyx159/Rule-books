@@ -1387,11 +1387,11 @@ Whenever a Jam results from throwing or launching a grenade, missile, mortar, an
 | - [[#Aux Grenade Launcher\|Aux]]             | Special | 45m      | S/-/- | †        | †   | 1    | Full   | †                              | +2kg | 250   | -     | Rare          |
 | - [[#Gorge Grenade Launcher\|Gorge]]         | Basic   | 60m      | S/-/- | †        | †   | 1    | 2 Full | Reliable, †                    | 8kg  | 300   | Hive  | Average       |
 | - [[#Mezoa-Pattern Grenade Launcher\|Mezoa]] | Basic   | 80m      | S/-/- | †        | †   | 1    | Half   | †                              | 10kg | 400   | -     | Scarce        |
-| - Voss                                       | Basic   | 60m      | S/3/- | †        | †   | 6    | 2 Full | Inaccurate, †                  | 13kg | 1,000 | -     | Very Rare     |
-| Hunter-Killer Missile                        | Heavy   | 350m     | S/-/- | 3d10+6 X | 6   | 1    | -      | -                              | 65kg | 2,000 | -     | Very Rare     |
-| Mole Mortar                                  | Heavy   | 50 –200m | S/-/- | 2d10+2 X | 2   | 1    | Full   | Inaccurate,Shocking, Blast (4) | 50kg | 4,500 | -     | ExtremelyRare |
-| Mortar (generic)                             | Heavy   | 50 –300m | S/-/- | †        | †   | 1    | Full   | Inaccurate                     | 40kg | 1,500 | -     | Rare          |
-| - Locke                                      | Heavy   | 50 –300m | S/-/- | †        | †   | 6    | 2 Full | Inaccurate                     | 48kg | 3,000 | -     | Very Rare     |
+| - [[#Voss Assault Grenade Launcher\|Voss]]   | Basic   | 60m      | S/3/- | †        | †   | 6    | 2 Full | Inaccurate, †                  | 13kg | 1,000 | -     | Very Rare     |
+| [[#Hunter-Killer Missile]]                   | Heavy   | 350m     | S/-/- | 3d10+6 X | 6   | 1    | -      | -                              | 65kg | 2,000 | -     | Very Rare     |
+| [[#Mole Mortar]]                             | Heavy   | 50 –200m | S/-/- | 2d10+2 X | 2   | 1    | Full   | Inaccurate,Shocking, Blast (4) | 50kg | 4,500 | -     | ExtremelyRare |
+| [[#Mortar]] (generic)                        | Heavy   | 50 –300m | S/-/- | †        | †   | 1    | Full   | Inaccurate                     | 40kg | 1,500 | -     | Rare          |
+| - [[#Locke-Pattern Mortar\|Locke]]           | Heavy   | 50 –300m | S/-/- | †        | †   | 6    | 2 Full | Inaccurate                     | 48kg | 3,000 | -     | Very Rare     |
 | Missile Launcher                             | Heavy   | 250m     | S/-/- | †        | †   | 1    | Full   | †                              | 22kg | 2,500 | -     | Scarce        |
 | - Retobi                                     | Heavy   | 200m     | S/-/- | †        | †   | 5    | 2 Full | Unreliable, †                  | 35kg | 3,000 | -     | Rare          |
 | RPG Launcher                                 | Basic   | 120m     | S/-/- | †        | †   | 1    | Full   | †                              | 15kg | 1,200 | -     | Scarce        |
@@ -1451,7 +1451,8 @@ Class: Heavy (Launcher)
 
 A mortar is a classic artillery weapon that can fling a substantial explosive warhead on a high ballistic trajectory. Infantry mortars are typically hauled into place by a two-man crew and deployed in a defensive position where they can bombard an enemy. Mortars are especially useful at displacing troops in entrenched positions as their high angle of attack will often cause a mortar shell to land directly in an enemy trench or dugout. The majority of mortars used in the Imperium are fairly simple tube affairs with a sturdy base plate and adjustable braces to allow for adjustments to aim and angle. Mortar crews are usually used by two men, with one to load and fire the mortar (by dropping the shells down the barrel) and another to direct and aim the weapon by visually spotting the enemy or relaying targeting information by voxlink from a forward observer.
 
-Locke-Pattern: This specific mark looks much like many types of functionally identical mortars produced throughout the Imperium, but it is designed to use a rotary ammo drum rather than muzzle-loaded shells. This provides it with a substantially greater rate of fire as the firer need only move the drum to its next shell and press an ignition stud rather than physically dropping another mortar into the tube. One downside to the Locke's design is that the firer cannot singly load individual mortar shells down the muzzle like on most mortars; a new drum must be loaded to fire a different type of ammunition than those already installed.
+##### Locke-Pattern Mortar: 
+This specific mark looks much like many types of functionally identical mortars produced throughout the Imperium, but it is designed to use a rotary ammo drum rather than muzzle-loaded shells. This provides it with a substantially greater rate of fire as the firer need only move the drum to its next shell and press an ignition stud rather than physically dropping another mortar into the tube. One downside to the Locke's design is that the firer cannot singly load individual mortar shells down the muzzle like on most mortars; a new drum must be loaded to fire a different type of ammunition than those already installed.
 
 #### Missile Launcher
 Class: Heavy (Launcher)
@@ -2185,10 +2186,10 @@ Chain weapons are popular amongst many warriors in the 41st Millennium as most r
 
 Chainswords are the most common make and style of chain weapon, and are much loved by those who wield one for their ease of handling and the gory spray of satisfaction they leave when rending an enemy apart. Most chainswords follow the style of the Mk. Xf "Hell's Teeth" pattern which employs a flat, boxy housing that contains the spinning chain and its motor. There is a curved opening at the front and along one side of the housing so the teeth can rip into foes struck while the wielder can safely grasp the enclosed side to aid in attacking or defence. This also prevents the user from being maimed by their own chainsword if it is knocked back against them. There are more exotic or unusual marks of chainswords as well, and some are listed here.
 
-**Drusian "Crusader" Chainsword:**
+##### Drusian "Crusader" Chainsword:
 Replicas of the weapon carried by Saint Drusus during the Angevin Crusade are quite popular in the Calixis Sector, and the worlds that celebrate Drusus Day often have throngs of faithful gathered in the streets outside his shrines with these weapons thrust into the air in honour of his memory. A Crusader chainsword has finer teeth set into a long and sweeping housing with a basket hilt, making it extremely nimble as well as quite attractive in a spartan fashion, and those who can afford to commission a sword of their own often have them inlaid with intricate patterns or precious stones.
 
-**Locke-Pattern:** 
+##### Locke-Pattern Chainsword: 
 Particularly fanatic wielders of chainswords often remove some or all of the protective housing that covers half the blade, allowing them to make more devastating cuts and thrusts at the expense of personal safety. The Locke-pattern is manufactured to meet this demand, freeing zealots up from the tedious armourer's work in modifying their weapons so they can turn their blades on the Emperor's foes. The exposed chain makes the Locke-pattern more dangerous for the user, but those who favour this style of weapon have little concern for injuries they may sustain from accidental hits, and often wear the scars from such wounds as badges of pride.
 
 Any character that rolls an unmodified 96-00 on their Weapon Skill Test while wielding a Locke pattern chainsword risks losing control of the chain blade and must succeed on a Challenging (+0) Agility Test or else hit themselves with the weapon instead. This attack deals normal Damage but has a Pen value of 0 and does not add the wielder's Strength Bonus.
