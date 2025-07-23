@@ -2332,18 +2332,17 @@ Shock weapons are designed to be generally nonlethal, attacking the subject with
 
 ### Shock Weapons List
 
-| Name                   | Class          | Dam      | Pen | Special                               | Wt    | Cost | World | Availability |
-| ---------------------- | -------------- | -------- | --- | ------------------------------------- | ----- | ---- | ----- | ------------ |
-| [[#Concussion Mace]]†  | Melee          | 1d10+3 I | 4   | Blast (1), Special, Unstable,Unwieldy | 15kg  | 600  | Void  | Scarce       |
-| [[#Electro-Flail]]     | Melee          | 1d10+2 I | 0   | Flexible, Shocking                    | 4.5kg | 375  | -     | Rare         |
-| [[#Neural Whip]]       | Melee (3m)     | 1d10+1 E | 0   | Flexible, Shocking, Special,Tearing   | 4kg   | 500  | -     | Rare         |
-| [[#Officer's Cutlass]] | Melee          | 1d10 R   | 0   | Shocking, Special                     | 3kg   | 200  | Void  | Scarce       |
-| [[#Shock Glove]]       | Melee          | 1d5 E    | 0   | Shocking, Special                     | 1.5kg | 100  | -     | Scarce       |
-| Shock Maul             | Melee          | 1d10 I   | 0   | Shocking                              | 2.5kg | 150  | -     | Average      |
-| Shock Staff†           | Melee          | 1d5+3 I  | 0   | Shocking                              | 2kg   | 100  | -     | Scarce       |
-| Shock Staff (spike)†   | Melee          | 1d5+1 R  | 2   | Shocking                              | 2kg   | 125  | -     | Rare         |
-| Shock Star             | Thrown (SBx3m) | 1d5+2 R  | 0   | Shocking                              | .2kg  | 350  | -     | Rare         |
-
+| Name                      | Class          | Dam      | Pen | Special                                               | Wt    | Cost | World | Availability |
+| ------------------------- | -------------- | -------- | --- | ----------------------------------------------------- | ----- | ---- | ----- | ------------ |
+| [[#Concussion Mace]]†     | Melee          | 1d10+3 I | 4   | [[#Blast (X)\|Blast]] (1), Special, Unstable,Unwieldy | 15kg  | 600  | Void  | Scarce       |
+| [[#Electro-Flail]]        | Melee          | 1d10+2 I | 0   | Flexible, Shocking                                    | 4.5kg | 375  | -     | Rare         |
+| [[#Neural Whip]]          | Melee (3m)     | 1d10+1 E | 0   | Flexible, Shocking, Special,Tearing                   | 4kg   | 500  | -     | Rare         |
+| [[#Officer's Cutlass]]    | Melee          | 1d10 R   | 0   | Shocking, Special                                     | 3kg   | 200  | Void  | Scarce       |
+| [[#Shock Glove]]          | Melee          | 1d5 E    | 0   | Shocking, Special                                     | 1.5kg | 100  | -     | Scarce       |
+| [[#Shock Maul]]           | Melee          | 1d10 I   | 0   | Shocking                                              | 2.5kg | 150  | -     | Average      |
+| [[#Shock-Staff]]†         | Melee          | 1d5+3 I  | 0   | Shocking                                              | 2kg   | 100  | -     | Scarce       |
+| [[#Shock-Staff]] (spike)† | Melee          | 1d5+1 R  | 2   | Shocking                                              | 2kg   | 125  | -     | Rare         |
+| [[#Shock Star]]           | Thrown (SBx3m) | 1d5+2 R  | 0   | Shocking                                              | .2kg  | 350  | -     | Rare         |
 †Requires two hands to be used effectively
 ### Concussion Mace
 
@@ -2398,33 +2397,34 @@ This tiny metal throwing disc contains a small power cell as well as conventiona
 A shock star can be used by characters without the Thrown Weapon Training (Shock) talent if they have both the Melee Weapon Training (Shock) and Thrown Weapon Training (Primitive) talents.
 
 ## EXOTIC WEAPONS
-
+### Exotic Weapons Information
 Some melee weapons are designed in such a way that they are completely set apart from more common patterns of blades and hammers used throughout the Imperium. Whether they are tools that make handy weapons, archeotech implements from a lost age, Xenos armaments, or those weapons that simply must be used differently to obtain a useful feature or capability, exotic weapons are a class in and of themselves.
 
 Like their ranged counterparts, exotic melee weapons cover a wide range of devices and arms that do not handily fit into other weapon categories. Most are unique or specialized enough that each one requires an individual Talent to use. For example, a character wanting to rend his foes asunder with a breacher drill must have the Exotic Weapon Training (Breacher) talent. Some career paths include specific Exotic Weapon Training talents as part of their normal advances, but most characters will have to obtain one through an Elite Advance. Exotic weapons are still classed as Melee or Thrown weapons and must obey all relevant rules for use in combat.
 
-| Exotic Weapons                                                           |            |            |     |                                      |       |        |           |               |
-| ------------------------------------------------------------------------ | ---------- | ---------- | --- | ------------------------------------ | ----- | ------ | --------- | ------------- |
-| Name                                                                     | Class      | Dam        | Pen | Special                              | Wt    | Cost   | World     | Availability  |
-| Arc-Welder                                                               | Melee      | 1d10+5 E†† | 10  | Fast, Unwieldy                       | 2kg   | 1,700  | Lathes    | Very Rare     |
-| Breacher †                                                               | Melee      | 1d10+5 R   | 4   | Special, Tearing, Unwieldy           | 18kg  | 750    | Forge     | Scarce        |
-| Bulkhead Cutters                                                         | Melee      | 1d10+3 R   | 6   | Tearing, Unwieldy                    | 8kg   | 100    | -         | Average       |
-| Chain-Sticks                                                             | Melee      | 1d10+1 I   | 0   | Fast, Primitive, Toxic               | 1kg   | 30     | Fervious  | Scarce        |
-| Coil Whip                                                                | Melee      | 1d10+5 E   | 4   | Flexible, Shocking                   | 3kg   | 600    | Lathes    | Very Rare     |
-| Double Flail †                                                           | Melee      | 1d10 I     | 0   | Balanced, Flexible, Primitive        | 4kg   | 28     | Penolpass | Scarce        |
-| Energy Blade                                                             | Melee      | 1d10+6 E†† | 7   | Balanced, Power Field                | 1kg   | 5,000  | Forge     | Very Rare     |
-| Forearm Power Blade                                                      | Melee      | 1d10+1 E   | 4   | Balanced, Defensive,Power Field      | 1.5kg | 2,200  | -         | Very Rare     |
-| Fractal Sword                                                            | Melee      | 1d10+1 R   | 8   | Balanced                             | 1kg   | 10,000 | -         | ExtremelyRare |
-| Garrotte †                                                               | Melee      | 1d10 R     | 0   | Flexible, Primitive, Unwieldy        | 0.5kg | 30     | Hive      | Scarce        |
-| Groxwhip                                                                 | Melee (3m) | 1d10+3 R   | 0   | Flexible, Primitive, Special,Tearing | 4kg   | 45     | -         | Scarce        |
-| Lightning Chain †                                                        | Melee      | 1d10+1 I   | 0   | Flexible, Primitive, Shocking        | 4kg   | 100    | Acreage   | Very Rare     |
-| Lightning Gauntlet                                                       | Melee      | 1d10 I     | 0   | Primitive, Shocking                  | 2kg   | 80     | Acreage   | Very Rare     |
-| Sieve Blade                                                              | Melee      | 1d10-1 R   | 0   | Primitive                            | 0.5kg | 200    | -         | Rare          |
-| Soft Sword                                                               | Melee      | 1d10 R     | 2   | Balanced                             | 1.5kg | 400    | -         | Rare          |
-| Vivisector                                                               | Melee      | 1d5+5 R    | 4   | Tearing, Unwieldy                    | 1.5kg | 650    | Forge     | Rare          |
-| † _Requires two hands to be used effectively_                            |            |            |     |                                      |       |        |           |               |
-| ††  _Do not add the wielder's Strength Bonus to Damage with this weapon_ |            |            |     |                                      |       |        |           |               |
+### Exotic Weapons List
 
+| Name                | Class      | Dam        | Pen | Special                              | Wt    | Cost   | World     | Availability  |
+| ------------------- | ---------- | ---------- | --- | ------------------------------------ | ----- | ------ | --------- | ------------- |
+| Arc-Welder          | Melee      | 1d10+5 E†† | 10  | Fast, Unwieldy                       | 2kg   | 1,700  | Lathes    | Very Rare     |
+| Breacher †          | Melee      | 1d10+5 R   | 4   | Special, Tearing, Unwieldy           | 18kg  | 750    | Forge     | Scarce        |
+| Bulkhead Cutters    | Melee      | 1d10+3 R   | 6   | Tearing, Unwieldy                    | 8kg   | 100    | -         | Average       |
+| Chain-Sticks        | Melee      | 1d10+1 I   | 0   | Fast, Primitive, Toxic               | 1kg   | 30     | Fervious  | Scarce        |
+| Coil Whip           | Melee      | 1d10+5 E   | 4   | Flexible, Shocking                   | 3kg   | 600    | Lathes    | Very Rare     |
+| Double Flail †      | Melee      | 1d10 I     | 0   | Balanced, Flexible, Primitive        | 4kg   | 28     | Penolpass | Scarce        |
+| Energy Blade        | Melee      | 1d10+6 E†† | 7   | Balanced, Power Field                | 1kg   | 5,000  | Forge     | Very Rare     |
+| Forearm Power Blade | Melee      | 1d10+1 E   | 4   | Balanced, Defensive,Power Field      | 1.5kg | 2,200  | -         | Very Rare     |
+| Fractal Sword       | Melee      | 1d10+1 R   | 8   | Balanced                             | 1kg   | 10,000 | -         | ExtremelyRare |
+| Garrotte †          | Melee      | 1d10 R     | 0   | Flexible, Primitive, Unwieldy        | 0.5kg | 30     | Hive      | Scarce        |
+| Groxwhip            | Melee (3m) | 1d10+3 R   | 0   | Flexible, Primitive, Special,Tearing | 4kg   | 45     | -         | Scarce        |
+| Lightning Chain †   | Melee      | 1d10+1 I   | 0   | Flexible, Primitive, Shocking        | 4kg   | 100    | Acreage   | Very Rare     |
+| Lightning Gauntlet  | Melee      | 1d10 I     | 0   | Primitive, Shocking                  | 2kg   | 80     | Acreage   | Very Rare     |
+| Sieve Blade         | Melee      | 1d10-1 R   | 0   | Primitive                            | 0.5kg | 200    | -         | Rare          |
+| Soft Sword          | Melee      | 1d10 R     | 2   | Balanced                             | 1.5kg | 400    | -         | Rare          |
+| Vivisector          | Melee      | 1d5+5 R    | 4   | Tearing, Unwieldy                    | 1.5kg | 650    | Forge     | Rare          |
+
+† _Requires two hands to be used effectively_
+††  _Do not add the wielder's Strength Bonus to Damage with this weapon_
 #### Arc-Welder
 
 Principally a tool of the Lathe Worlds' elite mech-wrights, an arc-welder uses a discharge of pure energy to create a small, precise cutting blade that can make extremely fine and delicate incisions and slices through even the hardest material as easily as a chirurgeon's scalpel cuts through flesh. The twin arc emitters are mounted as a bracer or gauntlet, possibly permanently integrated into a bionic hand or arm, and snap in place ahead of the wielder's fingers - simply by moving the arm, the arc blade effortlessly cuts through anything the wielder "points" at. The amount of energy to create a cutting blade of this intensity is staggering, and so arc-welders are invariably either used in a stationary setting, or more often by a direct link to a Tech-Priest's potentia coil. The ability to easily cut through super-dense alloys means an arc-welder could very easily be pressed into service as a powerful, if purely offensive, weapon. With its ability to suddenly spring into an attack position, as well as small overall profile, defending against an attack by an arcwelder is a tricky prospect, and some more eccentric Venatorii wield these tools for entirely non-constructive purposes.
