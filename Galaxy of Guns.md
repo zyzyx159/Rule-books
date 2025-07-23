@@ -1691,7 +1691,7 @@ See the section on Exotic Weapons for more information on the use of web weapons
 | [[#Scatter Missile/Shell\|Scatter]]     | Special   | 0   | [[#Blast (X)\|Blast]] (10)               | 3kg   | 175  | Very Rare    |
 | [[#Starflare Shell\|Starflare]]         | -         | -   | Special                                  | 1kg   | 60   | Scarce       |
 | [[#Tunnelling Torpedo]]                 | 2d10+3 X  | 2   | [[#Blast (X)\|Blast]] (4), [[#Shocking]] | 3kg   | 200  | Very Rare    |
-| [[#Web Missile\|Web]]                   | -         | -   | [[#Blast (X)]] (6), Snare                | 2kg   | 200  | Rare         |
+| [[#Web Missile\|Web]]                   | -         | -   | [[#Blast (X)\|Blast]] (6), [[#Snare]]    | 2kg   | 200  | Rare         |
 ​
 #### Frag Missile/Shell
 Used With: Missile Launcher/Mortar
@@ -1736,16 +1736,19 @@ See the section on Exotic Weapons for more information on the use of web weapons
 
 ## EXOTIC WEAPONS
 
+### Exotic Weapons Information
+
 Despite their different patterns and marks, even unusually-designed lasguns and bolters are similar enough for a warrior who's familiar with one to pick up another and smite his foes in the Emperor's name. Some weapons, however, are far and apart from others, each with totally unique functions and purposes. Lesser Imperial servants will likely never even see, much less hold, any examples of these exotic armaments, and their cost, rarity, or difficulty of use keeps them squarely in the court of resourceful and well-connected specialists.
 
 Exotic weapons cover a wide range of guns and other devices that do not fit into other weapon categories. Most are particular and very specialized compared to others that are similarly classified as exotics; in general, exotic weapons require an individual Talent to use. For example, a character wishing to tangle up his opponents with a web pistol must have the Exotic Weapon Training (Web Pistol) talent. Some career paths include specific Exotic Weapon Training talents as part of their normal advances, but most characters will have to obtain one through an Elite Advance. Exotic weapons are still classified as Pistol, Basic, or Heavy weapons and must obey all relevant rules for their class (use in melee, bracing requirements, and so forth).
 
 Exotic weapons typically make use of equally exotic ammunition. In general, assume exotic ammunition is Very Rare with a cost of 20 Thrones each unless otherwise stated in a weapon's description.
 
-| Exotic Weapons              |        |       |        |          |     |      |        |                            |       |        |        |                |
-| --------------------------- | ------ | ----- | ------ | -------- | --- | ---- | ------ | -------------------------- | ----- | ------ | ------ | -------------- |
+### Exotic Weapons List
+
 | Name                        | Class  | Range | RoF    | Dam      | Pen | Clip | Rld    | Special                    | Wt    | Cost   | World  | Availability   |
-| Catalytic Mass Driver       | Basic  | 120m  | S/-/5  | 1d10 R   | 12  | 200  | Full   | Special                    | 7kg   | 600    | Lathes | Very Rare      |
+| --------------------------- | ------ | ----- | ------ | -------- | --- | ---- | ------ | -------------------------- | ----- | ------ | ------ | -------------- |
+| [[#Catalytic Mass Driver    | Basic  | 120m  | S/-/5  | 1d10 R   | 12  | 200  | Full   | Special                    | 7kg   | 600    | Lathes | Very Rare      |
 | Dartcaster                  | Pistol | 30m   | S/-/-  | 1d10 R   | 0   | 1    | Full   | Toxic                      | 2.5kg | 600    | -      | Rare           |
 | - Artifico-Biologis         | Pistol | 20m   | S/-/-  | 1d5+2 R  | 2   | 3    | 2 Full | Accurate, Special          | 1kg   | 1,000  | Forge  | Scarce         |
 | Digi-flamer                 | Pistol | 3m    | S/-/-  | 1d10+4 E | 2   | 1    | 3 Full | Flame                      | .1kg  | 6,000  | -      | Extremely Rare |
@@ -1781,7 +1784,7 @@ Class: Pistol (Exotic)
 
 Dartcasters come in a variety of forms, most using pressurised gas or a crossbow-like mechanism to fire small metal slivers at great velocities. These have only modest wounding capability, and while many hivers would be suitably incapacitated by having a metallic dart embedded in their bodies, a furious cultist might not even notice. As a result, most users intent on causing real harm saturate their darts in powerful poisons or other chemicals. The most common choice is needler toxin (this is reflected in the listed rules), but almost any sort of poison or other substance can be administered by a skilled user. A bounty hunter might use a tranquiliser compound to quietly subdue a mark, while an Ordo Malleus agent could employ blessed silver darts filled with sacred oils as a means of combating warp-spawned fiends. Particularly nefarious users have been known to drain a hallucinogen grenade for its mindaltering ingredients and apply them to a dart, visiting its effects on an unfortunate victim without the collateral results (or obvious evidence) of chucking the grenade itself.
 
-**Artifico-Biologis 0.5I Hypo-Pistol:**
+##### Artifico-Biologis 0.5I Hypo-Pistol:
 This fine crafted and intricate handgun is carved from clockwork and brass, an obvious Cult Mechanicus device that is typically used by Magos Biologis and their agents to subdue living specimens. By employing a cunningly-designed mechanical spring, a hypo-pistol fires a shortrange injector dart fitted with a penetrating filament that delivers a chemical payload directly into the target's bloodstream. Though nominally a tool of Mechanicus Magi, it is found with some frequency in the hands of bounty hunters, scummers and some enforcer types who want to take their prey alive.
 
 The usual payload for a hypo-pistol is strixis tincture, a powerful soporific. Any living target that takes Damage from a hypo-pistol must succeed on a Hard (-20) Toughness Test or fall comatose for 1d10 x 3 minutes. On a failure by three or more Degrees, the target remains comatose for a further 1d5 hours. The special filament injectors are designed to cause minimal harm to a victim. Roll for Damage as normal to overcome the target's Armour and Toughness, but reduce any excess to just 1 point. Hypopistol ammunition is Scarce, with each dart having a base cost of 8 Thrones.
@@ -1832,7 +1835,7 @@ Class: Pistol (Exotic)
 
 Needle pistols are incredibly dangerous weapons when put in the right hands, and while some believe that a needler is a pale shadow to the power of a bolter, there is no denying a needler's ability to kill with almost complete impunity. Needle pistols use a low-power laser to noiselessly propel small slivers of crystallized toxins that produce no flash when leaving the weapon; the projectile painlessly dissolves into the victim's bloodstream, leaving no obvious evidence behind, and most men killed by a needle pistol likely never even knew they'd been shot. Needle pistols are favoured by assassins for their lethality and stealthy features, but many have turned up in the hands of agents, enforcers and well-equipped scummers alike.
 
-**Glavian Needler:**
+##### Glavian Needler:
 This advanced and elegant needle pistol is designed for close-range work and can spit out toxin needles at a patently alarming rate. This makes it a truly fearsome tool against opponents who lack armour heavy enough to harmlessly shatter the incoming projectiles. While already a fine holster pistol, a Glavian needler can also be constructed as a wrist gun that is stored up the owner's sleeve and fired with a special glove or nearly-invisible wired stud that is attached to the palm by adhesive. While far less common, these hidden versions have been used in a number of highprofile assassinations and other crimes, and have led to the expression "Glavian handshake" being a euphemism for murder. The Belasco Deathworks is the only major forge in Calixis that produces this style of needle pistol.
 
 Wrist gun Glavians cost an extra 300 Thrones and can be converted between the concealed version and standard pistol grip in about an hour (this work requires no Skill Tests). When suitably hidden, a wrist gun Glavian needler grants a +20 bonus to the wearer's Sleight of Hand Test to conceal it. When in this configuration reloading takes twice as long due to the awkward positioning.
