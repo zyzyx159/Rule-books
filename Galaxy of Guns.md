@@ -331,8 +331,7 @@ This Belasco-made pistol is a highly unusual pattern and one benefitting the tre
 
 The Venom is powered via an internal non-removable power cell rather than Munitorum sanctioned power packs. It cannot be reloaded, but can be recharged via a standard port similarly to a las power pack. Because of its strange appearance, its user does not appear to be armed if searched while carrying it unless the searcher is familiar with the Venom's design.
 
-### Basic and 
-
+### Basic and Heavy Las List
 
 | Name                                          | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
 | --------------------------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
@@ -475,37 +474,37 @@ To use the various classes of solid projectile weapons you must have the Pistol 
 
 ### Solid Projectile Weapons list
 
-| Name                                                       | Class  | R a n g e | RoF   | Dam      | Pen | Clip  | Rld    | Special                                     | Wt    | Cost  | World | Availability   |
-| ---------------------------------------------------------- | ------ | --------- | ----- | -------- | --- | ----- | ------ | ------------------------------------------- | ----- | ----- | ----- | -------------- |
-| [[#Autopistol]] (generic)                                  | Pistol | 30m       | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.5kg | 75    | -     | Common         |
-| - [[#Disposable Pistol]]                                   | Pistol | 30m       | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 2kg   | 15    | -     | Ubiquitous     |
-| - [[#Sulymann Encarmine Service Pistol\|Encarmine]]        | Pistol | 20m       | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                                           | 2kg   | 90    | -     | Average        |
-| - [[#Hecuter 9/5 Combat Autopistol\|Hecuter]]              | Pistol | 30m       | S/3/6 | 1d10+3 I | 0   | 15    | Full   | [[#Reliable]]                               | 2kg   | 175   | -     | Average        |
-| - [[#Naval Pistol]]                                        | Pistol | 20m       | S/3/- | 1d10+4 I | 0   | 6     | Full   | [[#Tearing]]                                | 3kg   | 120   | -     | Scarce         |
-| - [[#Orthlack Mark IV Thollos]]                            | Pistol | 20m       | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                                           | 2.5kg | 75    | -     | Scarce         |
-| - [[#Hax-Orthlack Puritan-14 Double Pistol\|Puritan-14]]   | Pistol | 20m       | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                                           | 1.7kg | 100   | -     | Scarce         |
-| - [[#Hax-Orthlack Puritan-14 Double Pistol\|As shotgun]]   | Pistol | 15m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | [[#Scatter]]                                |       |       |       |                |
-| - [[#Sulymann "Salvation" Holdout Pistol\|Salvation]]      | Pistol | 10m       | S/3/- | 1d10 I   | 0   | 7     | -      | -                                           | 0.7kg | 80    | -     | Common         |
-| - [[#Sulymann Talon III Autopistol\|Talon III]]            | Pistol | 30m       | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.3kg | 85    | -     | Common         |
-| [[#"Flametongue" Howdah Pistol\|Flametongue]]              | Pistol | 20m       | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | [[#Primitive]], [[#Reliable]], [[#Tearing]] | 2kg   | 140   | -     | Rare           |
-| [[#Hand Cannon]] (generic)                                 | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                                           | 3kg   | 65    | -     | Average        |
-| - [[#.54 Tranter]]                                         | Pistol | 30m       | S/2/- | 1d10+5 I | 2   | 7     | Full   | [[#Unreliable]]                             | 3.5kg | 95    | -     | Common         |
-| - [[#Westingkrup "Carnodon" Precision Pistol\|Carnodon]]   | Pistol | 35m       | S/3/- | 1d10+4 I | 2   | 6     | Full   | [[#Accurate]]                               | 2.5kg | 200   | -     | Scarce         |
-| - [[#Khayer-Addin "Fate Bringer" Revolver\|Fate Bringer]]  | Pistol | 40m       | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | [[#Accurate]], [[#Reliable]]                | 1.6kg | 200   | -     | Rare           |
-| - [[#Stormchild Hand Cannon\|Stormchild]]                  | Pistol | 35m       | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                                           | 3kg   | 65    | -     | Average        |
-| [[#Hack Shotgun]]                                          | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | 2 Full | [[#Inaccurate]], [[#Scatter]], [[#Tearing]] | 3kg   | 60    | -     | Common         |
-| [[#Mariette Cylinder Pistol\|Mariette]]                    | Pistol | 20m       | S/2/- | 2d5+3 I  | 0   | 2     | 2 Full | [[#Tearing]]                                | 0.5k  | 400   | -     | Rare           |
-| [[#Volg Mercy Killer\|Mercy Killer]]                       | Pistol | 20m       | S/-/- | 1d10+2 I | 0   | 1     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 1kg   | 10    | -     | Plentiful      |
-| [[#Panoptic 0-5 Automata Pistol\|Panoptic]]                | Pistol | 35m       | S/2/- | 1d10+3 I | 0   | 5(x2) | 2 Full | [[#Reliable]]                               | 2kg   | 225   | -     | Rare           |
-| [[#Volg "Ripper Clip" Pistol\|Ripper Clip]]                | Pistol | 20m       | -/-/6 | 1d10+2 I | 0   | 12    | Full   | [[#Inaccurate]], [[#Unreliable]]            | 3kg   | 40    | Volg  | Common         |
-| [[#Belasco Ripper Pistol\|Ripper Pistol]]                  | Pistol | 30m       | S/2/- | 1d10+1 I | 7   | 8     | Full   | [[#Tearing]], [[#Toxic]]                    | 4kg   | 2,000 | -     | Extremely Rare |
-| [[#Shotgun Pistol]]                                        | Pistol | 10m       | S/-/- | 1d10+4 I | 0   | 1     | Full   | [[#Reliable]], [[#Scatter]]                 | 1kg   | 60    | -     | Average        |
-| [[#Stub Automatic]] (generic)                              | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                                           | 1.5kg | 50    | -     | Plentiful      |
-| - [[#Hax-Orthlack Armsman-10 Service Pistol\|Arms man-10]] | Pistol | 35m       | S/3/- | 1d10+3 I | 0   | 13    | Full   | -                                           | 1.5kg | 75    | -     | Plentiful      |
-| - [[#Dorcas-Pattern Trophy Automatic\|Dorcas-Pattern]]     | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Half   | -                                           | 1.5kg | 125   | -     | Rare           |
-| - [[#Phobos Stubber]]                                      | Pistol | 30m       | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                                           | 1.3kg | 50    | -     | Plentiful      |
-| [[#Stub Revolver]] (generic)                               | Pistol | 30m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | [[#Reliable]]                               | 1kg   | 40    | -     | Plentiful      |
-| - [[#Westingkrup Model 20 "Scalptaker"\|Scalptaker]]       | Pistol | 35m       | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | [[#Reliable]]                               | 2kg   | 40    | -     | Plentiful      |
+| Name                                                       | Class  | Range | RoF   | Dam      | Pen | Clip  | Rld    | Special                                     | Wt    | Cost  | World | Availability   |
+| ---------------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ----- | ------ | ------------------------------------------- | ----- | ----- | ----- | -------------- |
+| [[#Autopistol]] (generic)                                  | Pistol | 30m   | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.5kg | 75    | -     | Common         |
+| - [[#Disposable Pistol]]                                   | Pistol | 30m   | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 2kg   | 15    | -     | Ubiquitous     |
+| - [[#Sulymann Encarmine Service Pistol\|Encarmine]]        | Pistol | 20m   | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                                           | 2kg   | 90    | -     | Average        |
+| - [[#Hecuter 9/5 Combat Autopistol\|Hecuter]]              | Pistol | 30m   | S/3/6 | 1d10+3 I | 0   | 15    | Full   | [[#Reliable]]                               | 2kg   | 175   | -     | Average        |
+| - [[#Naval Pistol]]                                        | Pistol | 20m   | S/3/- | 1d10+4 I | 0   | 6     | Full   | [[#Tearing]]                                | 3kg   | 120   | -     | Scarce         |
+| - [[#Orthlack Mark IV Thollos]]                            | Pistol | 20m   | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                                           | 2.5kg | 75    | -     | Scarce         |
+| - [[#Hax-Orthlack Puritan-14 Double Pistol\|Puritan-14]]   | Pistol | 20m   | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                                           | 1.7kg | 100   | -     | Scarce         |
+| - [[#Hax-Orthlack Puritan-14 Double Pistol\|As shotgun]]   | Pistol | 15m   | S/-/- | 1d10+4 I | 0   | 1     | Full   | [[#Scatter]]                                |       |       |       |                |
+| - [[#Sulymann "Salvation" Holdout Pistol\|Salvation]]      | Pistol | 10m   | S/3/- | 1d10 I   | 0   | 7     | -      | -                                           | 0.7kg | 80    | -     | Common         |
+| - [[#Sulymann Talon III Autopistol\|Talon III]]            | Pistol | 30m   | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.3kg | 85    | -     | Common         |
+| [[#"Flametongue" Howdah Pistol\|Flametongue]]              | Pistol | 20m   | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | [[#Primitive]], [[#Reliable]], [[#Tearing]] | 2kg   | 140   | -     | Rare           |
+| [[#Hand Cannon]] (generic)                                 | Pistol | 35m   | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                                           | 3kg   | 65    | -     | Average        |
+| - [[#.54 Tranter]]                                         | Pistol | 30m   | S/2/- | 1d10+5 I | 2   | 7     | Full   | [[#Unreliable]]                             | 3.5kg | 95    | -     | Common         |
+| - [[#Westingkrup "Carnodon" Precision Pistol\|Carnodon]]   | Pistol | 35m   | S/3/- | 1d10+4 I | 2   | 6     | Full   | [[#Accurate]]                               | 2.5kg | 200   | -     | Scarce         |
+| - [[#Khayer-Addin "Fate Bringer" Revolver\|Fate Bringer]]  | Pistol | 40m   | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | [[#Accurate]], [[#Reliable]]                | 1.6kg | 200   | -     | Rare           |
+| - [[#Stormchild Hand Cannon\|Stormchild]]                  | Pistol | 35m   | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                                           | 3kg   | 65    | -     | Average        |
+| [[#Hack Shotgun]]                                          | Pistol | 10m   | S/-/- | 1d10+4 I | 0   | 1     | 2 Full | [[#Inaccurate]], [[#Scatter]], [[#Tearing]] | 3kg   | 60    | -     | Common         |
+| [[#Mariette Cylinder Pistol\|Mariette]]                    | Pistol | 20m   | S/2/- | 2d5+3 I  | 0   | 2     | 2 Full | [[#Tearing]]                                | 0.5k  | 400   | -     | Rare           |
+| [[#Volg Mercy Killer\|Mercy Killer]]                       | Pistol | 20m   | S/-/- | 1d10+2 I | 0   | 1     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 1kg   | 10    | -     | Plentiful      |
+| [[#Panoptic 0-5 Automata Pistol\|Panoptic]]                | Pistol | 35m   | S/2/- | 1d10+3 I | 0   | 5(x2) | 2 Full | [[#Reliable]]                               | 2kg   | 225   | -     | Rare           |
+| [[#Volg "Ripper Clip" Pistol\|Ripper Clip]]                | Pistol | 20m   | -/-/6 | 1d10+2 I | 0   | 12    | Full   | [[#Inaccurate]], [[#Unreliable]]            | 3kg   | 40    | Volg  | Common         |
+| [[#Belasco Ripper Pistol\|Ripper Pistol]]                  | Pistol | 30m   | S/2/- | 1d10+1 I | 7   | 8     | Full   | [[#Tearing]], [[#Toxic]]                    | 4kg   | 2,000 | -     | Extremely Rare |
+| [[#Shotgun Pistol]]                                        | Pistol | 10m   | S/-/- | 1d10+4 I | 0   | 1     | Full   | [[#Reliable]], [[#Scatter]]                 | 1kg   | 60    | -     | Average        |
+| [[#Stub Automatic]] (generic)                              | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                                           | 1.5kg | 50    | -     | Plentiful      |
+| - [[#Hax-Orthlack Armsman-10 Service Pistol\|Arms man-10]] | Pistol | 35m   | S/3/- | 1d10+3 I | 0   | 13    | Full   | -                                           | 1.5kg | 75    | -     | Plentiful      |
+| - [[#Dorcas-Pattern Trophy Automatic\|Dorcas-Pattern]]     | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Half   | -                                           | 1.5kg | 125   | -     | Rare           |
+| - [[#Phobos Stubber]]                                      | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                                           | 1.3kg | 50    | -     | Plentiful      |
+| [[#Stub Revolver]] (generic)                               | Pistol | 30m   | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | [[#Reliable]]                               | 1kg   | 40    | -     | Plentiful      |
+| - [[#Westingkrup Model 20 "Scalptaker"\|Scalptaker]]       | Pistol | 35m   | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | [[#Reliable]]                               | 2kg   | 40    | -     | Plentiful      |
 ### Autopistol
 
 Small but effective, autopistols are the preferred backup weapon of many military types who need a compact but rapid-firing gun for situations where their main long-arm is unsuitable. They are also the sidearm of choice for many gangers and outlaws as they conceal quite a bit of firepower in a relatively small package that can be stuffed into a pocket and carried all day, while more than a few of those scummers have met their end from another autopistol wielded by an Arbitrator opposite his suppression shield. Numerous autopistol patterns throughout the Imperium are similar enough to fall into this weapon's entry, while the fanes and forges in the Calixis Sector produce some more exotic variants as listed below.
@@ -822,9 +821,8 @@ Bolters are literally as old as the Imperium itself, and have been firmly connec
 To use bolt weapons without penalty, a character must have the Pistol Training (Bolt), Basic Weapon Training (Bolt), or Heavy Weapon Training (Bolt) talents.
 ### Bolt Weapons list
 
-| Bolt Weapons                                           |        |       |        |          |     |      |        |                                                     |       |        |         |               |
-| ------------------------------------------------------ | ------ | ----- | ------ | -------- | --- | ---- | ------ | --------------------------------------------------- | ----- | ------ | ------- | ------------- |
 | Name                                                   | Class  | Range | RoF    | Dam      | Pen | Clip | Rld    | Special                                             | Wt    | Cost   | World   | Availability  |
+| ------------------------------------------------------ | ------ | ----- | ------ | -------- | --- | ---- | ------ | --------------------------------------------------- | ----- | ------ | ------- | ------------- |
 | [[#Angelus Bolt Carbine\|Angelus]]                     | Basic  | 120m  | S/-/-  | 2d10+2 X | 5   | 3    | 3 Full | [[#Accurate]], [[#Tearing]]                         | 11kg  | 2,000  | -       | Very Rare     |
 | [[#Boltgun]] (generic)                                 | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | [[#Tearing]]                                        | 7kg   | 500    | -       | Rare          |
 | - [[#Godwyn-De'az-Pattern\|Godwyn-De'az]]              | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 30   | Full   | [[#Reliable]], [[#Tearing]]                         | 6kg   | 1,000  | -       | Very Rare     |
@@ -842,7 +840,6 @@ To use bolt weapons without penalty, a character must have the Pistol Training (
 | [[Volg "Spitfire" Bolter\|Spitfire]]                   | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | [[#Tearing]], [[#Unreliable]]                       | 3kg   | 75     | Volg    | Scarce        |
 | [[#Storm Bolter]]                                      | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Storm]], [[#Tearing]]                            | 9kg   | 4,000  | -       | ExtremelyRare |
 | - [[#Godwyn-De'az-Pattern Storm Bolter\|Godwyn-De'az]] | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Reliable]], [[#Storm]], [[#Tearing]]             | 12kg  | 9,000  | -       | ExtremelyRare |
-
 ### Angelus Bolt Carbine
 Class: Bolt (Basic)
 
@@ -936,9 +933,8 @@ Melta weapons are fairly rare on the battlefield as only a few forge worlds are 
 To use melta weapons without penalty, a character must have the Pistol Training (Melta), Basic Weapon Training (Melta), or Heavy Weapon Training (Melta) talents.
 ### Melta Weapons List
 
-| Melta Weapons                            |        |       |       |           |     |      |        |                                         |       |        |              |               |
-| ---------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | --------------------------------------- | ----- | ------ | ------------ | ------------- |
 | Name                                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                 | Wt    | Cost   | World        | Availability  |
+| ---------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | --------------------------------------- | ----- | ------ | ------------ | ------------- |
 | [[#Inferno Pistol]] (generic)            | Pistol | 10m   | S/-/- | 2d10+4 E  | 12  | 3    | Full   | -                                       | 2.5kg | 7,500  | -            | Very Rare     |
 | - [[#Mars-Pattern Inferno Pistol\|Mars]] | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | [[#Vicious]]                            | 2.5kg | 12,000 | -            | ExtremelyRare |
 | - [[#Seraphim Inferno Pistol\|Seraphim]] | Pistol | 10m   | S/-/- | 2d10+2 E  | 10  | 6    | Full   | [[#Reliable]]                           | 2kg   | 9,000  | -            | ExtremelyRare |
@@ -949,7 +945,6 @@ To use melta weapons without penalty, a character must have the Pistol Training 
 | [[#Multi-Melta]] (generic)               | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | [[#Blast (X)\|Blast]] (1)               | 55kg  | 8,500  | -            | Very Rare     |
 | - [[#Mars-Pattern Multi-Melta\|Mars]]    | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Vicious]] | 40kg  | 15,000 | -            | ExtremelyRare |
 | [[#Thermal Lance]]                       | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | [[#Accurate]]                           | 55kg  | 3,000  | -            | Rare          |
-
 ### Inferno Pistol
 Class: Pistol (Melta)
 
@@ -1012,9 +1007,8 @@ As weapons that contain a miniature fusion device and use arcane magnetic fields
 To use plasma weapons without penalty, a character must have the Pistol Training (Plasma), Basic Weapon Training (Plasma), or Heavy Weapon Training (Plasma) talents.
 ### Plasma Weapons list
 
-| Plasma Weapons                                   |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
-| ------------------------------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
 | Name                                             | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                                | Wt    | Cost  | World  | Availability  |
+| ------------------------------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
 | [[#Phased Plasma Gun]]                           | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                                                | 12kg  | 1,500 | Lathes | Very Rare     |
 | [[#Plasma Blaster]]                              | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Overheats]], [[#Recharge]], [[#Vicious]] | 20kg  | 7,500 | -      | Very Rare     |
 | [[#Plasma Cannon]]                               | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                                         | 38kg† | 8,500 | -      | Very Rare     |
@@ -1030,9 +1024,8 @@ To use plasma weapons without penalty, a character must have the Pistol Training
 | - [[#Kronos-Pattern Plasma Pistol\|Kronos]]      | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
 | - (Maximal)                                      |        |       |       | 2d10+10 E | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
 | - [[#Khayer-Addin "Wrath" Plasma Pistol\|Wrath]] | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | [[#Accurate]], [[#Overheats]]                                          | 5kg   | 6,500 | -      | ExtremelyRare |
-| †Not including ammo pack                         |        |       |       |           |     |      |        |                                                                        |       |       |        |               |
 
-
+†Not including ammo pack
 ### Phased Plasma Gun
 Class: Basic (Plasma)
 
@@ -1097,9 +1090,8 @@ Flame weapons of the Imperium typically use a highly flammable substance known a
 To use flame weapons without penalty, a character must have the Pistol Training (Flame), Basic Weapon Training (Flame), or Heavy Weapon Training (Flame) talents.
 ### Flame Weapons list
 
-| Flame Weapons                                       |        |       |       |          |     |      |        |                                         |       |       |       |               |
-| --------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ------ | --------------------------------------- | ----- | ----- | ----- | ------------- |
 | Name                                                | Class  | Range | RoF   | Dam      | Pen | Clip | Rld    | Special                                 | Wt    | Cost  | World | Availability  |
+| --------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ------ | --------------------------------------- | ----- | ----- | ----- | ------------- |
 | [[#Flamer]] (generic)                               | Basic  | 20m   | S/-/- | 1d10+4 E | 3   | 3    | 2 Full | [[#Flame]], [[#Unreliable]]             | 6kg   | 200   | -     | Scarce        |
 | - [[#Anoxis Burst Flamer\|Burst]]                   | Basic  | 5m    | S/-/- | 1d5 E    | 0   | 10   | 2 Full | [[#Flame]], [[#Primitive]]              | 3kg   | 50    | -     | Scarce        |
 | - [[#Voss "Nightfire" Flame Device\|Nightfire]]     | Basic  | 20m   | S/-/- | 1d10+5 E | 2   | 3    | 2 Full | [[#Flame]], [[#Toxic]], [[#Unreliable]] | 7kg   | 400   | -     | Very Rare     |
@@ -1111,7 +1103,8 @@ To use flame weapons without penalty, a character must have the Pistol Training 
 | [[#Heavy Flamer Class Heavy (Flame)\|Heavy Flamer]] | Heavy  | 30m   | S/-/- | 2d10+4 E | 4   | 30   | 2 Full | [[#Flame]], [[#Unreliable]]             | 20kg† | 1,000 | -     | Rare          |
 | [[#Anoxis Stingray Rifle\|Stringray]]               | Basic  | 15m   | S/-/- | 1d10+3 E | 2   | 4    | Full   | [[#Flame]]                              | 3kg   | 100   | Void  | Scarce        |
 | [[#Tox Spray]]                                      | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | [[#Flame]], [[#Toxic]]                  | 8kg   | 200   | Hive  | Scarce        |
-| †_Not including ammo pack_                          |        |       |       |          |     |      |        |                                         |       |       |       |               |
+
+†_Not including ammo pack_
 ### Flamer
 Class: Basic (Flame)
 
@@ -1183,9 +1176,8 @@ Primitive weapons of this sort can sometimes be found on more built-up planets, 
 This class of weapon refers to any of a broad range of low-complexity ranged armaments, including black powder-fired guns as well as muscle-powered devices like crossbows and javelins among a wide variety of others. To use primitive weapons without penalty, a character must have the Thrown Weapon Training (Primitive), Pistol Training (Primitive), Basic Weapon Training (Primitive), or Heavy Weapon Training (Primitive) talents.
 ### Primitive Weapon list
 
-| Primitive Weapons                                 |        |       |       |             |     |      |        |                                                                           |       |      |          |              |
-| ------------------------------------------------- | ------ | ----- | ----- | ----------- | --- | ---- | ------ | ------------------------------------------------------------------------- | ----- | ---- | -------- | ------------ |
 | Name                                              | Class  | Range | RoF   | Dam         | Pen | Clip | Rld    | Special                                                                   | Wt    | Cost | World    | Availability |
+| ------------------------------------------------- | ------ | ----- | ----- | ----------- | --- | ---- | ------ | ------------------------------------------------------------------------- | ----- | ---- | -------- | ------------ |
 | [[#Bolas]]                                        | Thrown | 10m   | S/-/- | 0           | 0   | 1    | -      | [[#Primitive]], [[#Snare]]                                                | 1.5kg | 10   | -        | Average      |
 | - [[#Volonx Bone Bolas\|Bone Bolas]]              | Thrown | 8m    | S/-/- | 1d5 I       | 0   | 1    | -      | [[#Inaccurate]], [[#Primitive]], [[#Snare]], [[#Toxic]]                   | 2kg   | 15   | Volonx   | Rare         |
 | [[#Bow]]                                          | Basic  | 30m   | S/-/- | 1d10 R      | 0   | 1    | Half   | [[#Primitive]], [[#Reliable]]                                             | 2kg   | 10   | -        | Common       |
@@ -1211,7 +1203,7 @@ This class of weapon refers to any of a broad range of low-complexity ranged arm
 | [[#Sling]]                                        | Basic  | 15m   | S/-/- | 1d10-2 I    | 0   | 1    | Full   | [[#Primitive]]                                                            | .5kg  | 10   | -        | Plentiful    |
 | [[#Volonx Thunderclap\|Thunderclap]]              | Exotic | 9m    | S/-/- | 1d5+3 X     | 0   | 1    | -      | [[#Blast (X)\|Blast]] (2), [[#Inaccurate]], [[#Primitive]], [[#Unstable]] | 1kg   | 45   | Volonx   | Very Rare    |
 | [[#Vibe Spear]]                                   | Thrown | 10m   | S/-/- | 1d10+2+SB R | 1   | 1    | -      | [[#Primitive]], [[#Snare]], Special                                       | 2kg   | 14   | Endrite  | Scarce       |
-|                                                   |        |       |       |             |     |      |        |                                                                           |       |      |          |              |
+
 ### Bolas
 Class: Thrown (Primitive)
 
@@ -1376,9 +1368,8 @@ Whenever a Jam results from throwing or launching a grenade, missile, mortar, an
 - 9-0 BOOM! The round or explosive immediately goes off with any and all effects centred on the firer. If this was the result of firing a launcher the results may be even worse; "non-lethal" grenades, like howlers and smokes, must be cleared as though jammed, while an explosive like a frag or krak grenade destroys the launcher as well as setting off any other grenades that are loaded into it!
 ### Launchers, Grenades, and Bombs List
 
-| Launchers                                      |         |          |       |          |     |      |        |                                                           |      |       |       |               |
-| ---------------------------------------------- | ------- | -------- | ----- | -------- | --- | ---- | ------ | --------------------------------------------------------- | ---- | ----- | ----- | ------------- |
 | Name                                           | Class   | Range    | RoF   | Dam      | Pen | Clip | Rld    | Special                                                   | Wt   | Cost  | World | Availability  |
+| ---------------------------------------------- | ------- | -------- | ----- | -------- | --- | ---- | ------ | --------------------------------------------------------- | ---- | ----- | ----- | ------------- |
 | [[#Bola Launcher]]                             | Basic   | 20m      | S/-/- | 1d5+1 I  | 0   | 6    | Full   | [[#Primitive]], [[#Snare]]                                | 12kg | 250   | -     | Rare          |
 | [[#Disposable Launcher]]                       | Heavy   | 175m     | S/-/- | †        | †   | 1    | -      | †                                                         | 20kg | 600   | -     | Scarce        |
 | [[#Grenade Launcher]]                          | Basic   | 60m      | S/-/- | †        | †   | 6    | 2 Full | †                                                         | 9kg  | 500   | -     | Scarce        |
