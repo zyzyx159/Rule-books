@@ -82,71 +82,71 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 
 # Rank 4 Advances
 
-| Name                                  | Cost | Type | Prerequisites                          |
-| ------------------------------------- | ---- | ---- | -------------------------------------- |
-| Climb +10                             | 100  | S    | Climb                                  |
-| Common Lore (Imperium)                | 100  | S    | —                                      |
-| Common Lore (War)                     | 100  | S    | —                                      |
-| Literacy +10                          | 100  | S    | —                                      |
-| Command                               | 200  | S    | —                                      |
-| Crack Shot                            | 200  | S    | BS 40                                  |
-| Forbidden Lore (Heresy) +10           | 200  | S    | Forbidden Lore (Heresy)                |
-| Forbidden Lore (Psykers)              | 200  | S    | —                                      |
-| Basic Weapon Training (Melta)         | 200  | T    | —                                      |
-| Cleanse and Purify                    | 200  | T    | Basic Weapon (Flame)                   |
-| Sound Constitution                    | 200  | T    | —                                      |
-| Armour of Contempt                    | 300  | T    | WP 40                                  |
-| Arms Master                           | 300  | T    | BS 30, Basic Weapon Training (any two) |
-| [[#THE POWER OF FAITH\|Faith Talent]] | 300  | T    | Varies                                 |
-| Heavy Weapon Training (Flame)         | 300  | T    | —                                      |
-| Litany of Battle                      | 300  | T    | Fel 30                                 |
-| Hardy                                 | 400  | T    | —                                      |
+| Name                                               | Cost | Type | Prerequisites                          |
+| -------------------------------------------------- | ---- | ---- | -------------------------------------- |
+| Climb +10                                          | 100  | S    | Climb                                  |
+| Common Lore (Imperium)                             | 100  | S    | —                                      |
+| Common Lore (War)                                  | 100  | S    | —                                      |
+| Literacy +10                                       | 100  | S    | —                                      |
+| Command                                            | 200  | S    | —                                      |
+| Crack Shot                                         | 200  | S    | BS 40                                  |
+| Forbidden Lore (Heresy) +10                        | 200  | S    | Forbidden Lore (Heresy)                |
+| Forbidden Lore (Psykers)                           | 200  | S    | —                                      |
+| Basic Weapon Training (Melta)                      | 200  | T    | —                                      |
+| Cleanse and Purify                                 | 200  | T    | Basic Weapon (Flame)                   |
+| Sound Constitution                                 | 200  | T    | —                                      |
+| Armour of Contempt                                 | 300  | T    | WP 40                                  |
+| Arms Master                                        | 300  | T    | BS 30, Basic Weapon Training (any two) |
+| [[#THE POWER OF FAITH\|Faith Talent]]              | 300  | T    | Varies                                 |
+| Heavy Weapon Training (Flame)                      | 300  | T    | —                                      |
+| [[#**TALENT LITANY OF BATTLE**\|Litany of Battle]] | 300  | T    | Fel 30                                 |
+| Hardy                                              | 400  | T    | —                                      |
 # Rank 5 Advances
 
-| Name                             | Cost | Type | Prerequisites                    |
-| -------------------------------- | ---- | ---- | -------------------------------- |
-| Common Lore (Ecclesiarchy) +20   | 100  | S    | Common Lore (Ecclesiarchy) +10   |
-| Common Lore (Imperial Creed) +20 | 100  | S    | Common Lore (Imperial Creed) +10 |
-| Dodge +10                        | 100  | S    | Dodge                            |
-| Literacy +20                     | 100  | S    | —                                |
-| Nerves of Steel                  | 100  | T    | —                                |
-| Awareness +20                    | 200  | S    | Awareness +10                    |
-| Common Lore (War) +10            | 200  | S    | Common Lore (War)                |
-| Drive (Hover)                    | 200  | S    | —                                |
-| Scrutiny +10                     | 200  | S    | Scrutiny                         |
-| Search +10                       | 200  | S    | Search                           |
-| Silent Move                      | 200  | S    | —                                |
-| Tech Use +10                     | 200  | S    | Tech Use                         |
-| Hip Shooting                     | 200  | T    | BS 40, AG 40                     |
-| Jaded                            | 200  | T    | WP 30                            |
-| Melee Weapon Training (Power)    | 200  | T    | —                                |
-| Sound Constitution               | 200  | T    | —                                |
-| Die Hard                         | 300  | T    | WP 40                            |
-| Faith Talent†                    | 300  | T    | Varies                           |
-| Marksman                         | 300  | T    | BS 35                            |
+| Name                                   | Cost | Type | Prerequisites                    |
+| -------------------------------------- | ---- | ---- | -------------------------------- |
+| Common Lore (Ecclesiarchy) +20         | 100  | S    | Common Lore (Ecclesiarchy) +10   |
+| Common Lore (Imperial Creed) +20       | 100  | S    | Common Lore (Imperial Creed) +10 |
+| Dodge +10                              | 100  | S    | Dodge                            |
+| Literacy +20                           | 100  | S    | —                                |
+| Nerves of Steel                        | 100  | T    | —                                |
+| Awareness +20                          | 200  | S    | Awareness +10                    |
+| Common Lore (War) +10                  | 200  | S    | Common Lore (War)                |
+| Drive (Hover)                          | 200  | S    | —                                |
+| Scrutiny +10                           | 200  | S    | Scrutiny                         |
+| Search +10                             | 200  | S    | Search                           |
+| Silent Move                            | 200  | S    | —                                |
+| Tech Use +10                           | 200  | S    | Tech Use                         |
+| Hip Shooting                           | 200  | T    | BS 40, AG 40                     |
+| Jaded                                  | 200  | T    | WP 30                            |
+| Melee Weapon Training (Power)          | 200  | T    | —                                |
+| Sound Constitution                     | 200  | T    | —                                |
+| Die Hard                               | 300  | T    | WP 40                            |
+| [[#THE POWER OF FAITH\|Faith Talent]]† | 300  | T    | Varies                           |
+| Marksman                               | 300  | T    | BS 35                            |
 *† You may take this Talent two times at this Rank.*
 # Rank 6 Advances
 
-| Name                                 | Cost | Type | Prerequisites                |
-|--------------------------------------|------|------|------------------------------|
-| Heightened Senses (Hearing)          | 100  | T    | —                            |
-| Heightened Senses (Sight)            | 100  | T    | —                            |
-| Insanely Faithful                    | 100  | T    | —                            |
-| Ciphers (Sororitas War Cant) +10     | 200  | S    | Ciphers (Sororitas War Cant) |
-| Command +10                          | 200  | S    | Command                      |
-| Drive (Ground) +10                   | 200  | S    | Drive (Ground)               |
-| Scholastic Lore (Imperial Creed)     | 200  | S    | —                            |
-| Scholastic Lore (Tactica Imperialis) | 200  | S    | —                            |
-| Deadeye Shot                         | 200  | T    | BS 30                        |
-| Light Sleeper                        | 200  | T    | Per 30                       |
-| Peer (Adepta Sororitas)              | 200  | T    | Fel 30                       |
-| Sound Constitution                   | 200  | T    | —                            |
-| Search +20                           | 300  | S    | Search +10                   |
-| Faith Talent†                        | 300  | T    | Varies                       |
-| Heavy Weapon Training (Melta)        | 300  | T    | —                            |
-| Litany of Hate                       | 300  | T    | Hatred                       |
-| Tests of Faith                       | 300  | T    | WP 30                        |
-|                                      |      |      |                              |
+| Name                                   | Cost | Type | Prerequisites                |
+| -------------------------------------- | ---- | ---- | ---------------------------- |
+| Heightened Senses (Hearing)            | 100  | T    | —                            |
+| Heightened Senses (Sight)              | 100  | T    | —                            |
+| Insanely Faithful                      | 100  | T    | —                            |
+| Ciphers (Sororitas War Cant) +10       | 200  | S    | Ciphers (Sororitas War Cant) |
+| Command +10                            | 200  | S    | Command                      |
+| Drive (Ground) +10                     | 200  | S    | Drive (Ground)               |
+| Scholastic Lore (Imperial Creed)       | 200  | S    | —                            |
+| Scholastic Lore (Tactica Imperialis)   | 200  | S    | —                            |
+| Deadeye Shot                           | 200  | T    | BS 30                        |
+| Light Sleeper                          | 200  | T    | Per 30                       |
+| Peer (Adepta Sororitas)                | 200  | T    | Fel 30                       |
+| Sound Constitution                     | 200  | T    | —                            |
+| Search +20                             | 300  | S    | Search +10                   |
+| [[#THE POWER OF FAITH\|Faith Talent]]† | 300  | T    | Varies                       |
+| Heavy Weapon Training (Melta)†         | 300  | T    | —                            |
+| Litany of Hate                         | 300  | T    | Hatred                       |
+| Tests of Faith                         | 300  | T    | WP 30                        |
+† HEAVY WEAPON REQUISITIONS - While Battle Sisters may be capable of using Heavy Weapons they are not typically issued them when serving as part of an Acolyte Cell and not part of a Sisters of Battle Squad. It is up to the GM's discretion when a Sister of Battle has access to these weapons.
 # Rank 7 Advances
 
 | Name                                     | Cost | Type | Prerequisites                        |
@@ -193,7 +193,7 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 
 A Sororitas sister's faith is a series of Talents that allow her to use her Fate Points in unique ways. Full details on the power of Faith and how characters can use it in **DARK HERESY** can be found in **Chapter 4: Fire and Faith**.
 
-## **TALENT: LITANY OF BATTLE**
+## TALENT: LITANY OF BATTLE
 
 The Battle Sister knows hundreds of litanies and always recites exactly the most appropriate verse in battle, bolstering her allies with the wisdom of saints. The Sister of Battle may spend a fate point to allow an ally who can hear her to re-roll a failed Weapon Skill or Ballistic skill test. Characters may still only re-roll a test once.
 
