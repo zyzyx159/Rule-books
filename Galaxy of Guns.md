@@ -1914,12 +1914,12 @@ Basic hand weapons are a common sight throughout the Imperium and beyond, and in
 
 | Name                                                     | Class              | Dam         | Pen | Special                      | Wt     | Cost | World      | Availability |     |
 | -------------------------------------------------------- | ------------------ | ----------- | --- | ---------------------------- | ------ | ---- | ---------- | ------------ | --- |
-| [[#Armored Gauntlet]]                                    | Melee              | 1d5 I       | 0   | Primitive                    | 0.5kg  | 35   | -          | Common       |     |
-| [[#Axe]]                                                 | Melee              | 1d10+1 R    | 0   | Primitive, Unbalanced        | 4kg    | 10   | -          | Scarce       |     |
-| [[#Bastard Sword]] †                                     | Melee              | 1d10+1 R    | 1   | Primitive                    | 5kg    | 40   | Feudal     | Scarce       |     |
+| [[#Armored Gauntlet]]                                    | Melee              | 1d5 I       | 0   | [[#Primitive]]               | 0.5kg  | 35   | -          | Common       |     |
+| [[#Axe]]                                                 | Melee              | 1d10+1 R    | 0   | [[#Primitive]], Unbalanced   | 4kg    | 10   | -          | Scarce       |     |
+| [[#Bastard Sword]] †                                     | Melee              | 1d10+1 R    | 1   | [[#Primitive]]               | 5kg    | 40   | Feudal     | Scarce       |     |
 | [[#Boarding Pike]] †                                     | Melee              | 1d10+3 X    | 2   | Special                      | 4kg    | 30   | Void       | Common       |     |
-| [[#Brass Knuckles]]                                      | Melee              | 1d5-1 I     | 0   | Primitive                    | 0.5kg  | 5    | -          | Plentiful    |     |
-| [[#Buckler]]                                             | Melee              | 1d5-2 I     | 0   | Balanced, Primitive          | 1kg    | 30   | Feudal     | Common       |     |
+| [[#Brass Knuckles]]                                      | Melee              | 1d5-1 I     | 0   | [[#Primitive]]               | 0.5kg  | 5    | -          | Plentiful    |     |
+| [[#Buckler]]                                             | Melee              | 1d5-2 I     | 0   | Balanced, [[#Primitive]]     | 1kg    | 30   | Feudal     | Common       |     |
 | [[#Club]]                                                | Melee              | 1d10 I      | 0   | Primitive                    | 2kg    | 5    | -          | Abundant     |     |
 | [[#Falchion]]                                            | Melee              | 2d5+1 R     | 0   | Primitive, Unbalanced        | 2.5kg  | 20   | -          | Average      |     |
 | [[#Flail]]                                               | Melee              | 1d10+2 I    | 0   | Flexible, Primitive          | 4kg    | 20   | Feudal     | Scarce       |     |
@@ -1956,10 +1956,10 @@ Basic hand weapons are a common sight throughout the Imperium and beyond, and in
 | [[#Sword]]                                               | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2.5kg  | 15   | -          | Common       |     |
 | - [[#Fervious Long-Sabre\|Long-Sabre]] †                 | Melee              | 1d10+2 R    | 2   | Balanced, Primitive          | 3kg    | 100  | Fervious   | Very Rare    |     |
 | - [[#Quicksilver Sword]]                                 | Melee              | 1d10+2 R    | 0   | Balanced, Primitive          | 2kg    | 500  | Balecaster | Rare         |     |
-| - [[#Reliquary Blade                                     | Melee              | 1d10+2 R    | 3   | Balanced, Sanctified         | 3kg    | 3000 | -          | Very Rare    |     |
-| - Render                                                 | Melee              | 1d5+1 R     | 0   | Primitive, Tearing           | 1.2kg  | 50   | Landunder  | Rare         |     |
-| - Sabre                                                  | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2kg    | 15   | -          | Common       |     |
-| - Short Sword                                            | Melee              | 1d10-1 R    | 0   | Primitive                    | 1.5kg  | 10   | -          | Common       |     |
+| - [[#Reliquary Blade]]                                   | Melee              | 1d10+2 R    | 3   | Balanced, Sanctified         | 3kg    | 3000 | -          | Very Rare    |     |
+| - [[#Landrian Render\|Render]]                           | Melee              | 1d5+1 R     | 0   | Primitive, Tearing           | 1.2kg  | 50   | Landunder  | Rare         |     |
+| - [[#Sabre]]                                             | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2kg    | 15   | -          | Common       |     |
+| - [[#Short Sword                                         | Melee              | 1d10-1 R    | 0   | Primitive                    | 1.5kg  | 10   | -          | Common       |     |
 † _Requires two hands to be used effectively_
 †† _Add twice the wielder's Strength Bonus to Damage_
 #### Armored Gauntlet
