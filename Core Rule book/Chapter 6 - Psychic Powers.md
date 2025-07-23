@@ -309,15 +309,13 @@ You summon a specially prepared item to instantly appear in your hand. To prepar
 
 # **Chameleon**
 
-|             | Threshold: |             |  | 7                                |
-|-------------|------------|-------------|--|----------------------------------|
-| Focus Time: |            | Half Action |  |                                  |
-|             | Sustained: |             |  | Yes                              |
-| Range:      |            |             |  | You                              |
-|             |            |             |  | You cause reality to blur around |
-|             |            |             |  |                                  |
+| Threshold:  | 7           |     |     |     |
+| ----------- | ----------- | --- | --- | --- |
+| Focus Time: | Half Action |     |     |     |
+| Sustained:  | Yes         |     |     | Yes |
+| Range:      | You         |     |     | You |
 
-you, distorting your image and allowing you to blend in with your surroundings. You gain a +30 bonus to Concealment Tests. In addition, all opponents using ranged weapons to attack you suffer a –20 penalty to their Ballistic Skill Tests.
+You cause reality to blur around you, distorting your image and allowing you to blend in with your surroundings. You gain a +30 bonus to Concealment Tests. In addition, all opponents using ranged weapons to attack you suffer a –20 penalty to their Ballistic Skill Tests.
 
 # **Déjà vu**
 
@@ -355,11 +353,10 @@ You can nullify the pain of any creature, including yourself, within Range. The 
 # **Fearful Aura**
 
 | Threshold:  | 7           |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Full Action |
 | Sustained:  | Yes         |
 | Range:      | You         |
-|             |             |
 
 You twist reality in such a way as to make you appear more sinister and dangerous. You become the source of dread for anyone who looks upon you. Whilst this power is active, you have a Fear Rating of 2. See **Chapter VIII: The Game Master, [page](#page-232-0) [232](#page-232-0)** for details on Fear Ratings.
 
@@ -379,28 +376,20 @@ You create a bright flash of light and a deafening bang. Anyone within Range mus
 
 # **Float**
 
-| Threshold:                                 | 8           |
-|--------------------------------------------|-------------|
-| Focus Time:                                | Half Action |
-| Sustained:                                 | Yes         |
-| Range:                                     | You         |
-| You focus your concentration and slowly    |             |
-| begin to lift off the ground. You can only |             |
-| move up and down while under the effects   |             |
-| of this power, and you cannot rise higher  |             |
-| than 5 metres. You can use this power to   |             |
-| stop yourself from falling, but you must   |             |
-| succeed on a Difficult (–10) Willpower     |             |
-| Test in addition to beating the PT.        |             |
-|                                            |             |
+| Threshold:  | 8           |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | Yes         |
+| Range:      | You         |
 
+You focus your concentration and slowly begin to lift off the ground. You can only move up and down while under the effects of this power, and you cannot rise higher than 5 metres. You can use this power to stop yourself from falling, but you must succeed on a Difficult (–10) Willpower Test in addition to beating the PT.
 # **Forget Me**
 
-| Threshold:  | 6           |  |
-|-------------|-------------|--|
-| Focus Time: | Half Action |  |
-| Sustained:  | No          |  |
-| Range:      | 10m         |  |
+| Threshold:  | 6           |
+| ----------- | ----------- |
+| Focus Time: | Half Action |
+| Sustained:  | No          |
+| Range:      | 10m         |
 
 You become instantly forgettable to a single creature within range. They can't seem to recall having met you before this very instant and you effectively suppress all memories of your previous encounters. The target is entitled to an Ordinary (+10) Willpower Test to resist this power. Their memory returns after 1d10 minutes.
 
@@ -409,11 +398,10 @@ You become instantly forgettable to a single creature within range. They can't s
 # **Healer**
 
 | Threshold:  | 7           |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Full Action |
 | Sustained:  | No          |
 | Range:      | 10m         |
-|             |             |
 
 You channel your power into a single target to knit flesh and mend bones. You may only use this power on a willing target, including yourself. The target of this power removes 1d5 points of Damage (removing Critical Damage first).
 
@@ -422,11 +410,10 @@ Repeated uses of this power can be dangerous, however, not to mention painful, a
 # **Inflict Pain**
 
 | Threshold:  | 8           |
-|-------------|-------------|
+| ----------- | ----------- |
 | Focus Time: | Half Action |
 | Sustained:  | Yes         |
 | Range:      | 100m        |
-|             |             |
 
 You cause a person to be wracked with agony, filling their minds with unspeakable pain. The target is entitled to a Willpower Test to resist the effects of this power. On a failed Test, the target suffers a –10 to all their Tests as they struggle to control their pain.
 
@@ -504,6 +491,7 @@ Reaching out with your mind, you get a vague inkling of other life forms within 
 **Overbleed:** For every 5 points by which you exceed the Threshold, you extend the Range by an additional 10 metres.
 
 # **Spasm**
+|Threshold
 
 ### **Threshold:** 7 **Focus Time:** Half Action **Sustained:** No **Range:** 50m
 
