@@ -2225,13 +2225,13 @@ When deactivated, a power weapon counts as a Primitive weapon of the same type w
 
 | Name                  | Class              | Dam        | Pen | Special                                  | Wt     | Cost   | World            | Availability   |
 | --------------------- | ------------------ | ---------- | --- | ---------------------------------------- | ------ | ------ | ---------------- | -------------- |
-| Null Rod              | Melee              | 1d10+4 E   | 6   | Power Field, Special                     | 3kg    | 9,000  | -                | Extremely Rare |
-| Omnissian Rod         | Melee              | 1d10+10 E  | 7   | Balanced, Flexible, PowerField, Special  | 9kg    |        | Tech-Priest Only | Extremely Rare |
-| Power Axe             | Melee              | 1d10+7 E   | 8   | Power Field, Unbalanced                  | 6kg    | 2,700  |                  | -              |
-| Loi-Pattern †         | Melee              | 1d10+8 E   | 10  | Power Field, Unbalanced                  | 7kg    | 3,200  |                  | -              |
-| Omnissian Axe         | Melee              | 2d10+4 E   | 8   | Power Field, Unbalanced                  | 8kg    |        | Tech-Priest Only | Extremely Rare |
+| [[#Null Rod]]         | Melee              | 1d10+4 E   | 6   | Power Field, Special                     | 3kg    | 9,000  | -                | Extremely Rare |
+| [[#Omnissian Rod]]    | Melee              | 1d10+10 E  | 7   | Balanced, Flexible, PowerField, Special  | 9kg    |        | Tech-Priest Only | Extremely Rare |
+| [[#Power Axe]]        | Melee              | 1d10+7 E   | 8   | Power Field, Unbalanced                  | 6kg    | 2,700  |                  | -              |
+| - Loi-Pattern †       | Melee              | 1d10+8 E   | 10  | Power Field, Unbalanced                  | 7kg    | 3,200  |                  | -              |
+| - Omnissian Axe       | Melee              | 2d10+4 E   | 8   | Power Field, Unbalanced                  | 8kg    |        | Tech-Priest Only | Extremely Rare |
 | Power Blade           | Melee              | 1d10+3 E   | 6   | Power Field                              | 1.5kg  | 1,750  | -                | Very Rare      |
-| Serpentine            | Melee              | 1d10+2 E   | 6   | Fast, Power Field                        | 1.5kg  | 2,000  | -                | Extremely Rare |
+| - Serpentine          | Melee              | 1d10+2 E   | 6   | Fast, Power Field                        | 1.5kg  | 2,000  | -                | Extremely Rare |
 | Power Discus          | Thrown (SBx4m)     | 1d10+4 E   | 5   | Power Field, Special                     | 0.2kg  | 10,000 | -                | Extremely Rare |
 | Power Fist (gauntlet) | Melee              | 2d10 E††   | 9   | Power Field, Unwieldy                    | 12kg   | 3,200  | -                | Very Rare      |
 | Power Fist (glove)    | Melee              | 2d10 E††   | 7   | Power Field, Unwieldy                    | 7kg††† | 3,000  | -                | Very Rare      |
@@ -2240,7 +2240,7 @@ When deactivated, a power weapon counts as a Primitive weapon of the same type w
 | Power Maul (low)      | Melee              | 1d10+1 I   | 2   | Shocking                                 |        |        |                  |                |
 | Power Stake           | Melee              | 1d10+7 E   | 5   | Power Field, Sanctified,Unbalanced       | 1kg    | 20,000 | -                | Extremely Rare |
 | Power Sword           | Melee              | 1d10+6 E   | 6   | Balanced, Power Field                    | 3.5kg  | 2,500  | -                | Very Rare      |
-| Power Sabre           | Melee              | 1d10+5 E   | 5   | Balanced, Power Field                    | 3kg    | 2,700  | -                | Very Rare      |
+| - Power Sabre         | Melee              | 1d10+5 E   | 5   | Balanced, Power Field                    | 3kg    | 2,700  | -                | Very Rare      |
 | Thunder Hammer †      | Melee              | 2d10+2 E†† | 10  | Power Field, Recharge,Shocking, Unwieldy | 15kg   | 4,000  | -                | Very Rare      |
 | Witch Lance           | Melee/Thrown (10m) | 1d10+5 E   | 6   | Power Field, Special                     | 5kg    | 2,800  | -                | Very Rare      |
 † _Requires two hands to be used effectively_
@@ -2262,10 +2262,10 @@ An Omnissian rod gains the listed profile when connected to the wielder's potent
 
 As with the simple axes wielded by commoners and feudal warriors, a power axe makes use of a heavy blade atop a stout haft that dramatically increases its chopping power. When combined with a power field, even a heavily-armoured foe can be split in half like a piece of kindling. Power axes are somewhat clumsier than more common power swords, but those that wield them believe the extra lethality more than makes up for a slower swing.
 
-**Loi-Pattern:** 
+##### Loi-Pattern:
 This particular mark of power axe is a product of the Loi Metalworks Armoury on the world of Lo and differentiates itself from others of its type by a much longer haft and harsh, cleaver-like blade that is significantly longer as well. Sometimes informally referred to as a "power glaive", the extended dimensions of the Loi-pattern allow it to be swung with a wider arc and correspondingly greater force. Several Inquisitors of the Calixian Conclave favour this pattern, whether for their personal use or that of their senior acolytes and agents; these prominently feature Inquisitorial iconography on the business end, making sure that those laid low for their heresies will know their doom at the final moments.
 
-**Omnissian Axe:** 
+##### Omnissian Axe: 
 No "mere" power weapon, this is a holy icon of the Cult Mechanicus that is granted to Magi and Enginseers alike who have shown their faith to the Machine God in battle. An Omnissian axe is forged of the finest materials and to absolute tolerances using great secrets of tempering and field generation, and are among the finest power weapons manufactured anywhere in the Imperium. Many have saw-toothed blades or backs to invoke the ancient prehistory of engineering, and all are invariably decorated with sacred equations and symbols of the Mechanicus. Tech-Priests who wield these superb weapons often use them as exaggerated (and wholly unnecessary) walking sticks and badges of office, and the bearer is most often regarded as a figure blessed by the Machine God as a furious incarnation of its repositories of knowledge and power in war.
 
 The wielder of an Omnissian axe receives a +10 bonus to Interaction Tests involving followers of the Cult Mechanicus, and the weapon's machine spirit is so advanced that it acts as a multi-tool when wielded by an adherent. An Omnissian axe may never be bought or deliberately obtained – it is gifted only to Tech-Priests by their superiors, and to wield one without that blessing is a suicidal act.
