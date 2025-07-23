@@ -968,10 +968,25 @@ When this power is manifested, the diviner may try to read the aura of any perso
 
 3 **Pattern.** You gain all the impressions of the previous result, and gain a full appreciation of the target's aura. You may determine the exact Corruption Points of the target. You may also detect if the target has any Minor Psychic Powers (though not what they are). Finally, you may tell if the projected aura is genuine, or has been produced by some unnatural means (Psychic Power, Daemonic ability, technological means etc). Note that you cannot divine what the target's genuine aura should be; only that it is artificial.
 
+# **Pyromancy**
+
 Deemed by the majority of Imperial savants (those who are at liberty to discuss such matters, that is) to be both the most common and the most limited of Psychic Disciplines. Pyromancy is the art of creating and controlling fire. Students of this discipline are known as pyromancers or pyrokinetics. Less charitable souls, and some of those who've been on the receiving end of their abilities, frequently refer to them as "pyromaniacs". Few indeed, however, question the effectiveness of a master pyrokinetic on the battlefield.
 
 **Note:** Any Pyromancy power that inflicts Damage may also set the target on fire; see **[page 210](#page-210-0)** for details of things catching fire.
 
+| Table 6–7: Pyromancy Powers |           |             |         |
+| --------------------------- | --------- | ----------- | ------- |
+| Name                        | Threshold | FocusTime   | Sustain |
+| Blinding Flash              | 11        | Half Action | No      |
+| Burning Fist                | 10        | Half Action | Yes     |
+| Call Flame                  | 8         | Half Action | Yes     |
+| Douse Flames                | 16        | Half Action | Yes     |
+| Fire Bolt                   | 11        | Half Action | No      |
+| Fire Storm                  | 16        | Half Action | No      |
+| Holocaust                   | 23        | Full Action | Yes     |
+| Incinerate                  | 19        | Full Action | Yes     |
+| Sculpt Flame                | 13        | Half Action | Yes     |
+| Wall of Fire                | 17        | Full Action | Yes     |
 # **Blinding Flash**
 
 **Threshold:** 11 **Focus Time:** Half Action **Sustained:** No **Range:** 12m
@@ -988,20 +1003,6 @@ You focus blazing mental energy into a single point within your mind before rele
 | Sustained: | Yes         |
 | Range:     | You         |
 With intense concentration, you wreathe your hands in waves of shimmering flame. Your unarmed attacks deal 1d10+SB Energy Damage. In addition, your unarmed strikes do not count as having the Primitive special quality.
-
-| Table 6–7: Pyromancy Powers |           |               |         |  |
-|-----------------------------|-----------|---------------|---------|--|
-| Name                        | Threshold | FocusTime | Sustain |  |
-| Blinding Flash 11           |           | Half Action   | No      |  |
-| Burning Fist                | 10        | Half Action   | Yes     |  |
-| Call Flame                  | 8         | Half Action   | Yes     |  |
-| Douse Flames                | 16        | Half Action   | Yes     |  |
-| Fire Bolt                   | 11        | Half Action   | No      |  |
-| Fire Storm                  | 16        | Half Action   | No      |  |
-| Holocaust                   | 23        | Full Action   | Yes     |  |
-| Incinerate                  | 19        | Full Action   | Yes     |  |
-| Sculpt Flame                | 13        | Half Action   | Yes     |  |
-| Wall of Fire                | 17        | Full Action   | Yes     |  |
 
 # **Call Flame**
 
@@ -1027,7 +1028,6 @@ One of the first powers commonly learned in this discipline is to summon fire wi
 | Focus Time: | Half Action |
 | Sustained:  | No          |
 | Range:      | 100m        |
-
 
 Fire Bolt allows you to create bolts of flame with your mind and hurl them at your foes. The appearance of these flames is up to you—for example, searing white light or green-black spheres of obscenitymouthing faces. You can direct the bolt at any target you can see within range. Make a Challenging (+0) Willpower Test to strike the target. On a hit, the bolt deals 1d10+5 Energy Damage.
 
@@ -1107,22 +1107,22 @@ The art of the Telekinetic Discipline is to translate mental energy into physica
 | Table 6–8: Telekinetic Powers |           |             |         |
 | ----------------------------- | --------- | ----------- | ------- |
 | Name                          | Threshold | FocusTime   | Sustain |
-| CatchProjectiles              | 16        | Reaction    | No      |
+| Catch Projectiles             | 16        | Reaction    | No      |
 | Fling                         | 14        | Half Action | No      |
 | Force Barrage                 | 21        | Full Action | No      |
 | Force Bolt                    | 13        | Half Action | No      |
-| PrecisionTelekinesis          | 23        | Half Action | Yes     |
+| Precision Telekinesis         | 23        | Half Action | Yes     |
 | Psychic Blade                 | 19        | Half Action | Yes     |
 | Psychic Crush                 | 17        | Half Action | No      |
 | Push                          | 13        | Half Action | No      |
 | Telekinesis                   | 11        | Half Action | Yes     |
-| TelekineticShield             | 17        | Half Action | Yes     |
+| Telekinetic Shield            | 17        | Half Action | Yes     |
 # **Catch Projectiles**
-| Threshold:  | 16                 |
-| ----------- | ------------------ |
-| Focus Time: | Reaction           |
-| Sustained:  | No                 |
-| Range:      | 1m×Willpower Bonus |
+| Threshold:  | 16                   |
+| ----------- | -------------------- |
+| Focus Time: | Reaction             |
+| Sustained:  | No                   |
+| Range:      | 1 m× Willpower Bonus |
 
 You can use your telekinetic abilities to catch incoming projectiles. This power only works against solid projectiles and so energy attacks get through normally. Until the end of your next Turn, you automatically discount a number of hits from incoming missiles equal to your Willpower Bonus, causing them to immediately stop and hang in the air. When this power ends, they fall harmlessly to the ground.
 
