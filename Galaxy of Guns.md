@@ -1912,54 +1912,54 @@ Basic hand weapons are a common sight throughout the Imperium and beyond, and in
 
 ### Primitive Weapons List
 
-| Name                                                     | Class              | Dam         | Pen | Special                      | Wt     | Cost | World      | Availability |     |
-| -------------------------------------------------------- | ------------------ | ----------- | --- | ---------------------------- | ------ | ---- | ---------- | ------------ | --- |
-| [[#Armored Gauntlet]]                                    | Melee              | 1d5 I       | 0   | [[#Primitive]]               | 0.5kg  | 35   | -          | Common       |     |
-| [[#Axe]]                                                 | Melee              | 1d10+1 R    | 0   | [[#Primitive]], Unbalanced   | 4kg    | 10   | -          | Scarce       |     |
-| [[#Bastard Sword]] †                                     | Melee              | 1d10+1 R    | 1   | [[#Primitive]]               | 5kg    | 40   | Feudal     | Scarce       |     |
-| [[#Boarding Pike]] †                                     | Melee              | 1d10+3 X    | 2   | Special                      | 4kg    | 30   | Void       | Common       |     |
-| [[#Brass Knuckles]]                                      | Melee              | 1d5-1 I     | 0   | [[#Primitive]]               | 0.5kg  | 5    | -          | Plentiful    |     |
-| [[#Buckler]]                                             | Melee              | 1d5-2 I     | 0   | Balanced, [[#Primitive]]     | 1kg    | 30   | Feudal     | Common       |     |
-| [[#Club]]                                                | Melee              | 1d10 I      | 0   | Primitive                    | 2kg    | 5    | -          | Abundant     |     |
-| [[#Falchion]]                                            | Melee              | 2d5+1 R     | 0   | Primitive, Unbalanced        | 2.5kg  | 20   | -          | Average      |     |
-| [[#Flail]]                                               | Melee              | 1d10+2 I    | 0   | Flexible, Primitive          | 4kg    | 20   | Feudal     | Scarce       |     |
-| [[#Great Weapons]] †                                     | Melee              | 2d10 R or I | 2   | Primitive, Unwieldy          | 7kg    | 70   | Feudal     | Rare         |     |
-| [[#Hammer]]                                              | Melee              | 1d10+1 I    | 0   | Primitive, Unbalanced        | 4kg    | 10   | -          | Common       |     |
-| - [[#Great Hammer]] †                                    | Melee              | 1d10+4 I    | 2   | Unwieldy                     | 8kg    | 70   | Imperial   | Average      |     |
-| - [[#Percussion Mallet]]                                 | Melee              | 1d10+3 I††  | 5   | Unwieldy                     | 5kg    | 3000 | Forge      | Average      |     |
-| - [[#Warhammer]]                                         | Melee              | 1d10+2 I    | 1   | Primitive                    | 2kg    | 35   | -          | Common       |     |
-| [[#Improvised Weapon]]                                   | Melee              | 1d10-2 I    | 0   | Primitive, Unbalanced        | Varies | -    | -          | Abundant     |     |
-| [[#Knife]]                                               | Melee/Thrown (3m)  | 1d5 R       | 0   | Primitive                    | 0.5kg  | 5    | -          | Abundant     |     |
-| - [[#Bolo Knife]]                                        | Melee              | 2d5 R       | 2   | -                            | 2kg    | 50   | Malfi      | Common       |     |
-| - [[#Combat Knife]]                                      | Melee              | 1d5+3 R     | 0   | Primitive                    | 3kg    | 40   | -          | Average      |     |
-| - [[#Kraken Tooth Dagger]]                               | Melee/Thrown (5m)  | 1d5+1 R     | 1   | -                            | 0.4kg  | 200  | Void       | Rare         |     |
-| - [[#Parrying Dagger]]                                   | Melee              | 1d5 R       | 0   | Defensive, Primitive         | 0.5kg  | 50   | Landunder  | Scarce       |     |
-| - [[#Landrian "Sigilite" Blade\|Sigilite Blade]]         | Melee              | 1d5 R       | 3   | Defensive                    | 0.8kg  | 85   | Landunder  | Rare         |     |
-| - [[#Trophy Knife]]                                      | Melee              | 1d5+1 R     | 1   | Balanced, Primitive          | 0.5kg  | 700  | -          | Very Rare    |     |
-| [[#Man-Catcher]] †                                       | Melee              | 1d10 I      | 0   | Primitive, Snare, Unwieldy   | 8kg    | 60   | -          | Scarce       |     |
-| [[#Balecarne Moon Blade\|Moon Blade]]                    | Melee/Thrown (5m)  | 1d10 R      | 0   | Fast, Primitive, Unwieldy    | 3kg    | 25   | Munsk      | Rare         |     |
-| [[#Punch Dagger]]                                        | Melee              | 1d5+1 R     | 2   | Primitive                    | 0.5kg  | 10   | -          | Average      |     |
-| [[#Magistratum "Punisher" Baton\|Punisher Baton]]        | Melee              | 1d10 I      | 0   | -                            | 3kg    | 50   | -          | Rare         |     |
-| [[#Scythe]] †                                            | Melee              | 1d10+2 R    | 0   | Primitive, Unwieldy          | 5kg    | 12   | Feudal     | Average      |     |
-| [[#Shield]]                                              | Melee              | 1d5 I       | 0   | Defensive, Primitive         | 3kg    | 25   | Feudal     | Average      |     |
-| - [[#Guard Shield]]                                      | Melee              | 1d5 I       | 0   | Defensive, Primitive         | 1.5kg  | 100  | -          | Scarce       |     |
-| - [[#Sepherin Mirror Shield\|Mirror Shield]]             | Melee              | 1d5-1 I     | 0   | Defensive, Primitive         | 3.5kg  | 60   | Sepheris   | Rare         |     |
-| - [[#Naval Shield]]                                      | Melee              | 1d5+2 I     | 0   | Defensive, Primitive         | 7kg    | 75   | Void       | Average      |     |
-| - [[#Arbitrator Suppression Shield\|Suppression Shield]] | Melee              | 1d10 I      | 0   | Defensive, Recharge,Shocking | 4kg    | 250  | -          | Rare         |     |
-| - [[#Tower Shield]]                                      | Melee              | 1d5+2 I     | 0   | Defensive, Primitive         | 10kg   | 60   | Feudal     | Rare         |     |
-| [[#Spear]] †                                             | Melee/Thrown (10m) | 1d10 R      | 0   | Primitive, Unwieldy          | 3kg    | 15   | -          | Common       |     |
-| [[#Spetum]] †                                            | Melee              | 1d10 R      | 2   | Primitive, Unbalanced        | 6kg    | 45   | Balecaster | Rare         |     |
-| [[#Steam Drill]] †                                       | Melee              | 2d10 I      | 3   | Primitive, Unwieldy          | 18kg   | 100  | -          | Very Rare    |     |
-| [[#Stiletto]]                                            | Melee              | 1d5-1 R     | 2   | Fast, Primitive, Unbalanced  | 0.2kg  | 25   | -          | Average      |     |
-| - [[#Landrian "Devil's Kiss" Stiletto\|Devil's Kiss]]    | Melee              | 1d5 R       | 3   | Fast, Primitive              | 0.3kg  | 70   | Landunder  | Rare         |     |
-| [[#Staff]] †                                             | Melee              | 1d10 I      | 0   | Balanced, Primitive          | 3kg    | 10   | -          | Plentiful    |     |
-| [[#Sword]]                                               | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2.5kg  | 15   | -          | Common       |     |
-| - [[#Fervious Long-Sabre\|Long-Sabre]] †                 | Melee              | 1d10+2 R    | 2   | Balanced, Primitive          | 3kg    | 100  | Fervious   | Very Rare    |     |
-| - [[#Quicksilver Sword]]                                 | Melee              | 1d10+2 R    | 0   | Balanced, Primitive          | 2kg    | 500  | Balecaster | Rare         |     |
-| - [[#Reliquary Blade]]                                   | Melee              | 1d10+2 R    | 3   | Balanced, Sanctified         | 3kg    | 3000 | -          | Very Rare    |     |
-| - [[#Landrian Render\|Render]]                           | Melee              | 1d5+1 R     | 0   | Primitive, Tearing           | 1.2kg  | 50   | Landunder  | Rare         |     |
-| - [[#Sabre]]                                             | Melee              | 1d10 R      | 0   | Balanced, Primitive          | 2kg    | 15   | -          | Common       |     |
-| - [[#Short Sword                                         | Melee              | 1d10-1 R    | 0   | Primitive                    | 1.5kg  | 10   | -          | Common       |     |
+| Name                                                     | Class              | Dam         | Pen | Special                                      | Wt     | Cost | World      | Availability |     |
+| -------------------------------------------------------- | ------------------ | ----------- | --- | -------------------------------------------- | ------ | ---- | ---------- | ------------ | --- |
+| [[#Armored Gauntlet]]                                    | Melee              | 1d5 I       | 0   | [[#Primitive]]                               | 0.5kg  | 35   | -          | Common       |     |
+| [[#Axe]]                                                 | Melee              | 1d10+1 R    | 0   | [[#Primitive]], Unbalanced                   | 4kg    | 10   | -          | Scarce       |     |
+| [[#Bastard Sword]] †                                     | Melee              | 1d10+1 R    | 1   | [[#Primitive]]                               | 5kg    | 40   | Feudal     | Scarce       |     |
+| [[#Boarding Pike]] †                                     | Melee              | 1d10+3 X    | 2   | Special                                      | 4kg    | 30   | Void       | Common       |     |
+| [[#Brass Knuckles]]                                      | Melee              | 1d5-1 I     | 0   | [[#Primitive]]                               | 0.5kg  | 5    | -          | Plentiful    |     |
+| [[#Buckler]]                                             | Melee              | 1d5-2 I     | 0   | Balanced, [[#Primitive]]                     | 1kg    | 30   | Feudal     | Common       |     |
+| [[#Club]]                                                | Melee              | 1d10 I      | 0   | [[#Primitive]]                               | 2kg    | 5    | -          | Abundant     |     |
+| [[#Falchion]]                                            | Melee              | 2d5+1 R     | 0   | [[#Primitive]], Unbalanced                   | 2.5kg  | 20   | -          | Average      |     |
+| [[#Flail]]                                               | Melee              | 1d10+2 I    | 0   | Flexible, [[#Primitive]]                     | 4kg    | 20   | Feudal     | Scarce       |     |
+| [[#Great Weapons]] †                                     | Melee              | 2d10 R or I | 2   | [[#Primitive]], Unwieldy                     | 7kg    | 70   | Feudal     | Rare         |     |
+| [[#Hammer]]                                              | Melee              | 1d10+1 I    | 0   | [[#Primitive]], Unbalanced                   | 4kg    | 10   | -          | Common       |     |
+| - [[#Great Hammer]] †                                    | Melee              | 1d10+4 I    | 2   | Unwieldy                                     | 8kg    | 70   | Imperial   | Average      |     |
+| - [[#Percussion Mallet]]                                 | Melee              | 1d10+3 I††  | 5   | Unwieldy                                     | 5kg    | 3000 | Forge      | Average      |     |
+| - [[#Warhammer]]                                         | Melee              | 1d10+2 I    | 1   | [[#Primitive]]                               | 2kg    | 35   | -          | Common       |     |
+| [[#Improvised Weapon]]                                   | Melee              | 1d10-2 I    | 0   | [[#Primitive]], Unbalanced                   | Varies | -    | -          | Abundant     |     |
+| [[#Knife]]                                               | Melee/Thrown (3m)  | 1d5 R       | 0   | [[#Primitive]]                               | 0.5kg  | 5    | -          | Abundant     |     |
+| - [[#Bolo Knife]]                                        | Melee              | 2d5 R       | 2   | -                                            | 2kg    | 50   | Malfi      | Common       |     |
+| - [[#Combat Knife]]                                      | Melee              | 1d5+3 R     | 0   | [[#Primitive]]                               | 3kg    | 40   | -          | Average      |     |
+| - [[#Kraken Tooth Dagger]]                               | Melee/Thrown (5m)  | 1d5+1 R     | 1   | -                                            | 0.4kg  | 200  | Void       | Rare         |     |
+| - [[#Parrying Dagger]]                                   | Melee              | 1d5 R       | 0   | [[#Defensive]], [[#Primitive]]               | 0.5kg  | 50   | Landunder  | Scarce       |     |
+| - [[#Landrian "Sigilite" Blade\|Sigilite Blade]]         | Melee              | 1d5 R       | 3   | [[#Defensive]]                               | 0.8kg  | 85   | Landunder  | Rare         |     |
+| - [[#Trophy Knife]]                                      | Melee              | 1d5+1 R     | 1   | [[#Balanced]], [[#Primitive]]                | 0.5kg  | 700  | -          | Very Rare    |     |
+| [[#Man-Catcher]] †                                       | Melee              | 1d10 I      | 0   | [[#Primitive]], [[#Snare]], [[#Unwieldy]]    | 8kg    | 60   | -          | Scarce       |     |
+| [[#Balecarne Moon Blade\|Moon Blade]]                    | Melee/Thrown (5m)  | 1d10 R      | 0   | [[#Fast]], [[#Primitive]], [[#Unwieldy]]     | 3kg    | 25   | Munsk      | Rare         |     |
+| [[#Punch Dagger]]                                        | Melee              | 1d5+1 R     | 2   | [[#Primitive]]                               | 0.5kg  | 10   | -          | Average      |     |
+| [[#Magistratum "Punisher" Baton\|Punisher Baton]]        | Melee              | 1d10 I      | 0   | -                                            | 3kg    | 50   | -          | Rare         |     |
+| [[#Scythe]] †                                            | Melee              | 1d10+2 R    | 0   | [[#Primitive]], [[#Unwieldy]]                | 5kg    | 12   | Feudal     | Average      |     |
+| [[#Shield]]                                              | Melee              | 1d5 I       | 0   | [[#Defensive]], [[#Primitive]]               | 3kg    | 25   | Feudal     | Average      |     |
+| - [[#Guard Shield]]                                      | Melee              | 1d5 I       | 0   | [[#Defensive]], [[#Primitive]]               | 1.5kg  | 100  | -          | Scarce       |     |
+| - [[#Sepherin Mirror Shield\|Mirror Shield]]             | Melee              | 1d5-1 I     | 0   | [[#Defensive]], [[#Primitive]]               | 3.5kg  | 60   | Sepheris   | Rare         |     |
+| - [[#Naval Shield]]                                      | Melee              | 1d5+2 I     | 0   | [[#Defensive]], [[#Primitive]]               | 7kg    | 75   | Void       | Average      |     |
+| - [[#Arbitrator Suppression Shield\|Suppression Shield]] | Melee              | 1d10 I      | 0   | [[#Defensive]], [[#Recharge]], [[#Shocking]] | 4kg    | 250  | -          | Rare         |     |
+| - [[#Tower Shield]]                                      | Melee              | 1d5+2 I     | 0   | [[#Defensive]], [[#Primitive]]               | 10kg   | 60   | Feudal     | Rare         |     |
+| [[#Spear]] †                                             | Melee/Thrown (10m) | 1d10 R      | 0   | [[#Primitive]], [[#Unwieldy]]                | 3kg    | 15   | -          | Common       |     |
+| [[#Spetum]] †                                            | Melee              | 1d10 R      | 2   | [[#Primitive]], [[#Unbalanced]]              | 6kg    | 45   | Balecaster | Rare         |     |
+| [[#Steam Drill]] †                                       | Melee              | 2d10 I      | 3   | [[#Primitive]], [[#Unwieldy]]                | 18kg   | 100  | -          | Very Rare    |     |
+| [[#Stiletto]]                                            | Melee              | 1d5-1 R     | 2   | [[#Fast]], [[#Primitive]], [[#Unbalanced]]   | 0.2kg  | 25   | -          | Average      |     |
+| - [[#Landrian "Devil's Kiss" Stiletto\|Devil's Kiss]]    | Melee              | 1d5 R       | 3   | [[#Fast]], [[#Primitive]]                    | 0.3kg  | 70   | Landunder  | Rare         |     |
+| [[#Staff]] †                                             | Melee              | 1d10 I      | 0   | [[#Balanced]], [[#Primitive]]                | 3kg    | 10   | -          | Plentiful    |     |
+| [[#Sword]]                                               | Melee              | 1d10 R      | 0   | [[#Balanced]], [[#Primitive]]                | 2.5kg  | 15   | -          | Common       |     |
+| - [[#Fervious Long-Sabre\|Long-Sabre]] †                 | Melee              | 1d10+2 R    | 2   | [[#Balanced]], [[#Primitive]]                | 3kg    | 100  | Fervious   | Very Rare    |     |
+| - [[#Quicksilver Sword]]                                 | Melee              | 1d10+2 R    | 0   | [[#Balanced]], [[#Primitive]]                | 2kg    | 500  | Balecaster | Rare         |     |
+| - [[#Reliquary Blade]]                                   | Melee              | 1d10+2 R    | 3   | [[#Balanced]], [[#Sanctified                 | 3kg    | 3000 | -          | Very Rare    |     |
+| - [[#Landrian Render\|Render]]                           | Melee              | 1d5+1 R     | 0   | [[#Primitive]], Tearing                      | 1.2kg  | 50   | Landunder  | Rare         |     |
+| - [[#Sabre]]                                             | Melee              | 1d10 R      | 0   | [[#Balanced]], [[#Primitive]]                | 2kg    | 15   | -          | Common       |     |
+| - [[#Short Sword                                         | Melee              | 1d10-1 R    | 0   | [[#Primitive]]                               | 1.5kg  | 10   | -          | Common       |     |
 † _Requires two hands to be used effectively_
 †† _Add twice the wielder's Strength Bonus to Damage_
 #### Armored Gauntlet
