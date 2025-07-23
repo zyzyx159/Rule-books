@@ -262,11 +262,10 @@ Aside from their ease of use, the abundance of ammunition in the form of standar
 
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
 
-### LAS PISTOLS list
+### Las Pistol list
 
-| Las Weapons                                        |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
-| -------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
 | Name                                               | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                                                             | Wt     | Cost  | World      | Availability |
+| -------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
 | [[#Dueling Las(Belasco)]]                          | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]                                                       | 1.5kg  | 250   | -          | Very Rare    |
 | [[#Duelling Las(K-A)]]                             | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]]                                         | 1.7kg  | 220   | -          | Very Rare    |
 | [[#Hellpistol]]                                    | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                                                                   | 4kg†   | 2,500 | -          | Rare         |
@@ -278,8 +277,8 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 | - [[#Steel Burner Heavy Laspistol]]                | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full  | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 2.5kg  | 100   | Fenksworld | Very Rare    |
 | [[#Las Gauntlets]]                                 | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | [[#Reliable]]                                                       | 3kg    | 350   | -          | Very Rare    |
 | [[#Series-S Venom Compact Pistol\|Series-S Venom]] | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                                                                   | 0.5kg  | 120   | -          | Scarce       |
-| †Not including power pack                          |        |       |       |          |     |      |       |                                                                     |        |       |            |              |
 
+†Not including power pack
 #### Dueling Las
 
 Based around the philosophy of a "one shot kill", Duelling Laspistols (or just Duelling Las for short) are commonly worn as signs of wealth and status by hive nobles and Rogue Traders. While ostentatious and certainly designed with image in mind, a Duelling Las is still nonetheless a very deadly weapon that can generate an extremely powerful las blast, and are accurate enough to hit a single Throne at distances most comparable pistols would only be able to hit a man-sized target.
@@ -332,11 +331,11 @@ This Belasco-made pistol is a highly unusual pattern and one benefitting the tre
 
 The Venom is powered via an internal non-removable power cell rather than Munitorum sanctioned power packs. It cannot be reloaded, but can be recharged via a standard port similarly to a las power pack. Because of its strange appearance, its user does not appear to be armed if searched while carrying it unless the searcher is familiar with the Venom's design.
 
-### BASIC & HEAVY LAS
+### Basic and 
 
-| Las Weapons                                   |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
-| --------------------------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
+
 | Name                                          | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
+| --------------------------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
 | [[#Merovech Assault Lasgun\|Assault Lasgun]]  | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.5kg | 250   | -          | Average      |
 | [[#Hellgun]]                                  | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                                                                   | 6kg†  | 2,700 | -          | Rare         |
 | [[#D'laku Crusade Hellgun\|Hellgun (D’laku)]] | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
@@ -476,9 +475,8 @@ To use the various classes of solid projectile weapons you must have the Pistol 
 
 ### Solid Projectile Weapons list
 
-| Solid Projectile Weapons                                   |        |           |       |          |     |       |        |                                             |       |       |       |                |
-| ---------------------------------------------------------- | ------ | --------- | ----- | -------- | --- | ----- | ------ | ------------------------------------------- | ----- | ----- | ----- | -------------- |
 | Name                                                       | Class  | R a n g e | RoF   | Dam      | Pen | Clip  | Rld    | Special                                     | Wt    | Cost  | World | Availability   |
+| ---------------------------------------------------------- | ------ | --------- | ----- | -------- | --- | ----- | ------ | ------------------------------------------- | ----- | ----- | ----- | -------------- |
 | [[#Autopistol]] (generic)                                  | Pistol | 30m       | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.5kg | 75    | -     | Common         |
 | - [[#Disposable Pistol]]                                   | Pistol | 30m       | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 2kg   | 15    | -     | Ubiquitous     |
 | - [[#Sulymann Encarmine Service Pistol\|Encarmine]]        | Pistol | 20m       | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                                           | 2kg   | 90    | -     | Average        |
@@ -2182,16 +2180,15 @@ Chain weapons are popular amongst many warriors in the 41st Millennium as most r
 
 ### Chain Weapon List
 
-| Name                                          | Class          | Dam       | Pen | Special                    | Wt    | Cost  | World | Availability |
-| --------------------------------------------- | -------------- | --------- | --- | -------------------------- | ----- | ----- | ----- | ------------ |
-| [[#Chainsword]]                               | Melee          | 1d10+2 R  | 2   | [[#Balanced]], Tearing     | 6kg   | 275   | -     | Scarce       |
-| - [[#Drusian "Crusader" Chainsword\|Drusian]] | Melee          | 1d10 R    | 2   | Balanced, Fast, Tearing    | 7kg   | 250   | -     | Average      |
-| - [[#Locke-Pattern Chainsword\|Locke]]        | Melee          | 1d10+5 R  | 2   | Special, Tearing           | 6kg   | 400   | -     | Scarce       |
-| [[#Chain Axe]]                                | Melee          | 1d10+4 R  | 2   | Tearing                    | 13kg  | 450   | -     | Rare         |
-| [[#Chain Knife]]                              | Melee          | 1d5+3 R   | 2   | Tearing                    | 2.5kg | 80    | Hive  | Scarce       |
-| [[#Crimson Crown]]                            | Thrown (SBx4m) | 1d10+2 R  | 2   | Special, Tearing           | 0.5kg | 2,000 | -     | Very Rare    |
-| [[#Eviscerator]] †                            | Melee          | 1d10+10 R | 5   | Special, Tearing, Unwieldy | 12kg  | 750   | -     | Rare         |
-
+| Name                                          | Class          | Dam       | Pen | Special                                | Wt    | Cost  | World | Availability |
+| --------------------------------------------- | -------------- | --------- | --- | -------------------------------------- | ----- | ----- | ----- | ------------ |
+| [[#Chainsword]]                               | Melee          | 1d10+2 R  | 2   | [[#Balanced]], [[#Tearing]]            | 6kg   | 275   | -     | Scarce       |
+| - [[#Drusian "Crusader" Chainsword\|Drusian]] | Melee          | 1d10 R    | 2   | [[#Balanced]], [[#Fast]], [[#Tearing]] | 7kg   | 250   | -     | Average      |
+| - [[#Locke-Pattern Chainsword\|Locke]]        | Melee          | 1d10+5 R  | 2   | Special, [[#Tearing]]                  | 6kg   | 400   | -     | Scarce       |
+| [[#Chain Axe]]                                | Melee          | 1d10+4 R  | 2   | [[#Tearing]]                           | 13kg  | 450   | -     | Rare         |
+| [[#Chain Knife]]                              | Melee          | 1d5+3 R   | 2   | [[#Tearing]]                           | 2.5kg | 80    | Hive  | Scarce       |
+| [[#Crimson Crown]]                            | Thrown (SBx4m) | 1d10+2 R  | 2   | Special, [[#Tearing]]                  | 0.5kg | 2,000 | -     | Very Rare    |
+| [[#Eviscerator]] †                            | Melee          | 1d10+10 R | 5   | Special, [[#Tearing]], [[#Unwieldy]]   | 12kg  | 750   | -     | Rare         |
 † Requires two hands to be used effectively
 #### Chainsword
 
@@ -2226,38 +2223,38 @@ Eviscerators are almost comically-oversized chainswords that are often just as t
 Any character that rolls an unmodified 96-00 on their Weapon Skill Test while wielding an Eviscerator risks losing control of the chain blade and must succeed on a Challenging (+0) Agility Test or else hit themselves with the weapon instead of their target. This attack deals full Damage, including Penetration and the user's Strength Bonus. Roll to determine hit location normally, but re-roll if the hit would indicate a blow to either arm.
 
 ## POWER WEAPONS
+### Power Weapons Information
 
 Sheathed in a power field of crackling arcane energies, a power weapon greatly amplifies the force of the wielder's swings and thrusts, disrupting the matter that makes up armour and its wearer all at once. Many of these weapons conceal their true nature with power packs subtly incorporated into the grip and energy projection veins down the blade, appearing as a totally normal if well-made weapon until activated amid crackles of lightning running down their length. Regardless of whether its generators are hidden within or obviously attached with conduit cables, power weapons are dramatic implements that can go from ordinary blades to cleaving and smashing engines of destruction in a matter of moments.
 
 Because of the great cost of manufacturing the power field generators themselves, power weapons are almost exclusively the province of the wealthy and well-connected, such as highranking Imperial Guard officers, Rogue Traders, Inquisitors, and others who are afforded such luxuries. However, power weapons are the unquestioned champions among those meant for use in close combat, and most who can obtain such devices are the types who like to use them as well.
 
 When deactivated, a power weapon counts as a Primitive weapon of the same type with the mono-edged upgrade and can be used without penalty by a character with the Melee Weapon Training (Primitive) talent. Otherwise, a character must have the Melee Weapon Training (Power) to use power weapons without penalty.
+### Power Weapons List
 
-| Power Weapons                                         |                    |            |     |                                          |        |        |                  |                |
-| ----------------------------------------------------- | ------------------ | ---------- | --- | ---------------------------------------- | ------ | ------ | ---------------- | -------------- |
-| Name                                                  | Class              | Dam        | Pen | Special                                  | Wt     | Cost   | World            | Availability   |
-| Null Rod                                              | Melee              | 1d10+4 E   | 6   | Power Field, Special                     | 3kg    | 9,000  | -                | Extremely Rare |
-| Omnissian Rod                                         | Melee              | 1d10+10 E  | 7   | Balanced, Flexible, PowerField, Special  | 9kg    |        | Tech-Priest Only | Extremely Rare |
-| Power Axe                                             | Melee              | 1d10+7 E   | 8   | Power Field, Unbalanced                  | 6kg    | 2,700  |                  | -              |
-| Loi-Pattern †                                         | Melee              | 1d10+8 E   | 10  | Power Field, Unbalanced                  | 7kg    | 3,200  |                  | -              |
-| Omnissian Axe                                         | Melee              | 2d10+4 E   | 8   | Power Field, Unbalanced                  | 8kg    |        | Tech-Priest Only | Extremely Rare |
-| Power Blade                                           | Melee              | 1d10+3 E   | 6   | Power Field                              | 1.5kg  | 1,750  | -                | Very Rare      |
-| Serpentine                                            | Melee              | 1d10+2 E   | 6   | Fast, Power Field                        | 1.5kg  | 2,000  | -                | Extremely Rare |
-| Power Discus                                          | Thrown (SBx4m)     | 1d10+4 E   | 5   | Power Field, Special                     | 0.2kg  | 10,000 | -                | Extremely Rare |
-| Power Fist (gauntlet)                                 | Melee              | 2d10 E††   | 9   | Power Field, Unwieldy                    | 12kg   | 3,200  | -                | Very Rare      |
-| Power Fist (glove)                                    | Melee              | 2d10 E††   | 7   | Power Field, Unwieldy                    | 7kg††† | 3,000  | -                | Very Rare      |
-| Power Longsword †                                     | Melee              | 1d10+7 E   | 7   | Balanced, Power Field                    | 4.5kg  | 3,500  | -                | Very Rare      |
-| Power Maul (high)                                     | Melee              | 1d10+5 E   | 5   | Power Field                              | 3.5kg  | 2,500  | -                | Very Rare      |
-| Power Maul (low)                                      | Melee              | 1d10+1 I   | 2   | Shocking                                 |        |        |                  |                |
-| Power Stake                                           | Melee              | 1d10+7 E   | 5   | Power Field, Sanctified,Unbalanced       | 1kg    | 20,000 | -                | Extremely Rare |
-| Power Sword                                           | Melee              | 1d10+6 E   | 6   | Balanced, Power Field                    | 3.5kg  | 2,500  | -                | Very Rare      |
-| Power Sabre                                           | Melee              | 1d10+5 E   | 5   | Balanced, Power Field                    | 3kg    | 2,700  | -                | Very Rare      |
-| Thunder Hammer †                                      | Melee              | 2d10+2 E†† | 10  | Power Field, Recharge,Shocking, Unwieldy | 15kg   | 4,000  | -                | Very Rare      |
-| Witch Lance                                           | Melee/Thrown (10m) | 1d10+5 E   | 6   | Power Field, Special                     | 5kg    | 2,800  | -                | Very Rare      |
-| † _Requires two hands to be used effectively_         |                    |            |     |                                          |        |        |                  |                |
-| †† _Add twice the wielder's Strength Bonus to Damage_ |                    |            |     |                                          |        |        |                  |                |
-| ††† _Not including external power source_             |                    |            |     |                                          |        |        |                  |                |
-
+| Name                  | Class              | Dam        | Pen | Special                                  | Wt     | Cost   | World            | Availability   |
+| --------------------- | ------------------ | ---------- | --- | ---------------------------------------- | ------ | ------ | ---------------- | -------------- |
+| Null Rod              | Melee              | 1d10+4 E   | 6   | Power Field, Special                     | 3kg    | 9,000  | -                | Extremely Rare |
+| Omnissian Rod         | Melee              | 1d10+10 E  | 7   | Balanced, Flexible, PowerField, Special  | 9kg    |        | Tech-Priest Only | Extremely Rare |
+| Power Axe             | Melee              | 1d10+7 E   | 8   | Power Field, Unbalanced                  | 6kg    | 2,700  |                  | -              |
+| Loi-Pattern †         | Melee              | 1d10+8 E   | 10  | Power Field, Unbalanced                  | 7kg    | 3,200  |                  | -              |
+| Omnissian Axe         | Melee              | 2d10+4 E   | 8   | Power Field, Unbalanced                  | 8kg    |        | Tech-Priest Only | Extremely Rare |
+| Power Blade           | Melee              | 1d10+3 E   | 6   | Power Field                              | 1.5kg  | 1,750  | -                | Very Rare      |
+| Serpentine            | Melee              | 1d10+2 E   | 6   | Fast, Power Field                        | 1.5kg  | 2,000  | -                | Extremely Rare |
+| Power Discus          | Thrown (SBx4m)     | 1d10+4 E   | 5   | Power Field, Special                     | 0.2kg  | 10,000 | -                | Extremely Rare |
+| Power Fist (gauntlet) | Melee              | 2d10 E††   | 9   | Power Field, Unwieldy                    | 12kg   | 3,200  | -                | Very Rare      |
+| Power Fist (glove)    | Melee              | 2d10 E††   | 7   | Power Field, Unwieldy                    | 7kg††† | 3,000  | -                | Very Rare      |
+| Power Longsword †     | Melee              | 1d10+7 E   | 7   | Balanced, Power Field                    | 4.5kg  | 3,500  | -                | Very Rare      |
+| Power Maul (high)     | Melee              | 1d10+5 E   | 5   | Power Field                              | 3.5kg  | 2,500  | -                | Very Rare      |
+| Power Maul (low)      | Melee              | 1d10+1 I   | 2   | Shocking                                 |        |        |                  |                |
+| Power Stake           | Melee              | 1d10+7 E   | 5   | Power Field, Sanctified,Unbalanced       | 1kg    | 20,000 | -                | Extremely Rare |
+| Power Sword           | Melee              | 1d10+6 E   | 6   | Balanced, Power Field                    | 3.5kg  | 2,500  | -                | Very Rare      |
+| Power Sabre           | Melee              | 1d10+5 E   | 5   | Balanced, Power Field                    | 3kg    | 2,700  | -                | Very Rare      |
+| Thunder Hammer †      | Melee              | 2d10+2 E†† | 10  | Power Field, Recharge,Shocking, Unwieldy | 15kg   | 4,000  | -                | Very Rare      |
+| Witch Lance           | Melee/Thrown (10m) | 1d10+5 E   | 6   | Power Field, Special                     | 5kg    | 2,800  | -                | Very Rare      |
+† _Requires two hands to be used effectively_
+†† _Add twice the wielder's Strength Bonus to Damage_
+††† _Not including external power source_
 #### Null Rod
 
 Equal parts weapon and tool, a null rod takes the form of an obsidian shaft about a metre long heavily inscribed with runic wards and prayers against the daemon and witch. The grip is formed from simple leather strips bearing inscriptions of protection, giving a null rod a very "low-tech" and mundane appearance, but this is deceiving in the extreme. The unique material is mined from an unknown world in the Koronus Expanse, its location kept secret by the Calixian Conclave explicitly for this enigmatic substance alone. When gripped strongly the rod reacts to the wielder's own life force, emitting a crackling energy field that pulses with warpdisrupting power, weakening a daemon's hold on reality while filling a witch's head with vertigo and false perceptions. The Inquisition's own tech-artisans have installed a compact power field generator within the body of the rod, further amplifying the effect as well as allowing the tool to function as a power weapon in handto-hand combat. Null rods are indispensible tools to witch and daemon hunters alike; agents of the Throne who are granted such exclusive gear are favoured indeed. The vast majority of null rods are wielded by militant Inquisitors and their minions, but more fanatical elements of the Ecclesiarchy and the Adepta Soroitas have obtained them from time to time as well.
