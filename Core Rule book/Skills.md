@@ -318,6 +318,30 @@ The Drive skill is used to control autos, trucks, landspeeders and other land-ba
 
 A Drive Test is typically a Half Action, but certain manoeuvres may require more or less time.
 
+## **Vehicles in the Imperium**
+
+The Imperium is home to a dizzying array of vehicles, from rickety handcarts to mighty Emperor class battleships. Presented here are a few examples of the kinds of vehicles that Acolytes can expect to come across in Dark Heresy.
+
+### **Riding Beasts**
+
+Across the galaxy there are innumerable creatures trained as riding beasts for mankind. The most common is the horse, which spread across the stars with mankind. Many planets are heavily dependent on such beasts, especially feral planets or low-tech agri-worlds.
+
+### **Bikes**
+
+Bikes are common throughout the Imperium, ranging from a variety of civilian models to heavily armed and armored vehicles designed for combat. Each can carry one driver and equipment, and a further passenger if room permits on the seat.
+
+### **Guncutters**
+
+Guncutters are light aircraft, often capable of reaching low orbit. They are combat-ready and usually covered with heavy weaponry. As such, they immediately project an intimidating appearance, often useful for dangerous negotiations. Most can only carry a small crew and limited passengers.
+
+### **Chimera**
+
+The Chimera armored Personnel Carrier is a staple transport and light support vehicle for military and paramilitary organisations throughout the Imperium. It has good armor, can mount a range of heavy weapons and has the capacity to carry up to twelve passengers along with a crew of three.
+
+### **Aquila Lander**
+
+The Aquila Lander is commonly used by the Imperial Navy to carry dignitaries, officials and other high-ranking individuals to and from planetside to other orbiting vessels. The vehicle name comes from the distinctive double-headed "aquila" symbol of the Imperium embossed into its hull and wings. It has no interplanetary capability, but is an excellent light shuttle designed with style and comfort in mind for an official and his retinue, easily carrying seven plus a crew of one pilot.
+
 ## **Evaluate (Basic, Investigation) Intelligence**
 
 You can use Evaluate to determine the approximate value of everyday objects, as well as valuables such as archeotech and other objects d'art. A successful Test reveals the item's market price and possibly a little bit about the item itself. Since a failed Test may result in the miscalculation of an item's true value, it is recommended that the GM rolls Evaluate Tests in secret and tells the player what his character believes to be true.
@@ -360,7 +384,6 @@ A character that learns the Forbidden Lore skill in play, or who uses it to gain
 
 Using Forbidden Lore takes no time at all. You either know something or you do not, although the consequences for knowing such things can last a lifetime….
 
-
 # **Gamble (Basic) Intelligence**
 
 The Gamble skill is used to participate in games of chance, such as card games or crude (and often violent) dice games popular amongst the lower classes. Each participant in a game wagers the same amount and makes an Opposed Gamble Test. The player with the most degrees of success (or fewest degrees of failure) wins the pot. You may, at your option, choose to throw the game, in which case you lose automatically.
@@ -397,7 +420,7 @@ An Intimidate Test is a Full Action.
 
 An Invocation Test allows you to boost your Power Roll when using Psychic Powers by an amount equal to your Willpower Bonus. An Invocation Test is a Full Action. During this time, you clear your mind through various means, such as muttering mantras, meditating, fingering psychic-foci and so on. A successful Test indicates that your mind is well prepared to touch the warp. On the next Round, you may add your Willpower Bonus in addition to any other bonus you add to your Power Roll.
 
-# **Example**
+### **Example**
 
 *Doc Skul decides to visit the Inflict Pain Minor Psychic Power on his hated rival, Slippery Zim. He spends a full Turn shaking his bone rattle and muttering spitefully under his breath as part of his Invocation Test. He rolls to see if these preparations will help him Focus Power. He rolls 15—a success! On the following Round, he attempts to manifest Inflict Pain. He gets 4 on his Power Roll and adds his Willpower Bonus of 3 to this as normal. Because of his successful Invocation, he may now add an additional 3 points to this roll. In total, Doc Skul has made a Power Roll of 10 (4+3+3=10). His Focus Power Action succeeds, and Slippery Zim doubles over in pain!*
 
