@@ -508,9 +508,7 @@ You can also Test to detect unusual psychic phenomena, areas where realspace has
 
 The results of any Psyniscience Test are summarised on the following chart:
 
-## **Degrees**
-
-## **of Success Result** Standard Awareness that success the immaterium is being disrupted. One General location from where the phenomena emanates. Two+ Exact location of the individual
+## **Degrees of Success Result** Standard Awareness that success the immaterium is being disrupted. One General location from where the phenomena emanates. Two+ Exact location of the individual
 
 Using Psyniscience is a Full Action.
 

@@ -156,14 +156,14 @@ Descriptions of the various Talents follow.
 | Unshakeable Faith       | —                                      | You may re-roll failed Fear Tests.                                                          |
 | Wall of Steel           | Ag 35                                  | Gain an extra Parry each Round.                                                             |
 | †Denotes Talent group.  |                                        |                                                                                             |
-
-# **Air of Authority**
+## Talent Descriptions
+### **Air of Authority**
 
 **Prerequisites:** Fellowship 30.
 
 You exude a natural aura of command, instilling subservience in all around you. On a successful Command Test, you may affect a number of targets equal to 1d10 plus your Fellowship Bonus. Such is the authority in your voice that even those who are not in your service jump to attention when you speak. You may attempt to get non-servants to follow your commands by making a Command Test with a –10 penalty.
 
-# **Ambidextrous**
+### **Ambidextrous**
 
 **Prerequisites:** Agility 30.
 
@@ -171,85 +171,85 @@ You can use either hand equally well. You do not take the normal –20 penalty f
 
 **Special:** If you have the Two-Weapon Wielder talent, the penalty for making attacks with both weapons in the same Turn drops to –10.
 
-# **armor of Contempt**
+### **Armor of Contempt**
 
 **Prerequisites:** Willpower 40.
 
 You drape yourself in the armor of scorn and hatred. Whenever you would gain Corruption Points, reduce the amount you would earn by 1. In addition, you may Test Willpower as a Free Action to ignore the effects of your accumulated Corruption for one Round.
 
-# **Arms Master**
+### **Arms Master**
 
 **Prerequisites:** Ballistic Skill 30, Basic Weapon Training in at least two groups of weapons.
 
 Such is your skill with a gun that you are able to pick up an unfamiliar weapon and use it as though you had trained with it for years. You can use ranged weapons you do not have training in at –10 rather than –20.
 
-# **Assassin Strike**
+### **Assassin Strike**
 
 **Prerequisites:** Agility 40, Acrobatics. You are like a serene dancer when engaged in combat, leaping and spiralling between dismembered corpses like some butcher ballerina. Whenever you engage an opponent and make a melee attack, you may make an Acrobatics Test to move at your Half Move rate as a Free Action. Your opponent may not take the customary free attack.
 
-# **Autosanguine**
+### **Autosanguine**
 
 Ancient and blessed technology filters your blood. Handed down from generations past, your implants repair minor injuries. For the purposes of healing, you are always considered to be Lightly Wounded. In addition, you naturally heal at an increased rate, removing 2 points of Damage each day. Your autosanguinators also sooth the minor pains and sores caused by the blessed metal of your implants pressing upon your weak flesh. This has no game effect, but does make you slightly less irritable than before.
 
-# **Basic Weapon Training**
+### **Basic Weapon Training**
 
 **Talent Groups:** Bolt, Flame, Las, Launcher, Melta, Plasma, Primitive, SP. You have received Basic Weapon Training in a group of weapons, and can use them without penalty.
 
-# **Battle Rage**
+### **Battle Rage**
 
 **Prerequisites:** Frenzy talent.
 
 Despite your frenzied nature, you remain in control when engaging in melee. You can spend reactions to Parry while Frenzied.
 
-# **Berserk Charge**
+### **Berserk Charge**
 
 You hurl yourself at your enemies with reckless abandon, using the force of your Charge to add force to your strikes. When you make a Charge manoeuvre you gain a +20 bonus to Weapon Skill instead of the usual +10.
 
-# **Binary Chatter**
+### **Binary Chatter**
 
 You are adept at controlling servitors. Gain a +10 bonus to any attempt to instruct, program or question servitors.
 
-# **Blademaster**
+### **Blademaster**
 
 **Prerequisites:** Weapon Skill 30, Melee Weapon Training.
 
 Your mastery of sword and knife is unsurpassed and your blade always strikes true. When attacking with a sword or a knife of any type, including chainswords and power swords, you may re-roll a missed attack once per Round.
 
-# **Blind Fighting**
+### **Blind Fighting**
 
 **Prerequisites:** Perception 30.
 
 Through years of practice and heightening your senses, you no longer need to be able to see your opponents to be able to hit them. You take half the usual penalties when fighting in environments that obscure your vision, such as fog, smoke and darkness.
 
-# **Bulging Biceps**
+### **Bulging Biceps**
 
 **Prerequisites:** Strength 45.
 
 Whereas a weaker man would be sent flying when using powerful weapons, your strong physique allows you to remain standing. You can fire a heavy weapon on semi- or autofire modes without first bracing.
 
-# **Catfall**
+### **Catfall**
 
 **Prerequisites:** Agility 30.
 
 You are nimble and balanced, like a cat, and are able to fall much greater distances unharmed than others might. Whenever you fall, you may Test Agility as a Free Action. On a success, and for every degree of success, reduce the distance fallen by a number of metres equal to your Agility Bonus for the purposes of determining the Damage dealt by the fall.
 
-# **Chem Geld**
+### **Chem Geld**
 
 A variety of chemical and surgical treatments have rendered you immune to the temptations of the flesh. Seduction attempts against you automatically fail, and the Difficulty of all Charm Tests made against you increase by one step (a Challenging (+0) Test becomes Difficult (–10) and so on). When you take this Talent you gain one Insanity Point.
 
-# **Cleanse and Purify**
+### **Cleanse and Purify**
 
 **Prerequisites:** Basic Weapon Training (Flame) talent.
 
 Burn! Burn! Burn! None shall escape your fiery wrath! Targets exposed to your flamer attacks take a –20 penalty to avoid being hit.
 
-# **Combat Master**
+### **Combat Master**
 
 **Prerequisites:** Weapon Skill 30.
 
 Through a combination of reflex and perception you are able to keep many more opponents at bay in melee than a lesser skilled Acolyte might. Opponents fighting you in hand-tohand gain no bonuses for outnumbering you.
 
-# **Concealed Cavity**
+### **Concealed Cavity**
 
 You have a small compartment hidden upon your person. This might be a pouch within your flesh, or a chamber fitted into one of your cybernetic implants. You may conceal one small item, no bigger than the palm of your hand, within this cavity. The compartment may be discovered on a Difficult (–10) Search Test. If the searcher employs additional technology, such as a medicae scanner or chem-sniffer, this difficulty is reduced to Ordinary (+10).
 
