@@ -45,7 +45,7 @@ Descriptions of the various Talents follow.
 | Catfall                | Ag 30                                  | Reduce falling Damage.                                                                      |
 | Chem Geld              | —                                      | Immune to seduction, resistant to charm.                                                    |
 | Cleanse and Purify     | Basic Weapon Training (Flame)          | Penalty to avoid being hit by your flamer attacks.                                          |
-| †Denotes Talent group. |                                        |                                                                                             |
+| Combat Master          | WS 30                                  | Opponents get no bonus for outnumbering you.                                                |
 
 | Combat Master           | WS 30                     | Opponents get no bonus for outnumbering you.                                |
 | ----------------------- | ------------------------- | --------------------------------------------------------------------------- |

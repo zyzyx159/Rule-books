@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Alternative paths/Bonded Emissary.md",
+                "file": "Core Rule book/Chapter 4 - Talents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bonded Emissary"
+              "title": "Chapter 4 - Talents"
             }
           },
           {
@@ -214,11 +214,11 @@
   },
   "active": "7ea4ab42a565c646",
   "lastOpenFiles": [
+    "Classes/Alternative paths/Bonded Emissary.md",
     "Classes/Alternative paths/Mechanicus Secutor.md",
     "Classes/Alternative paths/Legate Investigator.md",
     "Core Rule book/Chapter 4 - Talents.md",
     "Core Rule book/Chapter 3 - Skills.md",
-    "Classes/Alternative paths/Bonded Emissary.md",
     "Classes/Scum.md",
     "Classes/Adept.md",
     "Roll Challanges.md",
