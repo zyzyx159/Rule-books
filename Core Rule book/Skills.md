@@ -198,23 +198,21 @@ The Ciphers skill reflects an understanding of shorthand codes employed by certa
 
 A Ciphers Test usually takes a Full Action to give or inscribe the sign, and a Free Action to comprehend it.
 
-# **Climb (Basic, Movement) Strength**
+## **Climb (Basic, Movement) Strength**
 
 Use the Climb skill to ascend or descend surfaces described as sheer. Sheer surfaces are walls without handholds, overhangs and other poor climbing conditions. Generally, a successful Test allows you to ascend or descend at half of your Half Move rate. Note that poor climbing conditions may impose a penalty to the Test. See Climbing in **Chapter VII: Playing the Game** for more details.
 
 A Climb Test is a Half Action.
 
-# **Command (Basic) Fellowship**
+## **Command (Basic) Fellowship**
 
 Command is used to make subordinates follow your orders. You may only use this Skill on those who are under your authority. A successful Command Test indicates that those whom you direct follow your instructions. On a failed Test, they either misinterpret the command or do nothing at all, or if you fail by five or more degrees, contradict your orders entirely.
 
-A Command Test can affect a number
-
-of targets equal to your Fellowship Bonus and your targets must be able to see and hear you clearly, and understand what you say.
+A Command Test can affect a number of targets equal to your Fellowship Bonus and your targets must be able to see and hear you clearly, and understand what you say.
 
 A Command Test is a Half Action for simple commands and a Full Action for more involved instructions.
 
-# **CommonLore (Advanced, Investigation) Intelligence**
+## **Common Lore (Advanced, Investigation) Intelligence**
 
 **Skill Group:** Adeptus Arbites, Machine Cult, Administratum, Ecclesiarchy, Imperial Creed, Imperial Guard, Imperium, Tech, Underworld, War. Other Common Lores may be available at the GM's discretion.
 
@@ -244,7 +242,7 @@ When making a Common Lore Test, you recall basic information about the subject. 
 
 Using Common Lore takes no time at all. You either know something or you do not.
 
-# **Concealment (Basic) Agility**
+## **Concealment (Basic) Agility**
 
 Concealment is used whenever you want to hide from sight. To use this Skill, there must be appropriate terrain (trees, walls, buildings or some other obstacle) or some concealing effect like fog or darkness. Otherwise, the test automatically fails. Concealment is always an Opposed Test, in which you pit your Concealment Test against your opponent's Awareness Test (or half their Perception if they do not have the Awareness skill). You need not Test Concealment when you hide, only when someone is looking for you. If you succeed, you remain unseen.
 
@@ -252,25 +250,25 @@ If you remain perfectly still, you gain a +10 bonus to your Test.
 
 A Concealment Test is usually a Half Action.
 
-# **Contortionist (Basic, Movement) Agility**
+## **Contortionist (Basic, Movement) Agility**
 
 The Contortionist skill is used to wriggle free from bonds, squeeze through a narrow opening, or slip out of chains.
 
-### **Escape Bonds**
+## **Escape Bonds**
 
 Whenever you attempt to slip free from any kind of bonds, you make a Contortionist Test. The Difficulty depends on the Intelligence of the person who secured you in the first place. If their Intelligence exceeds your Agility Characteristic, the Test is Hard (–20). Other factors may worsen or diminish the Difficulty, such as whether simple manacles or complicated arbitrator restraint cuffs were used, or whether you were hastily secured or your captor took his time to ensure that you could not escape.
 
-### **Escape Grapple**
+## **Escape Grapple**
 
 When you have been Grappled in combat, you may use the Contortionist skill to escape. Make a Contortionist Test opposed by the grappler's Strength Test. If you win you break free, otherwise you remain Grappled.
 
-#### **Squeeze through a Tight Space**
+## **Squeeze through a Tight Space**
 
 You can make a Contortionist Test to squeeze through a tight space, such as between the bars of your jail cell, past a cave-in blocking your path or through the air vents of a space hulk. The difficulty of the Test is set according to how tight the space is. The GM is well within his rights to rule that a space is simply too narrow to squeeze through, and common sense applies as always. Success allows you to squeeze through unhindered, whereas failure means that the opening is too narrow after all. If you fail by five or more degrees, you become stuck until you can pass a subsequent Contortionist Test or until someone helps you out of your predicament by dragging you out, greasing the passage and so on.
 
 Most Contortionist Tests take one minute, with each degree of success reducing this time by ten seconds. Escaping a Grapple is a Full Action attempted during combat.
 
-# **Deceive (Basic, Interaction) Fellowship**
+## **Deceive (Basic, Interaction) Fellowship**
 
 The Deceive skill is used to lie and con others. You make Deceive Tests whenever you would convince others of something that is not necessarily true, want to dupe them or otherwise swindle and mislead them. You need not make a Deceive Test every time you lie to an NPC; only when you want to change their opinions of you or convince them of something.
 
@@ -278,7 +276,7 @@ A Deceive Test can affect a number of targets equal to your Fellowship Bonus and
 
 A Deceive Test typically takes one minute.
 
-# **Demolition (Advanced, Crafting) Intelligence**
+## **Demolition (Advanced, Crafting) Intelligence**
 
 You use the Demolition skill to blow things up without blowing yourself up at the same time! It is used to plant explosive devices and defuse bombs, as well as for the safe handling and manufacture of explosives. Demolition involves explosive devices that are planted or set, rather than those that are simply lobbed at the enemy.
 
@@ -300,19 +298,19 @@ A character can also use the Demolition skill to defuse a bomb. To defuse a bomb
 
 A Demolition Test to plant or defuse an explosive is usually a Full Action. A test made to manufacture an explosive takes at least one minute, and usually considerably longer, depending on the complexity of the device.
 
-# **Disguise (Basic) Fellowship**
+## **Disguise (Basic) Fellowship**
 
 The Disguise skill is used to mask your true appearance. Appropriate clothing, props, make-up and prosthetics are often key to a successful disguise, as are more radical accoutrements such as plastic surgery, bionic implants or polymorphine. It is also possible to masquerade as a member of the opposite sex, a different race or a specific person, though these are more difficult to pull off. Often, Disguise is an Opposed Skill Test against your foes' Scrutiny.
 
 The time it takes to create a disguise varies greatly depending on its complexity, but it usually requires a minimum of one minute to don a simple disguise.
 
-# **Dodge (Basic, Combat) Agility**
+## **Dodge (Basic, Combat) Agility**
 
 You may use the Dodge skill once per Round to negate a successful hand-tohand or ranged attack. On a successful Test, the attack deals no Damage. See **Chapter VII: Playing the Game** for more information on Dodge.
 
 A Dodge Test is a Reaction.
 
-# **Drive (Advanced, Operator) Agility**
+## **Drive (Advanced, Operator) Agility**
 
 **Skill Group:** Ground Vehicle, Hover Vehicle, Walker
 
@@ -320,7 +318,7 @@ The Drive skill is used to control autos, trucks, landspeeders and other land-ba
 
 A Drive Test is typically a Half Action, but certain manoeuvres may require more or less time.
 
-# **Evaluate (Basic, Investigation) Intelligence**
+## **Evaluate (Basic, Investigation) Intelligence**
 
 You can use Evaluate to determine the approximate value of everyday objects, as well as valuables such as archeotech and other objects d'art. A successful Test reveals the item's market price and possibly a little bit about the item itself. Since a failed Test may result in the miscalculation of an item's true value, it is recommended that the GM rolls Evaluate Tests in secret and tells the player what his character believes to be true.
 
