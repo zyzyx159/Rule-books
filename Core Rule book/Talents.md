@@ -8,15 +8,15 @@ Just like Skills, Talents represent some of the things your character can do. Th
 
 Deciding which Talents you would like to give your character is an enjoyable process, but it can be very hard to choose. Fortunately, the advancement schemes in **Chapter II: Career Paths** provide plenty of help.
 
-# Gaining Talents
+## Gaining Talents
 
 During character creation you will automatically receive some Talents, and be asked to choose between others (see **Chapter I: Character Creation** for more information). Once you've started playing, you can use Experience Points to purchase new Talents from the various Advancement Schemes in your Career Path (see **Chapter II: Career Paths** for more information).
 
-# Talent Groups
+## Talent Groups
 
 Some of the listed Talents are actually groups of related abilities. Talent groups are listed under one entry for the sake of ease, but each one is a separate ability that must be acquired individually. For example, Basic Weapon Training (Las) and Basic Weapon Training (Bolt) are different Talents. If a character wanted to effectively use both a lasgun and a boltgun they would require both Talents.
 
-# Prerequisites
+## Prerequisites
 
 Some Talents may require the character to meet some form of prerequisite before they can be acquired. This is usually a certain level in a Characteristic or another Skill or Talent, though sometimes a Talent may require something more dramatic such as the character being able to use Psychic Powers.
 
@@ -26,141 +26,145 @@ Some Talents may require the character to meet some form of prerequisite before 
 
 Descriptions of the various Talents follow.
 
-| Table 4–1: Talents     |                                        |                                                                                             |
-| ---------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Talent Name            | Prerequisite                           | Benefit                                                                                     |
-| Air of Authority       | Fel 30                                 | Affect more targets with Test.                                                              |
-| Ambidextrous           | Ag 30                                  | Use either hand equally well.                                                               |
-| armor of Contempt      | WP 40                                  | You are resilient to Corruption.                                                            |
-| Arms Master            | BS 30, Basic Weapon Training (any two) | Use non-proficient weapons at –10 penalty.                                                  |
-| Assassin Strike        | Ag 40, Acrobatic                       | On a successful Acrobatics Test after making a melee attack, you may move as a Free Action. |
-| Autosanguine           | —                                      | Heal 2 Damage/day, always Lightly Wounded.                                                  |
-| Basic Weapon Training† | —                                      | Use weapon group without penalty.                                                           |
-| Battle Rage            | Frenzy                                 | Parry while Frenzied.                                                                       |
-| Berserk Charge         | —                                      | Gain +20 bonus when Charging.                                                               |
-| Binary Chatter         | —                                      | +10 bonus to control servitors.                                                             |
-| Blademaster            | WS 30, Melee Weapon Training (any)     | Re-roll a missed attack, once per Round.                                                    |
-| Blind Fighting         | Per 30                                 | Suffer half the usual penalties when vision is obscured.                                    |
-| Bulging Biceps         | S 45                                   | Remove bracing requirement for certain weapons.                                             |
-| Catfall                | Ag 30                                  | Reduce falling Damage.                                                                      |
-| Chem Geld              | —                                      | Immune to seduction, resistant to charm.                                                    |
-| Cleanse and Purify     | Basic Weapon Training (Flame)          | Penalty to avoid being hit by your flamer attacks.                                          |
-| Combat Master          | WS 30                                  | Opponents get no bonus for outnumbering you.                                                |
-| Concealed Cavity        | —                         | You have a secret compartment on you.                                       |
-| Corpus Conversion       | Psy Rating 2              | Take Damage to improve Power Roll.                                          |
-| Counter-attack          | WS 40                     | Gain free attack with a successful Parry.                                   |
-| Crack Shot              | BS 40                     | Deal +2 Critical Damage with a ranged weapon.                               |
-| Crippling Strike        | WS 50                     | Deal +1d5–1 Critical Damage with a melee weapon.                            |
-| Crushing Blow           | S 40                      | Deal +2 Damage with a melee weapon.                                         |
-| Dark Soul               | —                         | Take half the penalty on Malignancy Tests.                                  |
-| Deadeye Shot            | BS 30                     | Called Shots are at –10 penalty.                                            |
-| Decadence               | T 30                      | Gain uncanny resistance to drugs and alcohol.                               |
-| Deflect Shot            | Ag 50                     | You can Parry Primitive ranged attacks.                                     |
-| Die Hard                | WP 40                     | Re-roll death chance incurred by Blood Loss.                                |
-| Disarm                  | Ag 30                     | Force opponent to drop his weapon.                                          |
-| Discipline Focus†       | Psy Rating 3              | Gain +2 on Power Rolls to manifest discipline powers.                       |
-| Disturbing Voice        | —                         | +10 bonus to Intimidate and Interrogation, –10 penalty to Fel.              |
-| Double Team             | —                         | Gain additional +10 bonus for ganging up.                                   |
-| Dual Shot               | Ag 40, Two-Weapon Wielder | One Ballistic Skill Test hits target twice.                                 |
-| Dual Strike             | Ag 40, Two-Weapon Wielder | One Weapon Skill Test hits target twice.                                    |
-| Electrical Succour      | Tech-Priest               | +10 bonus to Toughness Tests to remove Fatigue.                             |
-| Electro Graft Use       | —                         | +10 bonus to Inquiry, Tech Use, Common Knowledge.                           |
-| Energy Cache            | Tech-Priest               | Luminen Blast, Charge and Shock are Fatigue free.                           |
-| Exotic Weapon Training† | —                         | Use an exotic weapon without penalty.                                       |
-| Favoured by the Warp    | WP 35                     | Roll twice for Psychic Phenomena (see page 162) and take the better result. |
-| Fearless                | —                         | Immune to Fear and Pinning.                                                 |
-| Feedback Screech        | Tech-Priest               | 30m radius, Test Willpower or lose Half Action.                             |
-| Ferric Lure             | Tech-Priest               | WP Test to call 1kg/WP Bonus of metal objects.                              |
-| Ferric Summons          | Tech-Priest, Ferric Lure  | WP Test to call 2kg/WP Bonus of metal objects.                              |
-| Flagellant              | —                         | Injure self to gain mental fortitude.                                       |
-| Foresight               | Int 30                    | Contemplate to gain +10 bonus on next Test.                                 |
-| Frenzy                  | —                         | Enter psychotic rage to gain combat bonuses.                                |
-| Furious Assault         | WS 35                     | On a successful WS Test, gain a free second attack.                         |
-| Good Reputation†        | Fel 50, Peer              | You have a good reputation amongst a certain group.                         |
-| Gun Blessing            | Tech-Priest               | Unjam a number of guns equal to Int bonus in a 10m radius.                  |
-| Gunslinger              | BS 40, Two-Weapon Wielder | Fighting with two pistols incurs only a –10 penalty.                        |
-| Hard Target             | Ag 40                     | Opponents take –20 to BS Tests when you Charge or Run.                      |
-| Hardy                   | T 40                      | You always heal as if Lightly Wounded.                                      |
-| Hatred†                 | —                         | Gain +10 bonus to attack hated creatures.                                   |
-| Heavy Weapon Training†  | —                         | Gain proficiency with a heavy weapon group.                                 |
-| Heightened Senses†      | —                         | Gain +10 bonus to a particular sense.                                       |
-| Hip Shooting            | BS 40, Ag 40              | Gain a free attack when you make a Full Move.                               |
-| Independent Targeting   | BS 40                     | Fire at two or more targets further than 10m apart.                         |
-| Insanely Faithful       | —                         | Re-roll the effects of Shock.                                               |
-| Into the Jaws of Hell   | Iron Discipline           | Minions gain immunity to Pinning and Fear whilst in your presence.          |
-| Iron Discipline         | WP 30, Command            | Minions can re-roll Fear and Pinning Tests.                                 |
-| Iron Jaw                | T 40                      | Toughness Test to overcome Stunning.                                        |
-| Jaded                   | WP 30                     | Never gain Insanity Points from ordinary horrors.                           |
-| Leap Up                 | Ag 30                     | Stand up as a Free Action.                                                  |
-| Light Sleeper           | Per 30                    | Count as awake, even when asleep.                                           |
-| Lightning Attack        | Swift Attack              | Attack three times with a Full Action.                                      |
-| Lightning Reflexes      | —                         | Add twice AB to Initiative rolls.                                           |
-| Litany of Hate          | Hatred                    | Extend benefits of hatred to allies.                                        |
-| Logis Implant           | —                         | +10 bonus on WS and BS on successful Tech-Use Test.                         |
-| Luminen Blast           | Tech-Priest               | 1d10+WP Bonus Energy Damage Bolt. Causes Fatigue.                           |
-| Luminen Charge          | Tech-Priest               | Toughness Test to power/charge tech. Causes Fatigue.                        |
-| Luminen Shock           | Tech-Priest                        | 1d10+3 Energy Damage Shock. Causes Fatigue.                |
-| Maglev Grace            | Tech-Priest                        | Hover 1d10+TB minutes once per day.                        |
-| Maglev Transcendence    | Tech-Priest, Maglev Grace          | Hover 2d10+TB minutes twice per day.                       |
-| Marksman                | BS 35                              | No penalties for firing at Long or Extreme range.          |
-| Master Chirurgeon       | Medicae +10                        | Perform advanced medical procedures.                       |
-| Master Orator           | Fel 30                             | Affect 10 times the normal numbers with a Fellowship Test. |
-| Mechadendrite Use†      | Tech-Priest                        | You can use a type of mechadendrite.                       |
-| Meditation              | —                                  | You may enter a trance to remove Fatigue.                  |
-| Melee Weapon Training†  | —                                  | Gain proficiency with a group of melee weapons.            |
-| Mental Fortress         | WP 50, Strong-Minded               | Gain protection against psychic attacks.                   |
-| Mental Rage             | Frenzy                             | You may use Psychic Powers while in the throes of Frenzy.  |
-| Mighty Shot             | BS 40                              | Deal +2 Damage with ranged attacks.                        |
-| Mimic                   | —                                  | You can copy voices.                                       |
-| Minor Psychic Power†    |                                    | You gain a Minor Psychic Power.                            |
-| Nerves of Steel         | —                                  | Re-roll failed Tests to avoid Pinning.                     |
-| Orthoproxy              | —                                  | +20 bonus to resist mind control or interrogation.         |
-| Paranoia                | —                                  | You are alert for danger.                                  |
-| Peer†                   | Fel 30                             | Gain +10 bonus on Fel Tests to interact with organisation. |
-| Pistol Training†        | —                                  | Gain proficiency with a group of pistol weapons.           |
-| Power Well              | Psy Rating 2                       | Gain bonus to Power Rolls.                                 |
-| Precise Blow            | WS 40, Sure Strike                 | No penalty for attacks against specific Hit Locations.     |
-| Prosanguine             | —                                  | Heal 1d5 Damage once per day.                              |
-| Psy Rating 1            | —                                  | Gain powers, roll 1d10+WP bonus for Power Rolls.           |
-| Psy Rating 2            | Psy Rating 1                       | Gain powers, roll 2d10+WP bonus for Power Rolls.           |
-| Psy Rating 3            | Psy Rating 2                       | Gain powers, roll 3d10+WP bonus for Power Rolls.           |
-| Psy Rating 4            | Psy Rating 3                       | Gain powers, roll 4d10+WP bonus for Power Rolls.           |
-| Psy Rating 5            | Psy Rating 4                       | Gain powers, roll 5d10+WP bonus for Power Rolls.           |
-| Psy Rating 6            | Psy Rating 5                       | Gain powers, roll 6d10+WP bonus for Power Rolls.           |
-| Psychic Power†          | —                                  | Gain an extra Psychic Power.                               |
-| Quick Draw              | —                                  | Ready as a Free Action.                                    |
-| Rapid Reaction          | Ag 40                              | Test Ag to negate Surprise.                                |
-| Rapid Reload            | —                                  | Reduce reload time.                                        |
-| Resistance†             | —                                  | Gain +10 bonus to Resistance Tests.                        |
-| Rite of Awe             | Tech-Priest                        | 50m radius, –10 to all Tests due to Fear.                  |
-| Rite of Fear            | Tech-Priest                        | Fear rating 1 for two minutes. 50m radius.                 |
-| Rite of Pure Thought    | Tech-Priest                        | You are immune to emotion.                                 |
-| Sharpshooter            | BS 40, Deadeye Shot                | No penalties for Called Shots.                             |
-| Sound Constitution      | —                                  | Gain an additional Wound.                                  |
-| Sprint                  | —                                  | Move more quickly in combat.                               |
-| Step Aside              | Ag 40, Dodge                       | Gain extra Dodge in a Round.                               |
-| Street Fighting         | —                                  | Deal +2 Critical Damage with knives or unarmed attacks.    |
-| Strong Minded           | WP 30, Resistance (Psychic Powers) | Re-roll failed WP Tests made to resist Psychic Powers.     |
-| Sure Strike             | WS 30                              | Choose Hit Location on a successful attack.                |
-| Swift Attack            | WS 35                              | Attack twice with a Full Action.                           |
-| Takedown                | —                                  | Make a special attack to Stun your opponent.               |
-| Talented†               | —                                  | Gain +10 bonus to corresponding Skill Test.                |
-| Technical Knock         | Int 30                             | Unjam a gun as a Half Action.                              |
-| Thrown Weapon Training† | —                                  | Gain proficiency with a group of thrown weapons.           |
-| Total Recall            | Int 30                             | Remember trivial facts and minor details.                  |
-| True Grit               | T 40                               | Reduce Critical Damage you take.                           |
-| Two-Weapon Wielder†     | WS 35 or BS35, Ag 35               | Attack twice when wielding two weapons.                    |
-| Unremarkable            | —                                  | You are easily forgettable.                                |
-| Unshakeable Faith       | —                                  | You may re-roll failed Fear Tests.                         |
-| Wall of Steel           | Ag 35                              | Gain an extra Parry each Round.                            |
-| †Denotes Talent group.  |                                    |                                                            |
+## Talent List
+
+| Table 4–1: Talents      |                                        |                                                                                             |
+| ----------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Talent Name             | Prerequisite                           | Benefit                                                                                     |
+| Air of Authority        | Fel 30                                 | Affect more targets with Test.                                                              |
+| Ambidextrous            | Ag 30                                  | Use either hand equally well.                                                               |
+| armor of Contempt       | WP 40                                  | You are resilient to Corruption.                                                            |
+| Arms Master             | BS 30, Basic Weapon Training (any two) | Use non-proficient weapons at –10 penalty.                                                  |
+| Assassin Strike         | Ag 40, Acrobatic                       | On a successful Acrobatics Test after making a melee attack, you may move as a Free Action. |
+| Autosanguine            | —                                      | Heal 2 Damage/day, always Lightly Wounded.                                                  |
+| Basic Weapon Training†  | —                                      | Use weapon group without penalty.                                                           |
+| Battle Rage             | Frenzy                                 | Parry while Frenzied.                                                                       |
+| Berserk Charge          | —                                      | Gain +20 bonus when Charging.                                                               |
+| Binary Chatter          | —                                      | +10 bonus to control servitors.                                                             |
+| Blademaster             | WS 30, Melee Weapon Training (any)     | Re-roll a missed attack, once per Round.                                                    |
+| Blind Fighting          | Per 30                                 | Suffer half the usual penalties when vision is obscured.                                    |
+| Bulging Biceps          | S 45                                   | Remove bracing requirement for certain weapons.                                             |
+| Catfall                 | Ag 30                                  | Reduce falling Damage.                                                                      |
+| Chem Geld               | —                                      | Immune to seduction, resistant to charm.                                                    |
+| Cleanse and Purify      | Basic Weapon Training (Flame)          | Penalty to avoid being hit by your flamer attacks.                                          |
+| Combat Master           | WS 30                                  | Opponents get no bonus for outnumbering you.                                                |
+| Concealed Cavity        | —                                      | You have a secret compartment on you.                                                       |
+| Corpus Conversion       | Psy Rating 2                           | Take Damage to improve Power Roll.                                                          |
+| Counter-attack          | WS 40                                  | Gain free attack with a successful Parry.                                                   |
+| Crack Shot              | BS 40                                  | Deal +2 Critical Damage with a ranged weapon.                                               |
+| Crippling Strike        | WS 50                                  | Deal +1d5–1 Critical Damage with a melee weapon.                                            |
+| Crushing Blow           | S 40                                   | Deal +2 Damage with a melee weapon.                                                         |
+| Dark Soul               | —                                      | Take half the penalty on Malignancy Tests.                                                  |
+| Deadeye Shot            | BS 30                                  | Called Shots are at –10 penalty.                                                            |
+| Decadence               | T 30                                   | Gain uncanny resistance to drugs and alcohol.                                               |
+| Deflect Shot            | Ag 50                                  | You can Parry Primitive ranged attacks.                                                     |
+| Die Hard                | WP 40                                  | Re-roll death chance incurred by Blood Loss.                                                |
+| Disarm                  | Ag 30                                  | Force opponent to drop his weapon.                                                          |
+| Discipline Focus†       | Psy Rating 3                           | Gain +2 on Power Rolls to manifest discipline powers.                                       |
+| Disturbing Voice        | —                                      | +10 bonus to Intimidate and Interrogation, –10 penalty to Fel.                              |
+| Double Team             | —                                      | Gain additional +10 bonus for ganging up.                                                   |
+| Dual Shot               | Ag 40, Two-Weapon Wielder              | One Ballistic Skill Test hits target twice.                                                 |
+| Dual Strike             | Ag 40, Two-Weapon Wielder              | One Weapon Skill Test hits target twice.                                                    |
+| Electrical Succour      | Tech-Priest                            | +10 bonus to Toughness Tests to remove Fatigue.                                             |
+| Electro Graft Use       | —                                      | +10 bonus to Inquiry, Tech Use, Common Knowledge.                                           |
+| Energy Cache            | Tech-Priest                            | Luminen Blast, Charge and Shock are Fatigue free.                                           |
+| Exotic Weapon Training† | —                                      | Use an exotic weapon without penalty.                                                       |
+| Favoured by the Warp    | WP 35                                  | Roll twice for Psychic Phenomena (see page 162) and take the better result.                 |
+| Fearless                | —                                      | Immune to Fear and Pinning.                                                                 |
+| Feedback Screech        | Tech-Priest                            | 30m radius, Test Willpower or lose Half Action.                                             |
+| Ferric Lure             | Tech-Priest                            | WP Test to call 1kg/WP Bonus of metal objects.                                              |
+| Ferric Summons          | Tech-Priest, Ferric Lure               | WP Test to call 2kg/WP Bonus of metal objects.                                              |
+| Flagellant              | —                                      | Injure self to gain mental fortitude.                                                       |
+| Foresight               | Int 30                                 | Contemplate to gain +10 bonus on next Test.                                                 |
+| Frenzy                  | —                                      | Enter psychotic rage to gain combat bonuses.                                                |
+| Furious Assault         | WS 35                                  | On a successful WS Test, gain a free second attack.                                         |
+| Good Reputation†        | Fel 50, Peer                           | You have a good reputation amongst a certain group.                                         |
+| Gun Blessing            | Tech-Priest                            | Unjam a number of guns equal to Int bonus in a 10m radius.                                  |
+| Gunslinger              | BS 40, Two-Weapon Wielder              | Fighting with two pistols incurs only a –10 penalty.                                        |
+| Hard Target             | Ag 40                                  | Opponents take –20 to BS Tests when you Charge or Run.                                      |
+| Hardy                   | T 40                                   | You always heal as if Lightly Wounded.                                                      |
+| Hatred†                 | —                                      | Gain +10 bonus to attack hated creatures.                                                   |
+| Heavy Weapon Training†  | —                                      | Gain proficiency with a heavy weapon group.                                                 |
+| Heightened Senses†      | —                                      | Gain +10 bonus to a particular sense.                                                       |
+| Hip Shooting            | BS 40, Ag 40                           | Gain a free attack when you make a Full Move.                                               |
+| Independent Targeting   | BS 40                                  | Fire at two or more targets further than 10m apart.                                         |
+| Insanely Faithful       | —                                      | Re-roll the effects of Shock.                                                               |
+| Into the Jaws of Hell   | Iron Discipline                        | Minions gain immunity to Pinning and Fear whilst in your presence.                          |
+| Iron Discipline         | WP 30, Command                         | Minions can re-roll Fear and Pinning Tests.                                                 |
+| Iron Jaw                | T 40                                   | Toughness Test to overcome Stunning.                                                        |
+| Jaded                   | WP 30                                  | Never gain Insanity Points from ordinary horrors.                                           |
+| Leap Up                 | Ag 30                                  | Stand up as a Free Action.                                                                  |
+| Light Sleeper           | Per 30                                 | Count as awake, even when asleep.                                                           |
+| Lightning Attack        | Swift Attack                           | Attack three times with a Full Action.                                                      |
+| Lightning Reflexes      | —                                      | Add twice AB to Initiative rolls.                                                           |
+| Litany of Hate          | Hatred                                 | Extend benefits of hatred to allies.                                                        |
+| Logis Implant           | —                                      | +10 bonus on WS and BS on successful Tech-Use Test.                                         |
+| Luminen Blast           | Tech-Priest                            | 1d10+WP Bonus Energy Damage Bolt. Causes Fatigue.                                           |
+| Luminen Charge          | Tech-Priest                            | Toughness Test to power/charge tech. Causes Fatigue.                                        |
+| Luminen Shock           | Tech-Priest                            | 1d10+3 Energy Damage Shock. Causes Fatigue.                                                 |
+| Maglev Grace            | Tech-Priest                            | Hover 1d10+TB minutes once per day.                                                         |
+| Maglev Transcendence    | Tech-Priest, Maglev Grace              | Hover 2d10+TB minutes twice per day.                                                        |
+| Marksman                | BS 35                                  | No penalties for firing at Long or Extreme range.                                           |
+| Master Chirurgeon       | Medicae +10                            | Perform advanced medical procedures.                                                        |
+| Master Orator           | Fel 30                                 | Affect 10 times the normal numbers with a Fellowship Test.                                  |
+| Mechadendrite Use†      | Tech-Priest                            | You can use a type of mechadendrite.                                                        |
+| Meditation              | —                                      | You may enter a trance to remove Fatigue.                                                   |
+| Melee Weapon Training†  | —                                      | Gain proficiency with a group of melee weapons.                                             |
+| Mental Fortress         | WP 50, Strong-Minded                   | Gain protection against psychic attacks.                                                    |
+| Mental Rage             | Frenzy                                 | You may use Psychic Powers while in the throes of Frenzy.                                   |
+| Mighty Shot             | BS 40                                  | Deal +2 Damage with ranged attacks.                                                         |
+| Mimic                   | —                                      | You can copy voices.                                                                        |
+| Minor Psychic Power†    |                                        | You gain a Minor Psychic Power.                                                             |
+| Nerves of Steel         | —                                      | Re-roll failed Tests to avoid Pinning.                                                      |
+| Orthoproxy              | —                                      | +20 bonus to resist mind control or interrogation.                                          |
+| Paranoia                | —                                      | You are alert for danger.                                                                   |
+| Peer†                   | Fel 30                                 | Gain +10 bonus on Fel Tests to interact with organisation.                                  |
+| Pistol Training†        | —                                      | Gain proficiency with a group of pistol weapons.                                            |
+| Power Well              | Psy Rating 2                           | Gain bonus to Power Rolls.                                                                  |
+| Precise Blow            | WS 40, Sure Strike                     | No penalty for attacks against specific Hit Locations.                                      |
+| Prosanguine             | —                                      | Heal 1d5 Damage once per day.                                                               |
+| Psy Rating 1            | —                                      | Gain powers, roll 1d10+WP bonus for Power Rolls.                                            |
+| Psy Rating 2            | Psy Rating 1                           | Gain powers, roll 2d10+WP bonus for Power Rolls.                                            |
+| Psy Rating 3            | Psy Rating 2                           | Gain powers, roll 3d10+WP bonus for Power Rolls.                                            |
+| Psy Rating 4            | Psy Rating 3                           | Gain powers, roll 4d10+WP bonus for Power Rolls.                                            |
+| Psy Rating 5            | Psy Rating 4                           | Gain powers, roll 5d10+WP bonus for Power Rolls.                                            |
+| Psy Rating 6            | Psy Rating 5                           | Gain powers, roll 6d10+WP bonus for Power Rolls.                                            |
+| Psychic Power†          | —                                      | Gain an extra Psychic Power.                                                                |
+| Quick Draw              | —                                      | Ready as a Free Action.                                                                     |
+| Rapid Reaction          | Ag 40                                  | Test Ag to negate Surprise.                                                                 |
+| Rapid Reload            | —                                      | Reduce reload time.                                                                         |
+| Resistance†             | —                                      | Gain +10 bonus to Resistance Tests.                                                         |
+| Rite of Awe             | Tech-Priest                            | 50m radius, –10 to all Tests due to Fear.                                                   |
+| Rite of Fear            | Tech-Priest                            | Fear rating 1 for two minutes. 50m radius.                                                  |
+| Rite of Pure Thought    | Tech-Priest                            | You are immune to emotion.                                                                  |
+| Sharpshooter            | BS 40, Deadeye Shot                    | No penalties for Called Shots.                                                              |
+| Sound Constitution      | —                                      | Gain an additional Wound.                                                                   |
+| Sprint                  | —                                      | Move more quickly in combat.                                                                |
+| Step Aside              | Ag 40, Dodge                           | Gain extra Dodge in a Round.                                                                |
+| Street Fighting         | —                                      | Deal +2 Critical Damage with knives or unarmed attacks.                                     |
+| Strong Minded           | WP 30, Resistance (Psychic Powers)     | Re-roll failed WP Tests made to resist Psychic Powers.                                      |
+| Sure Strike             | WS 30                                  | Choose Hit Location on a successful attack.                                                 |
+| Swift Attack            | WS 35                                  | Attack twice with a Full Action.                                                            |
+| Takedown                | —                                      | Make a special attack to Stun your opponent.                                                |
+| Talented†               | —                                      | Gain +10 bonus to corresponding Skill Test.                                                 |
+| Technical Knock         | Int 30                                 | Unjam a gun as a Half Action.                                                               |
+| Thrown Weapon Training† | —                                      | Gain proficiency with a group of thrown weapons.                                            |
+| Total Recall            | Int 30                                 | Remember trivial facts and minor details.                                                   |
+| True Grit               | T 40                                   | Reduce Critical Damage you take.                                                            |
+| Two-Weapon Wielder†     | WS 35 or BS35, Ag 35                   | Attack twice when wielding two weapons.                                                     |
+| Unremarkable            | —                                      | You are easily forgettable.                                                                 |
+| Unshakeable Faith       | —                                      | You may re-roll failed Fear Tests.                                                          |
+| Wall of Steel           | Ag 35                                  | Gain an extra Parry each Round.                                                             |
+| †Denotes Talent group.  |                                        |                                                                                             |
 
 # **Air of Authority**
+
 **Prerequisites:** Fellowship 30.
 
 You exude a natural aura of command, instilling subservience in all around you. On a successful Command Test, you may affect a number of targets equal to 1d10 plus your Fellowship Bonus. Such is the authority in your voice that even those who are not in your service jump to attention when you speak. You may attempt to get non-servants to follow your commands by making a Command Test with a –10 penalty.
 
 # **Ambidextrous**
+
 **Prerequisites:** Agility 30.
 
 You can use either hand equally well. You do not take the normal –20 penalty for making attacks with your secondary hand.
@@ -168,6 +172,7 @@ You can use either hand equally well. You do not take the normal –20 penalty f
 **Special:** If you have the Two-Weapon Wielder talent, the penalty for making attacks with both weapons in the same Turn drops to –10.
 
 # **armor of Contempt**
+
 **Prerequisites:** Willpower 40.
 
 You drape yourself in the armor of scorn and hatred. Whenever you would gain Corruption Points, reduce the amount you would earn by 1. In addition, you may Test Willpower as a Free Action to ignore the effects of your accumulated Corruption for one Round.
@@ -191,6 +196,7 @@ Ancient and blessed technology filters your blood. Handed down from generations 
 **Talent Groups:** Bolt, Flame, Las, Launcher, Melta, Plasma, Primitive, SP. You have received Basic Weapon Training in a group of weapons, and can use them without penalty.
 
 # **Battle Rage**
+
 **Prerequisites:** Frenzy talent.
 
 Despite your frenzied nature, you remain in control when engaging in melee. You can spend reactions to Parry while Frenzied.
@@ -461,7 +467,7 @@ You are able to shoot whilst on the move. As a Full Action, you may simultaneous
 
 # **Independent Targeting**
 
-## **Prerequisites:** Ballistic Skill 40.
+**Prerequisites:** Ballistic Skill 40.
 
 You are skilled enough with firearms that you can fire in two directions at once. When firing two weapons at once, you may attack targets that are more than 10 metres apart.
 
@@ -471,7 +477,7 @@ You take refuge in your madness. When rolling to determine the effects of Shock,
 
 # **Into the Jaws of Hell**
 
-# **Prerequisites:** Iron Discipline.
+**Prerequisites:** Iron Discipline.
 
 Such is the fervour and loyalty you inspire in your followers that they would follow you wherever you lead, even in search of the dread Tyrant Star. Whilst you are visible to them, your minions are immune to Fear and Pinning.
 
@@ -487,25 +493,25 @@ You are made of sturdy stuff and can weather minor blows. When you become Stunne
 
 # **Jaded**
 
-# **Prerequisites:** Willpower 30.
+**Prerequisites:** Willpower 30.
 
 You have seen the worst the galaxy has to throw at you to the point that you are acclimatised to the worst horrors. You never gain Insanity Points from the sight of blood, death or violence, or indeed any mundane horror. Supernatural terrors still affect you as normal, however.
 
 # **Leap Up**
 
-# **Prerequisites:** Agility 30.
+**Prerequisites:** Agility 30.
 
 You are hard to keep down. You may stand up as a Free Action.
 
 # **Light Sleeper**
 
-# **Prerequisites:** Perception 30.
+**Prerequisites:** Perception 30.
 
 You are a light sleeper and remain alert when most would be fast asleep. You are always assumed to be awake, even if you are asleep, for the purposes of making Awareness Tests, being Surprised or getting up in a hurry. The downside is that you often feel tired during the day and as a result are grumpy or distracted.
 
 # **Lightning Attack**
 
-# **Prerequisites:** Swift Attack.
+**Prerequisites:** Swift Attack.
 
 As a Full Action, you may make three melee attacks on your Turn. This Talent replaces Swift Attack. You may not use the Dual Strike talent during a Lightning Attack Full Action.
 
@@ -515,7 +521,7 @@ You react like a flash of lightning. When rolling for Initiative, you add twice 
 
 # **Litany of Hate**
 
-# **Prerequisites:** Hatred (any).
+**Prerequisites:** Hatred (any).
 
 You are so impassioned in your hatred that you can rouse others to similar heights of emotion. As a Full Action, you may make a Charm Test to extend the effects of your Hatred talent to those around you. A successful Test grants a +10 bonus to Weapon Skill Tests to one target per point of your Fellowship Bonus when fighting your hated foes. The effects last for the duration of the encounter.
 
@@ -568,19 +574,19 @@ Devotion to the Machine God has granted you greater knowledge of miracles. As a 
 
 # **Marksman**
 
-### **Prerequisites:** Ballistic Skill 35.
+**Prerequisites:** Ballistic Skill 35.
 
 Distance is no object with a gun in your hand, and you are just as adept at picking off far away targets as those nearby. You suffer no penalties for shooting at Long or Extended range.
 
 # **Master Chirurgeon**
 
-### **Prerequisites**: Medicae +10.
+**Prerequisites**: Medicae +10.
 
 You are trained in the most advanced medical techniques known to man. You gain a +10 bonus on all Medicae Tests. If you are treating a Heavily or Critically Wounded patient, a successful Test heals 2 Wounds instead of the normal 1. If this character is in danger of losing a limb from a Critical Hit (see **Chapter VII: Playing the Game**), you also provide the patient with a +20 bonus to the Toughness Test to resist limb loss.
 
 # **Master Orator**
 
-### **Prerequisites:** Fellowship 30.
+**Prerequisites:** Fellowship 30.
 
 You are skilled at speaking to large audiences. Your Fellowship Tests and Fellowship-based Skill Tests can affect 10 times the normal number of people.
 
@@ -610,7 +616,7 @@ You are trained to aggressively resist psychic attacks. Whenever you are the tar
 
 # **Mental Rage**
 
-#### **Prerequisites:** Frenzy.
+**Prerequisites:** Frenzy.
 
 You channel your madness and hate into your Psychic Powers. You may use your Psychic Powers whilst in a Frenzied state,.
 
@@ -656,7 +662,7 @@ You know how to deal with a particular social group or organisation. You gain a 
 
 # **Power Well**
 
-#### **Prerequisites**: Psy Rating 2.
+**Prerequisites**: Psy Rating 2.
 
 Power suffuses your being, allowing you to manifest powers more easily. When manifesting powers, you gain a +1 bonus to your Manifesting rolls. You may select this Talent multiple times. Its effects are cumulative.
 
@@ -668,19 +674,19 @@ You are skilled at making difficult strikes. When making a Called Shot with a me
 
 # **Prosanguine**
 
-## **Prerequisites:** Autosanguine.
+**Prerequisites:** Autosanguine.
 
 By an act of will, you speed the workings of your autosanguinators. Once every twelve hours you may make a Tech-Use Test. On a success, you remove 1d5 points of Damage. If you roll a 96-100 however, in addition to failing, you overstrain your implants. They cease to function for one week. For that time you are unable to use this Talent, and gain none of the benefits of the Autosanguine talent. Once the week is over, both Talents are restored. Prosanguination takes ten minutes of meditation and ritual incantation to activate.
 
-#### **Psy Rating 1**
+## **Psy Rating 1**
 
 You have unlocked your Psychic Powers. Select a number of Minor Psychic Powers equal to one-half your Willpower Bonus (round up) from those described in **Chapter VI: Psychic Powers**. You gain a Psy Rating of 1 and roll one dice and add your Willpower Bonus when manifesting Psychic Powers.
 
 **Special:** If your Willpower Bonus later increases, you do not retroactively gain additional powers.
 
-# **Psy Rating 2**
+## **Psy Rating 2**
 
-### **Prerequisites:** Psy Rating 1.
+**Prerequisites:** Psy Rating 1.
 
 You have advanced knowledge of Psychic Power. Select a number of Minor Psychic Powers equal to half your Willpower Bonus (round up). You now have a Psy Rating of 2 and may roll up to two dice and add your Willpower bonus when manifesting Psychic Powers.
 
@@ -688,7 +694,7 @@ You have advanced knowledge of Psychic Power. Select a number of Minor Psychic P
 
 # **Psy Rating 3**
 
-### **Prerequisites:** Psy Rating 2.
+**Prerequisites:** Psy Rating 2.
 
 Your psychic abilities grow in power and proficiency. Select one Discipline. Gain one power from this Discipline. You also gain a number of Minor Psychic Powers equal to one-half your Willpower Bonus (round up). You now have a Psy Rating of 3 and may roll up to three dice and add your Willpower bonus when manifesting Psychic Powers.
 
@@ -696,7 +702,7 @@ Your psychic abilities grow in power and proficiency. Select one Discipline. Gai
 
 # **Psy Rating 4**
 
-## **Prerequisites:** Psy Rating 3.
+**Prerequisites:** Psy Rating 3.
 
 You have distinguished yourself by your skill with psychic energy and the breadth of your knowledge of Psychic Powers. Gain a number of Discipline Powers in any Discipline that you know equal to one-half your Willpower Bonus and the same number of Minor Psychic Powers (round up). Alternatively, instead select one new Discipline and gain one power from this Discipline. You now have a Psy
 
@@ -780,7 +786,7 @@ You are able to put on a burst of speed to get out of—or into—trouble fast. 
 
 # **Step Aside**
 
-### **Prerequisites:** Agility 40, Dodge.
+**Prerequisites:** Agility 40, Dodge.
 
 You are quick at getting out of the way of attacks. You may make an additional Dodge once per Round. In effect this gives a character a second Reaction that may only be used to Dodge, thus allowing them to make two Dodges in a Turn. Note they may still only attempt a single Dodge against any one attack.
 
@@ -818,7 +824,7 @@ Choose any one of your Skills. You gain a +10 bonus to Tests when using this Ski
 
 # **Technical Knock**
 
-### **Prerequisites:** Intelligence 30.
+**Prerequisites:** Intelligence 30.
 
 With a honeyed whisper and ritual motion, you can awaken sleeping gun-spirits into furious action once more. You may unjam any gun as a Half Action. You must touch the gun in question to enact this rite. You may only perform this rite on one weapon per Round—any more would be disrespectful.
 
@@ -830,17 +836,17 @@ You have received basic training in a group of thrown weaponry, and can use such
 
 # **Total Recall**
 
-### **Prerequisites:** Intelligence 30.
+**Prerequisites:** Intelligence 30.
 
 Through long years of mental conditioning and practice, your mind is like an archive, able to record and recall great amounts of information. You can automatically remember any trivial fact or piece of information that you might feasibly have picked up in the past. When trying to recall more detailed or obscure facts, such as the precise layout of a crime scene or a page you read in an ancient grimoire five years ago, the GM may require you to make an Intelligence Test.
 
 # **True Grit**
 
-### **Prerequisites:** Toughness 40.
+**Prerequisites:** Toughness 40.
 
 You are able to shrug off wounds that would fell lesser men. Whenever you suffer Critical Damage, halve the result (rounding up).
 
-# **Example**
+**Example**
 
 *Drake has the True Grit talent and is shot for 12 points of Damage. He has a TB of 3, 2 points of armor and 3 Wounds remaining. This means that after reduction for TB, armor and Wounds, the Critical Damage he takes (i.e. damage suffered once a character reaches 0 Wounds) is 4 (12-3+2+3=4). Because he has the True Grit talent this Damage is then halved. Drake therefore only takes 2 points of Critical Damage.*
 
@@ -860,8 +866,6 @@ Your faith that the Emperor will preserve you is so strong that you are unafraid
 
 # **Wall of Steel**
 
-## **Prerequisites:** Agility 35.
+**Prerequisites:** Agility 35.
 
 Your blades are so quick that they form a wall of impenetrable steel. You may make an additional Parry once per Round. In effect, this gives a character a second Reaction that may only be used to Parry, thus allowing them to make two Parries in a Turn. Note they may still only attempt a single Parry against any one attack.
-
-**[Money](#page-124-0) • [Availability](#page-125-0) • [Craftsmanship](#page-126-0) • [Weapons](#page-127-0) • [armor](#page-144-0) • [Gear](#page-146-0) • [Cybernetics](#page-153-0)**
