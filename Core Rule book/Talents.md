@@ -353,183 +353,183 @@ You call upon the sacred flow of energy to replenish your weak flesh. Whilst in 
 
 You have the ability to use an electro graft to access data points and commune with machine spirits. This grants you a +10 bonus to Common Lore, Inquiry or Tech-Use Tests whilst connected to a data point.
 
-# **Energy Cache**
+### **Energy Cache**
 
 **Prerequisites:** Tech-Priest (Potentia coil).
 
 You have learnt how to focus some of the power stored within your potentia coil. You no longer gain Fatigue from using Luminen Charge, Luminen Shock and Luminen Blast.
 
-# **Exotic Weapon Training**
+### **Exotic Weapon Training**
 
 **Talent Groups:** All Exotic Weapons.
 
 You have received Exotic Weapon Training in a single exotic weapon, and can use it without penalty.
 
-# **Favoured by the Warp**
+### **Favoured by the Warp**
 
 **Prerequisite:** Willpower 35.
 
 Whenever a Power Roll triggers Psychic Phenomena, you may roll two dice on that table and take the more favourable result.
 
-# **Fearless**
+### **Fearless**
 
 Whether through fervent loyalty or a derangement of the mind, you are impossible to frighten or unnerve. You are immune to the effects of Fear and Pinning, but to disengage from combat or back down from a fight you must first succeed on a Willpower Test.
 
-# **Feedback Screech**
+### **Feedback Screech**
 
 **Prerequisites:** Tech-Priest (Respirator Unit).
 
 By muttering illogical formulae under your breath, you are able to foment rebellion within your vox synthesisers. Your audio circuits protest in a screeching blast of noise, shocking and distracting others in equal measure. All creatures, except Daemonic and machine-based, within a 30 metre radius must make a Willpower Test or lose a Half Action on their next Turn as they shudder, swear, cover their ears or otherwise react to the horrid noise. This is a Full Action and may not be used again for 1d5 Rounds while your audio circuits reset.
 
-# **Ferric Lure**
+### **Ferric Lure**
 
 **Prerequisites:** Tech-Priest (Electoo inductor/Potentia coil).
 
 You can call an unsecured metal object that you can see to your hand. You may summon objects of up to 1 kilogram per point of your Willpower Bonus. The object must be within a 20 metre radius. To use this Talent, you must succeed on a Willpower Test as a Full Action.
 
-# **Ferric Summons**
+### **Ferric Summons**
 
 **Prerequisites:** Tech-Priest (Electoo inductor/Potentia coil), Ferric Lure.
 
 You can call an unsecured metal object that you can see to your hand. You may summon objects of up to 2 kilograms per point of your Willpower Bonus. The object must be within a 40 metre radius. You must make a Willpower Test and spend a Full Action to enact this rite.
 
-# **Flagellant**
+### **Flagellant**
 
 You have dedicated your pain to the service of the Emperor. Each day, you must spend twenty minutes praying and inflicting 1 point of Damage upon yourself. You may not treat this Damage or allow it to be healed. Once you have castigated your flesh, you gain a +10 bonus to Willpower Tests made to resist mind control or Malignancy. Additionally, if you have the Frenzy talent, you may enter a frenzied state as a Free Action. Should you fail to flagellate yourself on any given day, you take a –5 penalty to all Tests due to shame and guilt.
 
-# **Foresight**
+### **Foresight**
 
 **Prerequisites:** Intelligence 30.
 
 You are adept at identifying the consequences of any action. If you take some time to consider what you are doing, you can deduce the best action for success. You may spend ten minutes contemplating a problem to gain a +10 bonus to your next relevant Intelligence Test.
 
-# **Frenzy**
+### **Frenzy**
 
 You can incite yourself into a frothing rage. You must spend one Round psyching yourself up (howling, beating yourself or injecting psychosisinducing drugs). The next round you lose control and go berserk, gaining a +10 bonus to Strength and Willpower but a –10 penalty to Weapon Skill and Intelligence. You must attack the nearest enemy in melee combat and you may not flee, retreat or Parry. When possible, you must use the All-Out Attack Manoeuvre. You remain frenzied for the duration of the combat. Some creatures, particularly certain types of Daemon, do not need to spend a Round inciting the frenzy—they are either permanently Frenzied or can Frenzy at will. Unless you have a Talent that allows you to do so, you may not use Psychic Powers whilst in Frenzy.
 
-# **Furious Assault**
+### **Furious Assault**
 
 **Prerequisites:** Weapon Skill 35.
 
 Your blows follow one another in quick succession, raining down on your opponents like fiery bolts. Whenever you hit an opponent whilst using the AllOut Attack Manoeuvre, you may spend your Reaction to make an extra attack (this extra attack retains any bonuses or penalties of the original attack).
 
-# **Good Reputation**
+### **Good Reputation**
 
 **Prerequisites:** Fellowship 50, Peer. **Talent Groups:** Administratum, Ecclesiarchy, Imperial Guard, Imperial Navy, Inquisition, Underworld
 
 You are well respected within your social group or organisation. You gain an additional +10 bonus to Fellowship Tests when dealing with this group. This Talent is cumulative with the Peer talent, for a total of a +20 bonus.
 
-# **Gun Blessing**
+### **Gun Blessing**
 
 **Prerequisites:** Tech-Priest (Electoo inductor/Potentia coil).
 
 With a wave you can unjam a number of guns equal to your Intelligence Bonus. You may bless any weapon in a 10 metre radius. To do so, make an Intelligence Test. A success indicates that you have rallied the spirits of the weapons. This blessing is a Full Action.
 
-# **Gunslinger**
+### **Gunslinger**
 
 **Prerequisites:** Ballistic Skill 40, Two-Weapon Wielder.
 
 You are ready for anything when you have a pistol in each hand. When so armed, you reduce the penalty for fighting with two weapons by –10. If you have the Ambidextrous talent, you take no penalty when firing both weapons.
 
-# **Hard Target**
+### **Hard Target**
 
 **Prerequisites:** Agility 40.
 
 The best way to stay alive is to keep on moving, no matter what might come your way. Whenever you Charge or Run, all opponents take a –20 penalty to Ballistic Skill Tests made to hit you with a ranged weapon. This penalty lasts until the start of your next Turn.
 
-# **Hardy**
+### **Hardy**
 
 **Prerequisites:** Toughness 40.
 
 For the purposes of removing Damage, you are always considered to be Lightly Wounded.
 
-# **Hatred**
+### **Hatred**
 
 **Talent Groups:** Criminals, Cult (specific), Daemons, Xeno (specific), Psykers, Heretics, Mutants.
 
 You have reason to hate one particular race or organisation, and your malice hones your melee attacks. Choose one race or group from those listed above. When fighting opponents that qualify as members of that group, you gain a +10 bonus to all Weapon Skill Tests made to attack them.
 
-# **Heavy Weapon Training**
+### **Heavy Weapon Training**
 
 **Talent Groups:** Bolt, Flame, Las, Launcher, Melta, Plasma, Primitive, SP. You know how to use one particular type of heavy weapon, and can use weapons of that type without penalty.
 
-# **Heightened Senses**
+### **Heightened Senses**
 
 **Talent Groups:** Sight, Sound, Smell, Taste, Touch.
 
 One of your senses is better than average. When you gain this Talent, select one of the five senses. You gain a +10 bonus to any Tests involving this sense.
 
-# **Hip Shooting**
+### **Hip Shooting**
 
 **Prerequisites:** Ballistic Skill 40, Agility 40.
 
 You are able to shoot whilst on the move. As a Full Action, you may simultaneously move up to your Full Move rate and make a single attack with a pistol.
 
-# **Independent Targeting**
+### **Independent Targeting**
 
 **Prerequisites:** Ballistic Skill 40.
 
 You are skilled enough with firearms that you can fire in two directions at once. When firing two weapons at once, you may attack targets that are more than 10 metres apart.
 
-# **Insanely Faithful**
+### **Insanely Faithful**
 
 You take refuge in your madness. When rolling to determine the effects of Shock, you may roll twice and take the better result.
 
-# **Into the Jaws of Hell**
+### **Into the Jaws of Hell**
 
 **Prerequisites:** Iron Discipline.
 
 Such is the fervour and loyalty you inspire in your followers that they would follow you wherever you lead, even in search of the dread Tyrant Star. Whilst you are visible to them, your minions are immune to Fear and Pinning.
 
-# **Iron Discipline**
+### **Iron Discipline**
 
 **Prerequisites:** Willpower 30, Command. Not through mercy and kindness but through a stern demeanour and a sense of justice do you inspire loyalty in your followers. So long as you are visible to them, your minions may reroll failed Willpower Tests made to resist Fear and Pinning.
 
-# **Iron Jaw**
+### **Iron Jaw**
 
 **Prerequisites:** Toughness 40.
 
 You are made of sturdy stuff and can weather minor blows. When you become Stunned you may make a Toughness Test to shrug off its effects.
 
-# **Jaded**
+### **Jaded**
 
 **Prerequisites:** Willpower 30.
 
 You have seen the worst the galaxy has to throw at you to the point that you are acclimatised to the worst horrors. You never gain Insanity Points from the sight of blood, death or violence, or indeed any mundane horror. Supernatural terrors still affect you as normal, however.
 
-# **Leap Up**
+### **Leap Up**
 
 **Prerequisites:** Agility 30.
 
 You are hard to keep down. You may stand up as a Free Action.
 
-# **Light Sleeper**
+### **Light Sleeper**
 
 **Prerequisites:** Perception 30.
 
 You are a light sleeper and remain alert when most would be fast asleep. You are always assumed to be awake, even if you are asleep, for the purposes of making Awareness Tests, being Surprised or getting up in a hurry. The downside is that you often feel tired during the day and as a result are grumpy or distracted.
 
-# **Lightning Attack**
+### **Lightning Attack**
 
 **Prerequisites:** Swift Attack.
 
 As a Full Action, you may make three melee attacks on your Turn. This Talent replaces Swift Attack. You may not use the Dual Strike talent during a Lightning Attack Full Action.
 
-# **Lightning Reflexes**
+### **Lightning Reflexes**
 
 You react like a flash of lightning. When rolling for Initiative, you add twice your Agility Bonus to the roll of 1d10.
 
-# **Litany of Hate**
+### **Litany of Hate**
 
 **Prerequisites:** Hatred (any).
 
 You are so impassioned in your hatred that you can rouse others to similar heights of emotion. As a Full Action, you may make a Charm Test to extend the effects of your Hatred talent to those around you. A successful Test grants a +10 bonus to Weapon Skill Tests to one target per point of your Fellowship Bonus when fighting your hated foes. The effects last for the duration of the encounter.
 
-# **Logis Implant**
+### **Logis Implant**
 
 You may utilise analytical circuits to calculate trajectory and reactions to a preternatural extent. Your ability to read possible outcomes lets you anticipate the movement of your opponents. As a Reaction you may make a Tech-Use Test to activate your Logis Implant. Note that this uses up your Reaction for the Round. Until the end of your next Turn, you gain a +10 bonus to all Weapon Skill and Ballistic Skill Tests. Each successful use of this Talent causes one level of Fatigue.
 
-# **Luminen Blast**
+### **Luminen Blast**
 
 **Prerequisites:** Tech-Priest (Electoo inductor/Potentia coil).
 
@@ -537,7 +537,7 @@ With the proper prayer and projection of will, you are able to strike at the ene
 
 Each time you use this Talent, you gain a level of Fatigue.
 
-# **Luminen Charge**
+### **Luminen Charge**
 
 **Prerequisites:** Tech-Priest (Electoo inductor/Potentia coil).
 
@@ -551,46 +551,45 @@ You have learnt how to lend your life force to technology. On a successful Tough
 | Hard (–20)       | Land speeder engine, las cannon charge pack, servitor. |
 | Very Hard (–30)  | Industrial press, cogita tor engine, xenos tech.       |
 
-
 Note that at the GM's discretion, some technology is simply too arcane, broken or power-hungry for you to be able to activate. Each time you use this Talent, you gain a level of Fatigue.
 
-# **Luminen Shock**
+### **Luminen Shock**
 
 **Prerequisites:** Tech-Priest (Electoo inductor/Potentia coil).
 
 By focusing your bio-electrical energy through electoo inductors, you are able to damage your opponents. You must touch your enemy for this ability to work. In combat, you must either make a successful Weapon Skill Test or be Grappling to deliver the blast. Each Luminen Shock deals 1d10+3 points of Energy Damage. Each time you use this Talent, you gain a level of Fatigue.
 
-# **Maglev Grace**
+### **Maglev Grace**
 
 **Prerequisites:** Tech-Priest (Potentia coil).
 
 By long hours of rote learning, you have mastered one of the miracles of the Omnissiah. By spending a Half Action, you may hover 20–30 centimetres off the ground for a number of minutes equal to 1d10 plus your Toughness Bonus. You may move at your normal walking pace and must employ a Half Action each round to concentrate on maintaining the rite. You may activate this rite whilst falling to slow your rate of descent. Treat all falling Damage as 1d10+3 Impact Damage. Each Maglev Grace exhausts the power stored in your potentia coil, and thus you may only use this rite once in every twelve hour period.
 
-# **Maglev Transcendence**
+### **Maglev Transcendence**
 
 **Prerequisites:** Tech-Priest (Potentia coil), Maglev Grace.
 
 Devotion to the Machine God has granted you greater knowledge of miracles. As a Half Action, you may hover 20–30 centimetres off the ground for a number of minutes equal to 2d10 plus your Toughness Bonus. You may move at your normal running speed and must employ a Half Action each Round to concentrate on maintaining your rite. You may activate this rite whilst falling to produce a controlled descent. Provided that this rite is active when you reach the ground, then you take no Damage from falling. You may enact this rite twice in every twelve hour period.
 
-# **Marksman**
+### **Marksman**
 
 **Prerequisites:** Ballistic Skill 35.
 
 Distance is no object with a gun in your hand, and you are just as adept at picking off far away targets as those nearby. You suffer no penalties for shooting at Long or Extended range.
 
-# **Master Chirurgeon**
+### **Master Chirurgeon**
 
 **Prerequisites**: Medicae +10.
 
 You are trained in the most advanced medical techniques known to man. You gain a +10 bonus on all Medicae Tests. If you are treating a Heavily or Critically Wounded patient, a successful Test heals 2 Wounds instead of the normal 1. If this character is in danger of losing a limb from a Critical Hit (see **Chapter VII: Playing the Game**), you also provide the patient with a +20 bonus to the Toughness Test to resist limb loss.
 
-# **Master Orator**
+### **Master Orator**
 
 **Prerequisites:** Fellowship 30.
 
 You are skilled at speaking to large audiences. Your Fellowship Tests and Fellowship-based Skill Tests can affect 10 times the normal number of people.
 
-# **Mechadendrite Use**
+### **Mechadendrite Use**
 
 **Prerequisites:** Tech-Priest (Cyber Mantle/Cranial Circuitry).
 
@@ -598,57 +597,57 @@ You are skilled at speaking to large audiences. Your Fellowship Tests and Fellow
 
 You have been given the appropriate training, initiation and hypnodoctrination to use a particular type of mechadendrite.
 
-# **Meditation**
+### **Meditation**
 
 By putting your mind at rest and entering a trance you can repair the hurts of your body. You must succeed on a Willpower Test. If so, for every ten minutes you remain in a trance, you remove one level of Fatigue.
 
-# **Melee Weapon Training**
+### **Melee Weapon Training**
 
 **Talent Groups:** Primitive, Chain, Shock, Power.
 
 You have received basic training in a group of hand-to-hand weaponry, and can use them without penalty.
 
-# **Mental Fortress**
+### **Mental Fortress**
 
 **Prerequisites:** Willpower 50, Strong Minded.
 
 You are trained to aggressively resist psychic attacks. Whenever you are the target of a psychic attack, you force the psyker to make a Willpower Test. On a failure, the psyker takes 1d10 points of Damage plus 1 Damage per point of your Willpower Bonus. This Damage is considered Impact Damage, directed at the head (more specifically, the face). The psyker can reduce this Damage by an amount equal to his Willpower Bonus. This Damage bypasses armor and any Toughness Bonus.
 
-# **Mental Rage**
+### **Mental Rage**
 
 **Prerequisites:** Frenzy.
 
 You channel your madness and hate into your Psychic Powers. You may use your Psychic Powers whilst in a Frenzied state,.
 
-# **Mighty Shot**
+### **Mighty Shot**
 
 **Prerequisites:** Ballistic Skill 40.
 
 You know how to blast away with a gun to cause the most damage to a target. You add +2 to Damage you inict with a ranged weapon.
 
-# **Mimic**
+### **Mimic**
 
 You have an extraordinary ability to copy another person's voice patterns. This may be due to implanted vox synthesisers, training or natural Talent. You must have listened to your target for at least one hour in order to study their voice properly. You must also understand their language and be of the same race (a human, for example, cannot convincingly copy an Ork). Listeners must succeed on a Difficult (–10) Scrutiny Test to realise that you are not the person you are mimicking. If you have based your voice patterns on anything other than "live" conversations where you are in the same room as your target (for example vox recordings, or commlink conversations), the Difficulty of this Scrutiny Test is reduced to Challenging (+0). Note this does not make you look like your target; you merely sound like them. If a listener can clearly see you are not the person you are copying, your deception automatically fails.
 
-# **Minor Psychic Power**
+### **Minor Psychic Power**
 
 **Talent Groups:** All Minor Psychic Powers.
 
 You have acquired an additional psychic ability. You gain one Minor Psychic Power.
 
-# **Nerves of Steel**
+### **Nerves of Steel**
 
 You are able to remain calm, even when bullets fly past and bombs fall around you. You may re-roll a failed Willpower Test to avoid or recover from Pinning.
 
-# **Orthoproxy**
+### **Orthoproxy**
 
 You have learnt to draw mental fortitude from a liturgical circuit buried deep within your skull. You may "tune out" mind control attempts by concentrating on the prayers recited by the proxy unit. This grants you a +20 bonus to Willpower Tests made to resist mind control or interrogation.
 
-# **Paranoia**
+### **Paranoia**
 
 You are always on the look out for danger and secretly know that the galaxy is out to get you. You gain a +2 bonus on Initiative rolls. In addition, the GM may secretly Test your Perception to see if you notice hidden threats. Others, however, may find your constant muttering and twitchy looks unnerving.
 
-# **Peer**
+### **Peer**
 
 **Prerequisites:** Fellowship 30.
 
@@ -656,29 +655,29 @@ You are always on the look out for danger and secretly know that the galaxy is o
 
 You know how to deal with a particular social group or organisation. You gain a +10 bonus to all Fellowship Tests when interacting with your chosen group.
 
-#### **Pistol Training**
+### **Pistol Training**
 
 **Talent Groups:** Bolt, Flame, Las, Launcher, Melta, Plasma, Primitive, SP. You have received training in a group of pistols and can use them without penalty.
 
-# **Power Well**
+### **Power Well**
 
 **Prerequisites**: Psy Rating 2.
 
 Power suffuses your being, allowing you to manifest powers more easily. When manifesting powers, you gain a +1 bonus to your Manifesting rolls. You may select this Talent multiple times. Its effects are cumulative.
 
-# **Precise Blow**
+### **Precise Blow**
 
 **Prerequisites:** Weapon Skill 40, Sure Strike.
 
 You are skilled at making difficult strikes. When making a Called Shot with a melee weapon, you do not incur the normal –20 penalty.
 
-# **Prosanguine**
+### **Prosanguine**
 
 **Prerequisites:** Autosanguine.
 
 By an act of will, you speed the workings of your autosanguinators. Once every twelve hours you may make a Tech-Use Test. On a success, you remove 1d5 points of Damage. If you roll a 96-100 however, in addition to failing, you overstrain your implants. They cease to function for one week. For that time you are unable to use this Talent, and gain none of the benefits of the Autosanguine talent. Once the week is over, both Talents are restored. Prosanguination takes ten minutes of meditation and ritual incantation to activate.
 
-## **Psy Rating 1**
+### **Psy Rating 1**
 
 You have unlocked your Psychic Powers. Select a number of Minor Psychic Powers equal to one-half your Willpower Bonus (round up) from those described in **Chapter VI: Psychic Powers**. You gain a Psy Rating of 1 and roll one dice and add your Willpower Bonus when manifesting Psychic Powers.
 
