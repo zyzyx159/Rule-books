@@ -324,37 +324,11 @@ You can use Evaluate to determine the approximate value of everyday objects, as 
 
 Evaluating an item usually takes at least one minute, although the GM may decide to give a bonus if the character takes more time or a penalty if he simply gives it a quick once over.
 
-# **Forbidden Lore (Advanced, Investigation) Intelligence**
+## **Forbidden Lore (Advanced, Investigation) Intelligence**
 
 **Skill Group:** The Black Library, Cults, Daemonology, Heresy, Inquisition, Archeotech, Mutants, Ordos, Adeptus Mechanicus, Psykers, Warp and Xenos.
 
-Forbidden Lore skills represent dangerous and often heretical knowledge gleaned from the myriad of unconventional sources an Acolyte often finds in his possession. This Skill represents a combination of scholarly learning and knowledge gained through practical experience. Simply possessing the Forbidden Lore skill is often sufficient
-
-# **Vehicles in the Imperium**
-
-The Imperium is home to a dizzying array of vehicles, from rickety handcarts to mighty Emperor class battleships. Presented here are a few examples of the kinds of vehicles that Acolytes can expect to come across in Dark Heresy.
-
-### **Riding Beasts**
-
-Across the galaxy there are innumerable creatures trained as riding beasts for mankind. The most common is the horse, which spread across the stars with mankind. Many planets are heavily dependent on such beasts, especially feral planets or low-tech agri-worlds.
-
-#### **Bikes**
-
-Bikes are common throughout the Imperium, ranging from a variety of civilian models to heavily armed and armored vehicles designed for combat. Each can carry one driver and equipment, and a further passenger if room permits on the seat.
-
-### **Guncutters**
-
-Guncutters are light aircraft, often capable of reaching low orbit. They are combat-ready and usually covered with heavy weaponry. As such, they immediately project an intimidating appearance, often useful for dangerous negotiations. Most can only carry a small crew and limited passengers.
-
-### **Chimera**
-
-The Chimera armored Personnel Carrier is a staple transport and light support vehicle for military and paramilitary organisations throughout the Imperium. It has good armor, can mount a range of heavy weapons and has the capacity to carry up to twelve passengers along with a crew of three.
-
-### **Aquila Lander**
-
-The Aquila Lander is commonly used by the Imperial Navy to carry dignitaries, officials and other high-ranking individuals to and from planetside to other orbiting vessels. The vehicle name comes from the distinctive double-headed "aquila" symbol of the Imperium embossed into its hull and wings. It has no interplanetary capability, but is an excellent light shuttle designed with style and comfort in mind for an official and his retinue, easily carrying seven plus a crew of one pilot.
-
-to warrant termination at the hands of the Inquisition, and a character must tread carefully when revealing such knowledge.
+Forbidden Lore skills represent dangerous and often heretical knowledge gleaned from the myriad of unconventional sources an Acolyte often finds in his possession. This Skill represents a combination of scholarly learning and knowledge gained through practical experience. Simply possessing the Forbidden Lore skill is often sufficient to warrant termination at the hands of the Inquisition, and a character must tread carefully when revealing such knowledge.
 
 When making a Forbidden Lore Test, you recall basic information about the subject. Each degree of success reveals a bit more information as determined by the GM.
 
@@ -385,6 +359,7 @@ A character that learns the Forbidden Lore skill in play, or who uses it to gain
 **Xenos:** Knowledge of the most commonly encountered species of aliens within the Imperium.
 
 Using Forbidden Lore takes no time at all. You either know something or you do not, although the consequences for knowing such things can last a lifetime….
+
 
 # **Gamble (Basic) Intelligence**
 
