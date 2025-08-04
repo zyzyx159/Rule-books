@@ -156,22 +156,19 @@ Descriptions of the various Talents follow.
 | †Denotes Talent group.  |                                    |                                                            |
 
 # **Air of Authority**
-
-### **Prerequisites:** Fellowship 30.
+**Prerequisites:** Fellowship 30.
 
 You exude a natural aura of command, instilling subservience in all around you. On a successful Command Test, you may affect a number of targets equal to 1d10 plus your Fellowship Bonus. Such is the authority in your voice that even those who are not in your service jump to attention when you speak. You may attempt to get non-servants to follow your commands by making a Command Test with a –10 penalty.
 
 # **Ambidextrous**
-
-### **Prerequisites:** Agility 30.
+**Prerequisites:** Agility 30.
 
 You can use either hand equally well. You do not take the normal –20 penalty for making attacks with your secondary hand.
 
 **Special:** If you have the Two-Weapon Wielder talent, the penalty for making attacks with both weapons in the same Turn drops to –10.
 
 # **armor of Contempt**
-
-## **Prerequisites:** Willpower 40.
+**Prerequisites:** Willpower 40.
 
 You drape yourself in the armor of scorn and hatred. Whenever you would gain Corruption Points, reduce the amount you would earn by 1. In addition, you may Test Willpower as a Free Action to ignore the effects of your accumulated Corruption for one Round.
 
@@ -194,8 +191,7 @@ Ancient and blessed technology filters your blood. Handed down from generations 
 **Talent Groups:** Bolt, Flame, Las, Launcher, Melta, Plasma, Primitive, SP. You have received Basic Weapon Training in a group of weapons, and can use them without penalty.
 
 # **Battle Rage**
-
-## **Prerequisites:** Frenzy talent.
+**Prerequisites:** Frenzy talent.
 
 Despite your frenzied nature, you remain in control when engaging in melee. You can spend reactions to Parry while Frenzied.
 
@@ -214,16 +210,19 @@ You are adept at controlling servitors. Gain a +10 bonus to any attempt to instr
 Your mastery of sword and knife is unsurpassed and your blade always strikes true. When attacking with a sword or a knife of any type, including chainswords and power swords, you may re-roll a missed attack once per Round.
 
 # **Blind Fighting**
+
 **Prerequisites:** Perception 30.
 
 Through years of practice and heightening your senses, you no longer need to be able to see your opponents to be able to hit them. You take half the usual penalties when fighting in environments that obscure your vision, such as fog, smoke and darkness.
 
 # **Bulging Biceps**
+
 **Prerequisites:** Strength 45.
 
 Whereas a weaker man would be sent flying when using powerful weapons, your strong physique allows you to remain standing. You can fire a heavy weapon on semi- or autofire modes without first bracing.
 
 # **Catfall**
+
 **Prerequisites:** Agility 30.
 
 You are nimble and balanced, like a cat, and are able to fall much greater distances unharmed than others might. Whenever you fall, you may Test Agility as a Free Action. On a success, and for every degree of success, reduce the distance fallen by a number of metres equal to your Agility Bonus for the purposes of determining the Damage dealt by the fall.
@@ -233,11 +232,13 @@ You are nimble and balanced, like a cat, and are able to fall much greater dista
 A variety of chemical and surgical treatments have rendered you immune to the temptations of the flesh. Seduction attempts against you automatically fail, and the Difficulty of all Charm Tests made against you increase by one step (a Challenging (+0) Test becomes Difficult (–10) and so on). When you take this Talent you gain one Insanity Point.
 
 # **Cleanse and Purify**
+
 **Prerequisites:** Basic Weapon Training (Flame) talent.
 
 Burn! Burn! Burn! None shall escape your fiery wrath! Targets exposed to your flamer attacks take a –20 penalty to avoid being hit.
 
 # **Combat Master**
+
 **Prerequisites:** Weapon Skill 30.
 
 Through a combination of reflex and perception you are able to keep many more opponents at bay in melee than a lesser skilled Acolyte might. Opponents fighting you in hand-tohand gain no bonuses for outnumbering you.
@@ -248,19 +249,19 @@ You have a small compartment hidden upon your person. This might be a pouch with
 
 # **Corpus Conversion**
 
-### **Prerequisites:** Psy Rating 2.
+**Prerequisites:** Psy Rating 2.
 
 You can siphon the health of your physical body to fuel your powers. For every 2 points of Damage you voluntarily take, you may add your Willpower Bonus to your Power Roll. Using this Talent is a Free Action.
 
 # **Counter-attack**
 
-### **Prerequisites:** Weapon Skill 40.
+**Prerequisites:** Weapon Skill 40.
 
 You are skilled at switching from defence to attack in the blink of an eye. When you successfully Parry an opponent's attack, you may immediately make an attack against that opponent using the weapon with which you Parried. This attack takes a –20 penalty to the Test.
 
 # **Crack Shot**
 
-### **Prerequisites:** Ballistic Skill 40.
+**Prerequisites:** Ballistic Skill 40.
 
 You are able to target your shots at the places where they will inflict more harm. When your ranged attack deals Critical Damage, you deal an extra 2 points.
 
@@ -270,7 +271,7 @@ You are able to target your shots at the places where they will inflict more har
 
 # **Crushing Blow**
 
-# **Prerequisites:** Strength 40.
+**Prerequisites:** Strength 40.
 
 Your melee strikes land with force enough to shatter bone. You add +2 to Damage you inflict in melee.
 
@@ -280,31 +281,31 @@ Your soul is darkly stained, making you resilient to the effects of Corruption. 
 
 # **Deadeye Shot**
 
-# **Prerequisites:** Ballistic Skill 30.
+**Prerequisites:** Ballistic Skill 30.
 
 You always hit an opponent right between the eyes… or wherever else you intended to hit him. When making a Called Shot, you take only a –10 penalty instead of the normal –20.
 
 # **Decadence**
 
-## **Prerequisites:** Toughness 30.
+**Prerequisites:** Toughness 30.
 
 Either through mental and physical conditioning or long years of abuse, your body has built up a tolerance to chemicals. When drinking alcohol or similar beverages, you do not pass out until you have failed a number of Toughness Tests equal to twice your Toughness Bonus. You also gain a +10 bonus to tests made to continue using drugs within 24 hours.
 
 # **Deflect Shot**
 
-# **Prerequisites:** Agility 50.
+**Prerequisites:** Agility 50.
 
 You are able to knock aside Thrown weapons and shots fired from Primitive weapons. You may spend a Reaction to Parry an incoming ranged attack so long as the attack is from a Primitive or Thrown weapon.
 
 # **Die Hard**
 
-# **Prerequisites:** Willpower 40.
+**Prerequisites:** Willpower 40.
 
 It takes more than most to finish you off. When you suffer from Blood Loss, you may roll twice to avoid death.
 
 # **Disarm**
 
-# **Prerequisites:** Agility 30.
+**Prerequisites:** Agility 30.
 
 You are able to knock your opponent's weapons from their hands. When engaged with an opponent wielding a melee weapon, you may use a Full Action to disarm your foe by making an Opposed Weapon Skill Test. If you beat your opponent, he drops his weapon to his feet. Should you get three or more degrees of success, you not only disarm him but also take his weapon from him!
 
@@ -402,7 +403,7 @@ You can incite yourself into a frothing rage. You must spend one Round psyching 
 
 # **Furious Assault**
 
-#### **Prerequisites:** Weapon Skill 35.
+**Prerequisites:** Weapon Skill 35.
 
 Your blows follow one another in quick succession, raining down on your opponents like fiery bolts. Whenever you hit an opponent whilst using the AllOut Attack Manoeuvre, you may spend your Reaction to make an extra attack (this extra attack retains any bonuses or penalties of the original attack).
 
@@ -426,13 +427,13 @@ You are ready for anything when you have a pistol in each hand. When so armed, y
 
 # **Hard Target**
 
-### **Prerequisites:** Agility 40.
+**Prerequisites:** Agility 40.
 
 The best way to stay alive is to keep on moving, no matter what might come your way. Whenever you Charge or Run, all opponents take a –20 penalty to Ballistic Skill Tests made to hit you with a ranged weapon. This penalty lasts until the start of your next Turn.
 
 # **Hardy**
 
-### **Prerequisites:** Toughness 40.
+**Prerequisites:** Toughness 40.
 
 For the purposes of removing Damage, you are always considered to be Lightly Wounded.
 
