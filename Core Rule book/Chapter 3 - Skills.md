@@ -4,9 +4,7 @@
 P S Part of the fun of Dark Heresy is deciding which Skills to develop and learn during the career of your character. This chapter contains all the detailed information you might need to help you use Skills to their full effect. See **Chapter VII: Playing the Game** on **[page](#page-182-0) [182](#page-182-0)**, for details on Skill Tests, Characteristics and how they are made.
 
 # GAINING SKILLS
-Scrutiny
 *"Foolish are those who fear nothing, yet claim to know everything."*
-
 — *Lexiconum Moralis.*
 
 When you create your character you begin with a list of starting Skills based on your home world, as well as a selection of Skills from your Career Path. These Skills represent what you have learned in your life up to the point where you chose to serve the Inquisition. Over time, you will gain additional Experience, which you can spend to acquire new Skills or improve existing ones.
@@ -51,57 +49,57 @@ The difficulty of the Skill Test depends on the target's disposition, which is d
 
 Some of the listed Skills are actually groups of related abilities. Skill groups are listed under one entry for the sake of ease, but each one is a separate ability that must be acquired individually. For example: Scholastic Lore (Imperial Law) and Scholastic Lore (Imperial History) are different Skills. A character with Scholastic Lore (Imperial History) cannot make Scholastic Lore (Imperial Law) Tests and vice versa.
 
-| Table 3-1: Skills           |          |                |                         |
-|-----------------------------|----------|----------------|-------------------------|
-| Skill Name                  | Type     | Characteristic | Descriptor              |
-| Acrobatics                  | Advanced | Agility        | Movement                |
-| Awareness                   | Basic    | Perception     | —                       |
-| Barter                      | Basic    | Fellowship     | —                       |
-| Blather                     | Advanced | Fellowship     | Interaction             |
-| Carouse                     | Basic    | Toughness      | —                       |
-| Charm                       | Basic    | Fellowship     | Interaction             |
-| Chem-Use                    | Advanced | Intelligence   | Crafting, Investigation |
-| Ciphers†                    | Advanced | Intelligence   | —                       |
-| Climb                       | Basic    | Strength       | Movement                |
-| Command                     | Basic    | Fellowship     | Interaction             |
-| Common Lore†                | Advanced | Intelligence   | Investigation           |
-| Concealment                 | Basic    | Agility        | —                       |
-| Contortionist               | Basic    | Agility        | Movement                |
-| Deceive                     | Basic    | Fellowship     | Interaction             |
-| Demolition                  | Advanced | Intelligence   | Crafting                |
-| Disguise                    | Basic    | Fellowship     | —                       |
-| Dodge                       | Basic    | Agility        | Movement                |
-| Drive†                      | Advanced | Agility        | Operator                |
-| Evaluate                    | Basic    | Intelligence   | Investigation           |
-| Forbidden Lore†             | Advanced | Intelligence   | Investigation           |
-| Gamble                      | Basic    | Intelligence   | —                       |
-| Inquiry                     | Basic    | Fellowship     | Investigation           |
-| Interrogation               | Advanced | Willpower      | Investigation           |
-| Intimidate                  | Basic    | Strength       | Interaction             |
-| Invocation                  | Advanced | Willpower      | —                       |
-| Lip Reading                 | Advanced | Perception     | —                       |
-| Literacy                    | Advanced | Intelligence   | —                       |
-| Logic                       | Basic    | Intelligence   | Investigation           |
-| Medicae                     | Advanced | Intelligence   | —                       |
-| Navigation†                 | Advanced | Intelligence   | —                       |
-| Performer†                  | Advanced | Fellowship     | —                       |
-| Pilot†                      | Advanced | Agility        | Operator                |
-| Psyniscience                | Advanced | Perception     | —                       |
-| Scholastic Lore†            | Advanced | Intelligence   | Investigation           |
-| Scrutiny                    | Basic    | Perception     | —                       |
-| Search                      | Basic    | Perception     | —                       |
-| Secret Tongue†              | Advanced | Intelligence   | —                       |
-| Security                    | Advanced | Agility        | —                       |
-| Shadowing                   | Advanced | Agility        | —                       |
-| Silent Move                 | Basic    | Agility        | —                       |
-| Sleight of Hand             | Advanced | Agility        | —                       |
-| Speak Language†             | Advanced | Intelligence   | —                       |
-| Survival                    | Advanced | Intelligence   | —                       |
-| Swim                        | Basic    | Strength       | Movement                |
-| Tech-Use                    | Advanced | Intelligence   | —                       |
-| Tracking                    | Advanced | Intelligence   | —                       |
-| Trade†                      | Advanced | Intelligence   | Crafting                |
-| Wrangling                   | Advanced | Intelligence   | —                       |
+| Table 3-1: Skills       |          |                |                         |
+| ----------------------- | -------- | -------------- | ----------------------- |
+| Skill Name              | Type     | Characteristic | Descriptor              |
+| Acrobatics              | Advanced | Agility        | Movement                |
+| Awareness               | Basic    | Perception     | —                       |
+| Barter                  | Basic    | Fellowship     | —                       |
+| Blather                 | Advanced | Fellowship     | Interaction             |
+| Carouse                 | Basic    | Toughness      | —                       |
+| Charm                   | Basic    | Fellowship     | Interaction             |
+| Chem-Use                | Advanced | Intelligence   | Crafting, Investigation |
+| Ciphers†                | Advanced | Intelligence   | —                       |
+| Climb                   | Basic    | Strength       | Movement                |
+| Command                 | Basic    | Fellowship     | Interaction             |
+| Common Lore†            | Advanced | Intelligence   | Investigation           |
+| Concealment             | Basic    | Agility        | —                       |
+| Contortionist           | Basic    | Agility        | Movement                |
+| Deceive                 | Basic    | Fellowship     | Interaction             |
+| Demolition              | Advanced | Intelligence   | Crafting                |
+| Disguise                | Basic    | Fellowship     | —                       |
+| Dodge                   | Basic    | Agility        | Movement                |
+| Drive†                  | Advanced | Agility        | Operator                |
+| Evaluate                | Basic    | Intelligence   | Investigation           |
+| Forbidden Lore†         | Advanced | Intelligence   | Investigation           |
+| Gamble                  | Basic    | Intelligence   | —                       |
+| Inquiry                 | Basic    | Fellowship     | Investigation           |
+| Interrogation           | Advanced | Willpower      | Investigation           |
+| Intimidate              | Basic    | Strength       | Interaction             |
+| Invocation              | Advanced | Willpower      | —                       |
+| Lip Reading             | Advanced | Perception     | —                       |
+| Literacy                | Advanced | Intelligence   | —                       |
+| Logic                   | Basic    | Intelligence   | Investigation           |
+| Medicae                 | Advanced | Intelligence   | —                       |
+| Navigation†             | Advanced | Intelligence   | —                       |
+| Performer†              | Advanced | Fellowship     | —                       |
+| Pilot†                  | Advanced | Agility        | Operator                |
+| Psyniscience            | Advanced | Perception     | —                       |
+| Scholastic Lore†        | Advanced | Intelligence   | Investigation           |
+| Scrutiny                | Basic    | Perception     | —                       |
+| Search                  | Basic    | Perception     | —                       |
+| Secret Tongue†          | Advanced | Intelligence   | —                       |
+| Security                | Advanced | Agility        | —                       |
+| Shadowing               | Advanced | Agility        | —                       |
+| Silent Move             | Basic    | Agility        | —                       |
+| Sleight of Hand         | Advanced | Agility        | —                       |
+| Speak Language†         | Advanced | Intelligence   | —                       |
+| Survival                | Advanced | Intelligence   | —                       |
+| Swim                    | Basic    | Strength       | Movement                |
+| Tech-Use                | Advanced | Intelligence   | —                       |
+| Tracking                | Advanced | Intelligence   | —                       |
+| Trade†                  | Advanced | Intelligence   | Crafting                |
+| Wrangling               | Advanced | Intelligence   | —                       |
 | †Denotes a Skill Group. |          |                |                         |
 
 # SKILL DESCRIPTIONS
