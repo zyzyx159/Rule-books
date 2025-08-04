@@ -1,6 +1,4 @@
-# Armory
-
-The 41st Millennium is a dangerous place, rife with war and conflict, and if an Acolyte hopes to survive he must make sure that he is well armed and equipped. This chapter deals with some of the many types of weapons, armor and gear that exist within the Imperium. Equipment, especially weapons and armor, make up a vital part of an Acolyte's resources and the difference between success and failure on a mission can often come down to having the right gear.
++he 41st Millennium is a dangerous place, rife with war and conflict, and if an Acolyte hopes to survive he must make sure that he is well armed and equipped. This chapter deals with some of the many types of weapons, armor and gear that exist within the Imperium. Equipment, especially weapons and armor, make up a vital part of an Acolyte's resources and the difference between success and failure on a mission can often come down to having the right gear.
 
 # Availability
 
