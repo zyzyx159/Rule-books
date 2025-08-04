@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rule book/Chapter 3 - Skills.md",
+                "file": "Core Rule book/Talents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 - Skills"
+              "title": "Talents"
             }
           },
           {
@@ -198,11 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "177e5a41b88a10fb",
+  "active": "56e164a761991be3",
   "lastOpenFiles": [
-    "Core Rule book/Skills.md",
-    "Core Rule book/Chapter 3 - Skills.md",
     "Core Rule book/Chapter 4 - Talents.md",
+    "Core Rule book/Talents.md",
+    "Core Rule book/Chapter 3 - Skills.md",
+    "Core Rule book/Skills.md",
     "Classes/Alternative paths/Bonded Emissary.md",
     "Classes/Alternative paths/Mechanicus Secutor.md",
     "Classes/Alternative paths/Legate Investigator.md",
@@ -225,7 +226,6 @@
     "Core Rule book/Chapter 11 - The Calixis Sector.md",
     "Core Rule book/Chapter 10 - The Inquisition.md",
     "Core Rule book/Chapter 9 - Life in the Imperium.md",
-    "Core Rule book/Chapter 8 - The Game Master.md",
     "Classes/Alternative paths",
     "Classes",
     "Core Rule book",
