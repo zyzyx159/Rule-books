@@ -1,3 +1,5 @@
+# Talent Information
+
 *"Use the talent that your toil has made, for what use a solar-cell in the shade?"*
 
 — Catuldynus, *The Once Pure Hive.*
@@ -26,7 +28,7 @@ Some Talents may require the character to meet some form of prerequisite before 
 
 Descriptions of the various Talents follow.
 
-## Talent List
+# Talent List
 
 | Table 4–1: Talents      |                                        |                                                                                             |
 | ----------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -156,7 +158,7 @@ Descriptions of the various Talents follow.
 | Unshakeable Faith       | —                                      | You may re-roll failed Fear Tests.                                                          |
 | Wall of Steel           | Ag 35                                  | Gain an extra Parry each Round.                                                             |
 | †Denotes Talent group.  |                                        |                                                                                             |
-## Talent Descriptions
+## Talent Details
 ### **Air of Authority**
 
 **Prerequisites:** Fellowship 30.
@@ -683,7 +685,7 @@ You have unlocked your Psychic Powers. Select a number of Minor Psychic Powers e
 
 **Special:** If your Willpower Bonus later increases, you do not retroactively gain additional powers.
 
-## **Psy Rating 2**
+### **Psy Rating 2**
 
 **Prerequisites:** Psy Rating 1.
 
@@ -691,7 +693,7 @@ You have advanced knowledge of Psychic Power. Select a number of Minor Psychic P
 
 **Special:** If your Willpower Bonus later increases, you do not retroactively gain additional powers.
 
-# **Psy Rating 3**
+### **Psy Rating 3**
 
 **Prerequisites:** Psy Rating 2.
 
@@ -699,17 +701,15 @@ Your psychic abilities grow in power and proficiency. Select one Discipline. Gai
 
 **Special:** If your Willpower Bonus later increases, you do not retroactively gain additional powers.
 
-# **Psy Rating 4**
+### **Psy Rating 4**
 
 **Prerequisites:** Psy Rating 3.
 
-You have distinguished yourself by your skill with psychic energy and the breadth of your knowledge of Psychic Powers. Gain a number of Discipline Powers in any Discipline that you know equal to one-half your Willpower Bonus and the same number of Minor Psychic Powers (round up). Alternatively, instead select one new Discipline and gain one power from this Discipline. You now have a Psy
-
-Rating of 4 and may roll up to four dice and add your Willpower bonus when manifesting Psychic Powers.
+You have distinguished yourself by your skill with psychic energy and the breadth of your knowledge of Psychic Powers. Gain a number of Discipline Powers in any Discipline that you know equal to one-half your Willpower Bonus and the same number of Minor Psychic Powers (round up). Alternatively, instead select one new Discipline and gain one power from this Discipline. You now have a Psy Rating of 4 and may roll up to four dice and add your Willpower bonus when manifesting Psychic Powers.
 
 **Special:** If your Willpower Bonus later increases, you do not retroactively gain additional powers.
 
-# **Psy Rating 5**
+### **Psy Rating 5**
 
 **Prerequisites:** Psy Rating 4.
 
@@ -717,7 +717,7 @@ You are among the most powerful psykers in the Imperium. Gain a number of Discip
 
 **Special:** If your Willpower Bonus later increases, you do not retroactively gain additional powers.
 
-# **Psy Rating 6**
+### **Psy Rating 6**
 
 **Prerequisites:** Psy Rating 5.
 
@@ -725,121 +725,121 @@ You have reached perhaps the greatest human potential with psychic powers and fe
 
 **Special:** If your Willpower Bonus later increases, you do not retroactively gain additional powers.
 
-# **Psychic Power**
+### **Psychic Power**
 
 **Talent Groups:** All Psychic Powers.
 
 You have acquired an additional Psychic Power. You gain one power of any Discipline you know.
 
-# **Quick Draw**
+### **Quick Draw**
 
 You are quick to the draw, able to have a weapon in your hand and ready for combat in the blink of an eye. You can Ready as a Free Action.
 
-# **Rapid Reaction**
+### **Rapid Reaction**
 
 **Prerequisites:** Agility 40.
 
 You have a hair trigger and react to a change in any situation in an instant. When Surprised or ambushed, you may make an Agility Test to act normally.
 
-# **Rapid Reload**
+### **Rapid Reload**
 
 You have spent so long practising weapons drills that you can reload a gun in an instant. All reload times are reduced by half (round down)—so a Half Action reload become a Free Action, a Full Action reload becomes a Half Action and so on.
 
-# **Resistance**
+### **Resistance**
 
 **Talent Groups:** Cold, Fear, Heat, Poisons, Psychic Powers.
 
 Whether through past exposure, gruelling physical training or luck of genetics, you are highly resistant to a particular thing. When you pick this Talent select a group to be resistant to. You gain a +10 bonus when making a test to resist or avoid the object of your resistance.
 
-# **Rite of Awe**
+### **Rite of Awe**
 
 **Prerequisites:** Tech-Priest (Respirator Unit).
 
 You may recite an infrasonic liturgy that causes awe and fear. All humans within a 50 metre radius regardless of their ability to hear, feel a sense of dread and religious guilt. Alongside these emotional effects, all humans take a –10 penalty to their next Skill Test. Characters may make a Willpower Test to shake off these effects. Whilst incanting the rite, you may not talk on any additional frequency. The rite is two minutes long, and it is considered very bad form to break off incantations at any point within the liturgy. Note that humans without auditory implants cannot hear infrasonic sound, and thus will assume you are not speaking.
 
-# **Rite of Fear**
+### **Rite of Fear**
 
 **Prerequisites:** Tech-Priest (Respirator Unit).
 
 You may recite an infrasonic dirge, which causes terror within the weak. All humans, regardless of their ability to hear, within a 50 metre radius consider you to have a Fear Rating of 1. Whilst incanting the dirge, you may not talk on any additional frequency. The rite is two minutes long, and it is considered very bad form to break off incantations at any point within the liturgy. Note that humans without auditory implants cannot hear infrasonic sound, and thus will assume you are not speaking.
 
-# **Rite of Pure Thought**
+### **Rite of Pure Thought**
 
 **Prerequisites:** Tech-Priest (Cranial Circuitry).
 
 You have replaced the creative right half of your brain with a cogitator. You no longer feel emotion, and are instead filled with the cold purity of logic. You are now immune to Fear, Pinning and any effects that cause emotional disturbance. Others now find you disturbing to say the least. Your GM will remove any Mental Disorders that are no longer relevant, and grant you new ones of equal severity.
 
-# **Sharpshooter**
+### **Sharpshooter**
 
 **Prerequisites:** Ballistic Skill 40, Deadeye Shot.
 
 You are skilled at making difficult shots. When making a Called Shot you do not incur the normal –20 penalty. This Talent replaces Deadeye Shot.
 
-# **Sound Constitution**
+### **Sound Constitution**
 
 You are able to absorb more damage before you die. You gain an additional Wound. If your advance scheme allows it, you may purchase this Talent multiple times.
 
-# **Sprint**
+### **Sprint**
 
 You are able to put on a burst of speed to get out of—or into—trouble fast. When taking the Full Move action, you may move an extra number of metres equal to your Agility Bonus. When taking the Run action, you may double your Movement for one Round. If you use this Talent two turns in a row, you gain one level of Fatigue.
 
-# **Step Aside**
+### **Step Aside**
 
 **Prerequisites:** Agility 40, Dodge.
 
 You are quick at getting out of the way of attacks. You may make an additional Dodge once per Round. In effect this gives a character a second Reaction that may only be used to Dodge, thus allowing them to make two Dodges in a Turn. Note they may still only attempt a single Dodge against any one attack.
 
-# **Street Fighting**
+### **Street Fighting**
 
 You are a master of dirty tricks such as the low punch and the knife in the gut. When dealing Critical Damage with an unarmed attack or knife, you deal +2 points of Damage.
 
-# **Strong Minded**
+### **Strong Minded**
 
 **Prerequisites:** Willpower 30, Resistance (Psychic Powers).
 
 Your mind is like a fortress guarded against psychic attack. You may reroll failed Willpower Tests to resist any Psychic Powers that affect your mind. Psychic Powers that have a physical effect, such as Telekinesis, are unaffected by this Talent.
 
-# **Sure Strike**
+### **Sure Strike**
 
 **Prerequisites:** Weapon Skill 30.
 
 You strike with precision, landing your blows wherever you intend them to hit. When determining where you hit an opponent with a melee attack, you may use the dice as you rolled them or reverse them, choosing the location you prefer. *For example, Beam rolls a 37 to hit an Ork. Ordinarily, Beam would strike location 73—the right leg but because he has the Sure Strike talent, he could choose to hit the alien in location 37—the body.*
 
-# **Swift Attack**
+### **Swift Attack**
 
 **Prerequisites:** Weapon Skill 35.
 
 As a Full Action, you may make two melee attacks on your Turn.
 
-# **Takedown**
+### **Takedown**
 
 You are skilled at taking an opponent alive. As a Half Action you may declare that you are attempting to Takedown an opponent before Testing Weapon Skill. If you hit and do at least 1 point of Damage, this damage is ignored and your opponent must make a Toughness Test or be Stunned for one Round.
 
-# **Talented**
+### **Talented**
 
 **Talent Groups:** All Skills.
 
 Choose any one of your Skills. You gain a +10 bonus to Tests when using this Skill.
 
-# **Technical Knock**
+### **Technical Knock**
 
 **Prerequisites:** Intelligence 30.
 
 With a honeyed whisper and ritual motion, you can awaken sleeping gun-spirits into furious action once more. You may unjam any gun as a Half Action. You must touch the gun in question to enact this rite. You may only perform this rite on one weapon per Round—any more would be disrespectful.
 
-# **Thrown Weapon Training**
+### **Thrown Weapon Training**
 
 **Talent Groups:** Primitive, Chain, Shock, Power.
 
 You have received basic training in a group of thrown weaponry, and can use such weapons without penalty.
 
-# **Total Recall**
+### **Total Recall**
 
 **Prerequisites:** Intelligence 30.
 
 Through long years of mental conditioning and practice, your mind is like an archive, able to record and recall great amounts of information. You can automatically remember any trivial fact or piece of information that you might feasibly have picked up in the past. When trying to recall more detailed or obscure facts, such as the precise layout of a crime scene or a page you read in an ancient grimoire five years ago, the GM may require you to make an Intelligence Test.
 
-# **True Grit**
+### **True Grit**
 
 **Prerequisites:** Toughness 40.
 
@@ -849,21 +849,21 @@ You are able to shrug off wounds that would fell lesser men. Whenever you suffer
 
 *Drake has the True Grit talent and is shot for 12 points of Damage. He has a TB of 3, 2 points of armor and 3 Wounds remaining. This means that after reduction for TB, armor and Wounds, the Critical Damage he takes (i.e. damage suffered once a character reaches 0 Wounds) is 4 (12-3+2+3=4). Because he has the True Grit talent this Damage is then halved. Drake therefore only takes 2 points of Critical Damage.*
 
-# **Two-Weapon Wielder**
+### **Two-Weapon Wielder**
 
 **Talent Groups:** Ballistic, Melee. **Prerequisites:** Ballistic Skill 35 or Weapon Skill 35, Agility 35.
 
 When armed with two weapons of a particular type, you may spend a Full Action to attack with both on your turn. Each Test made to attack with the weapons takes a –20 penalty (see **Chapter VII: Playing the Game, [page 197](#page-197-0)** for more details). You must take Two-Weapon Wielder (Melee) *and* Two-Weapon Wielder (Ballistic) if you wish to use a gun and hand weapon at the same time.
 
-# **Unremarkable**
+### **Unremarkable**
 
 You have a forgettable face and are able to blend in with a crowd. Attempts to notice you when amongst other people or anyone attempting to describe you or recall details about you incurs a –20 penalty.
 
-# **Unshakeable Faith**
+### **Unshakeable Faith**
 
 Your faith that the Emperor will preserve you is so strong that you are unafraid of stepping into danger. You may re-roll any failed Willpower Tests to avoid the effects of Fear.
 
-# **Wall of Steel**
+### **Wall of Steel**
 
 **Prerequisites:** Agility 35.
 
