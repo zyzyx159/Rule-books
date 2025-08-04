@@ -158,7 +158,7 @@ Descriptions of the various Talents follow.
 | Unshakeable Faith       | —                                      | You may re-roll failed Fear Tests.                                                          |
 | Wall of Steel           | Ag 35                                  | Gain an extra Parry each Round.                                                             |
 | †Denotes Talent group.  |                                        |                                                                                             |
-## Talent Details
+# Talent Details
 ### **Air of Authority**
 
 **Prerequisites:** Fellowship 30.

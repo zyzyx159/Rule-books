@@ -1,23 +1,25 @@
+# SKILL INFORMATION
+
 *"It is likely that I have forgotten more about the Imperium than you will ever know, acolyte."*
 — Kyos Veeble, Autosavant.
 
 P S Part of the fun of Dark Heresy is deciding which Skills to develop and learn during the career of your character. This chapter contains all the detailed information you might need to help you use Skills to their full effect. See **Chapter VII: Playing the Game** on **[page](#page-182-0) [182](#page-182-0)**, for details on Skill Tests, Characteristics and how they are made.
 
-# GAINING SKILLS
+## GAINING SKILLS
 *"Foolish are those who fear nothing, yet claim to know everything."*
 — *Lexiconum Moralis.*
 
 When you create your character you begin with a list of starting Skills based on your home world, as well as a selection of Skills from your Career Path. These Skills represent what you have learned in your life up to the point where you chose to serve the Inquisition. Over time, you will gain additional Experience, which you can spend to acquire new Skills or improve existing ones.
 
-# **SKILL MASTERY**
+## **SKILL MASTERY**
 
 Sometimes you will have the opportunity to acquire the same Skill more than once. Each time you acquire a Skill a second or subsequent time, you gain Skill Mastery with it. Skill Mastery adds a +10 bonus to all Skill Tests made with this Skill. You can acquire the same Skill no more than three times (granting a maximum Skill Mastery of +20). This represents additional training and experience with the Skill you have gained during your career.
 
-# **Example**
+### **Example**
 
 *Mordechai has the Interrogation skill. At a later date his Arbitrator Career Path gives him the opportunity to acquire the Skill again. As he already has the Skill, he gains Skill Mastery, granting him a +10 bonus to any Skill Tests made with Interrogation.*
 
-# BASIC & ADVANCED SKILLS
+## BASIC & ADVANCED SKILLS
 
 *"Even the lowest trade is blessed, if it is done in the Emperor's name."*
 
@@ -25,23 +27,23 @@ Sometimes you will have the opportunity to acquire the same Skill more than once
 
 Skills are divided into two categories: Basic and Advanced. This distinction defines which Skills you can use without special training and which Skills you can't.
 
-# **BASIC SKILLS**
+### **BASIC SKILLS**
 
 Basic Skills are those common to citizens throughout the Imperium, and simply growing up on a world under Imperial rule exposes characters to the rudiments of the Skill. As a result, you can make Skill Tests using Basic Skills even if you don't have the Skill in question. Since you are relying on natural aptitude rather than any sort of formal training, you make the test at half (round down) your Characteristic.
 
-# **ADVANCED SKILLS**
+### **ADVANCED SKILLS**
 
 Advanced Skills are those that require training and experience in order to master and understand. If you do not have an Advanced Skill, you cannot attempt it. No matter how intelligent you are, for instance, you will not be able to access an encrypted cogitator engine without some formal training.
 
-# **SKILL DESCRIPTORS**
+## **SKILL DESCRIPTORS**
 
 Some Skills are flagged with special descriptors such as combat, crafting, interaction, investigation, movement or operator. These Skills use special rules that are described in **Chapter VII: Playing the Game** and **Chapter VIII: The Game Master.** In summary, Crafting skills are those used to create items from scratch and spare parts. Interaction skills are those used when interacting with NPCs. Investigation skills are those used to ferret out additional information about a subject. Movement skills offer alternative means to get around your environment. And finally, Operator skills allow you to operate a vehicle.
 
-# **Crafting Skills**
+### **Crafting Skills**
 
 Certain Skills enable you to create items from parts and materials. To do so, you must have the materials, as determined by the GM, available. You then test the appropriate Skill (e.g. Chem-Use or Trade (any)) applying any bonuses or penalties due to the quality of materials, environmental factors and anything else as determined by the GM. On a success, you generate the item. Note that the quality/finish/usefulness of the item improves for each degree of success gained. Failing by three degrees indicates you have ruined some of the materials. Failing by five or more degrees indicates that you have completely ruined all of the Skill Groups materials and must start over from scratch. Note that the time it takes to create the item is determined by the GM.
 
-# **Interaction Skills**
+### **Interaction Skills**
 
 The difficulty of the Skill Test depends on the target's disposition, which is determined by the GM. See **Chapter VIII: The Game Master** for guidelines. Note that this is a guide, and your GM may modify the difficulties based on the circumstances of the encounter.
 
@@ -108,7 +110,7 @@ Some of the listed Skills are actually groups of related abilities. Skill groups
 
 Descriptions of both Basic and Advanced Skills follow, presented in alphabetical order.
 
-# **Acrobatics (Advanced, Movement) Agility**
+## **Acrobatics (Advanced, Movement) Agility**
 
 The Acrobatics skill encompasses a variety of movement techniques unavailable to less flexible Acolytes. From performing somersaults to tumbling, from flipping through the air to daring leaps and jumps, this Skill expands your movement options.
 
@@ -122,7 +124,7 @@ There are two special rules associated with this Skill:
 
 An Acrobatics Test is typically a Full Action.
 
-# **Awareness (Basic) Perception**
+## **Awareness (Basic) Perception**
 
 The Awareness skill reflects your ability to perceive hidden dangers and to notice small details about your physical surroundings. You use the Awareness skill to notice ambushes, spot traps and discern other threats to you and your allies. Awareness is not tied to any one sense; it encompasses them all.
 
@@ -130,13 +132,13 @@ When using Awareness to detect a hidden enemy, the Test is always Opposed. Other
 
 An Awareness Test is usually a Free Action made in reaction to something.
 
-# **Barter (Basic) Fellowship**
+## **Barter (Basic) Fellowship**
 
 You can use the Barter skill to negotiate deals and get better prices on goods and services. When dealing with day-to-day affairs, like haggling in a bazaar over the price of a fine set of tarot cards, or trading lho-sticks for food in an arbitrator cell block, a single Test is sufficient. However, for important deals, such as those entailing risk to one side, carried out under dangerous circumstances or involving a large amount of Thrones (negotiating the bounty on the head of a dangerous alien, for instance), the GM may call for an Opposed Test, with both sides using their Barter skill. As a rough guide, a success will reduce the price of an item by 10%, with each additional success reducing it by a further 5%.
 
 A typical Barter Test takes about five minutes, but delicate dealings and intricate negotiations may require more time, as decided by the GM.
 
-# **Blather (Advanced, Interaction) Fellowship**
+## **Blather (Advanced, Interaction) Fellowship**
 
 When you make a Blather Test, you stall for time by running off at the mouth, spewing a stream of words and nonsense in an attempt to confuse and distract others. A Blather Test is always Opposed by your target's Willpower (or Scrutiny). If you succeed and the target fails, the target is distracted by you and can do nothing for one Round, staring dumbfounded and wondering if you are drunk, crazy or both. For every degree of success, you dumbfound the target for an additional Round.
 
@@ -148,7 +150,7 @@ NPCs, while confused by your banter, are unaffected by your words if they are in
 
 A Blather Test is a Full Action.
 
-# **Carouse (Basic) Toughness**
+## **Carouse (Basic) Toughness**
 
 Whether consuming the finest amasec brandy or the cheapest stomach-stripping hive juices, you use the Carouse skill to resist the effects of alcohol and narcotics. Experienced carousers can build up quite a tolerance and remain clear-headed and lucid while those around them succumb to the effects of their amusements. Use this Skill whenever you must resist the effects of alcohol or similar intoxicants.
 
@@ -156,7 +158,7 @@ Each time you take a drink or some other form of intoxicant, make a Carouse Test
 
 A Carouse Test is a Free Action. You use this Skill whenever you imbibe.
 
-# **Charm (Basic, Interaction) Fellowship**
+## **Charm (Basic, Interaction) Fellowship**
 
 The Charm skill is used to befriend others. You make Charm Tests whenever you want to change the minds of individuals or small groups, to beg, or seduce. You need not make a Charm
 
@@ -166,7 +168,7 @@ A Charm Test can affect a number of targets equal to your Fellowship Bonus and y
 
 A Charm Test typically takes one minute.
 
-# **Chem-Use (Advanced, Crafting, Investigation) Intelligence**
+## **Chem-Use (Advanced, Crafting, Investigation) Intelligence**
 
 You can use the Chem-Use skill to handle and prepare chemicals safely, especially toxins, poisons and drugs. Chem-Use covers the use and manufacture of toxins and it can also be used to identify a variety of chemicals (Investigation use).
 
@@ -178,7 +180,7 @@ A Chem-Use Test to administer a chemical is a Full Action.
 
 Using Chem-Use to manufacture toxins utilises the rules for Crafting items as described on **[page 96](#page-96-0)**.
 
-# **Ciphers (Advanced) Intelligence**
+## **Ciphers (Advanced) Intelligence**
 
 **Skill Group:** Acolyte, War Cant, Secret Society, Occult and Underworld.
 
