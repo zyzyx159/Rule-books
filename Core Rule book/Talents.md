@@ -253,83 +253,83 @@ Through a combination of reflex and perception you are able to keep many more op
 
 You have a small compartment hidden upon your person. This might be a pouch within your flesh, or a chamber fitted into one of your cybernetic implants. You may conceal one small item, no bigger than the palm of your hand, within this cavity. The compartment may be discovered on a Difficult (–10) Search Test. If the searcher employs additional technology, such as a medicae scanner or chem-sniffer, this difficulty is reduced to Ordinary (+10).
 
-# **Corpus Conversion**
+### **Corpus Conversion**
 
 **Prerequisites:** Psy Rating 2.
 
 You can siphon the health of your physical body to fuel your powers. For every 2 points of Damage you voluntarily take, you may add your Willpower Bonus to your Power Roll. Using this Talent is a Free Action.
 
-# **Counter-attack**
+### **Counter-attack**
 
 **Prerequisites:** Weapon Skill 40.
 
 You are skilled at switching from defence to attack in the blink of an eye. When you successfully Parry an opponent's attack, you may immediately make an attack against that opponent using the weapon with which you Parried. This attack takes a –20 penalty to the Test.
 
-# **Crack Shot**
+### **Crack Shot**
 
 **Prerequisites:** Ballistic Skill 40.
 
 You are able to target your shots at the places where they will inflict more harm. When your ranged attack deals Critical Damage, you deal an extra 2 points.
 
-# **Crippling Strike**
+### **Crippling Strike**
 
 **Prerequisites:** Weapon Skill 50. You are able to land your blows in the spot where they will inflict the most harm. Whenever you deal Critical Damage to an opponent using a melee weapon, you may deal an additional 1d5–1 points.
 
-# **Crushing Blow**
+### **Crushing Blow**
 
 **Prerequisites:** Strength 40.
 
 Your melee strikes land with force enough to shatter bone. You add +2 to Damage you inflict in melee.
 
-# **Dark Soul**
+### **Dark Soul**
 
 Your soul is darkly stained, making you resilient to the effects of Corruption. Whenever you are called to make a Malignancy Test, you take half the normal penalty. See **Chapter VIII: The Game Master, [page 238](#page-238-0)** for details on Corruption.
 
-# **Deadeye Shot**
+### **Deadeye Shot**
 
 **Prerequisites:** Ballistic Skill 30.
 
 You always hit an opponent right between the eyes… or wherever else you intended to hit him. When making a Called Shot, you take only a –10 penalty instead of the normal –20.
 
-# **Decadence**
+### **Decadence**
 
 **Prerequisites:** Toughness 30.
 
 Either through mental and physical conditioning or long years of abuse, your body has built up a tolerance to chemicals. When drinking alcohol or similar beverages, you do not pass out until you have failed a number of Toughness Tests equal to twice your Toughness Bonus. You also gain a +10 bonus to tests made to continue using drugs within 24 hours.
 
-# **Deflect Shot**
+### **Deflect Shot**
 
 **Prerequisites:** Agility 50.
 
 You are able to knock aside Thrown weapons and shots fired from Primitive weapons. You may spend a Reaction to Parry an incoming ranged attack so long as the attack is from a Primitive or Thrown weapon.
 
-# **Die Hard**
+### **Die Hard**
 
 **Prerequisites:** Willpower 40.
 
 It takes more than most to finish you off. When you suffer from Blood Loss, you may roll twice to avoid death.
 
-# **Disarm**
+### **Disarm**
 
 **Prerequisites:** Agility 30.
 
 You are able to knock your opponent's weapons from their hands. When engaged with an opponent wielding a melee weapon, you may use a Full Action to disarm your foe by making an Opposed Weapon Skill Test. If you beat your opponent, he drops his weapon to his feet. Should you get three or more degrees of success, you not only disarm him but also take his weapon from him!
 
-# **Discipline Focus**
+### **Discipline Focus**
 
 **Talent Groups:** Biomancy, Divination, Pyromancy, Telekinetics, Telepathy. **Prerequisites:** Psy Rating 3
 
 You devote a great deal of time and effort into mastering your Discipline. Choose one of your Disciplines. You gain a +2 to Power Rolls made to manifest any powers of this Discipline.
 
-# **Disturbing Voice**
+### **Disturbing Voice**
 
 You have a sinister and upsetting voice. This may be due to infrasonic cadences produced by a vox synthesiser, interrogation training or just an inborn air of malice. You gain +10 bonus to all Intimidate or Interrogation Tests when you use your voice. You take a –10 penalty to Fellowship Tests when dealing with persons who are likely to be off put by your manner (psykers, small children, nervous Grox and so on).
 
-# **Double Team**
+### **Double Team**
 
 You fight best shoulder to shoulder with a loyal ally. When ganging up on an opponent with an ally, you gain an additional +10 bonus to Weapon Skill Tests. If you both have this Talent you both gain an additional +10 bonus, for a total of +20. This bonus is in addition to the normal bonuses gained from outnumbering an opponent.
 
-# **Dual Shot**
+### **Dual Shot**
 
 **Prerequisites:** Agility 40, Two-Weapon Wielder.
 
@@ -337,19 +337,19 @@ You are able to focus the firepower of two guns to maximise the impact. When arm
 
 can fire both simultaneously as a Full Action. Make a single Ballistic Skill Test. On a success, you hit the target with both shots.
 
-# **Dual Strike**
+### **Dual Strike**
 
 **Prerequisites:** Agility 40, Two-Weapon Wielder.
 
 You are able to focus your melee attacks to maximise the impact. When armed with two melee weapons, you can attack with both simultaneously as a Full Action. Make a single Weapon Skill Test. On a success, you hit the target with both weapons.
 
-# **Electrical Succour**
+### **Electrical Succour**
 
 **Prerequisites:** Tech-Priest (Electoo inductor/Potentia coil).
 
 You call upon the sacred flow of energy to replenish your weak flesh. Whilst in contact with a functioning, powered machine, or fully charged battery, you may make an Ordinary (+10) Toughness Test. If you succeed, remove one level of Fatigue plus one additional level of Fatigue for each degree of success. This takes one minute of meditation and ritual incantation to activate.
 
-# **Electro Graft Use**
+### **Electro Graft Use**
 
 You have the ability to use an electro graft to access data points and commune with machine spirits. This grants you a +10 bonus to Common Lore, Inquiry or Tech-Use Tests whilst connected to a data point.
 
