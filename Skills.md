@@ -94,13 +94,13 @@ Descriptions of both Basic and Advanced Skills follow, presented in alphabetical
 | [[#Shadowing]]              | Advanced |      Agility       |            —            |
 | [[#Silent Move]]            |  Basic   |      Agility       |            —            |
 | [[#Sleight of Hand]]        | Advanced |      Agility       |            —            |
-| Speak Language†             | Advanced |    Intelligence    |            —            |
-| Survival                    | Advanced |    Intelligence    |            —            |
-| Swim                        |  Basic   |      Strength      |        Movement         |
-| Tech-Use                    | Advanced |    Intelligence    |            —            |
-| Tracking                    | Advanced |    Intelligence    |            —            |
-| Trade†                      | Advanced |    Intelligence    |        Crafting         |
-| Wrangling                   | Advanced |    Intelligence    |            —            |
+| [[#Speak Language]]†        | Advanced |    Intelligence    |            —            |
+| [[#Survival]]               | Advanced |    Intelligence    |            —            |
+| [[#Swim]]                   |  Basic   |      Strength      |        Movement         |
+| [[#Tech-Use]]               | Advanced |    Intelligence    |            —            |
+| [[#Tracking]]               | Advanced |    Intelligence    |            —            |
+| [[#Trade]]†                 | Advanced |    Intelligence    |        Crafting         |
+| [[#Wrangling]]              | Advanced |    Intelligence    |            —            |
 | †Denotes a Skill Group.     |          |                    |                         |
 
 ## Acrobatics 

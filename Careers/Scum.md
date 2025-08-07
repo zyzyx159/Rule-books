@@ -38,9 +38,9 @@ Beggars, thieves and base born scum: the dregs of society are nevertheless hardy
 
 | Advance                                                   | Cost | Type | Prerequisites |
 | --------------------------------------------------------- | :--: | :--: | :-----------: |
-| Awareness                                                 | 100  |  S   |       —       |
-| Awareness +10                                             | 100  |  S   |   Awareness   |
-| Barter                                                    | 100  |  S   |       —       |
+| [[Skills#Awareness\|Awareness]]                           | 100  |  S   |       —       |
+| [[Skills#Awareness\|Awareness]] +10                       | 100  |  S   |   Awareness   |
+| [[Skills#Barter\|Barter]]                                 | 100  |  S   |       —       |
 | Blather                                                   | 100  |  S   |       —       |
 | Charm                                                     | 100  |  S   |       —       |
 | Common Lore (Imperium)                                    | 100  |  S   |       —       |
