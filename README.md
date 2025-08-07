@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # How to participate for beginners:
 ## Set up for the first time:
 ### Step 1
@@ -18,7 +17,5 @@ git checkout -b <your name here>
 
 ## Making changes
 ### Step 1
-||||||| dc5ea35
-=======
-test
->>>>>>> 090eba62d2259398db28d101b4a38db731f17ede
+Open Obsidian and make changes to your hearts content.
+@@
