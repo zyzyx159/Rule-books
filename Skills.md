@@ -180,10 +180,11 @@ Whilst excessive drinking is hardly encouraged by the Inquisition, only the most
 Each time you take a drink or some other form of intoxicant, make a Carouse Test. Failure indicates you have gained a level of Fatigue or suffered the side effects of the substance. Should you pass out as a result, you become unconscious for a number of hours equal to 1d10 minus your Toughness Bonus (minimum one hour). Your GM may incur further Test penalties as a result of intoxicant use as they see fit.
 
 A Carouse Test is a Free Action. You use this Skill whenever you imbibe. The following special rules are associated with this skill:
+#### **Drinking Contests:** 
+A drinking contest, whether in the form of a competition to drink alcohol the fastest or to be the last man standing, is simply an Opposed Carouse Test. The consequences for failure are usually embarrassing rather than harmful, although this does depend on the drink consumed.
 
-**Drinking Contests:** A drinking contest, whether in the form of a competition to drink alcohol the fastest or to be the last man standing, is simply an Opposed Carouse Test. The consequences for failure are usually embarrassing rather than harmful, although this does depend on the drink consumed.
-
-**Iron Stomach:** Acolytes who spend a great deal of time ingesting drugs and alcohol find that they develop a tolerance for a whole host of toxins. Whenever you knowingly consume something that is poisonous or toxic, you may make a Carouse Test in place of the Toughness Test. This use does not apply to poisons or toxins that have been injected, applied to weapons or delivered by any other non-oral methods.
+#### **Iron Stomach:** 
+Acolytes who spend a great deal of time ingesting drugs and alcohol find that they develop a tolerance for a whole host of toxins. Whenever you knowingly consume something that is poisonous or toxic, you may make a Carouse Test in place of the Toughness Test. This use does not apply to poisons or toxins that have been injected, applied to weapons or delivered by any other non-oral methods.
 ## **Charm 
 (Basic, Interaction) 
 Fellowship**
