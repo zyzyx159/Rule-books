@@ -58,7 +58,7 @@ Descriptions of both Basic and Advanced Skills follow, presented in alphabetical
 | [[#Barter]]                 |  Basic   |     Fellowship     |            —            |
 | [[#Blather]]                | Advanced |     Fellowship     |       Interaction       |
 | [[#Carouse]]                |  Basic   |     Toughness      |            —            |
-| [[#Charm]]                  |  Basic   |     Fellowship     |       Interaction       |
+| [Charm](Skills#Charm)       |  Basic   |     Fellowship     |       Interaction       |
 | [[#Chem-Use]]               | Advanced |    Intelligence    | Crafting, Investigation |
 | [[#Ciphers]]†               | Advanced |    Intelligence    |            —            |
 | [[#Climb]]                  |  Basic   |      Strength      |        Movement         |
