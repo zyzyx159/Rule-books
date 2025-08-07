@@ -16,6 +16,12 @@ Enter this command
 git checkout -b <your name here>
 ```
 This tells the computer to make a special place just for the changes you made so it won't mess up any of the edits anyone else has made.
+### Step 5
+Enter this command
+``` bash
+git push -u origin <your name here>
+```
+This tells the computer to make sure all of your changes are added to the server.
 ## Making changes
 ### Step 1
 Open Obsidian and make changes to your hearts content.
@@ -40,4 +46,4 @@ Wait for Zyzyx159 to do all the behind the git stuff that makes all this work so
 ### Step 7
 Profit? 
 ### Step 8
-If you want to make more changes run step 4 from the "set up for the first time" section. You do *NOT* need to do any of the others.
+If you want to make more changes run step 4 & 5 from the "set up for the first time" section. You do *NOT* need to do any of the others.
