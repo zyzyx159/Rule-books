@@ -262,20 +262,19 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 
 ### Las Pistol list
 
-| Name                                                        | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                                                             | Wt     | Cost  | World      | Availability |
-| ----------------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
-| [Dueling Las (Belasco)](Galaxy%of%Guns#Dueling%Las%Belasco) | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]                                                       | 1.5kg  | 250   | -          | Very Rare    |
-| [Duelling Las(K-A)](Galaxy%of%Guns#Duelling Las(K-A))       | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]]                                         | 1.7kg  | 220   | -          | Very Rare    |
-| [Hellpistol](Galaxy%of%Guns#HellPistol)                     | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                                                                   | 4kg†   | 2,500 | -          | Rare         |
-| [[#Laspistol]] (generic)                                    | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.5kg  | 50    | -          | Common       |
-| - [[#Civitas-Pattern]]                                      | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | [[#Reliable]]                                                       | 2kg    | 35    | -          | Common       |
-| - [[#Fury Assault Pistol]]                                  | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]]                                                       | 1.5kg  | 100   | -          | Scarce       |
-| - [[#Mark IV Command Laspistol]]                            | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full  | [[#Accurate]], [[#Reliable]],[[#WEAPON QUALITY VARIABLE\|Variable]] | 1.75kg | 150   | -          | Rare         |
-| - [[#Palatine Compact Laspistol]]                           | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.1kg  | 100   | -          | Average      |
-| - [[#Steel Burner Heavy Laspistol]]                         | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full  | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 2.5kg  | 100   | Fenksworld | Very Rare    |
-| [[#Las Gauntlets]]                                          | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | [[#Reliable]]                                                       | 3kg    | 350   | -          | Very Rare    |
-| [[#Series-S Venom Compact Pistol\|Series-S Venom]]          | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                                                                   | 0.5kg  | 120   | -          | Scarce       |
-
+| Name                                                               | Class  | Range | RoF   | Dam      | Pen | Clip | Rld  | Special                                                             | Wt     | Cost  | World      | Availability |
+| ------------------------------------------------------------------ | ------ | ----- | ----- | -------- | --- | ---- | ---- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
+| [Dueling Las (Belasco)](Galaxy%20of%20Guns#Dueling%20Las(Belasco)) | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full | [[#Accurate]]                                                       | 1.5kg  | 250   | -          | Very Rare    |
+| [Duelling Las(K-A)](Galaxy%20of%20Guns#Dueling%20Las(K-A))         | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full | [[#Accurate]], [[#Tearing]]                                         | 1.7kg  | 220   | -          | Very Rare    |
+| [Hellpistol](Galaxy%20of%20Guns#HellPistol)                        | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | Full | -                                                                   | 4kg†   | 2,500 | -          | Rare         |
+| [[#Laspistol]] (generic)                                           | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.5kg  | 50    | -          | Common       |
+| - [[#Civitas-Pattern]]                                             | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full | [[#Reliable]]                                                       | 2kg    | 35    | -          | Common       |
+| - [[#Fury Assault Pistol]]                                         | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full | [[#Reliable]]                                                       | 1.5kg  | 100   | -          | Scarce       |
+| - [[#Mark IV Command Laspistol]]                                   | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full | [[#Accurate]], [[#Reliable]],[[#WEAPON QUALITY VARIABLE\|Variable]] | 1.75kg | 150   | -          | Rare         |
+| - [[#Palatine Compact Laspistol]]                                  | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.1kg  | 100   | -          | Average      |
+| - [[#Steel Burner Heavy Laspistol]]                                | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 2.5kg  | 100   | Fenksworld | Very Rare    |
+| [[#Las Gauntlets]]                                                 | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full | [[#Reliable]]                                                       | 3kg    | 350   | -          | Very Rare    |
+| [[#Series-S Venom Compact Pistol\|Series-S Venom]]                 | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -    | -                                                                   | 0.5kg  | 120   | -          | Scarce       |
 †Not including power pack
 #### Dueling Las
 
