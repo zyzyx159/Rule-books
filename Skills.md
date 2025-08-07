@@ -51,10 +51,9 @@ Some of the listed Skills are actually groups of related abilities. Skill groups
 
 Descriptions of both Basic and Advanced Skills follow, presented in alphabetical order.
 
-| **Table: Skills**       |          |                    |                         |
-| ----------------------- | :------: | :----------------: | :---------------------: |
 | **Skill Name**          | **Type** | **Characteristic** |     **Descriptor**      |
-| Acrobatics              | Advanced |      Agility       |        Movement         |
+| ----------------------- | :------: | :----------------: | :---------------------: |
+| [Acrobatics\|Acrobat]   | Advanced |      Agility       |        Movement         |
 | Awareness               |  Basic   |     Perception     |            —            |
 | Barter                  |  Basic   |     Fellowship     |            —            |
 | Blather                 | Advanced |     Fellowship     |       Interaction       |
