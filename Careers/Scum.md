@@ -23,7 +23,7 @@ A[Dreg 0-499] --> B[outcast 500-999];
 B --> C[Outlaw 1,000-1,999];
 C --> D[Renegae 2,000-2,999];
 D --> E[Rouge 3,000-5,999]
-E -- Violance --> F[Cutter 6.000-7,999]
+E -- Violence --> F[Cutter 6.000-7,999]
 F --> G[Stubjack 8,000-9,9999]
 G --> H[Gang Lord 10,000-14,999]
 E -- Talking --> I[Fixer 6,000-7999]
@@ -174,7 +174,7 @@ Toughened by all that life can throw at him, the Rogue is a smart, skilled and d
 | Sound Constitution             | 200  |  T   |                   —                    |
 | Takedown                       | 200  |  T   |                   —                    |
 | Two-Weapon Wielder (Ballistic) | 200  |  T   |              BS 35, Ag 35              |
-# Violance
+# Violence
 ## **Cutter Advances**
 
 *"Mark my muzzle, you go there and beg for forgiveness. If Lex sends a Cutter on you, there ain't a place in this hive or the next that'll take you in or save you."*
@@ -382,3 +382,4 @@ The Charlatan is a master thief, who can bind even planetary governors to their 
 | Peer (Government)               | 300  |  T   |              Fel 30               |
 | Peer (Nobility)                 | 300  |  T   |              Fel 30               |
 | Sound Constitution              | 300  |  T   |                 —                 |
+Violence
