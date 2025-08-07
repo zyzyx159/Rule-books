@@ -264,7 +264,7 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 
 | Name                                               | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                                                             | Wt     | Cost  | World      | Availability |
 | -------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
-| [[#Dueling Las(Belasco)]]                          | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]                                                       | 1.5kg  | 250   | -          | Very Rare    |
+| [Dueling Las(Belasco)](Dueling Las)                | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]                                                       | 1.5kg  | 250   | -          | Very Rare    |
 | [[#Duelling Las(K-A)]]                             | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]]                                         | 1.7kg  | 220   | -          | Very Rare    |
 | [[#Hellpistol]]                                    | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                                                                   | 4kg†   | 2,500 | -          | Rare         |
 | [[#Laspistol]] (generic)                           | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.5kg  | 50    | -          | Common       |
