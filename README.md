@@ -58,4 +58,5 @@ Here are a few suggested videos:
 	2) From the guy who taught me C#
 3) https://www.youtube.com/watch?v=rH3zE7VlIMs
 	1) At 4 hours I'm pretty sure this one earned the title "The full course"
-	2) This guy is a full time, hard core developer. I have not watched it, but I'm 99% sure its over the top.
+	2) This guy is a full time, hard core developer. 
+	3) I have not watched it, but I'm 99% sure its over the top.
