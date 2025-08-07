@@ -56,9 +56,9 @@ Descriptions of both Basic and Advanced Skills follow, presented in alphabetical
 | [Acrobatics](Skills.md#Acrobatics) | Advanced |      Agility       |        Movement         |
 | [Awareness](Skills.md#Awareness)   |  Basic   |     Perception     |            —            |
 | [Barter](Skills.md#Barter)         |  Basic   |     Fellowship     |            —            |
-| [[#Blather]]                       | Advanced |     Fellowship     |       Interaction       |
-| [[#Carouse]]                       |  Basic   |     Toughness      |            —            |
-| [Charm](Skills#Charm)              |  Basic   |     Fellowship     |       Interaction       |
+| [Blather](Skills.md#Blather)       | Advanced |     Fellowship     |       Interaction       |
+| [Carouse](Skills.md#Carouse)       |  Basic   |     Toughness      |            —            |
+| [Charm](Skills.md#Charm)           |  Basic   |     Fellowship     |       Interaction       |
 | [[#Chem-Use]]                      | Advanced |    Intelligence    | Crafting, Investigation |
 | [[#Ciphers]]†                      | Advanced |    Intelligence    |            —            |
 | [[#Climb]]                         |  Basic   |      Strength      |        Movement         |
