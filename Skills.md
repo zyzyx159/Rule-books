@@ -65,35 +65,35 @@ Descriptions of both Basic and Advanced Skills follow, presented in alphabetical
 | [[#Command]]                |  Basic   |     Fellowship     |       Interaction       |
 | [[#Common Lore]]†           | Advanced |    Intelligence    |      Investigation      |
 | [[#Concealment]]            |  Basic   |      Agility       |            —            |
-| [[##]]Contortionist         |  Basic   |      Agility       |        Movement         |
-| Deceive                     |  Basic   |     Fellowship     |       Interaction       |
-| Demolition                  | Advanced |    Intelligence    |        Crafting         |
-| Disguise                    |  Basic   |     Fellowship     |            —            |
-| Dodge                       |  Basic   |      Agility       |        Movement         |
-| Drive†                      | Advanced |      Agility       |        Operator         |
-| Evaluate                    |  Basic   |    Intelligence    |      Investigation      |
-| Forbidden Lore†             | Advanced |    Intelligence    |      Investigation      |
-| Gamble                      |  Basic   |    Intelligence    |            —            |
-| Inquiry                     |  Basic   |     Fellowship     |      Investigation      |
-| Interrogation               | Advanced |     Willpower      |      Investigation      |
-| Intimidate                  |  Basic   |      Strength      |       Interaction       |
-| Invocation                  | Advanced |     Willpower      |            —            |
-| Lip Reading                 | Advanced |     Perception     |            —            |
-| Literacy                    | Advanced |    Intelligence    |            —            |
-| Logic                       |  Basic   |    Intelligence    |      Investigation      |
-| Medicae                     | Advanced |    Intelligence    |            —            |
-| Navigation†                 | Advanced |    Intelligence    |            —            |
-| Performer†                  | Advanced |     Fellowship     |            —            |
-| Pilot†                      | Advanced |      Agility       |        Operator         |
-| Psyniscience                | Advanced |     Perception     |            —            |
-| Scholastic Lore†            | Advanced |    Intelligence    |      Investigation      |
-| Scrutiny                    |  Basic   |     Perception     |            —            |
-| Search                      |  Basic   |     Perception     |            —            |
-| Secret Tongue†              | Advanced |    Intelligence    |            —            |
-| Security                    | Advanced |      Agility       |            —            |
-| Shadowing                   | Advanced |      Agility       |            —            |
-| Silent Move                 |  Basic   |      Agility       |            —            |
-| Sleight of Hand             | Advanced |      Agility       |            —            |
+| [[#Contortionist]]          |  Basic   |      Agility       |        Movement         |
+| [[#Deceive]]                |  Basic   |     Fellowship     |       Interaction       |
+| [[#Demolition]]             | Advanced |    Intelligence    |        Crafting         |
+| [[#Disguise]]               |  Basic   |     Fellowship     |            —            |
+| [[#Dodge]]                  |  Basic   |      Agility       |        Movement         |
+| [[#Drive]]†                 | Advanced |      Agility       |        Operator         |
+| [[#Evaluate]]               |  Basic   |    Intelligence    |      Investigation      |
+| [[#Forbidden Lore]]†        | Advanced |    Intelligence    |      Investigation      |
+| [[#Gamble]]                 |  Basic   |    Intelligence    |            —            |
+| [[#Inquiry]]                |  Basic   |     Fellowship     |      Investigation      |
+| [[#Interrogation]]          | Advanced |     Willpower      |      Investigation      |
+| [[#Intimidate]]             |  Basic   |      Strength      |       Interaction       |
+| [[#Invocation]]             | Advanced |     Willpower      |            —            |
+| [[#Lip Reading]]            | Advanced |     Perception     |            —            |
+| [[#Literacy]]               | Advanced |    Intelligence    |            —            |
+| [[#Logic]]                  |  Basic   |    Intelligence    |      Investigation      |
+| [[#Medicae]]                | Advanced |    Intelligence    |            —            |
+| [[#Navigation]]†            | Advanced |    Intelligence    |            —            |
+| [[#Performer]]†             | Advanced |     Fellowship     |            —            |
+| [[#Pilot]]†                 | Advanced |      Agility       |        Operator         |
+| [[#Psyniscience]]           | Advanced |     Perception     |            —            |
+| [[#Scholastic Lore]]†       | Advanced |    Intelligence    |      Investigation      |
+| [[#Scrutiny]]               |  Basic   |     Perception     |            —            |
+| [[#Search]]                 |  Basic   |     Perception     |            —            |
+| [[#Secret Tongue]]†         | Advanced |    Intelligence    |            —            |
+| [[#Security]]               | Advanced |      Agility       |            —            |
+| [[#Shadowing]]              | Advanced |      Agility       |            —            |
+| [[#Silent Move]]            |  Basic   |      Agility       |            —            |
+| [[#Sleight of Hand]]        | Advanced |      Agility       |            —            |
 | Speak Language†             | Advanced |    Intelligence    |            —            |
 | Survival                    | Advanced |    Intelligence    |            —            |
 | Swim                        |  Basic   |      Strength      |        Movement         |
