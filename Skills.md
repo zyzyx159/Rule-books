@@ -64,8 +64,8 @@ Descriptions of both Basic and Advanced Skills follow, presented in alphabetical
 | [[#Climb]]                  |  Basic   |      Strength      |        Movement         |
 | [[#Command]]                |  Basic   |     Fellowship     |       Interaction       |
 | [[#Common Lore]]†           | Advanced |    Intelligence    |      Investigation      |
-| [[Concealment               |  Basic   |      Agility       |            —            |
-| Contortionist               |  Basic   |      Agility       |        Movement         |
+| [[#Concealment]]            |  Basic   |      Agility       |            —            |
+| [[##]]Contortionist         |  Basic   |      Agility       |        Movement         |
 | Deceive                     |  Basic   |     Fellowship     |       Interaction       |
 | Demolition                  | Advanced |    Intelligence    |        Crafting         |
 | Disguise                    |  Basic   |     Fellowship     |            —            |
