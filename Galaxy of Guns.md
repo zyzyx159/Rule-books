@@ -261,12 +261,11 @@ Aside from their ease of use, the abundance of ammunition in the form of standar
 Guardsmen who are "in the know" have been able to improvise their lasguns into bombs by cutting out certain safety features and setting the charge packs to build up a runaway energy reaction. Such a manoeuvre would only be sanctioned during an emergency, such as to cover a withdrawal or prevent weapons from becoming captured by the enemy, but can also make for a nasty surprise by clever (or devious) mercenaries and other ex-Guard fighters. Any basic or pistol-class las weapon with a charge pack that is at least half of a full charge can be made to explode like a Frag Grenade with a Difficult (-10) Tech-Use Test. The gun explodes 1d5+1 Rounds later.
 
 ### Las Pistol list
-[Awareness](skills#awareness)
 
 | Name                                                        | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                                                             | Wt     | Cost  | World      | Availability |
 | ----------------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
 | [Dueling Las (Belasco)](Galaxy%of%Guns#Dueling%Las%Belasco) | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]                                                       | 1.5kg  | 250   | -          | Very Rare    |
-| [[#Duelling Las(K-A)]]                                      | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]]                                         | 1.7kg  | 220   | -          | Very Rare    |
+| [Duelling Las(K-A)](Galaxy%of%Guns#Duelling Las(K-A))       | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]]                                         | 1.7kg  | 220   | -          | Very Rare    |
 | [Hellpistol](Galaxy%of%Guns#HellPistol)                     | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                                                                   | 4kg†   | 2,500 | -          | Rare         |
 | [[#Laspistol]] (generic)                                    | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.5kg  | 50    | -          | Common       |
 | - [[#Civitas-Pattern]]                                      | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | [[#Reliable]]                                                       | 2kg    | 35    | -          | Common       |
