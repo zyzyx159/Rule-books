@@ -51,61 +51,61 @@ Some of the listed Skills are actually groups of related abilities. Skill groups
 
 Descriptions of both Basic and Advanced Skills follow, presented in alphabetical order.
 
-| **Skill Name**          | **Type** | **Characteristic** |     **Descriptor**      |
-| ----------------------- | :------: | :----------------: | :---------------------: |
-| [Acrobatics\|Acrobat]   | Advanced |      Agility       |        Movement         |
-| Awareness               |  Basic   |     Perception     |            —            |
-| Barter                  |  Basic   |     Fellowship     |            —            |
-| Blather                 | Advanced |     Fellowship     |       Interaction       |
-| Carouse                 |  Basic   |     Toughness      |            —            |
-| Charm                   |  Basic   |     Fellowship     |       Interaction       |
-| Chem-Use                | Advanced |    Intelligence    | Crafting, Investigation |
-| Ciphers†                | Advanced |    Intelligence    |            —            |
-| Climb                   |  Basic   |      Strength      |        Movement         |
-| Command                 |  Basic   |     Fellowship     |       Interaction       |
-| Common Lore†            | Advanced |    Intelligence    |      Investigation      |
-| Concealment             |  Basic   |      Agility       |            —            |
-| Contortionist           |  Basic   |      Agility       |        Movement         |
-| Deceive                 |  Basic   |     Fellowship     |       Interaction       |
-| Demolition              | Advanced |    Intelligence    |        Crafting         |
-| Disguise                |  Basic   |     Fellowship     |            —            |
-| Dodge                   |  Basic   |      Agility       |        Movement         |
-| Drive†                  | Advanced |      Agility       |        Operator         |
-| Evaluate                |  Basic   |    Intelligence    |      Investigation      |
-| Forbidden Lore†         | Advanced |    Intelligence    |      Investigation      |
-| Gamble                  |  Basic   |    Intelligence    |            —            |
-| Inquiry                 |  Basic   |     Fellowship     |      Investigation      |
-| Interrogation           | Advanced |     Willpower      |      Investigation      |
-| Intimidate              |  Basic   |      Strength      |       Interaction       |
-| Invocation              | Advanced |     Willpower      |            —            |
-| Lip Reading             | Advanced |     Perception     |            —            |
-| Literacy                | Advanced |    Intelligence    |            —            |
-| Logic                   |  Basic   |    Intelligence    |      Investigation      |
-| Medicae                 | Advanced |    Intelligence    |            —            |
-| Navigation†             | Advanced |    Intelligence    |            —            |
-| Performer†              | Advanced |     Fellowship     |            —            |
-| Pilot†                  | Advanced |      Agility       |        Operator         |
-| Psyniscience            | Advanced |     Perception     |            —            |
-| Scholastic Lore†        | Advanced |    Intelligence    |      Investigation      |
-| Scrutiny                |  Basic   |     Perception     |            —            |
-| Search                  |  Basic   |     Perception     |            —            |
-| Secret Tongue†          | Advanced |    Intelligence    |            —            |
-| Security                | Advanced |      Agility       |            —            |
-| Shadowing               | Advanced |      Agility       |            —            |
-| Silent Move             |  Basic   |      Agility       |            —            |
-| Sleight of Hand         | Advanced |      Agility       |            —            |
-| Speak Language†         | Advanced |    Intelligence    |            —            |
-| Survival                | Advanced |    Intelligence    |            —            |
-| Swim                    |  Basic   |      Strength      |        Movement         |
-| Tech-Use                | Advanced |    Intelligence    |            —            |
-| Tracking                | Advanced |    Intelligence    |            —            |
-| Trade†                  | Advanced |    Intelligence    |        Crafting         |
-| Wrangling               | Advanced |    Intelligence    |            —            |
-| †Denotes a Skill Group. |          |                    |                         |
+| **Skill Name**              | **Type** | **Characteristic** |     **Descriptor**      |
+| --------------------------- | :------: | :----------------: | :---------------------: |
+| [[#Acrobatics]]             | Advanced |      Agility       |        Movement         |
+| [[#**Awareness\|Awareness]] |  Basic   |     Perception     |            —            |
+| Barter                      |  Basic   |     Fellowship     |            —            |
+| Blather                     | Advanced |     Fellowship     |       Interaction       |
+| Carouse                     |  Basic   |     Toughness      |            —            |
+| Charm                       |  Basic   |     Fellowship     |       Interaction       |
+| Chem-Use                    | Advanced |    Intelligence    | Crafting, Investigation |
+| Ciphers†                    | Advanced |    Intelligence    |            —            |
+| Climb                       |  Basic   |      Strength      |        Movement         |
+| Command                     |  Basic   |     Fellowship     |       Interaction       |
+| Common Lore†                | Advanced |    Intelligence    |      Investigation      |
+| Concealment                 |  Basic   |      Agility       |            —            |
+| Contortionist               |  Basic   |      Agility       |        Movement         |
+| Deceive                     |  Basic   |     Fellowship     |       Interaction       |
+| Demolition                  | Advanced |    Intelligence    |        Crafting         |
+| Disguise                    |  Basic   |     Fellowship     |            —            |
+| Dodge                       |  Basic   |      Agility       |        Movement         |
+| Drive†                      | Advanced |      Agility       |        Operator         |
+| Evaluate                    |  Basic   |    Intelligence    |      Investigation      |
+| Forbidden Lore†             | Advanced |    Intelligence    |      Investigation      |
+| Gamble                      |  Basic   |    Intelligence    |            —            |
+| Inquiry                     |  Basic   |     Fellowship     |      Investigation      |
+| Interrogation               | Advanced |     Willpower      |      Investigation      |
+| Intimidate                  |  Basic   |      Strength      |       Interaction       |
+| Invocation                  | Advanced |     Willpower      |            —            |
+| Lip Reading                 | Advanced |     Perception     |            —            |
+| Literacy                    | Advanced |    Intelligence    |            —            |
+| Logic                       |  Basic   |    Intelligence    |      Investigation      |
+| Medicae                     | Advanced |    Intelligence    |            —            |
+| Navigation†                 | Advanced |    Intelligence    |            —            |
+| Performer†                  | Advanced |     Fellowship     |            —            |
+| Pilot†                      | Advanced |      Agility       |        Operator         |
+| Psyniscience                | Advanced |     Perception     |            —            |
+| Scholastic Lore†            | Advanced |    Intelligence    |      Investigation      |
+| Scrutiny                    |  Basic   |     Perception     |            —            |
+| Search                      |  Basic   |     Perception     |            —            |
+| Secret Tongue†              | Advanced |    Intelligence    |            —            |
+| Security                    | Advanced |      Agility       |            —            |
+| Shadowing                   | Advanced |      Agility       |            —            |
+| Silent Move                 |  Basic   |      Agility       |            —            |
+| Sleight of Hand             | Advanced |      Agility       |            —            |
+| Speak Language†             | Advanced |    Intelligence    |            —            |
+| Survival                    | Advanced |    Intelligence    |            —            |
+| Swim                        |  Basic   |      Strength      |        Movement         |
+| Tech-Use                    | Advanced |    Intelligence    |            —            |
+| Tracking                    | Advanced |    Intelligence    |            —            |
+| Trade†                      | Advanced |    Intelligence    |        Crafting         |
+| Wrangling                   | Advanced |    Intelligence    |            —            |
+| †Denotes a Skill Group.     |          |                    |                         |
 
-## **Acrobatics 
+## Acrobatics 
 (Advanced, Movement) 
-Agility**
+Agility
 
 The Acrobatics skill encompasses a variety of movement techniques unavailable to less flexible Acolytes. From performing somersaults to tumbling, from flipping through the air to daring leaps and jumps, this Skill expands your movement options. Useful for the Acolyte on the move, Acrobatics can be used in numerous situations to negate obstacles and circumvent treacherous conditions. Acrobatics can also provide a definitive edge when facing less agile foes.
 
@@ -122,7 +122,7 @@ An Acrobatics Test is typically a Full Action, however please note the following
 **Negotiating Obstacles:** To a skilled acrobat, every obstacle is an opportunity, and every obstruction a challenge instead of a barrier. Whenever you Charge or Run through treacherous terrain or through an area containing an obstacle, you may make an Acrobatics Test in place of an Agility Test to avoid falling Prone. You may also attempt an Acrobatics Test as a Free Action prior to moving at your normal rate through treacherous environments (but not environments made treacherous because of poor visibility).
 
 **Tumbling Evasion:** When engaged with an opponent, you may Test Acrobatics to disengage as a Half Action instead of a Full Action. A successful Test allows you to move as if you had taken a Half Move Action without granting your opponent a free attack (see **Fleeing** in **Playing the Game - Combat** for more information). A failed Test means you still move, but your opponent gets a free attack with a +10 bonus.
-## **Awareness 
+## Awareness 
 (Basic) 
 Perception
 
@@ -137,7 +137,7 @@ An Awareness Test is usually a Free Action made in reaction to something. The fo
 **Eye for Detail:** Particularly perceptive Acolytes are trained to take in every aspect of a scene with just a quick scan, later recalling the subtlest of details that turn out to be critical to the investigation. Awareness cannot be used as an Investigation Skill in its own right, but it can be used to assist an Investigation Skill. When examining a crime scene, you may make an Awareness Test to attempt to notice any clues. Every degree of success reduces the Difficulty of a subsequent investigation Test by one-step.
 ##### Example:
 *Mattheus takes a quick look around the scene of a grisly ritual murder, but does not have time to carry out a lengthy investigation as his companions need him elsewhere. He makes an Awareness Test to notice any clues, getting two degrees of success. Later he comes to make an Inquiry Test, and recalls clues he spotted earlier, reducing the Difficulty of the Test by two-steps to Ordinary.*
-## **Barter 
+## Barter 
 (Basic) 
 Fellowship
 
@@ -148,7 +148,7 @@ You can use the Barter skill to negotiate deals and get better prices on goods a
 A typical Barter Test takes about five minutes, but delicate dealings and intricate negotiations may require more time, as decided by the GM. The following special rule is associated with this skill:
 
 **Bribery:** By first making a Barter Test, you can increase your chances of success with a subsequent Interaction Test by offering goods, services or cold, hard Thrones. A successful Barter Test and each degree of success beyond, grants you a +5 bonus on your next Interaction Test against your target made within a number of days equal to your Fellowship Bonus. The Difficulty of the Barter Test depends on the nature of the bribe as determined by the GM, who take in account the value of the bribe and the target’s honesty and motivations.
-## **Blather 
+## Blather 
 (Advanced, Interaction) 
 Fellowship
 
@@ -164,12 +164,14 @@ NPCs, while confused by your banter, are unaffected by your words if they are in
 
 A Blather Test is usually a Full Action. The following special rules are associated with this skill:
 
-**Create Disturbance:** You may spew inane and nonsensical banter to create a distraction to divert attention from some other ally or event. If you have allies nearby who might benefit from the distraction—sneaking past a guard or picking their pocket, you may make a Blather Test to help them out. You make a Blather Test as normal and, if successful, use your Blather skill to assist your ally. Your opponent is dumbfounded as normal, although if your ally fails their own Test then the opponent may realise what is going on.
+#### **Create Disturbance:** 
+You may spew inane and nonsensical banter to create a distraction to divert attention from some other ally or event. If you have allies nearby who might benefit from the distraction—sneaking past a guard or picking their pocket, you may make a Blather Test to help them out. You make a Blather Test as normal and, if successful, use your Blather skill to assist your ally. Your opponent is dumbfounded as normal, although if your ally fails their own Test then the opponent may realise what is going on.
 
-**Distract Opponent:** You can attempt to distract your opponent and conceal your hostile intentions. So long as you are not in combat and have not exhibited any hostile or overly confrontational actions towards your opponent, you may make a Blather Test opposed by your opponent’s Willpower or Scrutiny. If you are successful you distract your opponent as though you had successfully feinted in combat, and so long as your next Action is a standard attack, it cannot be Dodged or Parried. If your next Action is anything other than a standard attack then this advantage is lost. You may only use this function of Blather once per encounter.
-## **Carouse 
+#### **Distract Opponent:** 
+You can attempt to distract your opponent and conceal your hostile intentions. So long as you are not in combat and have not exhibited any hostile or overly confrontational actions towards your opponent, you may make a Blather Test opposed by your opponent’s Willpower or Scrutiny. If you are successful you distract your opponent as though you had successfully feinted in combat, and so long as your next Action is a standard attack, it cannot be Dodged or Parried. If your next Action is anything other than a standard attack then this advantage is lost. You may only use this function of Blather once per encounter.
+## Carouse 
 (Basic) 
-Toughness**
+Toughness
 
 Whether consuming the finest amasec brandy or the cheapest stomach-stripping hive juices, you use the Carouse skill to resist the effects of alcohol and narcotics. Experienced carousers can build up quite a tolerance and remain clear-headed and lucid while those around them succumb to the effects of their amusements. Use this Skill whenever you must resist the effects of alcohol or similar intoxicants.
 
