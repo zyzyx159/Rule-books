@@ -174,7 +174,7 @@ Toughened by all that life can throw at him, the Rogue is a smart, skilled and d
 | Sound Constitution             | 200  |  T   |                   —                    |
 | Takedown                       | 200  |  T   |                   —                    |
 | Two-Weapon Wielder (Ballistic) | 200  |  T   |              BS 35, Ag 35              |
-
+# Violance
 ## **Cutter Advances**
 
 *"Mark my muzzle, you go there and beg for forgiveness. If Lex sends a Cutter on you, there ain't a place in this hive or the next that'll take you in or save you."*
@@ -282,6 +282,7 @@ The Gang Lord is skilled in high-stakes operations, from assassination to cat bu
 | Last Man Standing                      | 300  |  T   |          Nerves of Steel           |
 | Peer (Inquisition)                     | 300  |  T   |               Fel 30               |
 | Sound Constitution                     | 300  |  T   |                 —                  |
+# Talking
 ## **Fixer Advances**
 
 *"I know a fella… he could… sort you out. Course, he's mighty pricy, but you ain't in no place to bargain right now, are you?"*
