@@ -36,4 +36,8 @@ This command copies all the changes you made to the server
 ### Step 5
 Let zyzyx159 know you have changes you would like added to the main rules book.
 ### Step 6
-Wait for Zyzyx159 to do all the behind the scie
+Wait for Zyzyx159 to do all the behind the git stuff that makes all this work so you don't have to :)
+### Step 7
+Profit? 
+### Step 8
+If you want to make more changes run step 4 from the "set up for the first time" section. You do *NOT* need to do any of the others.
