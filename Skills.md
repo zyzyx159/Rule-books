@@ -413,7 +413,7 @@ Aside from planting and defusing explosives, Demolition can also be used for a v
 **Repurpose Explosive:** Instead of defusing a bomb you can also alter its trigger mechanism so that it detonates when you want it to, rather than when the original demolitionist wanted. Resolve this as an Opposed Demolitions Test, with a success on your part allowing you to reset the bomb as if you had planted it, thereby allowing you to make all decisions about the explosive as normal. A failed Test indicates that you are unable to alter the explosive without first defusing it. A catastrophic failure by five or more degrees indicates that the bomb goes off immediately. Note that you may need to provide additional materials if you wish to change the mechanism by which the bomb goes off.
 ## Disguise
 (Basic) 
-Fellowship**
+Fellowship
 
 Whether pretending to be the servant of a corrupt noble, infiltrating a sinister cult, or lying low in a vile dive, the Disguise skill is handy for helping you be someone you’re not. Of course, there is more to a good disguise than appearances, but this Skill goes a long way to giving you the best possible chance of remaining undetected.
 
