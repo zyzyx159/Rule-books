@@ -180,14 +180,14 @@ Whilst excessive drinking is hardly encouraged by the Inquisition, only the most
 Each time you take a drink or some other form of intoxicant, make a Carouse Test. Failure indicates you have gained a level of Fatigue or suffered the side effects of the substance. Should you pass out as a result, you become unconscious for a number of hours equal to 1d10 minus your Toughness Bonus (minimum one hour). Your GM may incur further Test penalties as a result of intoxicant use as they see fit.
 
 A Carouse Test is a Free Action. You use this Skill whenever you imbibe. The following special rules are associated with this skill:
-#### Drinking Contests:** 
+#### Drinking Contests:
 A drinking contest, whether in the form of a competition to drink alcohol the fastest or to be the last man standing, is simply an Opposed Carouse Test. The consequences for failure are usually embarrassing rather than harmful, although this does depend on the drink consumed.
 
-#### Iron Stomach:** 
+#### Iron Stomach:
 Acolytes who spend a great deal of time ingesting drugs and alcohol find that they develop a tolerance for a whole host of toxins. Whenever you knowingly consume something that is poisonous or toxic, you may make a Carouse Test in place of the Toughness Test. This use does not apply to poisons or toxins that have been injected, applied to weapons or delivered by any other non-oral methods.
 ## Charm 
 (Basic, Interaction) 
-Fellowship**
+Fellowship
 
 One of the more vital tools available to Acolytes in their pursuit of the witch and heretic, Charm allows you to instil feeling of kinship and companionability in those you meet. A successful Test can make friends out of foes, bank the fires of anger, and get you into places where the bullet would otherwise fail.
 
@@ -253,7 +253,7 @@ A Ciphers Test usually takes a Full Action to give or inscribe the sign, and a F
 –20 penalty. The process takes one month. You may use raw Intelligence, or your Logic or Scholastic Lore (Cryptology) as the Investigation Skill. Successfully interrogating or bribing someone who knows the code may reduce the benchmark of the investigation or negate the need for a roll at all.
 ## Climb 
 (Basic, Movement) 
-Strength**
+Strength
 
 Whether breaking into a cultist stronghold, clambering up scaffolding to find a good place for sniping at your enemies, or scrambling up a tree to escape from the snapping jaws of some alien beast, Climb is a useful Skill to have.
 
@@ -274,7 +274,7 @@ A Climb Test is usually a Half Action. The following special rules are associate
 **Speed Climbing:** You may climb more quickly by taking an additional penalty on your Climb Test. By worsening the Test’s Difficulty by –20, you can ascend or descend at your normal Move Rate instead of half your Move rate.
 ## Command 
 (Basic) 
-Fellowship**
+Fellowship
 
 If you have ambitions toward leadership you would do well to invest in Command, so that when the day comes that you attain the Rank of Inquisitor yourself, you will be better able to lead your own Acolytes. Even before this distant and unlikely day of glory, Command has its uses, allowing you the ability to exert your influence over citizens, soldiers and more.
 
@@ -370,7 +370,7 @@ The following special rules are associated with this skill:
 Most Contortionist Tests take one minute, with each degree of success reducing this time by ten seconds. Escaping a Grapple is a Full Action attempted during combat.
 ## Deceive 
 (Basic, Interaction) 
-Fellowship**
+Fellowship
 
 Unlike the quick-fire distraction of Blather, Deceive is far subtler and more useful for deception over the long term. It can be used to convince an enemy that you are there to help, a guard that you really have just found the corpse in the room, or a merchant to invest his hard-earned
 Thrones into your “scheme”. You make Deceive Tests whenever you would convince others of something that is not necessarily true, want to dupe them or otherwise swindle and mislead them. You need not make a Deceive Test every time you lie to an NPC; only when you want to change their opinions of you or convince them of something they're not otherwise apt to believe.

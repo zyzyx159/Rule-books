@@ -382,4 +382,3 @@ The Charlatan is a master thief, who can bind even planetary governors to their 
 | Peer (Government)               | 300  |  T   |              Fel 30               |
 | Peer (Nobility)                 | 300  |  T   |              Fel 30               |
 | Sound Constitution              | 300  |  T   |                 —                 |
-Violence
