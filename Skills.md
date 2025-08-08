@@ -51,57 +51,57 @@ Some of the listed Skills are actually groups of related abilities. Skill groups
 
 Descriptions of both Basic and Advanced Skills follow, presented in alphabetical order.
 
-| **Skill Name**                                | **Type** | **Characteristic** |     **Descriptor**      |
-| --------------------------------------------- | :------: | :----------------: | :---------------------: |
-| [Acrobatics](Skills.md#Acrobatics)            | Advanced |      Agility       |        Movement         |
-| [Awareness](Skills.md#Awareness)              |  Basic   |     Perception     |            —            |
-| [Barter](Skills.md#Barter)                    |  Basic   |     Fellowship     |            —            |
-| [Blather](Skills.md#Blather)                  | Advanced |     Fellowship     |       Interaction       |
-| [Carouse](Skills.md#Carouse)                  |  Basic   |     Toughness      |            —            |
-| [Charm](Skills.md#Charm)                      |  Basic   |     Fellowship     |       Interaction       |
-| [Chem-Use](Skills.md#Chem-Use)                | Advanced |    Intelligence    | Crafting, Investigation |
-| [Ciphers](Skills.md#Ciphers)†                 | Advanced |    Intelligence    |            —            |
-| [Climb](Skills.md#Climb)                      |  Basic   |      Strength      |        Movement         |
-| [Command](Skills.md#Command)                  |  Basic   |     Fellowship     |       Interaction       |
-| [Common Lore](Skills.md#Common!@#$%Lore)†     | Advanced |    Intelligence    |      Investigation      |
-| [Concealment](Skills.md#Concealment)          |  Basic   |      Agility       |            —            |
-| [Contortionist](Skills.md#Contortionist)      |  Basic   |      Agility       |        Movement         |
-| [Deceive](Skills.md#Deceive)                  |  Basic   |     Fellowship     |       Interaction       |
-| [Demolition](Skills.md#Demolition)            | Advanced |    Intelligence    |        Crafting         |
-| [Disguise](Skills.md#Disguise)                |  Basic   |     Fellowship     |            —            |
-| [Dodge](Skills.md#Dodge)                      |  Basic   |      Agility       |        Movement         |
-| [Drive](Skills.md#Drive)†                     | Advanced |      Agility       |        Operator         |
-| [Evaluate](Skills.md#Evaluate)                |  Basic   |    Intelligence    |      Investigation      |
-| [Forbidden Lore](Skills.md#Forbidden Lore)†   | Advanced |    Intelligence    |      Investigation      |
-| [Gamble](Skills.md#Gamble)                    |  Basic   |    Intelligence    |            —            |
-| [Inquiry](Skills.md#Inquiry)                  |  Basic   |     Fellowship     |      Investigation      |
-| [Interrogation](Skills.md#Interrogation)      | Advanced |     Willpower      |      Investigation      |
-| [Intimidate](Skills.md#Intimidate)            |  Basic   |      Strength      |       Interaction       |
-| [Invocation](Skills.md#Invocation)            | Advanced |     Willpower      |            —            |
-| [Lip Reading](Skills.md#Lip Reading)          | Advanced |     Perception     |            —            |
-| [Literacy](Skills.md#Literacy)                | Advanced |    Intelligence    |            —            |
-| [Logic](Skills.md#Logic)                      |  Basic   |    Intelligence    |      Investigation      |
-| [Medicae](Skills.md#Medicae)                  | Advanced |    Intelligence    |            —            |
-| [Navigation](Skills.md#Navigation)†           | Advanced |    Intelligence    |            —            |
-| [Performer](Skills.md#Performer)†             | Advanced |     Fellowship     |            —            |
-| [Pilot](Skills.md#Pilot)†                     | Advanced |      Agility       |        Operator         |
-| [Psyniscience](Skills.md#Psyniscience)        | Advanced |     Perception     |            —            |
-| [Scholastic Lore](Skills.md#Scholastic Lore)† | Advanced |    Intelligence    |      Investigation      |
-| [Scrutiny](Skills.md#Scrutiny)                |  Basic   |     Perception     |            —            |
-| [Search](Skills.md#Search)                    |  Basic   |     Perception     |            —            |
-| [Secret Tongue](Skills.md#Secret Tongue)†     | Advanced |    Intelligence    |            —            |
-| [Security](Skills.md#Security)                | Advanced |      Agility       |            —            |
-| [Shadowing](Skills.md#Shadowing)              | Advanced |      Agility       |            —            |
-| [Silent Move](Skills.md#Silent Move)          |  Basic   |      Agility       |            —            |
-| [Sleight of Hand](Skills.md#Sleight of Hand)  | Advanced |      Agility       |            —            |
-| [Speak Language](Skills.md#Speak Language)†   | Advanced |    Intelligence    |            —            |
-| [Survival](Skills.md#Survival)                | Advanced |    Intelligence    |            —            |
-| [Swim](Skills.md#Swim)                        |  Basic   |      Strength      |        Movement         |
-| [Tech-Use](Skills.md#Tech-Use)                | Advanced |    Intelligence    |            —            |
-| [Tracking](Skills.md#Tracking)                | Advanced |    Intelligence    |            —            |
-| [Trade](Skills.md#Trade)†                     | Advanced |    Intelligence    |        Crafting         |
-| [Wrangling](Skills.md#Wrangling)              | Advanced |    Intelligence    |            —            |
-| †Denotes a Skill Group.                       |          |                    |                         |
+| **Skill Name**                                   | **Type** | **Characteristic** |     **Descriptor**      |
+| ------------------------------------------------ | :------: | :----------------: | :---------------------: |
+| [Acrobatics](Skills.md#Acrobatics)               | Advanced |      Agility       |        Movement         |
+| [Awareness](Skills.md#Awareness)                 |  Basic   |     Perception     |            —            |
+| [Barter](Skills.md#Barter)                       |  Basic   |     Fellowship     |            —            |
+| [Blather](Skills.md#Blather)                     | Advanced |     Fellowship     |       Interaction       |
+| [Carouse](Skills.md#Carouse)                     |  Basic   |     Toughness      |            —            |
+| [Charm](Skills.md#Charm)                         |  Basic   |     Fellowship     |       Interaction       |
+| [Chem-Use](Skills.md#Chem-Use)                   | Advanced |    Intelligence    | Crafting, Investigation |
+| [Ciphers](Skills.md#Ciphers)†                    | Advanced |    Intelligence    |            —            |
+| [Climb](Skills.md#Climb)                         |  Basic   |      Strength      |        Movement         |
+| [Command](Skills.md#Command)                     |  Basic   |     Fellowship     |       Interaction       |
+| [Common Lore](Skills.md#Common%20Lore)†          | Advanced |    Intelligence    |      Investigation      |
+| [Concealment](Skills.md#Concealment)             |  Basic   |      Agility       |            —            |
+| [Contortionist](Skills.md#Contortionist)         |  Basic   |      Agility       |        Movement         |
+| [Deceive](Skills.md#Deceive)                     |  Basic   |     Fellowship     |       Interaction       |
+| [Demolition](Skills.md#Demolition)               | Advanced |    Intelligence    |        Crafting         |
+| [Disguise](Skills.md#Disguise)                   |  Basic   |     Fellowship     |            —            |
+| [Dodge](Skills.md#Dodge)                         |  Basic   |      Agility       |        Movement         |
+| [Drive](Skills.md#Drive)†                        | Advanced |      Agility       |        Operator         |
+| [Evaluate](Skills.md#Evaluate)                   |  Basic   |    Intelligence    |      Investigation      |
+| [Forbidden Lore](Skills.md#Forbidden%20Lore)†    | Advanced |    Intelligence    |      Investigation      |
+| [Gamble](Skills.md#Gamble)                       |  Basic   |    Intelligence    |            —            |
+| [Inquiry](Skills.md#Inquiry)                     |  Basic   |     Fellowship     |      Investigation      |
+| [Interrogation](Skills.md#Interrogation)         | Advanced |     Willpower      |      Investigation      |
+| [Intimidate](Skills.md#Intimidate)               |  Basic   |      Strength      |       Interaction       |
+| [Invocation](Skills.md#Invocation)               | Advanced |     Willpower      |            —            |
+| [Lip Reading](Skills.md#Lip%20Reading)           | Advanced |     Perception     |            —            |
+| [Literacy](Skills.md#Literacy)                   | Advanced |    Intelligence    |            —            |
+| [Logic](Skills.md#Logic)                         |  Basic   |    Intelligence    |      Investigation      |
+| [Medicae](Skills.md#Medicae)                     | Advanced |    Intelligence    |            —            |
+| [Navigation](Skills.md#Navigation)†              | Advanced |    Intelligence    |            —            |
+| [Performer](Skills.md#Performer)†                | Advanced |     Fellowship     |            —            |
+| [Pilot](Skills.md#Pilot)†                        | Advanced |      Agility       |        Operator         |
+| [Psyniscience](Skills.md#Psyniscience)           | Advanced |     Perception     |            —            |
+| [Scholastic Lore](Skills.md#Scholastic%20Lore)†  | Advanced |    Intelligence    |      Investigation      |
+| [Scrutiny](Skills.md#Scrutiny)                   |  Basic   |     Perception     |            —            |
+| [Search](Skills.md#Search)                       |  Basic   |     Perception     |            —            |
+| [Secret Tongue](Skills.md#Secret%20Tongue)†      | Advanced |    Intelligence    |            —            |
+| [Security](Skills.md#Security)                   | Advanced |      Agility       |            —            |
+| [Shadowing](Skills.md#Shadowing)                 | Advanced |      Agility       |            —            |
+| [Silent Move](Skills.md#Silent%20Move)           |  Basic   |      Agility       |            —            |
+| [Sleight of Hand](Skills.md#Sleight%20of%20Hand) | Advanced |      Agility       |            —            |
+| [Speak Language](Skills.md#Speak%20Language)†    | Advanced |    Intelligence    |            —            |
+| [Survival](Skills.md#Survival)                   | Advanced |    Intelligence    |            —            |
+| [Swim](Skills.md#Swim)                           |  Basic   |      Strength      |        Movement         |
+| [Tech-Use](Skills.md#Tech-Use)                   | Advanced |    Intelligence    |            —            |
+| [Tracking](Skills.md#Tracking)                   | Advanced |    Intelligence    |            —            |
+| [Trade](Skills.md#Trade)†                        | Advanced |    Intelligence    |        Crafting         |
+| [Wrangling](Skills.md#Wrangling)                 | Advanced |    Intelligence    |            —            |
+| †Denotes a Skill Group.                          |          |                    |                         |
 
 ## Acrobatics 
 (Advanced, Movement) 
