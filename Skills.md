@@ -536,7 +536,7 @@ Making a Gamble Test can represent anything from controlling a single hand of ca
 **Risk:** Life is a gamble, and your familiarity around the gaming table and understanding of the odds can aid you outside of a game of tiles. As a Full Action in combat, you may attempt a **Hard (–20) Gamble Test**. On a success, you gain a +10 bonus that can apply to any one Test made for the duration of the encounter. On a failure, you take a –10 penalty that applies to a single Test made during the encounter as determined by the GM. You may only use Risk once per encounter.
 ## Inquiry 
 (Basic, Investigation) 
-Fellowship**
+Fellowship
 
 As an agent of the Inquisition, your principle responsibility is investigation, seeking out the heretic and witch and bringing them to justice. Inquiry is a vital tool regardless of your career since it enables you to get a sense of the environment, learn clues and aid you in your ongoing search for enemies of the Imperium. The Inquiry skill is your ability to pick up rumours, secrets and guarded information by asking questions, buying drinks and generally watching and listening for anything of interest that might bubble up. Inquiry can be used in several ways. The first and most common way is to pick up general information about local developments. A successful Test reveals basic information, with additional and higher-quality intelligence with each degree of success.
 
@@ -551,7 +551,7 @@ Making an Inquiry Test usually represents an hour or so of activity, but may rep
 **Lines of Inquiry:** You can use Inquiry as a very light and subtle form of interrogation, attempting to find information by asking seemingly innocent questions of the subject. In place of an Interrogation Test, you may instead make a **Hard (–20) Inquiry Test**. You are never at risk of inflicting Fatigue or Damage with this Test.
 ## Interrogation 
 (Advanced, Investigation) 
-Willpower**
+Willpower
 
 The key tool in an Inquisitor's arsenal is interrogation—the ability to extract quality information from an unwilling subject. There is a fine line between interrogation and crude torture. In the case of the latter, subjects tend to reveal whatever their tormenter wishes to hear, but in the case of the former, a skilled interrogator can tease out the darkest secrets by utilising a variety of devices, serums and techniques.
 
@@ -579,7 +579,7 @@ An Intimidate Test is a Full Action. The following special rules are associated 
 **Obey My Command!** You may abandon the tactfulness of command and resort to fear to ensure that your underlings obey. If you succeed on a Difficult (–10) Intimidate Test, you get a +5 bonus on all Command Tests against targets you intimidated for a number of minutes equal to your Strength Bonus. A failed Test indicates that you take a –5 penalty on such Tests.
 ## Invocation 
 (Advanced) 
-Willpower**
+Willpower
 
 Whilst it is not always possible to take the time to properly focus a Psychic Power, most psykers would strongly urge a budding Acolyte to make the time. Psykers who might have advocated the opposite, urging a carefree approach, are rarely sane enough to offer such advice.
 
@@ -640,7 +640,7 @@ Intelligence
 Injury comes with the job of being an Acolyte and, for this reason, teams would be well-advised include at least one member with some familiarity with Medicae, or at least have access to someone who does. Medicae enables you to patch up comrades, pull an ally from the brink of death, administer drugs, diagnose an ongoing affliction, and point out the best place to stick a needle to cause optimum pain. 
 
 The following special rules are associated with this skill:
-##### First Aid**
+##### First Aid
 
 Likely the most common use of the Medicae skill as far as Acolytes are concerned, First Aid offers a quick fix for injured or dying characters. First Aid is usually a Full Action, both for you and your patient. The difficulty of a Medicae Test to provide First Aid depends on the severity as well as the type of Damage which inflicted the injury being treated:
 
@@ -666,7 +666,7 @@ On a failure, the patient is not adversely affected, and simply removes Damage a
 Once the Medicae Test is performed the injury is treated, for better or worse, and cannot be tended to again with another use of First Aid. If you wish to provide further treatment see the **Extended Care** special rule below.
 ###### Example
 *When Julius takes a nasty hit from a laspistol and falls to the ground, a curl of smoke rising from the burn hole through his chest, Lucian rushes to his ally’s side. Looking him over, he sees he’s taken Critical Damage and can’t take another hit. Since Julius has taken Critical Energy Damage, Lucian has to pass a **Difficult (–10) Medicae Test** to remove 1 point of Damage. It’s not much, but it might give his ally a chance to survive the firefight.*
-##### Extended Care**
+##### Extended Care
 
 After rendering First Aid, Extended Care can be used to speed the healing process of the rest of your patient's injuries. As with First Aid, the difficulty of the Medicae Test is determined by the Damage type which inflicted the injury. Use the predominant Damage type to determine the base Difficulty (e.g. the type of Damage that affects the patient the most); if the patient is suffering from multiple Damage types, increase the Difficulty by one-step for each additional type of Damage suffered beyond the first.
 
@@ -684,7 +684,7 @@ For Lightly Wounded patients make one Test at the end of each day. For Heavily o
 On a success, your patient removes twice the normal Damage (removing Critical Damage first then normal Damage), plus 1 Damage for each degree of success. On a failure, your patients are not adversely affected and remove Damage at the normal rates. A failure by three or more degrees indicates that all Lightly Wounded or Heavily Wounded characters take 1 Damage—use Sudden Death to resolve Critical Damage. Failing by five or more degrees indicates that all patients take 1d10 Damage—again, use Sudden Death to resolve Critical Damage.
 ###### Example
 *Doctor Phelps attends four patients. His Intelligence Bonus is 3, so he takes a –10 penalty to his Medicae Tests to treat these patients from the start. Two patients have Energy Damage, so his Tests to provide Extended Care are at the base –10 penalty. One patient has Explosive Damage, so Doctor Phelps must succeed on a **Hard (–20) Medicae Test** to provide extended care to this poor soul. The worst-off patient took Energy, Impact and Rending Damage, the most of which was Rending. He’s at –10 to start, +0 for Rending, and –20 for two additional Damage types for a total of –30. It doesn’t look good for this soldier.*
-##### Ancillary Uses of Medicae**
+##### Ancillary Uses of Medicae
 
 **Diagnose:** You can diagnose what’s wrong with a patient by succeeding on a Medicae Test. The GM rolls for you in secret. A success reveals the most basic trouble, with each degree of success revealing an additional useful fact. A failure reveals nothing, while a failure by three or more degrees results in a misdiagnosis with often spectacularly awful results if the physician is allowed to treat the patient. Examples include poisoning, lopping off the incorrect limb, replacing organs unnecessarily and so on.
 
@@ -712,7 +712,7 @@ The following special rules are associated with this skill:
 **Tracking in Space:** By using stellar cartography, calculating ship velocity and headings, and analysing recent disturbances, you can attempt to track the movements of a spacecraft. You may make a **Difficult (–10) Navigation (Stellar)** **Test** to track a spacecraft in the same way you would use the Tracking skill to track a creature over land.
 ## Performer 
 (Advanced) 
-Fellowship**
+Fellowship
 
 **Skill Group:** Dancer, Musician, Singer, Storyteller. Others may be available with the GM's discretion.
 
@@ -998,7 +998,7 @@ If the target locates the snare, it can either go around it or attempt to neutra
 Should the target spring the trap, it may make an Agility Test against the same Difficulty you faced to set the trap. On a success, the creature avoids the snare. On a failure, it is firmly caught and held until released. A caught creature can attempt a Contortionist Test once each hour to escape. Again, the Difficulty is the same as the one you beat to set the snare in the first place.
 ## Swim 
 (Basic, Movement) 
-Strength**
+Strength
 
 The Swim skill is used to swim and dive in bodies of water. You don't need to make a Swim Test under ideal circumstances, but hazardous conditions such as rough waters, hands being tied, or swimming whilst fighting all require Swim Tests to move. To swim under hazardous conditions, you must make a Swim Test as a Move Action. A success indicates that you move in any direction up to a number of metres equal to one-half your Strength Bonus, or simply tread water at your option. A failed Test means that you make no progress and cannot move. If you fail by 2 degrees or more, you sink one metre for every 20kg of your weight.
 
