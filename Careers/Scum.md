@@ -10,7 +10,7 @@ Scum are the criminals, outcasts, conmen, gangers, thieves, and desperados of th
 | Ballistic Skill    |    100     |       250        |     500     |    750     |
 | Strength           |    500     |       750        |    1,000    |   2,500    |
 | Toughness          |    500     |       750        |    1,000    |   2,500    |
-| Agility            |    100     |       250        |     500     |    500     |
+| Agility            |    100     |       250        |     500     |    750     |
 | Intelligence       |    250     |       500        |     750     |   1,000    |
 | Perception         |    250     |       500        |     750     |   1,000    |
 | Willpower          |    250     |       500        |     750     |   1,000    |
