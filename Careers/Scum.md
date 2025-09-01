@@ -4,17 +4,17 @@
 Scum are the criminals, outcasts, conmen, gangers, thieves, and desperados of the Imperium. It is easy to generalise scum as the hardened recidivist that terrorizes honest citizens in less-affluent parts of hive cities, or the destitute beggar stinking up the porch of the local refectory – mankind’s misbegotten flotsam and jetsam. Truthfully, though, scum includes just about anyone that exists outside or on the fringes of Imperial society. Born survivors that, by nature, must be both skillful and secretive, scum can lend a hand to almost any situation. Of course, scum are perfectly capable of using violence to get what they desire, although most are somewhat “glass-jawed” and would rather connive than shoot their way out of perilous situations.
 ### Table: Scum Characteristic Advances
 
-| **Characteristic**                  | **Simple** | **Intermediate** | **Trained** | **Expert** |
-| ----------------------------------- | :--------: | :--------------: | :---------: | :--------: |
-| Weapon Skill                        |    250     |       500        |     750     |   1,000    |
-| Ballistic Skill                     |    100     |       250        |     500     |    750     |
-| Strength                            |    500     |       750        |    1,000    |   2,500    |
-| Toughness                           |    500     |       750        |    1,000    |   2,500    |
-| Agility                             |    100     |       250        |     500     |    500     |
-| Intelligence                        |    250     |       500        |     750     |   1,000    |
-| Perception                          |    250     |       500        |     750     |   1,000    |
-| Willpower                           |    250     |       500        |     750     |   1,000    |
-| Fellowship                          |    100     |       250        |     500     |    750     |
+| **Characteristic** | **Simple** | **Intermediate** | **Trained** | **Expert** |
+| ------------------ | :--------: | :--------------: | :---------: | :--------: |
+| Weapon Skill       |    250     |       500        |     750     |   1,000    |
+| Ballistic Skill    |    100     |       250        |     500     |    750     |
+| Strength           |    500     |       750        |    1,000    |   2,500    |
+| Toughness          |    500     |       750        |    1,000    |   2,500    |
+| Agility            |    100     |       250        |     500     |    500     |
+| Intelligence       |    250     |       500        |     750     |   1,000    |
+| Perception         |    250     |       500        |     750     |   1,000    |
+| Willpower          |    250     |       500        |     750     |   1,000    |
+| Fellowship         |    100     |       250        |     500     |    750     |
 # Advancement Tree
 
 ```mermaid
