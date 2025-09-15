@@ -80,7 +80,7 @@ Guard have survived in battle long enough to learn that survival is often a case
 | Common Lore (War)                | 200  |  S   |           —            |
 | Drive (Walker) +10               | 200  |  S   |     Drive (Walker)     |
 | Inquiry                          | 200  |  S   |           —            |
-| Heavy Weapon Training (SP)       | 200  |  T   |           —            |
+| ''Heavy Weapon Training (SP)''   | 200  |  T   |           —            |
 | Two-Weapon Wielder (Ballistic)   | 200  |  T   |      BS 35, Ag 35      |
 
 ## **Armsman Advances**
