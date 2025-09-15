@@ -1171,20 +1171,20 @@ It is said that all a Guardsman needs to win a battle is a guts and a lasgun, an
 
 Whether it is intended for the rigors of combat or the vapidity of garrison duty, infantry gear all tends to have some kind of militaristic any pieces are cataloged purpose, and m inventory of the Departmento Munitorum. Infantry gear is typically found in the employment of military situations and groups, but accounting for the massive production base of the Imperial war machine, along with the often overtly militarized and jingoistic aspects of society and culture, it is not surprising to find pieces of infantry gear in the hands of citizens, largely including those who aren't demobilised Guard veterans, too.
 
-| Infantry Gear                                    |       |      |              |     |     |     |
-| ------------------------------------------------ | ----- | ---- | ------------ | --- | --- | --- |
-| Name                                             | Wt    | Cost | Availability |     |     |     |
-| [9-70 Entrenchment Tool](Tools%20of%20the%20Trade.md#9-70%20Entrenchment%20Tool)                      | 2kg   | 15   | Average      |     |     |     |
-| [Bedroll](Tools%20of%20the%20Trade.md#Bedroll)                                     | 4kg   | 8    | Abundant     |     |     |     |
-| [Grooming Kit](Tools%20of%20the%20Trade.md#Grooming%20Kit)                                | 0.1kg | 3    | Plentiful    |     |     |     |
-| [The Imperial Infantryman's Uplifting Primer](Tools%20of%20the%20Trade.md#The%20Imperial%20Infantryman's%20Uplifting%20Primer) | 0.3kg | -    | Varies       |     |     |     |
-| [Infantry Lamp/Tac-Light](Tools%20of%20the%20Trade.md#Infantry%20Lamp/Tac-Light)                     | 0.8kg | 10   | Average      |     |     |     |
-| [Melta Bomb](Tools%20of%20the%20Trade.md#Melta%20Bomb)                                  | 5kg   | 100  | Rare         |     |     |     |
-| [Mess Kit](Tools%20of%20the%20Trade.md#Mess%20Kit)                                    | 0.5kg | 5    | Plentiful    |     |     |     |
-| [Sandbags](Tools%20of%20the%20Trade.md#Sandbags) (100)                              | 10kg  | 5    | Ubiquitous   |     |     |     |
-| [Tac-Rig/Gear Harness](Tools%20of%20the%20Trade.md#Tac-Rig/Gear%20Harness)                        | 1.5kg | 20   | Common       |     |     |     |
-| [Tent](Tools%20of%20the%20Trade.md#Tent)                                        | 9kg   | 35   | Average      |     |     |     |
-| [Munitorum Tool Kit](Tools%20of%20the%20Trade.md#Munitorum%20Tool%20Kit)                          | 0.8kg | 15   | Common       |     |     |     |
+| Infantry Gear                                                                                                                  |       |      |              |
+| ------------------------------------------------------------------------------------------------------------------------------ | ----- | ---- | ------------ |
+| Name                                                                                                                           | Wt    | Cost | Availability |
+| [9-70 Entrenchment Tool](Tools%20of%20the%20Trade.md#9-70%20Entrenchment%20Tool)                                               | 2kg   | 15   | Average      |
+| [Bedroll](Tools%20of%20the%20Trade.md#Bedroll)                                                                                 | 4kg   | 8    | Abundant     |
+| [Grooming Kit](Tools%20of%20the%20Trade.md#Grooming%20Kit)                                                                     | 0.1kg | 3    | Plentiful    |
+| [The Imperial Infantryman's Uplifting Primer](Tools%20of%20the%20Trade.md#The%20Imperial%20Infantryman's%20Uplifting%20Primer) | 0.3kg | -    | Varies       |
+| [Infantry Lamp/Tac-Light](Tools%20of%20the%20Trade.md#Infantry%20Lamp/Tac-Light)                                               | 0.8kg | 10   | Average      |
+| [Melta Bomb](Tools%20of%20the%20Trade.md#Melta%20Bomb)                                                                         | 5kg   | 100  | Rare         |
+| [Mess Kit](Tools%20of%20the%20Trade.md#Mess%20Kit)                                                                             | 0.5kg | 5    | Plentiful    |
+| [Sandbags](Tools%20of%20the%20Trade.md#Sandbags) (100)                                                                         | 10kg  | 5    | Ubiquitous   |
+| [Tac-Rig/Gear Harness](Tools%20of%20the%20Trade.md#Tac-Rig/Gear%20Harness)                                                     | 1.5kg | 20   | Common       |
+| [Tent](Tools%20of%20the%20Trade.md#Tent)                                                                                       | 9kg   | 35   | Average      |
+| [Munitorum Tool Kit](Tools%20of%20the%20Trade.md#Munitorum%20Tool%20Kit)                                                       | 0.8kg | 15   | Common       |
 #### 9-70 Entrenchment Tool
 
 This handy shovel - 9 centimeters wide and 70 centimeters long - is a part of the standard kit of many Guard regiments where, despite its name, the tool's primary purpose is found in the filling of sandbags. However, units that lack access to proper excavation tools and equipment will sometimes use their 9-70s to dig boltholes and trenches - this is generally discouraged as the tool isn't quite long enough to effectively shovel dirt, but only a few NCOs would prefer regulations over having good cover in a firefight. The 9-70's alloy blade and handle make it quite light yet also very sturdy - aside from moving soil, it can also be used as a nasty improvised weapon, and some regiments have taken a particular liking to eschewing bayonets and knives in favor of their trusty 9-70s when hand-to-hand combat is inevitable.
