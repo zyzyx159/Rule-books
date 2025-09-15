@@ -6,17 +6,17 @@ Soldier, fighter, man-at-arms, warrior, or heavy, those who fight for a living a
 
 ### Table: Guardsman Characteristic Advances
 
-| **Characteristic**                       | **Simple** | **Intermediate** | **Trained** | **Expert** |
-| ---------------------------------------- | :--------: | :--------------: | :---------: | :--------: |
-| Weapon Skill                             |    100     |       250        |     500     |    750     |
-| Ballistic Skill                          |    100     |       250        |     500     |    750     |
-| Strength                                 |    100     |       250        |     500     |    500     |
-| Toughness                                |    250     |       500        |     750     |   1,000    |
-| Agility                                  |    250     |       500        |     750     |   1,000    |
-| Intelligence                             |    500     |       750        |    1,000    |   2,500    |
-| Perception                               |    250     |       500        |     750     |   1,000    |
-| Willpower                                |    500     |       750        |    1,000    |   2,500    |
-| Fellowship                               |    500     |       750        |    1,000    |   2,500    |
+| **Characteristic** | **Simple** | **Intermediate** | **Trained** | **Expert** |
+| ------------------ | :--------: | :--------------: | :---------: | :--------: |
+| Weapon Skill       |    100     |       250        |     500     |    750     |
+| Ballistic Skill    |    100     |       250        |     500     |    750     |
+| Strength           |    100     |       250        |     500     |    500     |
+| Toughness          |    250     |       500        |     750     |   1,000    |
+| Agility            |    250     |       500        |     750     |   1,000    |
+| Intelligence       |    500     |       750        |    1,000    |   2,500    |
+| Perception         |    250     |       500        |     750     |   1,000    |
+| Willpower          |    500     |       750        |    1,000    |   2,500    |
+| Fellowship         |    500     |       750        |    1,000    |   2,500    |
 # Advancement Tree
 
 ```mermaid
