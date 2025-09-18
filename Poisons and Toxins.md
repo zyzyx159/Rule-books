@@ -57,20 +57,20 @@ Residual poison can often be detected by a skilled medicae with a toxin wand (or
 
 Maintaining a truly comprehensive list of all the toxic and poisonous compounds a man might encounter in Calixis is a monstrous undertaking best suited for a cadre of bespectacled adepts. With that said, most experienced poisoners would at least be familiar with the following better-known varieties.
 
-| Infamous Calixian Poisons  |       |                |         |          |                                      |
-| -------------------------- | ----- | -------------- | ------- | -------- | ------------------------------------ |
-| Name                       | Cost† | Availability   | Speed   | Strength | Effect                               |
-| [[#Ars Imperialis Mortua]] | 5000  | Extremely Rare | Instant | -30      | [[#Lethal]]                          |
-| [[#Ash Slug Secretion]]    | 55    | Average        | Instant | +10      | [[#Paralytic]],  [[#Necrotic]] (1D5) |
-| [[#Black Janix Venom]]     | 800   | Rare           | Instant | +10      | [[#Lethal]] Hallucinogen effect      |
-| [[#Dusk Lotus]]            | 1000  | Rare           | Swift   | -10      | [[#Lethal]], Damage is permanent     |
-| [[#Maidens Foil Powder]]   | 200   | Average        | Swift   | +0       | [[#Sedative]]                        |
-| [[#Morphia-V]]             | 350   | Scarce         | Instant | -20      | [[#Sedative]]                        |
-| [[#Nephys Orchid]]         | 400   | Rare           | Slow    | -30      | [[#Paralytic]]                       |
-| [[#Sump Vine Sap]]         | 50    | Common         | Slow    | +0       | [[#Lethal]]                          |
-| [[#Torpor]]                | 700   | Very Rare      | Instant | -20      | [[#Sedative]] or Special             |
-| [[#Tox-Jack]]              | 20    | Common         | Instant | -10      | [[#Necrotic]] (1D10)                 |
-| † Cost indicates one dose  |       |                |         |          |                                      |
+| Infamous Calixian Poisons                                                    |       |                |         |          |                                      |
+| ---------------------------------------------------------------------------- | ----- | -------------- | ------- | -------- | ------------------------------------ |
+| Name                                                                         | Cost† | Availability   | Speed   | Strength | Effect                               |
+| [Ars Imperialis Mortua](Poisons%20and%20Toxins.md#Ars%20Imperialis%20Mortua) | 5000  | Extremely Rare | Instant | -30      | [[#Lethal]]                          |
+| [Ash Slug Secretion](Poisons%20and%20Toxins.md#Ash%20Slug%20Secretion)       | 55    | Average        | Instant | +10      | [[#Paralytic]],  [[#Necrotic]] (1D5) |
+| [Black Janix Venom](Poisons%20and%20Toxins.md#Black%20Janix%20Venom)         | 800   | Rare           | Instant | +10      | [[#Lethal]] Hallucinogen effect      |
+| [Dusk Lotus](Poisons%20and%20Toxins.md#Dusk%20Lotus)                         | 1000  | Rare           | Swift   | -10      | [[#Lethal]], Damage is permanent     |
+| [Maidens Foil Powder](Poisons%20and%20Toxins.md#Maidens%20Foil%20Powder)     | 200   | Average        | Swift   | +0       | [[#Sedative]]                        |
+| [Morphia-V](Poisons%20and%20Toxins.md#Morphia-V)                             | 350   | Scarce         | Instant | -20      | [[#Sedative]]                        |
+| [Nephys Orchid](Poisons%20and%20Toxins.md#Nephys%20Orchid)                   | 400   | Rare           | Slow    | -30      | [[#Paralytic]]                       |
+| [Sump Vine Sap](Poisons%20and%20Toxins.md#Sump%20Vine%20Sap)                 | 50    | Common         | Slow    | +0       | [[#Lethal]]                          |
+| [Torpor](Poisons%20and%20Toxins.md#Torpor)                                   | 700   | Very Rare      | Instant | -20      | [[#Sedative]] or Special             |
+| [Tox-Jack](Poisons%20and%20Toxins.md#Tox-Jack)                               | 20    | Common         | Instant | -10      | [[#Necrotic]] (1D10)                 |
+| † Cost indicates one dose                                                    |       |                |         |          |                                      |
 
 ### Ars Imperialis Mortua
 (Instant/–30/Lethal)

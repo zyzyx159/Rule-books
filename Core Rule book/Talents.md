@@ -30,9 +30,8 @@ Descriptions of the various Talents follow.
 
 # Talent List
 
-| Table 4–1: Talents      |                                        |                                                                                             |
-| ----------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------- |
 | Talent Name             | Prerequisite                           | Benefit                                                                                     |
+| ----------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------- |
 | Air of Authority        | Fel 30                                 | Affect more targets with Test.                                                              |
 | Ambidextrous            | Ag 30                                  | Use either hand equally well.                                                               |
 | armor of Contempt       | WP 40                                  | You are resilient to Corruption.                                                            |

@@ -51,57 +51,57 @@ Some of the listed Skills are actually groups of related abilities. Skill groups
 
 Descriptions of both Basic and Advanced Skills follow, presented in alphabetical order.
 
-| **Skill Name**              | **Type** | **Characteristic** |     **Descriptor**      |
-| --------------------------- | :------: | :----------------: | :---------------------: |
-| [[#Acrobatics]]             | Advanced |      Agility       |        Movement         |
-| [[#**Awareness\|Awareness]] |  Basic   |     Perception     |            —            |
-| [[#Barter]]                 |  Basic   |     Fellowship     |            —            |
-| [[#Blather]]                | Advanced |     Fellowship     |       Interaction       |
-| [[#Carouse]]                |  Basic   |     Toughness      |            —            |
-| [[#Charm]]                  |  Basic   |     Fellowship     |       Interaction       |
-| [[#Chem-Use]]               | Advanced |    Intelligence    | Crafting, Investigation |
-| [[#Ciphers]]†               | Advanced |    Intelligence    |            —            |
-| [[#Climb]]                  |  Basic   |      Strength      |        Movement         |
-| [[#Command]]                |  Basic   |     Fellowship     |       Interaction       |
-| [[#Common Lore]]†           | Advanced |    Intelligence    |      Investigation      |
-| [[#Concealment]]            |  Basic   |      Agility       |            —            |
-| [[#Contortionist]]          |  Basic   |      Agility       |        Movement         |
-| [[#Deceive]]                |  Basic   |     Fellowship     |       Interaction       |
-| [[#Demolition]]             | Advanced |    Intelligence    |        Crafting         |
-| [[#Disguise]]               |  Basic   |     Fellowship     |            —            |
-| [[#Dodge]]                  |  Basic   |      Agility       |        Movement         |
-| [[#Drive]]†                 | Advanced |      Agility       |        Operator         |
-| [[#Evaluate]]               |  Basic   |    Intelligence    |      Investigation      |
-| [[#Forbidden Lore]]†        | Advanced |    Intelligence    |      Investigation      |
-| [[#Gamble]]                 |  Basic   |    Intelligence    |            —            |
-| [[#Inquiry]]                |  Basic   |     Fellowship     |      Investigation      |
-| [[#Interrogation]]          | Advanced |     Willpower      |      Investigation      |
-| [[#Intimidate]]             |  Basic   |      Strength      |       Interaction       |
-| [[#Invocation]]             | Advanced |     Willpower      |            —            |
-| [[#Lip Reading]]            | Advanced |     Perception     |            —            |
-| [[#Literacy]]               | Advanced |    Intelligence    |            —            |
-| [[#Logic]]                  |  Basic   |    Intelligence    |      Investigation      |
-| [[#Medicae]]                | Advanced |    Intelligence    |            —            |
-| [[#Navigation]]†            | Advanced |    Intelligence    |            —            |
-| [[#Performer]]†             | Advanced |     Fellowship     |            —            |
-| [[#Pilot]]†                 | Advanced |      Agility       |        Operator         |
-| [[#Psyniscience]]           | Advanced |     Perception     |            —            |
-| [[#Scholastic Lore]]†       | Advanced |    Intelligence    |      Investigation      |
-| [[#Scrutiny]]               |  Basic   |     Perception     |            —            |
-| [[#Search]]                 |  Basic   |     Perception     |            —            |
-| [[#Secret Tongue]]†         | Advanced |    Intelligence    |            —            |
-| [[#Security]]               | Advanced |      Agility       |            —            |
-| [[#Shadowing]]              | Advanced |      Agility       |            —            |
-| [[#Silent Move]]            |  Basic   |      Agility       |            —            |
-| [[#Sleight of Hand]]        | Advanced |      Agility       |            —            |
-| [[#Speak Language]]†        | Advanced |    Intelligence    |            —            |
-| [[#Survival]]               | Advanced |    Intelligence    |            —            |
-| [[#Swim]]                   |  Basic   |      Strength      |        Movement         |
-| [[#Tech-Use]]               | Advanced |    Intelligence    |            —            |
-| [[#Tracking]]               | Advanced |    Intelligence    |            —            |
-| [[#Trade]]†                 | Advanced |    Intelligence    |        Crafting         |
-| [[#Wrangling]]              | Advanced |    Intelligence    |            —            |
-| †Denotes a Skill Group.     |          |                    |                         |
+| **Skill Name**                                   | **Type** | **Characteristic** |     **Descriptor**      |
+| ------------------------------------------------ | :------: | :----------------: | :---------------------: |
+| [Acrobatics](Skills.md#Acrobatics)               | Advanced |      Agility       |        Movement         |
+| [Awareness](Skills.md#Awareness)                 |  Basic   |     Perception     |            —            |
+| [Barter](Skills.md#Barter)                       |  Basic   |     Fellowship     |            —            |
+| [Blather](Skills.md#Blather)                     | Advanced |     Fellowship     |       Interaction       |
+| [Carouse](Skills.md#Carouse)                     |  Basic   |     Toughness      |            —            |
+| [Charm](Skills.md#Charm)                         |  Basic   |     Fellowship     |       Interaction       |
+| [Chem-Use](Skills.md#Chem-Use)                   | Advanced |    Intelligence    | Crafting, Investigation |
+| [Ciphers](Skills.md#Ciphers)†                    | Advanced |    Intelligence    |            —            |
+| [Climb](Skills.md#Climb)                         |  Basic   |      Strength      |        Movement         |
+| [Command](Skills.md#Command)                     |  Basic   |     Fellowship     |       Interaction       |
+| [Common Lore](Skills.md#Common%20Lore)†          | Advanced |    Intelligence    |      Investigation      |
+| [Concealment](Skills.md#Concealment)             |  Basic   |      Agility       |            —            |
+| [Contortionist](Skills.md#Contortionist)         |  Basic   |      Agility       |        Movement         |
+| [Deceive](Skills.md#Deceive)                     |  Basic   |     Fellowship     |       Interaction       |
+| [Demolition](Skills.md#Demolition)               | Advanced |    Intelligence    |        Crafting         |
+| [Disguise](Skills.md#Disguise)                   |  Basic   |     Fellowship     |            —            |
+| [Dodge](Skills.md#Dodge)                         |  Basic   |      Agility       |        Movement         |
+| [Drive](Skills.md#Drive)†                        | Advanced |      Agility       |        Operator         |
+| [Evaluate](Skills.md#Evaluate)                   |  Basic   |    Intelligence    |      Investigation      |
+| [Forbidden Lore](Skills.md#Forbidden%20Lore)†    | Advanced |    Intelligence    |      Investigation      |
+| [Gamble](Skills.md#Gamble)                       |  Basic   |    Intelligence    |            —            |
+| [Inquiry](Skills.md#Inquiry)                     |  Basic   |     Fellowship     |      Investigation      |
+| [Interrogation](Skills.md#Interrogation)         | Advanced |     Willpower      |      Investigation      |
+| [Intimidate](Skills.md#Intimidate)               |  Basic   |      Strength      |       Interaction       |
+| [Invocation](Skills.md#Invocation)               | Advanced |     Willpower      |            —            |
+| [Lip Reading](Skills.md#Lip%20Reading)           | Advanced |     Perception     |            —            |
+| [Literacy](Skills.md#Literacy)                   | Advanced |    Intelligence    |            —            |
+| [Logic](Skills.md#Logic)                         |  Basic   |    Intelligence    |      Investigation      |
+| [Medicae](Skills.md#Medicae)                     | Advanced |    Intelligence    |            —            |
+| [Navigation](Skills.md#Navigation)†              | Advanced |    Intelligence    |            —            |
+| [Performer](Skills.md#Performer)†                | Advanced |     Fellowship     |            —            |
+| [Pilot](Skills.md#Pilot)†                        | Advanced |      Agility       |        Operator         |
+| [Psyniscience](Skills.md#Psyniscience)           | Advanced |     Perception     |            —            |
+| [Scholastic Lore](Skills.md#Scholastic%20Lore)†  | Advanced |    Intelligence    |      Investigation      |
+| [Scrutiny](Skills.md#Scrutiny)                   |  Basic   |     Perception     |            —            |
+| [Search](Skills.md#Search)                       |  Basic   |     Perception     |            —            |
+| [Secret Tongue](Skills.md#Secret%20Tongue)†      | Advanced |    Intelligence    |            —            |
+| [Security](Skills.md#Security)                   | Advanced |      Agility       |            —            |
+| [Shadowing](Skills.md#Shadowing)                 | Advanced |      Agility       |            —            |
+| [Silent Move](Skills.md#Silent%20Move)           |  Basic   |      Agility       |            —            |
+| [Sleight of Hand](Skills.md#Sleight%20of%20Hand) | Advanced |      Agility       |            —            |
+| [Speak Language](Skills.md#Speak%20Language)†    | Advanced |    Intelligence    |            —            |
+| [Survival](Skills.md#Survival)                   | Advanced |    Intelligence    |            —            |
+| [Swim](Skills.md#Swim)                           |  Basic   |      Strength      |        Movement         |
+| [Tech-Use](Skills.md#Tech-Use)                   | Advanced |    Intelligence    |            —            |
+| [Tracking](Skills.md#Tracking)                   | Advanced |    Intelligence    |            —            |
+| [Trade](Skills.md#Trade)†                        | Advanced |    Intelligence    |        Crafting         |
+| [Wrangling](Skills.md#Wrangling)                 | Advanced |    Intelligence    |            —            |
+| †Denotes a Skill Group.                          |          |                    |                         |
 
 ## Acrobatics 
 (Advanced, Movement) 
@@ -180,14 +180,14 @@ Whilst excessive drinking is hardly encouraged by the Inquisition, only the most
 Each time you take a drink or some other form of intoxicant, make a Carouse Test. Failure indicates you have gained a level of Fatigue or suffered the side effects of the substance. Should you pass out as a result, you become unconscious for a number of hours equal to 1d10 minus your Toughness Bonus (minimum one hour). Your GM may incur further Test penalties as a result of intoxicant use as they see fit.
 
 A Carouse Test is a Free Action. You use this Skill whenever you imbibe. The following special rules are associated with this skill:
-#### Drinking Contests:** 
+#### Drinking Contests:
 A drinking contest, whether in the form of a competition to drink alcohol the fastest or to be the last man standing, is simply an Opposed Carouse Test. The consequences for failure are usually embarrassing rather than harmful, although this does depend on the drink consumed.
 
-#### Iron Stomach:** 
+#### Iron Stomach:
 Acolytes who spend a great deal of time ingesting drugs and alcohol find that they develop a tolerance for a whole host of toxins. Whenever you knowingly consume something that is poisonous or toxic, you may make a Carouse Test in place of the Toughness Test. This use does not apply to poisons or toxins that have been injected, applied to weapons or delivered by any other non-oral methods.
 ## Charm 
 (Basic, Interaction) 
-Fellowship**
+Fellowship
 
 One of the more vital tools available to Acolytes in their pursuit of the witch and heretic, Charm allows you to instil feeling of kinship and companionability in those you meet. A successful Test can make friends out of foes, bank the fires of anger, and get you into places where the bullet would otherwise fail.
 
@@ -253,7 +253,7 @@ A Ciphers Test usually takes a Full Action to give or inscribe the sign, and a F
 –20 penalty. The process takes one month. You may use raw Intelligence, or your Logic or Scholastic Lore (Cryptology) as the Investigation Skill. Successfully interrogating or bribing someone who knows the code may reduce the benchmark of the investigation or negate the need for a roll at all.
 ## Climb 
 (Basic, Movement) 
-Strength**
+Strength
 
 Whether breaking into a cultist stronghold, clambering up scaffolding to find a good place for sniping at your enemies, or scrambling up a tree to escape from the snapping jaws of some alien beast, Climb is a useful Skill to have.
 
@@ -274,7 +274,7 @@ A Climb Test is usually a Half Action. The following special rules are associate
 **Speed Climbing:** You may climb more quickly by taking an additional penalty on your Climb Test. By worsening the Test’s Difficulty by –20, you can ascend or descend at your normal Move Rate instead of half your Move rate.
 ## Command 
 (Basic) 
-Fellowship**
+Fellowship
 
 If you have ambitions toward leadership you would do well to invest in Command, so that when the day comes that you attain the Rank of Inquisitor yourself, you will be better able to lead your own Acolytes. Even before this distant and unlikely day of glory, Command has its uses, allowing you the ability to exert your influence over citizens, soldiers and more.
 
@@ -370,7 +370,7 @@ The following special rules are associated with this skill:
 Most Contortionist Tests take one minute, with each degree of success reducing this time by ten seconds. Escaping a Grapple is a Full Action attempted during combat.
 ## Deceive 
 (Basic, Interaction) 
-Fellowship**
+Fellowship
 
 Unlike the quick-fire distraction of Blather, Deceive is far subtler and more useful for deception over the long term. It can be used to convince an enemy that you are there to help, a guard that you really have just found the corpse in the room, or a merchant to invest his hard-earned
 Thrones into your “scheme”. You make Deceive Tests whenever you would convince others of something that is not necessarily true, want to dupe them or otherwise swindle and mislead them. You need not make a Deceive Test every time you lie to an NPC; only when you want to change their opinions of you or convince them of something they're not otherwise apt to believe.
@@ -413,7 +413,7 @@ Aside from planting and defusing explosives, Demolition can also be used for a v
 **Repurpose Explosive:** Instead of defusing a bomb you can also alter its trigger mechanism so that it detonates when you want it to, rather than when the original demolitionist wanted. Resolve this as an Opposed Demolitions Test, with a success on your part allowing you to reset the bomb as if you had planted it, thereby allowing you to make all decisions about the explosive as normal. A failed Test indicates that you are unable to alter the explosive without first defusing it. A catastrophic failure by five or more degrees indicates that the bomb goes off immediately. Note that you may need to provide additional materials if you wish to change the mechanism by which the bomb goes off.
 ## Disguise
 (Basic) 
-Fellowship**
+Fellowship
 
 Whether pretending to be the servant of a corrupt noble, infiltrating a sinister cult, or lying low in a vile dive, the Disguise skill is handy for helping you be someone you’re not. Of course, there is more to a good disguise than appearances, but this Skill goes a long way to giving you the best possible chance of remaining undetected.
 
@@ -536,7 +536,7 @@ Making a Gamble Test can represent anything from controlling a single hand of ca
 **Risk:** Life is a gamble, and your familiarity around the gaming table and understanding of the odds can aid you outside of a game of tiles. As a Full Action in combat, you may attempt a **Hard (–20) Gamble Test**. On a success, you gain a +10 bonus that can apply to any one Test made for the duration of the encounter. On a failure, you take a –10 penalty that applies to a single Test made during the encounter as determined by the GM. You may only use Risk once per encounter.
 ## Inquiry 
 (Basic, Investigation) 
-Fellowship**
+Fellowship
 
 As an agent of the Inquisition, your principle responsibility is investigation, seeking out the heretic and witch and bringing them to justice. Inquiry is a vital tool regardless of your career since it enables you to get a sense of the environment, learn clues and aid you in your ongoing search for enemies of the Imperium. The Inquiry skill is your ability to pick up rumours, secrets and guarded information by asking questions, buying drinks and generally watching and listening for anything of interest that might bubble up. Inquiry can be used in several ways. The first and most common way is to pick up general information about local developments. A successful Test reveals basic information, with additional and higher-quality intelligence with each degree of success.
 
@@ -551,7 +551,7 @@ Making an Inquiry Test usually represents an hour or so of activity, but may rep
 **Lines of Inquiry:** You can use Inquiry as a very light and subtle form of interrogation, attempting to find information by asking seemingly innocent questions of the subject. In place of an Interrogation Test, you may instead make a **Hard (–20) Inquiry Test**. You are never at risk of inflicting Fatigue or Damage with this Test.
 ## Interrogation 
 (Advanced, Investigation) 
-Willpower**
+Willpower
 
 The key tool in an Inquisitor's arsenal is interrogation—the ability to extract quality information from an unwilling subject. There is a fine line between interrogation and crude torture. In the case of the latter, subjects tend to reveal whatever their tormenter wishes to hear, but in the case of the former, a skilled interrogator can tease out the darkest secrets by utilising a variety of devices, serums and techniques.
 
@@ -579,7 +579,7 @@ An Intimidate Test is a Full Action. The following special rules are associated 
 **Obey My Command!** You may abandon the tactfulness of command and resort to fear to ensure that your underlings obey. If you succeed on a Difficult (–10) Intimidate Test, you get a +5 bonus on all Command Tests against targets you intimidated for a number of minutes equal to your Strength Bonus. A failed Test indicates that you take a –5 penalty on such Tests.
 ## Invocation 
 (Advanced) 
-Willpower**
+Willpower
 
 Whilst it is not always possible to take the time to properly focus a Psychic Power, most psykers would strongly urge a budding Acolyte to make the time. Psykers who might have advocated the opposite, urging a carefree approach, are rarely sane enough to offer such advice.
 
@@ -640,7 +640,7 @@ Intelligence
 Injury comes with the job of being an Acolyte and, for this reason, teams would be well-advised include at least one member with some familiarity with Medicae, or at least have access to someone who does. Medicae enables you to patch up comrades, pull an ally from the brink of death, administer drugs, diagnose an ongoing affliction, and point out the best place to stick a needle to cause optimum pain. 
 
 The following special rules are associated with this skill:
-##### First Aid**
+##### First Aid
 
 Likely the most common use of the Medicae skill as far as Acolytes are concerned, First Aid offers a quick fix for injured or dying characters. First Aid is usually a Full Action, both for you and your patient. The difficulty of a Medicae Test to provide First Aid depends on the severity as well as the type of Damage which inflicted the injury being treated:
 
@@ -666,7 +666,7 @@ On a failure, the patient is not adversely affected, and simply removes Damage a
 Once the Medicae Test is performed the injury is treated, for better or worse, and cannot be tended to again with another use of First Aid. If you wish to provide further treatment see the **Extended Care** special rule below.
 ###### Example
 *When Julius takes a nasty hit from a laspistol and falls to the ground, a curl of smoke rising from the burn hole through his chest, Lucian rushes to his ally’s side. Looking him over, he sees he’s taken Critical Damage and can’t take another hit. Since Julius has taken Critical Energy Damage, Lucian has to pass a **Difficult (–10) Medicae Test** to remove 1 point of Damage. It’s not much, but it might give his ally a chance to survive the firefight.*
-##### Extended Care**
+##### Extended Care
 
 After rendering First Aid, Extended Care can be used to speed the healing process of the rest of your patient's injuries. As with First Aid, the difficulty of the Medicae Test is determined by the Damage type which inflicted the injury. Use the predominant Damage type to determine the base Difficulty (e.g. the type of Damage that affects the patient the most); if the patient is suffering from multiple Damage types, increase the Difficulty by one-step for each additional type of Damage suffered beyond the first.
 
@@ -684,7 +684,7 @@ For Lightly Wounded patients make one Test at the end of each day. For Heavily o
 On a success, your patient removes twice the normal Damage (removing Critical Damage first then normal Damage), plus 1 Damage for each degree of success. On a failure, your patients are not adversely affected and remove Damage at the normal rates. A failure by three or more degrees indicates that all Lightly Wounded or Heavily Wounded characters take 1 Damage—use Sudden Death to resolve Critical Damage. Failing by five or more degrees indicates that all patients take 1d10 Damage—again, use Sudden Death to resolve Critical Damage.
 ###### Example
 *Doctor Phelps attends four patients. His Intelligence Bonus is 3, so he takes a –10 penalty to his Medicae Tests to treat these patients from the start. Two patients have Energy Damage, so his Tests to provide Extended Care are at the base –10 penalty. One patient has Explosive Damage, so Doctor Phelps must succeed on a **Hard (–20) Medicae Test** to provide extended care to this poor soul. The worst-off patient took Energy, Impact and Rending Damage, the most of which was Rending. He’s at –10 to start, +0 for Rending, and –20 for two additional Damage types for a total of –30. It doesn’t look good for this soldier.*
-##### Ancillary Uses of Medicae**
+##### Ancillary Uses of Medicae
 
 **Diagnose:** You can diagnose what’s wrong with a patient by succeeding on a Medicae Test. The GM rolls for you in secret. A success reveals the most basic trouble, with each degree of success revealing an additional useful fact. A failure reveals nothing, while a failure by three or more degrees results in a misdiagnosis with often spectacularly awful results if the physician is allowed to treat the patient. Examples include poisoning, lopping off the incorrect limb, replacing organs unnecessarily and so on.
 
@@ -712,7 +712,7 @@ The following special rules are associated with this skill:
 **Tracking in Space:** By using stellar cartography, calculating ship velocity and headings, and analysing recent disturbances, you can attempt to track the movements of a spacecraft. You may make a **Difficult (–10) Navigation (Stellar)** **Test** to track a spacecraft in the same way you would use the Tracking skill to track a creature over land.
 ## Performer 
 (Advanced) 
-Fellowship**
+Fellowship
 
 **Skill Group:** Dancer, Musician, Singer, Storyteller. Others may be available with the GM's discretion.
 
@@ -998,7 +998,7 @@ If the target locates the snare, it can either go around it or attempt to neutra
 Should the target spring the trap, it may make an Agility Test against the same Difficulty you faced to set the trap. On a success, the creature avoids the snare. On a failure, it is firmly caught and held until released. A caught creature can attempt a Contortionist Test once each hour to escape. Again, the Difficulty is the same as the one you beat to set the snare in the first place.
 ## Swim 
 (Basic, Movement) 
-Strength**
+Strength
 
 The Swim skill is used to swim and dive in bodies of water. You don't need to make a Swim Test under ideal circumstances, but hazardous conditions such as rough waters, hands being tied, or swimming whilst fighting all require Swim Tests to move. To swim under hazardous conditions, you must make a Swim Test as a Move Action. A success indicates that you move in any direction up to a number of metres equal to one-half your Strength Bonus, or simply tread water at your option. A failed Test means that you make no progress and cannot move. If you fail by 2 degrees or more, you sink one metre for every 20kg of your weight.
 

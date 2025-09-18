@@ -25,19 +25,18 @@ wondrous construct is permanently attached to your spine and lower rib cage. Pos
 **Cranial Circuitry:** This series of micro-cogitators and cortical circuits augments your mental capabilities and is of vital importance to controlling some of your implants. The larger components sit in an alloy housing that is contoured to the back of your head and neck, from which a spider web of fine filaments snake out under your skin and into your brain. As your devotion to the Machine God grows this implant provides a foundation to further augment your mind, cutting away centres of emotion and intuition to enable even greater feats of calculation.
 ### Table: Tech-Priest Characteristic Advances
 
-| **Characteristic**                                                                  | **Simple** | **Intermediate** | **Trained** | **Expert** |
-| ----------------------------------------------------------------------------------- | :--------: | :--------------: | :---------: | :--------: |
-| Weapon Skill                                                                        |    250     |       500        |     750     |   1,000    |
-| Ballistic Skill                                                                     |    250     |       500        |     750     |   1,000    |
-| Strength                                                                            |    100     |       250        |     500     |    750     |
-| Toughness                                                                           |    100     |       250        |     500     |    750     |
-| Agility                                                                             |    500     |       750        |    1,000    |   2,500    |
-| Intelligence                                                                        |    100     |       250        |     500     |    750     |
-| Perception                                                                          |    250     |       500        |     750     |   1,000    |
-| Willpower                                                                           |    100     |       250        |     500     |    750     |
-| Fellowship†                                                                         |    N/A     |       N/A        |     N/A     |    N/A     |
-| †*You may not improve this Characteristic by spending xp the way other careers do.* |            |                  |             |            |
-
+| **Characteristic** | **Simple** | **Intermediate** | **Trained** | **Expert** |
+| ------------------ | :--------: | :--------------: | :---------: | :--------: |
+| Weapon Skill       |    250     |       500        |     750     |   1,000    |
+| Ballistic Skill    |    250     |       500        |     750     |   1,000    |
+| Strength           |    100     |       250        |     500     |    750     |
+| Toughness          |    100     |       250        |     500     |    750     |
+| Agility            |    500     |       750        |    1,000    |   2,500    |
+| Intelligence       |    100     |       250        |     500     |    750     |
+| Perception         |    250     |       500        |     750     |   1,000    |
+| Willpower          |    100     |       250        |     500     |    750     |
+| Fellowship†        |    N/A     |       N/A        |     N/A     |    N/A     |
+†*You may not improve this Characteristic by spending xp the way other careers do.*
 # Advancement Tree
 
 ```mermaid

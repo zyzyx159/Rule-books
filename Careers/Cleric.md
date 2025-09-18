@@ -1,9 +1,8 @@
-*"By the Saints and the Sigillite himself! If you don't move, I'll take this hammer to your head!"*
+8*"By the Saints and the Sigillite himself! If you don't move, I'll take this hammer to your head!"*
 
 — Preacher Silon Constantine, Fenksworld.
 
-Clerics are the priests of the Emperor, members of the Adeptus Ministorum, better known as the
-Ecclesiarchy. As benefactors of this vast and powerful organisation, clerics are a diverse lot and can turn their hand to just about anything. A capable combatant that can hold their own in a fight, a shrewd leader who inspires their fellows to great acts of piety and bravery, or an introspective scholar of the Imperial Cult and its place in society, the only constant between clerics is their unwavering faith in the Master of Mankind.
+Clerics are the priests of the Emperor, members of the Adeptus Ministorum, better known as the Ecclesiarchy. As benefactors of this vast and powerful organisation, clerics are a diverse lot and can turn their hand to just about anything. A capable combatant that can hold their own in a fight, a shrewd leader who inspires their fellows to great acts of piety and bravery, or an introspective scholar of the Imperial Cult and its place in society, the only constant between clerics is their unwavering faith in the Master of Mankind.
 
 ### Table: Cleric Characteristic Advances
 

@@ -4,17 +4,17 @@
 Scum are the criminals, outcasts, conmen, gangers, thieves, and desperados of the Imperium. It is easy to generalise scum as the hardened recidivist that terrorizes honest citizens in less-affluent parts of hive cities, or the destitute beggar stinking up the porch of the local refectory – mankind’s misbegotten flotsam and jetsam. Truthfully, though, scum includes just about anyone that exists outside or on the fringes of Imperial society. Born survivors that, by nature, must be both skillful and secretive, scum can lend a hand to almost any situation. Of course, scum are perfectly capable of using violence to get what they desire, although most are somewhat “glass-jawed” and would rather connive than shoot their way out of perilous situations.
 ### Table: Scum Characteristic Advances
 
-| **Characteristic**                  | **Simple** | **Intermediate** | **Trained** | **Expert** |
-| ----------------------------------- | :--------: | :--------------: | :---------: | :--------: |
-| Weapon Skill                        |    250     |       500        |     750     |   1,000    |
-| Ballistic Skill                     |    100     |       250        |     500     |    750     |
-| Strength                            |    500     |       750        |    1,000    |   2,500    |
-| Toughness                           |    500     |       750        |    1,000    |   2,500    |
-| Agility                             |    100     |       250        |     500     |    500     |
-| Intelligence                        |    250     |       500        |     750     |   1,000    |
-| Perception                          |    250     |       500        |     750     |   1,000    |
-| Willpower                           |    250     |       500        |     750     |   1,000    |
-| Fellowship                          |    100     |       250        |     500     |    750     |
+| **Characteristic** | **Simple** | **Intermediate** | **Trained** | **Expert** |
+| ------------------ | :--------: | :--------------: | :---------: | :--------: |
+| Weapon Skill       |    250     |       500        |     750     |   1,000    |
+| Ballistic Skill    |    100     |       250        |     500     |    750     |
+| Strength           |    500     |       750        |    1,000    |   2,500    |
+| Toughness          |    500     |       750        |    1,000    |   2,500    |
+| Agility            |    100     |       250        |     500     |    750     |
+| Intelligence       |    250     |       500        |     750     |   1,000    |
+| Perception         |    250     |       500        |     750     |   1,000    |
+| Willpower          |    250     |       500        |     750     |   1,000    |
+| Fellowship         |    100     |       250        |     500     |    750     |
 # Advancement Tree
 
 ```mermaid
@@ -23,7 +23,7 @@ A[Dreg 0-499] --> B[outcast 500-999];
 B --> C[Outlaw 1,000-1,999];
 C --> D[Renegae 2,000-2,999];
 D --> E[Rouge 3,000-5,999]
-E -- Violance --> F[Cutter 6.000-7,999]
+E -- Violence --> F[Cutter 6.000-7,999]
 F --> G[Stubjack 8,000-9,9999]
 G --> H[Gang Lord 10,000-14,999]
 E -- Talking --> I[Fixer 6,000-7999]
@@ -38,11 +38,11 @@ Beggars, thieves and base born scum: the dregs of society are nevertheless hardy
 
 | Advance                                                   | Cost | Type | Prerequisites |
 | --------------------------------------------------------- | :--: | :--: | :-----------: |
-| [[Skills#Awareness\|Awareness]]                           | 100  |  S   |       —       |
-| [[Skills#Awareness\|Awareness]] +10                       | 100  |  S   |   Awareness   |
-| [[Skills#Barter\|Barter]]                                 | 100  |  S   |       —       |
-| Blather                                                   | 100  |  S   |       —       |
-| Charm                                                     | 100  |  S   |       —       |
+| [Awareness](skills.md#awareness)                          | 100  |  S   |       —       |
+| [Awareness](Skills.md#awareness) +10                      | 100  |  S   |   Awareness   |
+| [Barter](Skills.md#Barter)                                | 100  |  S   |       —       |
+| [Blather](Skills.md#Blather)                              | 100  |  S   |       —       |
+| [Charm](Skills.md#Charm)                                  | 100  |  S   |       —       |
 | Common Lore (Imperium)                                    | 100  |  S   |       —       |
 | Deceive                                                   | 100  |  S   |       —       |
 | Dodge                                                     | 100  |  S   |       —       |
@@ -174,7 +174,7 @@ Toughened by all that life can throw at him, the Rogue is a smart, skilled and d
 | Sound Constitution             | 200  |  T   |                   —                    |
 | Takedown                       | 200  |  T   |                   —                    |
 | Two-Weapon Wielder (Ballistic) | 200  |  T   |              BS 35, Ag 35              |
-# Violance
+# Violence
 ## **Cutter Advances**
 
 *"Mark my muzzle, you go there and beg for forgiveness. If Lex sends a Cutter on you, there ain't a place in this hive or the next that'll take you in or save you."*

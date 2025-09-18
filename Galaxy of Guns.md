@@ -262,20 +262,19 @@ Guardsmen who are "in the know" have been able to improvise their lasguns into b
 
 ### Las Pistol list
 
-| Name                                               | Class  | Range | RoF   | Dam      | Pen | Clip | Rld   | Special                                                             | Wt     | Cost  | World      | Availability |
-| -------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
-| [[#Dueling Las(Belasco)]]                          | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full  | [[#Accurate]]                                                       | 1.5kg  | 250   | -          | Very Rare    |
-| [[#Duelling Las(K-A)]]                             | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full  | [[#Accurate]], [[#Tearing]]                                         | 1.7kg  | 220   | -          | Very Rare    |
-| [[#Hellpistol]]                                    | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | 2Full | -                                                                   | 4kg†   | 2,500 | -          | Rare         |
-| [[#Laspistol]] (generic)                           | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.5kg  | 50    | -          | Common       |
-| - [[#Civitas-Pattern]]                             | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full  | [[#Reliable]]                                                       | 2kg    | 35    | -          | Common       |
-| - [[#Fury Assault Pistol]]                         | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full  | [[#Reliable]]                                                       | 1.5kg  | 100   | -          | Scarce       |
-| - [[#Mark IV Command Laspistol]]                   | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full  | [[#Accurate]], [[#Reliable]],[[#WEAPON QUALITY VARIABLE\|Variable]] | 1.75kg | 150   | -          | Rare         |
-| - [[#Palatine Compact Laspistol]]                  | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full  | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 1.1kg  | 100   | -          | Average      |
-| - [[#Steel Burner Heavy Laspistol]]                | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full  | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 2.5kg  | 100   | Fenksworld | Very Rare    |
-| [[#Las Gauntlets]]                                 | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full  | [[#Reliable]]                                                       | 3kg    | 350   | -          | Very Rare    |
-| [[#Series-S Venom Compact Pistol\|Series-S Venom]] | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -     | -                                                                   | 0.5kg  | 120   | -          | Scarce       |
-
+| Name                                                                                                                         | Class  | Range | RoF   | Dam      | Pen | Clip | Rld  | Special                                                                            | Wt     | Cost  | World      | Availability |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ---- | ---------------------------------------------------------------------------------- | ------ | ----- | ---------- | ------------ |
+| [Dueling Las (Belasco)](Galaxy%20of%20Guns#Dueling%20Las(Belasco))                                                           | Pistol | 45m   | S/-/- | 1d10+5 E | 5   | 1    | Full | [Accurate](Galaxy%20of%20Guns.md#Accurate)                                         | 1.5kg  | 250   | -          | Very Rare    |
+| [Duelling Las(K-A)](Galaxy%20of%20Guns#Dueling%20Las(K-A))                                                                   | Pistol | 30m   | S/-/- | 1d10+4 E | 4   | 1    | Full | [Accurate](Galaxy%20of%20Guns.md#Accurate), [[#Tearing]]                           | 1.7kg  | 220   | -          | Very Rare    |
+| [Hellpistol](Galaxy%20of%20Guns#HellPistol)                                                                                  | Pistol | 35m   | S/2/- | 1d10+4 E | 7   | 40   | Full | -                                                                                  | 4kg†   | 2,500 | -          | Rare         |
+| [Laspistol](Galaxy%20of%20Guns#Laspistol) (generic)                                                                          | Pistol | 30m   | S/-/- | 1d10+2 E | 0   | 30   | Full | [Reliable](Galaxy%20of%20Guns.md#Reliable), [[#WEAPON QUALITY VARIABLE\|Variable]] | 1.5kg  | 50    | -          | Common       |
+| - [Civitas-Pattern](Galaxy%20of%20Guns.md#Civitas-Pattern)                                                                   | Pistol | 25m   | S/2/- | 1d10+1 E | 0   | 25   | Full | [[#Reliable]]                                                                      | 2kg    | 35    | -          | Common       |
+| - [Fury Assault Pistol](Galaxy%20of%20Guns.md#Fury%20Assault%20Pistol)                                                       | Pistol | 20m   | S/2/5 | 1d10+2 E | 0   | 30   | Full | [[#Reliable]]                                                                      | 1.5kg  | 100   | -          | Scarce       |
+| - [Mark IV Command Laspistol](Galaxy%20of%20Guns.md#Mark%20IV%20Command%20Laspistol)                                         | Pistol | 70m   | S/2/- | 1d10+3 E | 0   | 15   | Full | [[#Accurate]], [[#Reliable]],[[#WEAPON QUALITY VARIABLE\|Variable]]                | 1.75kg | 150   | -          | Rare         |
+| - [Palatine Compact Laspistol](Galaxy%20of%20Guns.md#Palatine%20Compact%20Laspistol)                                         | Pistol | 20m   | S/3/- | 1d10+2 E | 0   | 20   | Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 1.1kg  | 100   | -          | Average      |
+| - [Steel Burner Heavy Laspistol](Galaxy%20of%20Guns.md#Steel%20Burner%20Heavy%20Laspistol)                                   | Pistol | 30m   | S/-/- | 1d10+4 E | 2   | 10   | Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                                             | 2.5kg  | 100   | Fenksworld | Very Rare    |
+| [Las Gauntlets](Galaxy%20of%20Guns.md#Las%20Gauntlets)                                                                       | Pistol | 50m   | S/4/- | 1d10+4 E | 1   | 20   | Full | [[#Reliable]]                                                                      | 3kg    | 350   | -          | Very Rare    |
+| [Series-S Venom Compact Pistol\|Series-S Venom](Galaxy%20of%20Guns.md#Series-S%20Venom%20Compact%20Pistol\|Series-S%20Venom) | Pistol | 10m   | S/-/- | 1d10+1 E | 0   | 15   | -    | -                                                                                  | 0.5kg  | 120   | -          | Scarce       |
 †Not including power pack
 #### Dueling Las
 
@@ -331,28 +330,28 @@ The Venom is powered via an internal non-removable power cell rather than Munito
 
 ### Basic and Heavy Las List
 
-| Name                                          | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
-| --------------------------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
-| [[#Merovech Assault Lasgun\|Assault Lasgun]]  | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.5kg | 250   | -          | Average      |
-| [[#Hellgun]]                                  | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                                                                   | 6kg†  | 2,700 | -          | Rare         |
-| [[#D'laku Crusade Hellgun\|Hellgun (D’laku)]] | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
-| [[#Man-Portable Lascannon\|Lascannon]]        | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
-| [[#Lascarbine]] (generic)                     | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
-| - [[#Death Light Lasgun\|Death Light]]        | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
-| - [[#Locke-Pattern\|Locke]]                   | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
-| - [[#Minerva-Aegis]]                          | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
-| [[# Mezoa-Pattern Lascutter\|Lascutter]]      | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
-| [[#Lasgun]] (generic)                         | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 100   | -          | Common       |
-| - [[#Drusus Prime-Pattern\|Drusus Prime]]     | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
-| - [[#Mars-Pattern Mark III Lasgun\|Mark III]] | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
-| - [[#Roth Lightning Lasgun\|Roth]]            | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
-| - [[#Storm Front Lasgun\|Storm Front]]        | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
-| [[#Laslock Class]]                            | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | [[#Unreliable]], [[#Unstable]]                                      | 4kg   | 40    | -          | Plentiful    |
-| [[#Long Las Class]]                           | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | [[#Accurate]],[[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 4.5kg | 100   | -          | Scarce       |
-| [[#Multi-Laser Class]]                        | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                                                                   | -     | 2,000 | -          | Scarce       |
-| [[#Merovech Shotlas Class]]                   | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                                                                   | 4kg   | 90    | -          | Scarce       |
-| [[#Twin Lasgun Class Basic (Las)]]            | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | [[#Tearing]], [[#Unreliable]]                                       | 7kg   | 220   | -          | Rare         |
-| †_Not including power pack_                   |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
+| Name                                                                                                             | Class | Range | RoF    | Dam       | Pen | Clip    | Rld    | Special                                                             | Wt    | Cost  | World      | Availability |
+| ---------------------------------------------------------------------------------------------------------------- | ----- | ----- | ------ | --------- | --- | ------- | ------ | ------------------------------------------------------------------- | ----- | ----- | ---------- | ------------ |
+| [Merovech Assault Lasgun\|Assault Lasgun](Galaxy%20of%20Guns.md#Merovech%20Assault%20Lasgun\|Assault%20Lasgun)   | Basic | 50m   | S/-/5  | 1d10+3 E  | 0   | 60 (x2) | 2 Full | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.5kg | 250   | -          | Average      |
+| [Hellgun](Galaxy%20of%20Guns.md#Hellgun)                                                                         | Basic | 110m  | S/3/-  | 1d10+4 E  | 7   | 30      | 2 Full | -                                                                   | 6kg†  | 2,700 | -          | Rare         |
+| [D'laku Crusade Hellgun\|Hellgun (D’laku)](Galaxy%20of%20Guns.md#D'laku%20Crusade%20Hellgun\|Hellgun%20(D’laku)) | Basic | 100m  | S/3/5  | 1d10+3 E  | 4   | 40      | 2 Full | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 9kg†  | 500   | Lathes     | Scarce       |
+| [Man-Portable Lascannon\|Lascannon](Galaxy%20of%20Guns.md#Man-Portable%20Lascannon\|Lascannon)                   | Heavy | 300m  | S/-/-  | 5d10+10 E | 10  | 5       | 2 Full | -                                                                   | 55kg  | 5,000 | -          | Very Rare    |
+| [Lascarbine](Galaxy%20of%20Guns.md#Lascarbine) (generic)                                                         | Basic | 60m   | S/2/-  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 3kg   | 75    | -          | Common       |
+| - [Death Light Lasgun\|Death Light](Galaxy%20of%20Guns.md#Death%20Light%20Lasgun\|Death%20Light)                 | Basic | 80m   | S/3/-  | 1d10+5 E  | 2   | 18      | Full   | [[#WEAPON QUALITY VARIABLE\|Variable]]                              | 7.2kg | 250   | Fenksworld | Scarce       |
+| - [Locke-Pattern\|Locke](Galaxy%20of%20Guns.md#Locke-Pattern\|Locke)                                             | Basic | 60m   | S/2/-  | 1d10+4 E  | 0   | 40      | Full   | [[#Unreliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]             | 2.5kg | 100   | -          | Scarce       |
+| - [Minerva-Aegis](Galaxy%20of%20Guns.md#Minerva-Aegis)                                                           | Basic | 60m   | S/4/8  | 1d10+2 E  | 0   | 40      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4.1kg | 150   | -          | Scarce       |
+| [ Mezoa-Pattern Lascutter\|Lascutter](Galaxy%20of%20Guns.md#%20Mezoa-Pattern%20Lascutter\|Lascutter)             | Heavy | 5m    | S/-/-  | 2d10+3 E  | 6   | 10      | 2 Full | -                                                                   | 8kg   | 370   | -          | Rare         |
+| [Lasgun](Galaxy%20of%20Guns.md#Lasgun) (generic)                                                                 | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 100   | -          | Common       |
+| - [Drusus Prime-Pattern\|Drusus Prime](Galaxy%20of%20Guns.md#Drusus%20Prime-Pattern\|Drusus%20Prime)             | Basic | 100m  | S/2/-  | 1d10+3 E  | 0   | 50      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 7kg   | 50    | -          | Common       |
+| - [Mars-Pattern Mark III Lasgun\|Mark III](Galaxy%20of%20Guns.md#Mars-Pattern%20Mark%20III%20Lasgun\|Mark%20III) | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 75    | -          | Average      |
+| - [Roth Lightning Lasgun\|Roth](Galaxy%20of%20Guns.md#Roth%20Lightning%20Lasgun\|Roth)                           | Basic | 120m  | S/2/-  | 1d10+2 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 4kg   | 175   | -          | Rare         |
+| - [Storm Front Lasgun\|Storm Front](Galaxy%20of%20Guns.md#Storm%20Front%20Lasgun\|Storm%20Front)                 | Basic | 100m  | S/3/-  | 1d10+3 E  | 0   | 60      | Full   | [[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]]               | 5kg   | 200   | -          | Very Rare    |
+| [Laslock Class](Galaxy%20of%20Guns.md#Laslock%20Class)                                                           | Basic | 70m   | S/-/-  | 1d10+4 E  | 0   | 1       | Full   | [[#Unreliable]], [[#Unstable]]                                      | 4kg   | 40    | -          | Plentiful    |
+| [Long Las Class](Galaxy%20of%20Guns.md#Long%20Las%20Class)                                                       | Basic | 150m  | S/-/-  | 1d10+3 E  | 1   | 40      | Full   | [[#Accurate]],[[#Reliable]], [[#WEAPON QUALITY VARIABLE\|Variable]] | 4.5kg | 100   | -          | Scarce       |
+| [Multi-Laser Class](Galaxy%20of%20Guns.md#Multi-Laser%20Class)                                                   | Heavy | 250m  | -/-/10 | 3d10+3 E  | 4   | 60      | 3 Full | -                                                                   | -     | 2,000 | -          | Scarce       |
+| [Merovech Shotlas Class](Galaxy%20of%20Guns.md#Merovech%20Shotlas%20Class)                                       | Basic | 60m   | S/3/-  | 1d10+4 E  | 1   | 30      | 2 Full | -                                                                   | 4kg   | 90    | -          | Scarce       |
+| [Twin Lasgun Class Basic (Las)](Galaxy%20of%20Guns.md#Twin%20Lasgun%20Class%20Basic%20(Las))                     | Basic | 100m  | S/2/-  | 1d10+4 E  | 0   | 18      | Full   | [[#Tearing]], [[#Unreliable]]                                       | 7kg   | 220   | -          | Rare         |
+| †_Not including power pack_                                                                                      |       |       |        |           |     |         |        |                                                                     |       |       |            |              |
 #### Merovech Assault Lasgun
 Class: Basic (Las)
 
@@ -472,37 +471,37 @@ To use the various classes of solid projectile weapons you must have the Pistol 
 
 ### Solid Projectile Weapons list
 
-| Name                                                       | Class  | Range | RoF   | Dam      | Pen | Clip  | Rld    | Special                                     | Wt    | Cost  | World | Availability   |
-| ---------------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ----- | ------ | ------------------------------------------- | ----- | ----- | ----- | -------------- |
-| [[#Autopistol]] (generic)                                  | Pistol | 30m   | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.5kg | 75    | -     | Common         |
-| - [[#Disposable Pistol]]                                   | Pistol | 30m   | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 2kg   | 15    | -     | Ubiquitous     |
-| - [[#Sulymann Encarmine Service Pistol\|Encarmine]]        | Pistol | 20m   | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                                           | 2kg   | 90    | -     | Average        |
-| - [[#Hecuter 9/5 Combat Autopistol\|Hecuter]]              | Pistol | 30m   | S/3/6 | 1d10+3 I | 0   | 15    | Full   | [[#Reliable]]                               | 2kg   | 175   | -     | Average        |
-| - [[#Naval Pistol]]                                        | Pistol | 20m   | S/3/- | 1d10+4 I | 0   | 6     | Full   | [[#Tearing]]                                | 3kg   | 120   | -     | Scarce         |
-| - [[#Orthlack Mark IV Thollos]]                            | Pistol | 20m   | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                                           | 2.5kg | 75    | -     | Scarce         |
-| - [[#Hax-Orthlack Puritan-14 Double Pistol\|Puritan-14]]   | Pistol | 20m   | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                                           | 1.7kg | 100   | -     | Scarce         |
-| - [[#Hax-Orthlack Puritan-14 Double Pistol\|As shotgun]]   | Pistol | 15m   | S/-/- | 1d10+4 I | 0   | 1     | Full   | [[#Scatter]]                                |       |       |       |                |
-| - [[#Sulymann "Salvation" Holdout Pistol\|Salvation]]      | Pistol | 10m   | S/3/- | 1d10 I   | 0   | 7     | -      | -                                           | 0.7kg | 80    | -     | Common         |
-| - [[#Sulymann Talon III Autopistol\|Talon III]]            | Pistol | 30m   | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.3kg | 85    | -     | Common         |
-| [[#"Flametongue" Howdah Pistol\|Flametongue]]              | Pistol | 20m   | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | [[#Primitive]], [[#Reliable]], [[#Tearing]] | 2kg   | 140   | -     | Rare           |
-| [[#Hand Cannon]] (generic)                                 | Pistol | 35m   | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                                           | 3kg   | 65    | -     | Average        |
-| - [[#.54 Tranter]]                                         | Pistol | 30m   | S/2/- | 1d10+5 I | 2   | 7     | Full   | [[#Unreliable]]                             | 3.5kg | 95    | -     | Common         |
-| - [[#Westingkrup "Carnodon" Precision Pistol\|Carnodon]]   | Pistol | 35m   | S/3/- | 1d10+4 I | 2   | 6     | Full   | [[#Accurate]]                               | 2.5kg | 200   | -     | Scarce         |
-| - [[#Khayer-Addin "Fate Bringer" Revolver\|Fate Bringer]]  | Pistol | 40m   | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | [[#Accurate]], [[#Reliable]]                | 1.6kg | 200   | -     | Rare           |
-| - [[#Stormchild Hand Cannon\|Stormchild]]                  | Pistol | 35m   | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                                           | 3kg   | 65    | -     | Average        |
-| [[#Hack Shotgun]]                                          | Pistol | 10m   | S/-/- | 1d10+4 I | 0   | 1     | 2 Full | [[#Inaccurate]], [[#Scatter]], [[#Tearing]] | 3kg   | 60    | -     | Common         |
-| [[#Mariette Cylinder Pistol\|Mariette]]                    | Pistol | 20m   | S/2/- | 2d5+3 I  | 0   | 2     | 2 Full | [[#Tearing]]                                | 0.5k  | 400   | -     | Rare           |
-| [[#Volg Mercy Killer\|Mercy Killer]]                       | Pistol | 20m   | S/-/- | 1d10+2 I | 0   | 1     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 1kg   | 10    | -     | Plentiful      |
-| [[#Panoptic 0-5 Automata Pistol\|Panoptic]]                | Pistol | 35m   | S/2/- | 1d10+3 I | 0   | 5(x2) | 2 Full | [[#Reliable]]                               | 2kg   | 225   | -     | Rare           |
-| [[#Volg "Ripper Clip" Pistol\|Ripper Clip]]                | Pistol | 20m   | -/-/6 | 1d10+2 I | 0   | 12    | Full   | [[#Inaccurate]], [[#Unreliable]]            | 3kg   | 40    | Volg  | Common         |
-| [[#Belasco Ripper Pistol\|Ripper Pistol]]                  | Pistol | 30m   | S/2/- | 1d10+1 I | 7   | 8     | Full   | [[#Tearing]], [[#Toxic]]                    | 4kg   | 2,000 | -     | Extremely Rare |
-| [[#Shotgun Pistol]]                                        | Pistol | 10m   | S/-/- | 1d10+4 I | 0   | 1     | Full   | [[#Reliable]], [[#Scatter]]                 | 1kg   | 60    | -     | Average        |
-| [[#Stub Automatic]] (generic)                              | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                                           | 1.5kg | 50    | -     | Plentiful      |
-| - [[#Hax-Orthlack Armsman-10 Service Pistol\|Arms man-10]] | Pistol | 35m   | S/3/- | 1d10+3 I | 0   | 13    | Full   | -                                           | 1.5kg | 75    | -     | Plentiful      |
-| - [[#Dorcas-Pattern Trophy Automatic\|Dorcas-Pattern]]     | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Half   | -                                           | 1.5kg | 125   | -     | Rare           |
-| - [[#Phobos Stubber]]                                      | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                                           | 1.3kg | 50    | -     | Plentiful      |
-| [[#Stub Revolver]] (generic)                               | Pistol | 30m   | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | [[#Reliable]]                               | 1kg   | 40    | -     | Plentiful      |
-| - [[#Westingkrup Model 20 "Scalptaker"\|Scalptaker]]       | Pistol | 35m   | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | [[#Reliable]]                               | 2kg   | 40    | -     | Plentiful      |
+| Name                                                                                                                                       | Class  | Range | RoF   | Dam      | Pen | Clip  | Rld    | Special                                     | Wt    | Cost  | World | Availability   |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----- | ----- | -------- | --- | ----- | ------ | ------------------------------------------- | ----- | ----- | ----- | -------------- |
+| [Autopistol](Galaxy%20of%20Guns.md#Autopistol) (generic)                                                                                   | Pistol | 30m   | S/-/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.5kg | 75    | -     | Common         |
+| - [Disposable Pistol](Galaxy%20of%20Guns.md#Disposable%20Pistol)                                                                           | Pistol | 30m   | S/2/- | 1d10+2 I | 0   | 8     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 2kg   | 15    | -     | Ubiquitous     |
+| - [Sulymann Encarmine Service Pistol\|Encarmine](Galaxy%20of%20Guns.md#Sulymann%20Encarmine%20Service%20Pistol\|Encarmine)                 | Pistol | 20m   | S/3/8 | 1d10 I   | 0   | 24    | Full   | -                                           | 2kg   | 90    | -     | Average        |
+| - [Hecuter 9/5 Combat Autopistol\|Hecuter](Galaxy%20of%20Guns.md#Hecuter%209/5%20Combat%20Autopistol\|Hecuter)                             | Pistol | 30m   | S/3/6 | 1d10+3 I | 0   | 15    | Full   | [[#Reliable]]                               | 2kg   | 175   | -     | Average        |
+| - [Naval Pistol](Galaxy%20of%20Guns.md#Naval%20Pistol)                                                                                     | Pistol | 20m   | S/3/- | 1d10+4 I | 0   | 6     | Full   | [[#Tearing]]                                | 3kg   | 120   | -     | Scarce         |
+| - [Orthlack Mark IV Thollos](Galaxy%20of%20Guns.md#Orthlack%20Mark%20IV%20Thollos)                                                         | Pistol | 20m   | S/-/6 | 1d10+4 I | 0   | 12    | Full   | -                                           | 2.5kg | 75    | -     | Scarce         |
+| - [Hax-Orthlack Puritan-14 Double Pistol\|Puritan-14](Galaxy%20of%20Guns.md#Hax-Orthlack%20Puritan-14%20Double%20Pistol\|Puritan-14)       | Pistol | 20m   | S/3/6 | 1d10+2 I | 0   | 15    | Full   | -                                           | 1.7kg | 100   | -     | Scarce         |
+| - [Hax-Orthlack Puritan-14 Double Pistol\|As shotgun](Galaxy%20of%20Guns.md#Hax-Orthlack%20Puritan-14%20Double%20Pistol\|As%20shotgun)     | Pistol | 15m   | S/-/- | 1d10+4 I | 0   | 1     | Full   | [[#Scatter]]                                |       |       |       |                |
+| - [Sulymann "Salvation" Holdout Pistol\|Salvation](Galaxy%20of%20Guns.md#Sulymann%20"Salvation"%20Holdout%20Pistol\|Salvation)             | Pistol | 10m   | S/3/- | 1d10 I   | 0   | 7     | -      | -                                           | 0.7kg | 80    | -     | Common         |
+| - [Sulymann Talon III Autopistol\|Talon III](Galaxy%20of%20Guns.md#Sulymann%20Talon%20III%20Autopistol\|Talon%20III)                       | Pistol | 30m   | S/2/6 | 1d10+2 I | 0   | 18    | Full   | -                                           | 2.3kg | 85    | -     | Common         |
+| ["Flametongue" Howdah Pistol\|Flametongue](Galaxy%20of%20Guns.md#"Flametongue"%20Howdah%20Pistol\|Flametongue)                             | Pistol | 20m   | S/-/- | 1d10+6 I | 0   | 2     | 2 Full | [[#Primitive]], [[#Reliable]], [[#Tearing]] | 2kg   | 140   | -     | Rare           |
+| [Hand Cannon](Galaxy%20of%20Guns.md#Hand%20Cannon) (generic)                                                                               | Pistol | 35m   | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                                           | 3kg   | 65    | -     | Average        |
+| - [.54 Tranter](Galaxy%20of%20Guns.md#.54%20Tranter)                                                                                       | Pistol | 30m   | S/2/- | 1d10+5 I | 2   | 7     | Full   | [[#Unreliable]]                             | 3.5kg | 95    | -     | Common         |
+| - [Westingkrup "Carnodon" Precision Pistol\|Carnodon](Galaxy%20of%20Guns.md#Westingkrup%20"Carnodon"%20Precision%20Pistol\|Carnodon)       | Pistol | 35m   | S/3/- | 1d10+4 I | 2   | 6     | Full   | [[#Accurate]]                               | 2.5kg | 200   | -     | Scarce         |
+| - [Khayer-Addin "Fate Bringer" Revolver\|Fate Bringer](Galaxy%20of%20Guns.md#Khayer-Addin%20"Fate%20Bringer"%20Revolver\|Fate%20Bringer)   | Pistol | 40m   | S/-/- | 1d10+3 I | 2   | 5     | 2 Full | [[#Accurate]], [[#Reliable]]                | 1.6kg | 200   | -     | Rare           |
+| - [Stormchild Hand Cannon\|Stormchild](Galaxy%20of%20Guns.md#Stormchild%20Hand%20Cannon\|Stormchild)                                       | Pistol | 35m   | S/-/- | 1d10+4 I | 2   | 5     | 2 Full | -                                           | 3kg   | 65    | -     | Average        |
+| [Hack Shotgun](Galaxy%20of%20Guns.md#Hack%20Shotgun)                                                                                       | Pistol | 10m   | S/-/- | 1d10+4 I | 0   | 1     | 2 Full | [[#Inaccurate]], [[#Scatter]], [[#Tearing]] | 3kg   | 60    | -     | Common         |
+| [Mariette Cylinder Pistol\|Mariette](Galaxy%20of%20Guns.md#Mariette%20Cylinder%20Pistol\|Mariette)                                         | Pistol | 20m   | S/2/- | 2d5+3 I  | 0   | 2     | 2 Full | [[#Tearing]]                                | 0.5k  | 400   | -     | Rare           |
+| [Volg Mercy Killer\|Mercy Killer](Galaxy%20of%20Guns.md#Volg%20Mercy%20Killer\|Mercy%20Killer)                                             | Pistol | 20m   | S/-/- | 1d10+2 I | 0   | 1     | 2 Full | [[#Inaccurate]], [[#Unreliable]]            | 1kg   | 10    | -     | Plentiful      |
+| [Panoptic 0-5 Automata Pistol\|Panoptic](Galaxy%20of%20Guns.md#Panoptic%200-5%20Automata%20Pistol\|Panoptic)                               | Pistol | 35m   | S/2/- | 1d10+3 I | 0   | 5(x2) | 2 Full | [[#Reliable]]                               | 2kg   | 225   | -     | Rare           |
+| [Volg "Ripper Clip" Pistol\|Ripper Clip](Galaxy%20of%20Guns.md#Volg%20"Ripper%20Clip"%20Pistol\|Ripper%20Clip)                             | Pistol | 20m   | -/-/6 | 1d10+2 I | 0   | 12    | Full   | [[#Inaccurate]], [[#Unreliable]]            | 3kg   | 40    | Volg  | Common         |
+| [Belasco Ripper Pistol\|Ripper Pistol](Galaxy%20of%20Guns.md#Belasco%20Ripper%20Pistol\|Ripper%20Pistol)                                   | Pistol | 30m   | S/2/- | 1d10+1 I | 7   | 8     | Full   | [[#Tearing]], [[#Toxic]]                    | 4kg   | 2,000 | -     | Extremely Rare |
+| [Shotgun Pistol](Galaxy%20of%20Guns.md#Shotgun%20Pistol)                                                                                   | Pistol | 10m   | S/-/- | 1d10+4 I | 0   | 1     | Full   | [[#Reliable]], [[#Scatter]]                 | 1kg   | 60    | -     | Average        |
+| [Stub Automatic](Galaxy%20of%20Guns.md#Stub%20Automatic) (generic)                                                                         | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                                           | 1.5kg | 50    | -     | Plentiful      |
+| - [Hax-Orthlack Armsman-10 Service Pistol\|Arms man-10](Galaxy%20of%20Guns.md#Hax-Orthlack%20Armsman-10%20Service%20Pistol\|Arms%20man-10) | Pistol | 35m   | S/3/- | 1d10+3 I | 0   | 13    | Full   | -                                           | 1.5kg | 75    | -     | Plentiful      |
+| - [Dorcas-Pattern Trophy Automatic\|Dorcas-Pattern](Galaxy%20of%20Guns.md#Dorcas-Pattern%20Trophy%20Automatic\|Dorcas-Pattern)             | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Half   | -                                           | 1.5kg | 125   | -     | Rare           |
+| - [Phobos Stubber](Galaxy%20of%20Guns.md#Phobos%20Stubber)                                                                                 | Pistol | 30m   | S/3/- | 1d10+3 I | 0   | 9     | Full   | -                                           | 1.3kg | 50    | -     | Plentiful      |
+| [Stub Revolver](Galaxy%20of%20Guns.md#Stub%20Revolver) (generic)                                                                           | Pistol | 30m   | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | [[#Reliable]]                               | 1kg   | 40    | -     | Plentiful      |
+| - [Westingkrup Model 20 "Scalptaker"\|Scalptaker](Galaxy%20of%20Guns.md#Westingkrup%20Model%2020%20"Scalptaker"\|Scalptaker)               | Pistol | 35m   | S/-/- | 1d10+3 I | 0   | 6     | 2 Full | [[#Reliable]]                               | 2kg   | 40    | -     | Plentiful      |
 ### Autopistol
 
 Small but effective, autopistols are the preferred backup weapon of many military types who need a compact but rapid-firing gun for situations where their main long-arm is unsuitable. They are also the sidearm of choice for many gangers and outlaws as they conceal quite a bit of firepower in a relatively small package that can be stuffed into a pocket and carried all day, while more than a few of those scummers have met their end from another autopistol wielded by an Arbitrator opposite his suppression shield. Numerous autopistol patterns throughout the Imperium are similar enough to fall into this weapon's entry, while the fanes and forges in the Calixis Sector produce some more exotic variants as listed below.
@@ -821,23 +820,23 @@ To use bolt weapons without penalty, a character must have the Pistol Training (
 
 | Name                                                   | Class  | Range | RoF    | Dam      | Pen | Clip | Rld    | Special                                             | Wt    | Cost   | World   | Availability  |
 | ------------------------------------------------------ | ------ | ----- | ------ | -------- | --- | ---- | ------ | --------------------------------------------------- | ----- | ------ | ------- | ------------- |
-| [[#Angelus Bolt Carbine\|Angelus]]                     | Basic  | 120m  | S/-/-  | 2d10+2 X | 5   | 3    | 3 Full | [[#Accurate]], [[#Tearing]]                         | 11kg  | 2,000  | -       | Very Rare     |
-| [[#Boltgun]] (generic)                                 | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | [[#Tearing]]                                        | 7kg   | 500    | -       | Rare          |
-| - [[#Godwyn-De'az-Pattern\|Godwyn-De'az]]              | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 30   | Full   | [[#Reliable]], [[#Tearing]]                         | 6kg   | 1,000  | -       | Very Rare     |
-| - [[#-Locke-Pattern Boldgun\|Locke-Pattern]]           | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 24   | Full   | [[#Tearing]]                                        | 7kg   | 900    | -       | Very Rare     |
-| - [[#Scourge Mark II\|Scourge]]                        | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | [[#Reliable]], [[#Tearing]]                         | 10kg  | 650    | -       | Very Rare     |
-| - [[#Perinetus "Solo" Boltgun\|Solo]]                  | Basic  | 100m  | S/-/-  | 1d10+5 X | 4   | 24   | Full   | [[#Accurate]], [[#Reliable]], [[#Tearing]]          | 7kg   | 500    | -       | Very Rare     |
-| [[#Bolt Pistol]] (generic)                             | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | [[#Tearing]]                                        | 3.5kg | 250    | -       | Rare          |
-| - [[#Garm-Pattern Service Pistol\|Garm-Pattern]]       | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | [[#Tearing]]                                        | 4.5kg | 350    | -       | Rare          |
-| - [[#Godwyn-De'az-Pattern]]                            | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 6    | Full   | [[#Reliable]], [[#Tearing]]                         | 3kg   | 550    | -       | Very Rare     |
-| - [[#Cinder Crag "Mauler" Pistol\|Mauler]]             | Pistol | 30m   | S/3/-  | 1d10+5 X | 4   | 6    | Full   | [[#Reliable]], [[#Tearing]]                         | 2.7kg | 375    | -       | Very Rare     |
-| - [[#Sacristan Bolt Pistol\|Sacristan]]                | Pistol | 30m   | S/2/-  | 1d10+6 X | 4   | 6    | Full   | [[#Tearing]]                                        | 3.3kg | 380    | -       | Rare          |
-| [[#Cane Bolter]]                                       | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | [[#Tearing]]                                        | 3kg   | 600    | -       | Very Rare     |
-| [[#Heavy Bolter]]                                      | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | [[#Tearing]]                                        | 40kg  | 2,000  | -       | Very Rare     |
-| [[#Psycannon]]                                         | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | [[#Reliable]], [[#Sanctified Weapon]], [[#Tearing]] | 20kg  | 12,000 | Malleus | ExtremelyRare |
-| [[Volg "Spitfire" Bolter\|Spitfire]]                   | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | [[#Tearing]], [[#Unreliable]]                       | 3kg   | 75     | Volg    | Scarce        |
-| [[#Storm Bolter]]                                      | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Storm]], [[#Tearing]]                            | 9kg   | 4,000  | -       | ExtremelyRare |
-| - [[#Godwyn-De'az-Pattern Storm Bolter\|Godwyn-De'az]] | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Reliable]], [[#Storm]], [[#Tearing]]             | 12kg  | 9,000  | -       | ExtremelyRare |
+| [Angelus Bolt Carbine\|Angelus](Galaxy%20of%20Guns.md#Angelus%20Bolt%20Carbine\|Angelus)                     | Basic  | 120m  | S/-/-  | 2d10+2 X | 5   | 3    | 3 Full | [[#Accurate]], [[#Tearing]]                         | 11kg  | 2,000  | -       | Very Rare     |
+| [Boltgun](Galaxy%20of%20Guns.md#Boltgun) (generic)                                 | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | [[#Tearing]]                                        | 7kg   | 500    | -       | Rare          |
+| - [Godwyn-De'az-Pattern\|Godwyn-De'az](Galaxy%20of%20Guns.md#Godwyn-De'az-Pattern\|Godwyn-De'az)              | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 30   | Full   | [[#Reliable]], [[#Tearing]]                         | 6kg   | 1,000  | -       | Very Rare     |
+| - [-Locke-Pattern Boldgun\|Locke-Pattern](Galaxy%20of%20Guns.md#-Locke-Pattern%20Boldgun\|Locke-Pattern)           | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 24   | Full   | [[#Tearing]]                                        | 7kg   | 900    | -       | Very Rare     |
+| - [Scourge Mark II\|Scourge](Galaxy%20of%20Guns.md#Scourge%20Mark%20II\|Scourge)                        | Basic  | 90m   | S/2/-  | 1d10+5 X | 4   | 24   | Full   | [[#Reliable]], [[#Tearing]]                         | 10kg  | 650    | -       | Very Rare     |
+| - [Perinetus "Solo" Boltgun\|Solo](Galaxy%20of%20Guns.md#Perinetus%20"Solo"%20Boltgun\|Solo)                  | Basic  | 100m  | S/-/-  | 1d10+5 X | 4   | 24   | Full   | [[#Accurate]], [[#Reliable]], [[#Tearing]]          | 7kg   | 500    | -       | Very Rare     |
+| [Bolt Pistol](Galaxy%20of%20Guns.md#Bolt%20Pistol) (generic)                             | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | [[#Tearing]]                                        | 3.5kg | 250    | -       | Rare          |
+| - [Garm-Pattern Service Pistol\|Garm-Pattern](Galaxy%20of%20Guns.md#Garm-Pattern%20Service%20Pistol\|Garm-Pattern)       | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 8    | Full   | [[#Tearing]]                                        | 4.5kg | 350    | -       | Rare          |
+| - [Godwyn-De'az-Pattern](Galaxy%20of%20Guns.md#Godwyn-De'az-Pattern)                            | Pistol | 30m   | S/2/-  | 1d10+5 X | 4   | 6    | Full   | [[#Reliable]], [[#Tearing]]                         | 3kg   | 550    | -       | Very Rare     |
+| - [Cinder Crag "Mauler" Pistol\|Mauler](Galaxy%20of%20Guns.md#Cinder%20Crag%20"Mauler"%20Pistol\|Mauler)             | Pistol | 30m   | S/3/-  | 1d10+5 X | 4   | 6    | Full   | [[#Reliable]], [[#Tearing]]                         | 2.7kg | 375    | -       | Very Rare     |
+| - [Sacristan Bolt Pistol\|Sacristan](Galaxy%20of%20Guns.md#Sacristan%20Bolt%20Pistol\|Sacristan)                | Pistol | 30m   | S/2/-  | 1d10+6 X | 4   | 6    | Full   | [[#Tearing]]                                        | 3.3kg | 380    | -       | Rare          |
+| [Cane Bolter](Galaxy%20of%20Guns.md#Cane%20Bolter)                                       | Pistol | 30m   | S/-/-  | 1d10+5 X | 4   | 1    | 2 Full | [[#Tearing]]                                        | 3kg   | 600    | -       | Very Rare     |
+| [Heavy Bolter](Galaxy%20of%20Guns.md#Heavy%20Bolter)                                      | Heavy  | 120m  | -/-/10 | 2d10+2 X | 5   | 60   | Full   | [[#Tearing]]                                        | 40kg  | 2,000  | -       | Very Rare     |
+| [Psycannon](Galaxy%20of%20Guns.md#Psycannon)                                         | Heavy  | 120m  | S/-/5  | 2d10+5 X | 5   | 40   | 3 Full | [[#Reliable]], [[#Sanctified Weapon]], [[#Tearing]] | 20kg  | 12,000 | Malleus | ExtremelyRare |
+| [[Volg "Spitfire" Bolter\|Spitfire]]                   | Pistol | 20m   | S/-/-  | 1d10+3 X | 0   | 3    | Full   | [Tearing](Galaxy%20of%20Guns.md#Tearing), [[#Unreliable]]                       | 3kg   | 75     | Volg    | Scarce        |
+| [Storm Bolter](Galaxy%20of%20Guns.md#Storm%20Bolter)                                      | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Storm]], [[#Tearing]]                            | 9kg   | 4,000  | -       | ExtremelyRare |
+| - [Godwyn-De'az-Pattern Storm Bolter\|Godwyn-De'az](Galaxy%20of%20Guns.md#Godwyn-De'az-Pattern%20Storm%20Bolter\|Godwyn-De'az) | Basic  | 90m   | S/2/4  | 1d10+5 X | 4   | 60   | Full   | [[#Reliable]], [[#Storm]], [[#Tearing]]             | 12kg  | 9,000  | -       | ExtremelyRare |
 ### Angelus Bolt Carbine
 Class: Bolt (Basic)
 
@@ -933,16 +932,16 @@ To use melta weapons without penalty, a character must have the Pistol Training 
 
 | Name                                     | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                 | Wt    | Cost   | World        | Availability  |
 | ---------------------------------------- | ------ | ----- | ----- | --------- | --- | ---- | ------ | --------------------------------------- | ----- | ------ | ------------ | ------------- |
-| [[#Inferno Pistol]] (generic)            | Pistol | 10m   | S/-/- | 2d10+4 E  | 12  | 3    | Full   | -                                       | 2.5kg | 7,500  | -            | Very Rare     |
-| - [[#Mars-Pattern Inferno Pistol\|Mars]] | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | [[#Vicious]]                            | 2.5kg | 12,000 | -            | ExtremelyRare |
-| - [[#Seraphim Inferno Pistol\|Seraphim]] | Pistol | 10m   | S/-/- | 2d10+2 E  | 10  | 6    | Full   | [[#Reliable]]                           | 2kg   | 9,000  | -            | ExtremelyRare |
-| [[#Meltacutter]]                         | Basic  | 10m   | S/-/- | 2d10+4 E  | 10  | 5    | 3 Full | -                                       | 30kg  | 600    | Hive & Forge | Scarce        |
-| [[#Meltagun]] (generic)                  | Basic  | 20m   | S/-/- | 2d10+4 E  | 12  | 5    | 2 Full | -                                       | 8kg   | 4,000  | -            | Rare          |
-| - [[#Mars-Pattern Meltagun\|Mars]]       | Basic  | 20m   | S/-/- | 2d10+8 E  | 13  | 5    | 2 Full | [[#Vicious]]                            | 7.5kg | 9,000  | -            | Very Rare     |
-| - [[#Ultima-Pattern Meltagun\|Ultima]]   | Basic  | 40m   | S/-/- | 2d10+2 E  | 8   | 8    | 2 Full | -                                       | 10kg  | 2,500  | -            | Rare          |
-| [[#Multi-Melta]] (generic)               | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | [[#Blast (X)\|Blast]] (1)               | 55kg  | 8,500  | -            | Very Rare     |
-| - [[#Mars-Pattern Multi-Melta\|Mars]]    | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Vicious]] | 40kg  | 15,000 | -            | ExtremelyRare |
-| [[#Thermal Lance]]                       | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | [[#Accurate]]                           | 55kg  | 3,000  | -            | Rare          |
+| [Inferno Pistol](Galaxy%20of%20Guns.md#Inferno%20Pistol) (generic)            | Pistol | 10m   | S/-/- | 2d10+4 E  | 12  | 3    | Full   | -                                       | 2.5kg | 7,500  | -            | Very Rare     |
+| - [Mars-Pattern Inferno Pistol\|Mars](Galaxy%20of%20Guns.md#Mars-Pattern%20Inferno%20Pistol\|Mars) | Pistol | 20m   | S/-/- | 2d10+8 E  | 13  | 3    | Full   | [[#Vicious]]                            | 2.5kg | 12,000 | -            | ExtremelyRare |
+| - [Seraphim Inferno Pistol\|Seraphim](Galaxy%20of%20Guns.md#Seraphim%20Inferno%20Pistol\|Seraphim) | Pistol | 10m   | S/-/- | 2d10+2 E  | 10  | 6    | Full   | [[#Reliable]]                           | 2kg   | 9,000  | -            | ExtremelyRare |
+| [Meltacutter](Galaxy%20of%20Guns.md#Meltacutter)                         | Basic  | 10m   | S/-/- | 2d10+4 E  | 10  | 5    | 3 Full | -                                       | 30kg  | 600    | Hive & Forge | Scarce        |
+| [Meltagun](Galaxy%20of%20Guns.md#Meltagun) (generic)                  | Basic  | 20m   | S/-/- | 2d10+4 E  | 12  | 5    | 2 Full | -                                       | 8kg   | 4,000  | -            | Rare          |
+| - [Mars-Pattern Meltagun\|Mars](Galaxy%20of%20Guns.md#Mars-Pattern%20Meltagun\|Mars)       | Basic  | 20m   | S/-/- | 2d10+8 E  | 13  | 5    | 2 Full | [[#Vicious]]                            | 7.5kg | 9,000  | -            | Very Rare     |
+| - [Ultima-Pattern Meltagun\|Ultima](Galaxy%20of%20Guns.md#Ultima-Pattern%20Meltagun\|Ultima)   | Basic  | 40m   | S/-/- | 2d10+2 E  | 8   | 8    | 2 Full | -                                       | 10kg  | 2,500  | -            | Rare          |
+| [Multi-Melta](Galaxy%20of%20Guns.md#Multi-Melta) (generic)               | Heavy  | 60m   | S/-/- | 4d10+12 E | 12  | 10   | 2 Full | [[#Blast (X)\|Blast]] (1)               | 55kg  | 8,500  | -            | Very Rare     |
+| - [Mars-Pattern Multi-Melta\|Mars](Galaxy%20of%20Guns.md#Mars-Pattern%20Multi-Melta\|Mars)    | Heavy  | 60m   | S/-/- | 4d10+12 E | 14  | 10   | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Vicious]] | 40kg  | 15,000 | -            | ExtremelyRare |
+| [Thermal Lance](Galaxy%20of%20Guns.md#Thermal%20Lance)                       | Heavy  | 10m   | S/-/- | 2d10+4 E  | 12  | 2    | 2 Full | [[#Accurate]]                           | 55kg  | 3,000  | -            | Rare          |
 ### Inferno Pistol
 Class: Pistol (Melta)
 
@@ -1007,21 +1006,21 @@ To use plasma weapons without penalty, a character must have the Pistol Training
 
 | Name                                             | Class  | Range | RoF   | Dam       | Pen | Clip | Rld    | Special                                                                | Wt    | Cost  | World  | Availability  |
 | ------------------------------------------------ | ------ | ----- | ----- | --------- | --- | ---- | ------ | ---------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
-| [[#Phased Plasma Gun]]                           | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                                                | 12kg  | 1,500 | Lathes | Very Rare     |
-| [[#Plasma Blaster]]                              | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Overheats]], [[#Recharge]], [[#Vicious]] | 20kg  | 7,500 | -      | Very Rare     |
-| [[#Plasma Cannon]]                               | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                                         | 38kg† | 8,500 | -      | Very Rare     |
-| - (Maximal)                                      |        |       |       | 4d10+10 E |     |      |        | [[#Blast (X)\|Blast]] (3), [[#Overheats]], [[#Recharge]], [[#Vicious]] |       |       |        |               |
-| [[#Plasma Gun (Ryza)]]                           | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | [[#Overheats]]                                                         | 9kg   | 3,000 | -      | Very Rare     |
-| - (Maximal)                                      |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - [[#Clovis Mark IV\|Clovis]]                    | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 20kg  | 6,000 | -      | ExtremelyRare |
-| - (Maximal)                                      |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - [[#Mezoa-Pattern Plasma gun\|Mezoa]]           | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 17kg  | 2,200 | -      | Very Rare     |
-| - [[#Mark III Sunfury Assault Gun\|Sunfury]]     | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
-| [[#Plasma Pistol (Ryza)]]                        | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 4,000 | -      | Very Rare     |
-| - (Maximal)                                      |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - [[#Kronos-Pattern Plasma Pistol\|Kronos]]      | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
-| - (Maximal)                                      |        |       |       | 2d10+10 E | 8   |      |        | [[#Overheats]], [[#Recharge]]                                          |       |       |        |               |
-| - [[#Khayer-Addin "Wrath" Plasma Pistol\|Wrath]] | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | [[#Accurate]], [[#Overheats]]                                          | 5kg   | 6,500 | -      | ExtremelyRare |
+| [Phased Plasma Gun](Galaxy%20of%20Guns.md#Phased%20Plasma%20Gun)                           | Basic  | 100m  | S/2/4 | 2d10 E    | 6   | -    | -      | Special                                                                | 12kg  | 1,500 | Lathes | Very Rare     |
+| [Plasma Blaster](Galaxy%20of%20Guns.md#Plasma%20Blaster)                              | Basic  | 60m   | S/-/- | 2d10+8 E  | 8   | 6    | 2 Full | [[#Blast (X)\|Blast]] (1), [[#Overheats]], [[#Recharge]], [[#Vicious]] | 20kg  | 7,500 | -      | Very Rare     |
+| [Plasma Cannon](Galaxy%20of%20Guns.md#Plasma%20Cannon)                               | Heavy  | 120m  | S/-/- | 2d10+10 E | 8   | 80   | 5 Full | [[#Overheats]]                                                         | 38kg† | 8,500 | -      | Very Rare     |
+| - (Maximal)                                      |        |       |       | 4d10+10 E |     |      |        | [Blast (X)\|Blast](Galaxy%20of%20Guns.md#Blast%20(X)\|Blast) (3), [[#Overheats]], [[#Recharge]], [[#Vicious]] |       |       |        |               |
+| [Plasma Gun (Ryza)](Galaxy%20of%20Guns.md#Plasma%20Gun%20(Ryza))                           | Basic  | 90m   | S/2/- | 1d10+7 E  | 7   | 40   | 5 Full | [[#Overheats]]                                                         | 9kg   | 3,000 | -      | Very Rare     |
+| - (Maximal)                                      |        | 100m  | S/-/- | 2d10+7 E  | 9   |      |        | [Overheats](Galaxy%20of%20Guns.md#Overheats), [[#Recharge]]                                          |       |       |        |               |
+| - [Clovis Mark IV\|Clovis](Galaxy%20of%20Guns.md#Clovis%20Mark%20IV\|Clovis)                    | Basic  | 60m   | S/3/5 | 1d10+5 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 20kg  | 6,000 | -      | ExtremelyRare |
+| - (Maximal)                                      |        | 70m   | S/3/- | 2d10+5 E  | 8   |      |        | [Overheats](Galaxy%20of%20Guns.md#Overheats), [[#Recharge]]                                          |       |       |        |               |
+| - [Mezoa-Pattern Plasma gun\|Mezoa](Galaxy%20of%20Guns.md#Mezoa-Pattern%20Plasma%20gun\|Mezoa)           | Basic  | 90m   | S/2/- | 1d10+7 E  | 6   | 40   | 5 Full | [[#Overheats]]                                                         | 17kg  | 2,200 | -      | Very Rare     |
+| - [Mark III Sunfury Assault Gun\|Sunfury](Galaxy%20of%20Guns.md#Mark%20III%20Sunfury%20Assault%20Gun\|Sunfury)     | Basic  | 80m   | S/3/- | 1d10+10 E | 6   | 20   | 5 Full | [[#Overheats]]                                                         | 12kg  | 3,000 | -      | Very Rare     |
+| [Plasma Pistol (Ryza)](Galaxy%20of%20Guns.md#Plasma%20Pistol%20(Ryza))                        | Pistol | 30m   | S/2/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 4,000 | -      | Very Rare     |
+| - (Maximal)                                      |        | 40m   | S/-/- | 2d10+6 E  | 8   |      |        | [Overheats](Galaxy%20of%20Guns.md#Overheats), [[#Recharge]]                                          |       |       |        |               |
+| - [Kronos-Pattern Plasma Pistol\|Kronos](Galaxy%20of%20Guns.md#Kronos-Pattern%20Plasma%20Pistol\|Kronos)      | Pistol | 30m   | S/-/- | 1d10+6 E  | 6   | 10   | 3 Full | [[#Overheats]]                                                         | 4kg   | 5,000 | -      | Very Rare     |
+| - (Maximal)                                      |        |       |       | 2d10+10 E | 8   |      |        | [Overheats](Galaxy%20of%20Guns.md#Overheats), [[#Recharge]]                                          |       |       |        |               |
+| - [Khayer-Addin "Wrath" Plasma Pistol\|Wrath](Galaxy%20of%20Guns.md#Khayer-Addin%20"Wrath"%20Plasma%20Pistol\|Wrath) | Pistol | 40m   | S/-/- | 1d10+8 E  | 6   | 8    | 3 Full | [[#Accurate]], [[#Overheats]]                                          | 5kg   | 6,500 | -      | ExtremelyRare |
 
 †Not including ammo pack
 ### Phased Plasma Gun
@@ -1090,17 +1089,17 @@ To use flame weapons without penalty, a character must have the Pistol Training 
 
 | Name                                                | Class  | Range | RoF   | Dam      | Pen | Clip | Rld    | Special                                 | Wt    | Cost  | World | Availability  |
 | --------------------------------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ------ | --------------------------------------- | ----- | ----- | ----- | ------------- |
-| [[#Flamer]] (generic)                               | Basic  | 20m   | S/-/- | 1d10+4 E | 3   | 3    | 2 Full | [[#Flame]], [[#Unreliable]]             | 6kg   | 200   | -     | Scarce        |
-| - [[#Anoxis Burst Flamer\|Burst]]                   | Basic  | 5m    | S/-/- | 1d5 E    | 0   | 10   | 2 Full | [[#Flame]], [[#Primitive]]              | 3kg   | 50    | -     | Scarce        |
-| - [[#Voss "Nightfire" Flame Device\|Nightfire]]     | Basic  | 20m   | S/-/- | 1d10+5 E | 2   | 3    | 2 Full | [[#Flame]], [[#Toxic]], [[#Unreliable]] | 7kg   | 400   | -     | Very Rare     |
-| - [[#Salamander Assault Flamer\|Salamander]]        | Basic  | 10m   | S/-/- | 1d10+4 E | 1   | 3    | 2 Full | [[#Flame]], [[#Unreliable]]             | 6kg   | 250   | -     | Scarce        |
-| [[#Gas Torch]]                                      | Basic  | 5m    | S/-/- | 1d10+1 E | 2   | 20   | 5 Full | [[#Flame]], [[#Unreliable]]             | 20kg  | 150   | Hive  | Average       |
-| [[#Hand Flamer]] (generic)                          | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 2    | 2 Full | [[#Flame]], [[#Unreliable]]             | 3.5kg | 200   | -     | Rare          |
-| - [[#Cadence "Destroyer" Pistol\|Destroyer]]        | Pistol | 15m   | S/-/- | 1d10+5 E | 2   | 5    | 2 Full | [[#Flame]], [[#Unreliable]]             | 2.1kg | 750   | -     | Very Rare     |
-| - [[#Seraphim Hand Flamer\|Seraphi]]                | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 6    | Full   | [[#Flame]]                              | 2kg   | 1,000 | -     | ExtremelyRare |
-| [[#Heavy Flamer Class Heavy (Flame)\|Heavy Flamer]] | Heavy  | 30m   | S/-/- | 2d10+4 E | 4   | 30   | 2 Full | [[#Flame]], [[#Unreliable]]             | 20kg† | 1,000 | -     | Rare          |
-| [[#Anoxis Stingray Rifle\|Stringray]]               | Basic  | 15m   | S/-/- | 1d10+3 E | 2   | 4    | Full   | [[#Flame]]                              | 3kg   | 100   | Void  | Scarce        |
-| [[#Tox Spray]]                                      | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | [[#Flame]], [[#Toxic]]                  | 8kg   | 200   | Hive  | Scarce        |
+| [Flamer](Galaxy%20of%20Guns.md#Flamer) (generic)                               | Basic  | 20m   | S/-/- | 1d10+4 E | 3   | 3    | 2 Full | [[#Flame]], [[#Unreliable]]             | 6kg   | 200   | -     | Scarce        |
+| - [Anoxis Burst Flamer\|Burst](Galaxy%20of%20Guns.md#Anoxis%20Burst%20Flamer\|Burst)                   | Basic  | 5m    | S/-/- | 1d5 E    | 0   | 10   | 2 Full | [[#Flame]], [[#Primitive]]              | 3kg   | 50    | -     | Scarce        |
+| - [Voss "Nightfire" Flame Device\|Nightfire](Galaxy%20of%20Guns.md#Voss%20"Nightfire"%20Flame%20Device\|Nightfire)     | Basic  | 20m   | S/-/- | 1d10+5 E | 2   | 3    | 2 Full | [[#Flame]], [[#Toxic]], [[#Unreliable]] | 7kg   | 400   | -     | Very Rare     |
+| - [Salamander Assault Flamer\|Salamander](Galaxy%20of%20Guns.md#Salamander%20Assault%20Flamer\|Salamander)        | Basic  | 10m   | S/-/- | 1d10+4 E | 1   | 3    | 2 Full | [[#Flame]], [[#Unreliable]]             | 6kg   | 250   | -     | Scarce        |
+| [Gas Torch](Galaxy%20of%20Guns.md#Gas%20Torch)                                      | Basic  | 5m    | S/-/- | 1d10+1 E | 2   | 20   | 5 Full | [[#Flame]], [[#Unreliable]]             | 20kg  | 150   | Hive  | Average       |
+| [Hand Flamer](Galaxy%20of%20Guns.md#Hand%20Flamer) (generic)                          | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 2    | 2 Full | [[#Flame]], [[#Unreliable]]             | 3.5kg | 200   | -     | Rare          |
+| - [Cadence "Destroyer" Pistol\|Destroyer](Galaxy%20of%20Guns.md#Cadence%20"Destroyer"%20Pistol\|Destroyer)        | Pistol | 15m   | S/-/- | 1d10+5 E | 2   | 5    | 2 Full | [[#Flame]], [[#Unreliable]]             | 2.1kg | 750   | -     | Very Rare     |
+| - [Seraphim Hand Flamer\|Seraphi](Galaxy%20of%20Guns.md#Seraphim%20Hand%20Flamer\|Seraphi)                | Pistol | 10m   | S/-/- | 1d10+4 E | 2   | 6    | Full   | [[#Flame]]                              | 2kg   | 1,000 | -     | ExtremelyRare |
+| [Heavy Flamer Class Heavy (Flame)\|Heavy Flamer](Galaxy%20of%20Guns.md#Heavy%20Flamer%20Class%20Heavy%20(Flame)\|Heavy%20Flamer) | Heavy  | 30m   | S/-/- | 2d10+4 E | 4   | 30   | 2 Full | [[#Flame]], [[#Unreliable]]             | 20kg† | 1,000 | -     | Rare          |
+| [Anoxis Stingray Rifle\|Stringray](Galaxy%20of%20Guns.md#Anoxis%20Stingray%20Rifle\|Stringray)               | Basic  | 15m   | S/-/- | 1d10+3 E | 2   | 4    | Full   | [[#Flame]]                              | 3kg   | 100   | Void  | Scarce        |
+| [Tox Spray](Galaxy%20of%20Guns.md#Tox%20Spray)                                      | Basic  | 10m   | S/-/- | 2d5+5 E  | 0   | 3    | 3 Full | [[#Flame]], [[#Toxic]]                  | 8kg   | 200   | Hive  | Scarce        |
 
 †_Not including ammo pack_
 ### Flamer
@@ -1176,31 +1175,31 @@ This class of weapon refers to any of a broad range of low-complexity ranged arm
 
 | Name                                              | Class  | Range | RoF   | Dam         | Pen | Clip | Rld    | Special                                                                   | Wt    | Cost | World    | Availability |
 | ------------------------------------------------- | ------ | ----- | ----- | ----------- | --- | ---- | ------ | ------------------------------------------------------------------------- | ----- | ---- | -------- | ------------ |
-| [[#Bolas]]                                        | Thrown | 10m   | S/-/- | 0           | 0   | 1    | -      | [[#Primitive]], [[#Snare]]                                                | 1.5kg | 10   | -        | Average      |
-| - [[#Volonx Bone Bolas\|Bone Bolas]]              | Thrown | 8m    | S/-/- | 1d5 I       | 0   | 1    | -      | [[#Inaccurate]], [[#Primitive]], [[#Snare]], [[#Toxic]]                   | 2kg   | 15   | Volonx   | Rare         |
-| [[#Bow]]                                          | Basic  | 30m   | S/-/- | 1d10 R      | 0   | 1    | Half   | [[#Primitive]], [[#Reliable]]                                             | 2kg   | 10   | -        | Common       |
-| - [[#Composite Bow]]                              | Basic  | 40m   | S/-/- | 1d10+2 R    | 1   | 1    | Half   | [[#Accurate]], [[#Primitive]]                                             | 3kg   | 50   | -        | Scarce       |
-| - [[#Longbow]]                                    | Basic  | 50m   | S/-/- | 1d10+2 R    | 2   | 1    | Half   | [[#Primitive]]                                                            | 3kg   | 20   | Feudal   | Average      |
-| [[#Crossbow]]                                     | Basic  | 30m   | S/-/- | 1d10 R      | 0   | 1    | 2 Full | [[#Primitive]]                                                            | 3kg   | 10   | -        | Common       |
-| - [[#Heavy Crossbow]]                             | Basic  | 80m   | S/-/- | 1d10+4 R    | 2   | 1    | 4 Full | [[#Primitive]]                                                            | 6kg   | 75   | Feudal   | Rare         |
-| - [[#Hunting Crossbow]]                           | Basic  | 50m   | S/-/- | 1d10+1 R    | 1   | 1    | 2 Full | [[#Accurate]], [[#Primitive]]                                             | 2.5kg | 100  | Imperial | Scarce       |
-| [[#Drive Nailer]]                                 | Basic  | 5m    | -/3/- | 1d10+1 R    | 4   | 15   | 3 Full | [[#Primitive]]                                                            | 7kg   | 50   | Hive     | Common       |
-| [[#Flick Bow]]                                    | Pistol | 15m   | S/-/- | 1d10 R      | 0   | 1    | Full   | [[#Primitive]], Special                                                   | 1kg   | 30   | -        | Scarce       |
-| [[#Flintlock Pistol]]                             | Pistol | 15m   | S/-/- | 1d10+2 I    | 0   | 1    | 3 Full | [[#Inaccurate]], [[#Primitive]], [[#Unreliable]]                          | 4kg   | 10   | -        | Common       |
-| - [[#Deuce Pistol]]                               | Pistol | 15m   | S/2/- | 1d10+2 I    | 0   | 2    | 5 Full | [[#Primitive]], [[#Unreliable]]                                           | 2kg   | 40   | -        | Average      |
-| [[#Hand Crossbow]]                                | Pistol | 15m   | S/-/- | 1d10 R      | 0   | 1    | Full   | [[#Primitive]]                                                            | 1kg   | 200  | -        | Rare         |
-| [[#Haywire Rifle]]                                | Basic  | 10m   | S/-/- | 1d10+3 I    | 2   | 6    | Full   | Special                                                                   | 5kg   | 400  | -        | Very Rare    |
-| [[#Hunting Boomerang]]                            | Thrown | 10m   | S/-/- | 1d10 I      | 0   | 1    | -      | [[#Primitive]]                                                            | .5kg  | 50   | -        | Common       |
-| [[#Impaler]]                                      | Heavy  | 30m   | S/-/- | 1d10+5 I    | 2   | 1    | 2 Full | [[#Primitive]], [[#Unreliable]]                                           | 22kg  | 100  | Hive     | Scarce       |
-| [[#Javelin]]                                      | Thrown | 15m   | S/-/- | 1d10+SB R   | 1   | 1    | -      | [[#Primitive]]                                                            | 1kg   | 8    | -        | Plentiful    |
-| [[#Musket]]                                       | Basic  | 30m   | S/-/- | 1d10+3 I    | 2   | 1    | 5 Full | [[#Inaccurate]], [[#Primitive]], [[#Unreliable]]                          | 7kg   | 30   | -        | Common       |
-| - [[#Blunderbuss]]                                | Basic  | 30m   | S/-/- | 1d10+ 2 I   | 0   | 1    | 2 Full | [[#Inaccurate]], [[#Primitive]], [[#Unreliable]]                          | 4kg   | 20   | -        | Plentiful    |
-| - [[#Siskan "Father Shot" Musket\|Siskan Musket]] | Basic  | 40m   | S/-/- | 1d10+3 I    | 2   | 1    | 5 Full | [[#Primitive]], [[#Vicious]]                                              | 8kg   | 65   | Sisk     | Scarce       |
-| [[#Fedrid Razor Disk\|Razor Disk]]                | Thrown | 10m   | S/-/- | 1d10+SB R   | 1   | 1    | -      | [[#Primitive]]                                                            | .5kg  | 50   | Fedrid   | Average      |
-| [[#Scrap Cannon]]                                 | Heavy  | 15m   | S/-/- | 1d10+3 R    | 0   | 1    | 3 Full | [[#Scatter]], [[#Unreliable]]                                             | 40kg  | 150  | Hive     | Very Rare    |
-| [[#Sling]]                                        | Basic  | 15m   | S/-/- | 1d10-2 I    | 0   | 1    | Full   | [[#Primitive]]                                                            | .5kg  | 10   | -        | Plentiful    |
-| [[#Volonx Thunderclap\|Thunderclap]]              | Exotic | 9m    | S/-/- | 1d5+3 X     | 0   | 1    | -      | [[#Blast (X)\|Blast]] (2), [[#Inaccurate]], [[#Primitive]], [[#Unstable]] | 1kg   | 45   | Volonx   | Very Rare    |
-| [[#Vibe Spear]]                                   | Thrown | 10m   | S/-/- | 1d10+2+SB R | 1   | 1    | -      | [[#Primitive]], [[#Snare]], Special                                       | 2kg   | 14   | Endrite  | Scarce       |
+| [Bolas](Galaxy%20of%20Guns.md#Bolas)                                        | Thrown | 10m   | S/-/- | 0           | 0   | 1    | -      | [[#Primitive]], [[#Snare]]                                                | 1.5kg | 10   | -        | Average      |
+| - [Volonx Bone Bolas\|Bone Bolas](Galaxy%20of%20Guns.md#Volonx%20Bone%20Bolas\|Bone%20Bolas)              | Thrown | 8m    | S/-/- | 1d5 I       | 0   | 1    | -      | [[#Inaccurate]], [[#Primitive]], [[#Snare]], [[#Toxic]]                   | 2kg   | 15   | Volonx   | Rare         |
+| [Bow](Galaxy%20of%20Guns.md#Bow)                                          | Basic  | 30m   | S/-/- | 1d10 R      | 0   | 1    | Half   | [[#Primitive]], [[#Reliable]]                                             | 2kg   | 10   | -        | Common       |
+| - [Composite Bow](Galaxy%20of%20Guns.md#Composite%20Bow)                              | Basic  | 40m   | S/-/- | 1d10+2 R    | 1   | 1    | Half   | [[#Accurate]], [[#Primitive]]                                             | 3kg   | 50   | -        | Scarce       |
+| - [Longbow](Galaxy%20of%20Guns.md#Longbow)                                    | Basic  | 50m   | S/-/- | 1d10+2 R    | 2   | 1    | Half   | [[#Primitive]]                                                            | 3kg   | 20   | Feudal   | Average      |
+| [Crossbow](Galaxy%20of%20Guns.md#Crossbow)                                     | Basic  | 30m   | S/-/- | 1d10 R      | 0   | 1    | 2 Full | [[#Primitive]]                                                            | 3kg   | 10   | -        | Common       |
+| - [Heavy Crossbow](Galaxy%20of%20Guns.md#Heavy%20Crossbow)                             | Basic  | 80m   | S/-/- | 1d10+4 R    | 2   | 1    | 4 Full | [[#Primitive]]                                                            | 6kg   | 75   | Feudal   | Rare         |
+| - [Hunting Crossbow](Galaxy%20of%20Guns.md#Hunting%20Crossbow)                           | Basic  | 50m   | S/-/- | 1d10+1 R    | 1   | 1    | 2 Full | [[#Accurate]], [[#Primitive]]                                             | 2.5kg | 100  | Imperial | Scarce       |
+| [Drive Nailer](Galaxy%20of%20Guns.md#Drive%20Nailer)                                 | Basic  | 5m    | -/3/- | 1d10+1 R    | 4   | 15   | 3 Full | [[#Primitive]]                                                            | 7kg   | 50   | Hive     | Common       |
+| [Flick Bow](Galaxy%20of%20Guns.md#Flick%20Bow)                                    | Pistol | 15m   | S/-/- | 1d10 R      | 0   | 1    | Full   | [[#Primitive]], Special                                                   | 1kg   | 30   | -        | Scarce       |
+| [Flintlock Pistol](Galaxy%20of%20Guns.md#Flintlock%20Pistol)                             | Pistol | 15m   | S/-/- | 1d10+2 I    | 0   | 1    | 3 Full | [[#Inaccurate]], [[#Primitive]], [[#Unreliable]]                          | 4kg   | 10   | -        | Common       |
+| - [Deuce Pistol](Galaxy%20of%20Guns.md#Deuce%20Pistol)                               | Pistol | 15m   | S/2/- | 1d10+2 I    | 0   | 2    | 5 Full | [[#Primitive]], [[#Unreliable]]                                           | 2kg   | 40   | -        | Average      |
+| [Hand Crossbow](Galaxy%20of%20Guns.md#Hand%20Crossbow)                                | Pistol | 15m   | S/-/- | 1d10 R      | 0   | 1    | Full   | [[#Primitive]]                                                            | 1kg   | 200  | -        | Rare         |
+| [Haywire Rifle](Galaxy%20of%20Guns.md#Haywire%20Rifle)                                | Basic  | 10m   | S/-/- | 1d10+3 I    | 2   | 6    | Full   | Special                                                                   | 5kg   | 400  | -        | Very Rare    |
+| [Hunting Boomerang](Galaxy%20of%20Guns.md#Hunting%20Boomerang)                            | Thrown | 10m   | S/-/- | 1d10 I      | 0   | 1    | -      | [[#Primitive]]                                                            | .5kg  | 50   | -        | Common       |
+| [Impaler](Galaxy%20of%20Guns.md#Impaler)                                      | Heavy  | 30m   | S/-/- | 1d10+5 I    | 2   | 1    | 2 Full | [[#Primitive]], [[#Unreliable]]                                           | 22kg  | 100  | Hive     | Scarce       |
+| [Javelin](Galaxy%20of%20Guns.md#Javelin)                                      | Thrown | 15m   | S/-/- | 1d10+SB R   | 1   | 1    | -      | [[#Primitive]]                                                            | 1kg   | 8    | -        | Plentiful    |
+| [Musket](Galaxy%20of%20Guns.md#Musket)                                       | Basic  | 30m   | S/-/- | 1d10+3 I    | 2   | 1    | 5 Full | [[#Inaccurate]], [[#Primitive]], [[#Unreliable]]                          | 7kg   | 30   | -        | Common       |
+| - [Blunderbuss](Galaxy%20of%20Guns.md#Blunderbuss)                                | Basic  | 30m   | S/-/- | 1d10+ 2 I   | 0   | 1    | 2 Full | [[#Inaccurate]], [[#Primitive]], [[#Unreliable]]                          | 4kg   | 20   | -        | Plentiful    |
+| - [Siskan "Father Shot" Musket\|Siskan Musket](Galaxy%20of%20Guns.md#Siskan%20"Father%20Shot"%20Musket\|Siskan%20Musket) | Basic  | 40m   | S/-/- | 1d10+3 I    | 2   | 1    | 5 Full | [[#Primitive]], [[#Vicious]]                                              | 8kg   | 65   | Sisk     | Scarce       |
+| [Fedrid Razor Disk\|Razor Disk](Galaxy%20of%20Guns.md#Fedrid%20Razor%20Disk\|Razor%20Disk)                | Thrown | 10m   | S/-/- | 1d10+SB R   | 1   | 1    | -      | [[#Primitive]]                                                            | .5kg  | 50   | Fedrid   | Average      |
+| [Scrap Cannon](Galaxy%20of%20Guns.md#Scrap%20Cannon)                                 | Heavy  | 15m   | S/-/- | 1d10+3 R    | 0   | 1    | 3 Full | [[#Scatter]], [[#Unreliable]]                                             | 40kg  | 150  | Hive     | Very Rare    |
+| [Sling](Galaxy%20of%20Guns.md#Sling)                                        | Basic  | 15m   | S/-/- | 1d10-2 I    | 0   | 1    | Full   | [[#Primitive]]                                                            | .5kg  | 10   | -        | Plentiful    |
+| [Volonx Thunderclap\|Thunderclap](Galaxy%20of%20Guns.md#Volonx%20Thunderclap\|Thunderclap)              | Exotic | 9m    | S/-/- | 1d5+3 X     | 0   | 1    | -      | [[#Blast (X)\|Blast]] (2), [[#Inaccurate]], [[#Primitive]], [[#Unstable]] | 1kg   | 45   | Volonx   | Very Rare    |
+| [Vibe Spear](Galaxy%20of%20Guns.md#Vibe%20Spear)                                   | Thrown | 10m   | S/-/- | 1d10+2+SB R | 1   | 1    | -      | [[#Primitive]], [[#Snare]], Special                                       | 2kg   | 14   | Endrite  | Scarce       |
 
 ### Bolas
 Class: Thrown (Primitive)
@@ -1368,20 +1367,20 @@ Whenever a Jam results from throwing or launching a grenade, missile, mortar, an
 
 | Name                                           | Class   | Range    | RoF   | Dam      | Pen | Clip | Rld    | Special                                                   | Wt   | Cost  | World | Availability  |
 | ---------------------------------------------- | ------- | -------- | ----- | -------- | --- | ---- | ------ | --------------------------------------------------------- | ---- | ----- | ----- | ------------- |
-| [[#Bola Launcher]]                             | Basic   | 20m      | S/-/- | 1d5+1 I  | 0   | 6    | Full   | [[#Primitive]], [[#Snare]]                                | 12kg | 250   | -     | Rare          |
-| [[#Disposable Launcher]]                       | Heavy   | 175m     | S/-/- | †        | †   | 1    | -      | †                                                         | 20kg | 600   | -     | Scarce        |
-| [[#Grenade Launcher]]                          | Basic   | 60m      | S/-/- | †        | †   | 6    | 2 Full | †                                                         | 9kg  | 500   | -     | Scarce        |
-| - [[#Aux Grenade Launcher\|Aux]]               | Special | 45m      | S/-/- | †        | †   | 1    | Full   | †                                                         | +2kg | 250   | -     | Rare          |
-| - [[#Gorge Grenade Launcher\|Gorge]]           | Basic   | 60m      | S/-/- | †        | †   | 1    | 2 Full | [[#Reliable]], †                                          | 8kg  | 300   | Hive  | Average       |
-| - [[#Mezoa-Pattern Grenade Launcher\|Mezoa]]   | Basic   | 80m      | S/-/- | †        | †   | 1    | Half   | †                                                         | 10kg | 400   | -     | Scarce        |
-| - [[#Voss Assault Grenade Launcher\|Voss]]     | Basic   | 60m      | S/3/- | †        | †   | 6    | 2 Full | [[#Inaccurate]], †                                        | 13kg | 1,000 | -     | Very Rare     |
-| [[#Hunter-Killer Missile]]                     | Heavy   | 350m     | S/-/- | 3d10+6 X | 6   | 1    | -      | -                                                         | 65kg | 2,000 | -     | Very Rare     |
-| [[#Mole Mortar]]                               | Heavy   | 50 –200m | S/-/- | 2d10+2 X | 2   | 1    | Full   | [[#Inaccurate]], [[#Shocking]], [[#Blast (X)\|Blast]] (4) | 50kg | 4,500 | -     | ExtremelyRare |
-| [[#Mortar]] (generic)                          | Heavy   | 50 –300m | S/-/- | †        | †   | 1    | Full   | [[#Inaccurate]]                                           | 40kg | 1,500 | -     | Rare          |
-| - [[#Locke-Pattern Mortar\|Locke]]             | Heavy   | 50 –300m | S/-/- | †        | †   | 6    | 2 Full | [[#Inaccurate]]                                           | 48kg | 3,000 | -     | Very Rare     |
-| [[#Missile Launcher]]                          | Heavy   | 250m     | S/-/- | †        | †   | 1    | Full   | †                                                         | 22kg | 2,500 | -     | Scarce        |
-| - [[#Retobi-Pattern Missile Launcher\|Retobi]] | Heavy   | 200m     | S/-/- | †        | †   | 5    | 2 Full | [[#Unreliable]], †                                        | 35kg | 3,000 | -     | Rare          |
-| [[#RPG Launcher]]                              | Basic   | 120m     | S/-/- | †        | †   | 1    | Full   | †                                                         | 15kg | 1,200 | -     | Scarce        |
+| [Bola Launcher](Galaxy%20of%20Guns.md#Bola%20Launcher)                             | Basic   | 20m      | S/-/- | 1d5+1 I  | 0   | 6    | Full   | [[#Primitive]], [[#Snare]]                                | 12kg | 250   | -     | Rare          |
+| [Disposable Launcher](Galaxy%20of%20Guns.md#Disposable%20Launcher)                       | Heavy   | 175m     | S/-/- | †        | †   | 1    | -      | †                                                         | 20kg | 600   | -     | Scarce        |
+| [Grenade Launcher](Galaxy%20of%20Guns.md#Grenade%20Launcher)                          | Basic   | 60m      | S/-/- | †        | †   | 6    | 2 Full | †                                                         | 9kg  | 500   | -     | Scarce        |
+| - [Aux Grenade Launcher\|Aux](Galaxy%20of%20Guns.md#Aux%20Grenade%20Launcher\|Aux)               | Special | 45m      | S/-/- | †        | †   | 1    | Full   | †                                                         | +2kg | 250   | -     | Rare          |
+| - [Gorge Grenade Launcher\|Gorge](Galaxy%20of%20Guns.md#Gorge%20Grenade%20Launcher\|Gorge)           | Basic   | 60m      | S/-/- | †        | †   | 1    | 2 Full | [[#Reliable]], †                                          | 8kg  | 300   | Hive  | Average       |
+| - [Mezoa-Pattern Grenade Launcher\|Mezoa](Galaxy%20of%20Guns.md#Mezoa-Pattern%20Grenade%20Launcher\|Mezoa)   | Basic   | 80m      | S/-/- | †        | †   | 1    | Half   | †                                                         | 10kg | 400   | -     | Scarce        |
+| - [Voss Assault Grenade Launcher\|Voss](Galaxy%20of%20Guns.md#Voss%20Assault%20Grenade%20Launcher\|Voss)     | Basic   | 60m      | S/3/- | †        | †   | 6    | 2 Full | [[#Inaccurate]], †                                        | 13kg | 1,000 | -     | Very Rare     |
+| [Hunter-Killer Missile](Galaxy%20of%20Guns.md#Hunter-Killer%20Missile)                     | Heavy   | 350m     | S/-/- | 3d10+6 X | 6   | 1    | -      | -                                                         | 65kg | 2,000 | -     | Very Rare     |
+| [Mole Mortar](Galaxy%20of%20Guns.md#Mole%20Mortar)                               | Heavy   | 50 –200m | S/-/- | 2d10+2 X | 2   | 1    | Full   | [[#Inaccurate]], [[#Shocking]], [[#Blast (X)\|Blast]] (4) | 50kg | 4,500 | -     | ExtremelyRare |
+| [Mortar](Galaxy%20of%20Guns.md#Mortar) (generic)                          | Heavy   | 50 –300m | S/-/- | †        | †   | 1    | Full   | [[#Inaccurate]]                                           | 40kg | 1,500 | -     | Rare          |
+| - [Locke-Pattern Mortar\|Locke](Galaxy%20of%20Guns.md#Locke-Pattern%20Mortar\|Locke)             | Heavy   | 50 –300m | S/-/- | †        | †   | 6    | 2 Full | [[#Inaccurate]]                                           | 48kg | 3,000 | -     | Very Rare     |
+| [Missile Launcher](Galaxy%20of%20Guns.md#Missile%20Launcher)                          | Heavy   | 250m     | S/-/- | †        | †   | 1    | Full   | †                                                         | 22kg | 2,500 | -     | Scarce        |
+| - [Retobi-Pattern Missile Launcher\|Retobi](Galaxy%20of%20Guns.md#Retobi-Pattern%20Missile%20Launcher\|Retobi) | Heavy   | 200m     | S/-/- | †        | †   | 5    | 2 Full | [[#Unreliable]], †                                        | 35kg | 3,000 | -     | Rare          |
+| [RPG Launcher](Galaxy%20of%20Guns.md#RPG%20Launcher)                              | Basic   | 120m     | S/-/- | †        | †   | 1    | Full   | †                                                         | 15kg | 1,200 | -     | Scarce        |
 †Damage, Penetration, and any special qualities are determined by the ammunition fired
 
 ### Bola Launcher
@@ -1672,13 +1671,13 @@ See the section on Exotic Weapons for more information on the use of web weapons
 | Missiles and Shells                     |           |     |                                          |       |      |              |
 | --------------------------------------- | --------- | --- | ---------------------------------------- | ----- | ---- | ------------ |
 | Name                                    | Dam       | Pen | Special                                  | Wt    | Cost | Availability |
-| [[#Frag Missile/Shell\|Frag]]           | 2d10+2 X  | 4   | [[#Blast (X)\|Blast]] (6)                | 1kg   | 75   | Average      |
-| [[#Krak Missile\|Krag]]                 | 3d10+10 X | 10  | -                                        | 1.5kg | 150  | Scarce       |
-| [[#Minefield Missile/Shell\|Minefield]] | 2d10 X    | 1   | [[#Blast (X)\|Blast]] (1)                | 2kg   | 100  | Rare         |
-| [[#Scatter Missile/Shell\|Scatter]]     | Special   | 0   | [[#Blast (X)\|Blast]] (10)               | 3kg   | 175  | Very Rare    |
-| [[#Starflare Shell\|Starflare]]         | -         | -   | Special                                  | 1kg   | 60   | Scarce       |
-| [[#Tunnelling Torpedo]]                 | 2d10+3 X  | 2   | [[#Blast (X)\|Blast]] (4), [[#Shocking]] | 3kg   | 200  | Very Rare    |
-| [[#Web Missile\|Web]]                   | -         | -   | [[#Blast (X)\|Blast]] (6), [[#Snare]]    | 2kg   | 200  | Rare         |
+| [Frag Missile/Shell\|Frag](Galaxy%20of%20Guns.md#Frag%20Missile/Shell\|Frag)           | 2d10+2 X  | 4   | [[#Blast (X)\|Blast]] (6)                | 1kg   | 75   | Average      |
+| [Krak Missile\|Krag](Galaxy%20of%20Guns.md#Krak%20Missile\|Krag)                 | 3d10+10 X | 10  | -                                        | 1.5kg | 150  | Scarce       |
+| [Minefield Missile/Shell\|Minefield](Galaxy%20of%20Guns.md#Minefield%20Missile/Shell\|Minefield) | 2d10 X    | 1   | [[#Blast (X)\|Blast]] (1)                | 2kg   | 100  | Rare         |
+| [Scatter Missile/Shell\|Scatter](Galaxy%20of%20Guns.md#Scatter%20Missile/Shell\|Scatter)     | Special   | 0   | [[#Blast (X)\|Blast]] (10)               | 3kg   | 175  | Very Rare    |
+| [Starflare Shell\|Starflare](Galaxy%20of%20Guns.md#Starflare%20Shell\|Starflare)         | -         | -   | Special                                  | 1kg   | 60   | Scarce       |
+| [Tunnelling Torpedo](Galaxy%20of%20Guns.md#Tunnelling%20Torpedo)                 | 2d10+3 X  | 2   | [[#Blast (X)\|Blast]] (4), [[#Shocking]] | 3kg   | 200  | Very Rare    |
+| [Web Missile\|Web](Galaxy%20of%20Guns.md#Web%20Missile\|Web)                   | -         | -   | [[#Blast (X)\|Blast]] (6), [[#Snare]]    | 2kg   | 200  | Rare         |
 ​
 #### Frag Missile/Shell
 Used With: Missile Launcher/Mortar
@@ -1735,30 +1734,30 @@ Exotic weapons typically make use of equally exotic ammunition. In general, assu
 
 | Name                                                         | Class  | Range | RoF    | Dam      | Pen | Clip | Rld    | Special                    | Wt    | Cost   | World  | Availability   |
 | ------------------------------------------------------------ | ------ | ----- | ------ | -------- | --- | ---- | ------ | -------------------------- | ----- | ------ | ------ | -------------- |
-| [[#Catalytic Mass Driver]]                                   | Basic  | 120m  | S/-/5  | 1d10 R   | 12  | 200  | Full   | Special                    | 7kg   | 600    | Lathes | Very Rare      |
-| [[#Dartcaster]]                                              | Pistol | 30m   | S/-/-  | 1d10 R   | 0   | 1    | Full   | Toxic                      | 2.5kg | 600    | -      | Rare           |
-| - [[#Artifico-Biologis 0.5I Hypo-Pistol\|Artifico-Biologis]] | Pistol | 20m   | S/-/-  | 1d5+2 R  | 2   | 3    | 2 Full | Accurate, Special          | 1kg   | 1,000  | Forge  | Scarce         |
-| [[#Digital Weapon\|Digi-flamer]]                             | Pistol | 3m    | S/-/-  | 1d10+4 E | 2   | 1    | 3 Full | Flame                      | .1kg  | 6,000  | -      | Extremely Rare |
-| [[#Digital Weapon\|Digi-laser]]                              | Pistol | 3m    | S/-/-  | 1d10+3 E | 7   | 1    | 3 Full | Reliable                   | .1kg  | 9,000  | -      | Extremely Rare |
-| [[#Digital Weapon\|Digi-mine]]                               | Thrown | SBx3m | S/-/-  | 3d10 X   | 5   | 1    | -      | Blast (3)                  | .1kg  | 2,000  | -      | Extremely Rare |
-| [[#Digital Weapon\|Digi-melta]]                              | Pistol | 3m    | S/-/-  | 2d10+4 E | 12  | 1    | 3 Full | -                          | .1kg  | 20,000 | -      | Extremely Rare |
-| [[#Digital Weapon\|Digi-needler]]                            | Pistol | 3m    | S/-/-  | 1d10 R   | 0   | 1    | 3 Full | Toxic                      | .1kg  | 11,000 | -      | Extremely Rare |
-| [[#Graviton Gun]]                                            | Basic  | 30m   | S/-/-  | Special  | -   | 3    | 2 Full | Blast (5), Special         | 5kg   | 3,500  | Forge  | Very Rare      |
-| [[#Empyrian Brain Mine]]                                     | Thrown | SBx3m | S/-/-  | Special  | -   | 1    | -      | Special                    | 1kg   | 500    | -      | Extremely Rare |
-| [[#Heavy Catalytic Mass Driver]]                             | Heavy  | 150m  | S/3/10 | 1d10+4 R | 12  | 400  | Full   | Special                    | 16kg  | 2,800  | Lathes | Very Rare      |
-| [[#Heavy Webber]]                                            | Heavy  | 70m   | S/-/-  | -        | -   | 3    | Full   | Blast (5), Snare           | 14kg  | 1,200  | -      | Rare           |
-| - [[#Aegis-Redback]]                                         | Heavy  | 80m   | S/-/-  | -        | -   | 4    | 3 Full | Blast (6), Snare           | 17kg  | 2,000  | -      | Rare           |
-| [[#Needle Pistol]]                                           | Pistol | 30m   | S/-/-  | 1d10 R   | 0   | 6    | Full   | Accurate, Toxic            | 1.5kg | 1,250  | -      | Very Rare      |
-| - [[#Glavian Needler]]                                       | Pistol | 30m   | S/3/-  | 1d10-1 R | 0   | 7    | Full   | Toxic                      | 1kg   | 950    | -      | Very Rare      |
-| [[#Needle Rifle]]                                            | Basic  | 180m  | S/-/-  | 1d10 R   | 0   | 6    | 2 Full | Accurate, Toxic            | 2kg   | 1,000  | -      | Very Rare      |
-| [[#Rad-Cleanser]]                                            | Heavy  | 30m   | S/-/-  | 2d10+2 E | 7   | 20   | -      | Blast (2), Recharge, Toxic | 26kg  | 7,000  | -      | Very Rare      |
-| [[#Razorweb Launcher]]                                       | Heavy  | 10m   | S/-/-  | 2d10+4 R | 5   | 1    | Full   | Blast (1), Tearing         | 3kg   | 10,000 | -      | Extremely Rare |
-| [[#Rocketfire Gun]]                                          | Basic  | 80m   | S/-/-  | 1d10+5 I | 4   | 6    | Full   | Tearing                    | 4kg   | 1,000  | -      | Very Rare      |
-| [[#Aegis Anbaric Shock Blaster\|Shock Blaster]]              | Pistol | 20m   | S/2/-  | 1d10+2 E | 4   | 7    | Full   | Shocking                   | 3kg   | 650    | Forge  | Scarce         |
-| [[#Demerite "Screamer" Sonic Rifle\|Sonic Rifle]]            | Basic  | 30m   | S/2/-  | 1d10+3 X | 2   | 8    | Full   | Shocking, Tearing          | 3.5kg | 800    | Void   | Rare           |
-| [[#Synapse Disruptor]]                                       | Pistol | 40m   | S/-/-  | -        | -   | 10   | 2 Full | Special                    | 3kg   | 3,500  | -      | Very Rare      |
-| [[#Webber]]                                                  | Basic  | 50m   | S/-/-  | -        | -   | 1    | Full   | Blast (5), Snare           | 8kg   | 1,800  | -      | Rare           |
-| [[#Web Pistol]]                                              | Pistol | 30m   | S/-/-  | -        | -   | 1    | Full   | Snare                      | 3.5kg | 1,200  | -      | Rare           |
+| [Catalytic Mass Driver](Galaxy%20of%20Guns.md#Catalytic%20Mass%20Driver)                                   | Basic  | 120m  | S/-/5  | 1d10 R   | 12  | 200  | Full   | Special                    | 7kg   | 600    | Lathes | Very Rare      |
+| [Dartcaster](Galaxy%20of%20Guns.md#Dartcaster)                                              | Pistol | 30m   | S/-/-  | 1d10 R   | 0   | 1    | Full   | Toxic                      | 2.5kg | 600    | -      | Rare           |
+| - [Artifico-Biologis 0.5I Hypo-Pistol\|Artifico-Biologis](Galaxy%20of%20Guns.md#Artifico-Biologis%200.5I%20Hypo-Pistol\|Artifico-Biologis) | Pistol | 20m   | S/-/-  | 1d5+2 R  | 2   | 3    | 2 Full | Accurate, Special          | 1kg   | 1,000  | Forge  | Scarce         |
+| [Digital Weapon\|Digi-flamer](Galaxy%20of%20Guns.md#Digital%20Weapon\|Digi-flamer)                             | Pistol | 3m    | S/-/-  | 1d10+4 E | 2   | 1    | 3 Full | Flame                      | .1kg  | 6,000  | -      | Extremely Rare |
+| [Digital Weapon\|Digi-laser](Galaxy%20of%20Guns.md#Digital%20Weapon\|Digi-laser)                              | Pistol | 3m    | S/-/-  | 1d10+3 E | 7   | 1    | 3 Full | Reliable                   | .1kg  | 9,000  | -      | Extremely Rare |
+| [Digital Weapon\|Digi-mine](Galaxy%20of%20Guns.md#Digital%20Weapon\|Digi-mine)                               | Thrown | SBx3m | S/-/-  | 3d10 X   | 5   | 1    | -      | Blast (3)                  | .1kg  | 2,000  | -      | Extremely Rare |
+| [Digital Weapon\|Digi-melta](Galaxy%20of%20Guns.md#Digital%20Weapon\|Digi-melta)                              | Pistol | 3m    | S/-/-  | 2d10+4 E | 12  | 1    | 3 Full | -                          | .1kg  | 20,000 | -      | Extremely Rare |
+| [Digital Weapon\|Digi-needler](Galaxy%20of%20Guns.md#Digital%20Weapon\|Digi-needler)                            | Pistol | 3m    | S/-/-  | 1d10 R   | 0   | 1    | 3 Full | Toxic                      | .1kg  | 11,000 | -      | Extremely Rare |
+| [Graviton Gun](Galaxy%20of%20Guns.md#Graviton%20Gun)                                            | Basic  | 30m   | S/-/-  | Special  | -   | 3    | 2 Full | Blast (5), Special         | 5kg   | 3,500  | Forge  | Very Rare      |
+| [Empyrian Brain Mine](Galaxy%20of%20Guns.md#Empyrian%20Brain%20Mine)                                     | Thrown | SBx3m | S/-/-  | Special  | -   | 1    | -      | Special                    | 1kg   | 500    | -      | Extremely Rare |
+| [Heavy Catalytic Mass Driver](Galaxy%20of%20Guns.md#Heavy%20Catalytic%20Mass%20Driver)                             | Heavy  | 150m  | S/3/10 | 1d10+4 R | 12  | 400  | Full   | Special                    | 16kg  | 2,800  | Lathes | Very Rare      |
+| [Heavy Webber](Galaxy%20of%20Guns.md#Heavy%20Webber)                                            | Heavy  | 70m   | S/-/-  | -        | -   | 3    | Full   | Blast (5), Snare           | 14kg  | 1,200  | -      | Rare           |
+| - [Aegis-Redback](Galaxy%20of%20Guns.md#Aegis-Redback)                                         | Heavy  | 80m   | S/-/-  | -        | -   | 4    | 3 Full | Blast (6), Snare           | 17kg  | 2,000  | -      | Rare           |
+| [Needle Pistol](Galaxy%20of%20Guns.md#Needle%20Pistol)                                           | Pistol | 30m   | S/-/-  | 1d10 R   | 0   | 6    | Full   | Accurate, Toxic            | 1.5kg | 1,250  | -      | Very Rare      |
+| - [Glavian Needler](Galaxy%20of%20Guns.md#Glavian%20Needler)                                       | Pistol | 30m   | S/3/-  | 1d10-1 R | 0   | 7    | Full   | Toxic                      | 1kg   | 950    | -      | Very Rare      |
+| [Needle Rifle](Galaxy%20of%20Guns.md#Needle%20Rifle)                                            | Basic  | 180m  | S/-/-  | 1d10 R   | 0   | 6    | 2 Full | Accurate, Toxic            | 2kg   | 1,000  | -      | Very Rare      |
+| [Rad-Cleanser](Galaxy%20of%20Guns.md#Rad-Cleanser)                                            | Heavy  | 30m   | S/-/-  | 2d10+2 E | 7   | 20   | -      | Blast (2), Recharge, Toxic | 26kg  | 7,000  | -      | Very Rare      |
+| [Razorweb Launcher](Galaxy%20of%20Guns.md#Razorweb%20Launcher)                                       | Heavy  | 10m   | S/-/-  | 2d10+4 R | 5   | 1    | Full   | Blast (1), Tearing         | 3kg   | 10,000 | -      | Extremely Rare |
+| [Rocketfire Gun](Galaxy%20of%20Guns.md#Rocketfire%20Gun)                                          | Basic  | 80m   | S/-/-  | 1d10+5 I | 4   | 6    | Full   | Tearing                    | 4kg   | 1,000  | -      | Very Rare      |
+| [Aegis Anbaric Shock Blaster\|Shock Blaster](Galaxy%20of%20Guns.md#Aegis%20Anbaric%20Shock%20Blaster\|Shock%20Blaster)              | Pistol | 20m   | S/2/-  | 1d10+2 E | 4   | 7    | Full   | Shocking                   | 3kg   | 650    | Forge  | Scarce         |
+| [Demerite "Screamer" Sonic Rifle\|Sonic Rifle](Galaxy%20of%20Guns.md#Demerite%20"Screamer"%20Sonic%20Rifle\|Sonic%20Rifle)            | Basic  | 30m   | S/2/-  | 1d10+3 X | 2   | 8    | Full   | Shocking, Tearing          | 3.5kg | 800    | Void   | Rare           |
+| [Synapse Disruptor](Galaxy%20of%20Guns.md#Synapse%20Disruptor)                                       | Pistol | 40m   | S/-/-  | -        | -   | 10   | 2 Full | Special                    | 3kg   | 3,500  | -      | Very Rare      |
+| [Webber](Galaxy%20of%20Guns.md#Webber)                                                  | Basic  | 50m   | S/-/-  | -        | -   | 1    | Full   | Blast (5), Snare           | 8kg   | 1,800  | -      | Rare           |
+| [Web Pistol](Galaxy%20of%20Guns.md#Web%20Pistol)                                              | Pistol | 30m   | S/-/-  | -        | -   | 1    | Full   | Snare                      | 3.5kg | 1,200  | -      | Rare           |
 #### Catalytic Mass Driver
 Class: Basic (Exotic)
 
@@ -1899,54 +1898,54 @@ Basic hand weapons are a common sight throughout the Imperium and beyond, and in
 
 ### Primitive Weapons List
 
-| Name                                                     | Class              | Dam         | Pen | Special                                      | Wt     | Cost | World      | Availability |     |
-| -------------------------------------------------------- | ------------------ | ----------- | --- | -------------------------------------------- | ------ | ---- | ---------- | ------------ | --- |
-| [[#Armored Gauntlet]]                                    | Melee              | 1d5 I       | 0   | [[#Primitive]]                               | 0.5kg  | 35   | -          | Common       |     |
-| [[#Axe]]                                                 | Melee              | 1d10+1 R    | 0   | [[#Primitive]], [[#Unbalanced]]              | 4kg    | 10   | -          | Scarce       |     |
-| [[#Bastard Sword]] †                                     | Melee              | 1d10+1 R    | 1   | [[#Primitive]]                               | 5kg    | 40   | Feudal     | Scarce       |     |
-| [[#Boarding Pike]] †                                     | Melee              | 1d10+3 X    | 2   | Special                                      | 4kg    | 30   | Void       | Common       |     |
-| [[#Brass Knuckles]]                                      | Melee              | 1d5-1 I     | 0   | [[#Primitive]]                               | 0.5kg  | 5    | -          | Plentiful    |     |
-| [[#Buckler]]                                             | Melee              | 1d5-2 I     | 0   | [[#Balanced]], [[#Primitive]]                | 1kg    | 30   | Feudal     | Common       |     |
-| [[#Club]]                                                | Melee              | 1d10 I      | 0   | [[#Primitive]]                               | 2kg    | 5    | -          | Abundant     |     |
-| [[#Falchion]]                                            | Melee              | 2d5+1 R     | 0   | [[#Primitive]], [[#Unbalanced]]              | 2.5kg  | 20   | -          | Average      |     |
-| [[#Flail]]                                               | Melee              | 1d10+2 I    | 0   | [[#Flexible]], [[#Primitive]]                | 4kg    | 20   | Feudal     | Scarce       |     |
-| [[#Great Weapons]] †                                     | Melee              | 2d10 R or I | 2   | [[#Primitive]], [[#Unwieldy]]                | 7kg    | 70   | Feudal     | Rare         |     |
-| [[#Hammer]]                                              | Melee              | 1d10+1 I    | 0   | [[#Primitive]], [[#Unbalanced]]              | 4kg    | 10   | -          | Common       |     |
-| - [[#Great Hammer]] †                                    | Melee              | 1d10+4 I    | 2   | [[#Unwieldy]]                                | 8kg    | 70   | Imperial   | Average      |     |
-| - [[#Percussion Mallet]]                                 | Melee              | 1d10+3 I††  | 5   | [[#Unwieldy]]                                | 5kg    | 3000 | Forge      | Average      |     |
-| - [[#Warhammer]]                                         | Melee              | 1d10+2 I    | 1   | [[#Primitive]]                               | 2kg    | 35   | -          | Common       |     |
-| [[#Improvised Weapon]]                                   | Melee              | 1d10-2 I    | 0   | [[#Primitive]], [[#Unbalanced]]              | Varies | -    | -          | Abundant     |     |
-| [[#Knife]]                                               | Melee/Thrown (3m)  | 1d5 R       | 0   | [[#Primitive]]                               | 0.5kg  | 5    | -          | Abundant     |     |
-| - [[#Bolo Knife]]                                        | Melee              | 2d5 R       | 2   | -                                            | 2kg    | 50   | Malfi      | Common       |     |
-| - [[#Combat Knife]]                                      | Melee              | 1d5+3 R     | 0   | [[#Primitive]]                               | 3kg    | 40   | -          | Average      |     |
-| - [[#Kraken Tooth Dagger]]                               | Melee/Thrown (5m)  | 1d5+1 R     | 1   | -                                            | 0.4kg  | 200  | Void       | Rare         |     |
-| - [[#Parrying Dagger]]                                   | Melee              | 1d5 R       | 0   | [[#Defensive]], [[#Primitive]]               | 0.5kg  | 50   | Landunder  | Scarce       |     |
-| - [[#Landrian "Sigilite" Blade\|Sigilite Blade]]         | Melee              | 1d5 R       | 3   | [[#Defensive]]                               | 0.8kg  | 85   | Landunder  | Rare         |     |
-| - [[#Trophy Knife]]                                      | Melee              | 1d5+1 R     | 1   | [[#Balanced]], [[#Primitive]]                | 0.5kg  | 700  | -          | Very Rare    |     |
-| [[#Man-Catcher]] †                                       | Melee              | 1d10 I      | 0   | [[#Primitive]], [[#Snare]], [[#Unwieldy]]    | 8kg    | 60   | -          | Scarce       |     |
-| [[#Balecarne Moon Blade\|Moon Blade]]                    | Melee/Thrown (5m)  | 1d10 R      | 0   | [[#Fast]], [[#Primitive]], [[#Unwieldy]]     | 3kg    | 25   | Munsk      | Rare         |     |
-| [[#Punch Dagger]]                                        | Melee              | 1d5+1 R     | 2   | [[#Primitive]]                               | 0.5kg  | 10   | -          | Average      |     |
-| [[#Magistratum "Punisher" Baton\|Punisher Baton]]        | Melee              | 1d10 I      | 0   | -                                            | 3kg    | 50   | -          | Rare         |     |
-| [[#Scythe]] †                                            | Melee              | 1d10+2 R    | 0   | [[#Primitive]], [[#Unwieldy]]                | 5kg    | 12   | Feudal     | Average      |     |
-| [[#Shield]]                                              | Melee              | 1d5 I       | 0   | [[#Defensive]], [[#Primitive]]               | 3kg    | 25   | Feudal     | Average      |     |
-| - [[#Guard Shield]]                                      | Melee              | 1d5 I       | 0   | [[#Defensive]], [[#Primitive]]               | 1.5kg  | 100  | -          | Scarce       |     |
-| - [[#Sepherin Mirror Shield\|Mirror Shield]]             | Melee              | 1d5-1 I     | 0   | [[#Defensive]], [[#Primitive]]               | 3.5kg  | 60   | Sepheris   | Rare         |     |
-| - [[#Naval Shield]]                                      | Melee              | 1d5+2 I     | 0   | [[#Defensive]], [[#Primitive]]               | 7kg    | 75   | Void       | Average      |     |
-| - [[#Arbitrator Suppression Shield\|Suppression Shield]] | Melee              | 1d10 I      | 0   | [[#Defensive]], [[#Recharge]], [[#Shocking]] | 4kg    | 250  | -          | Rare         |     |
-| - [[#Tower Shield]]                                      | Melee              | 1d5+2 I     | 0   | [[#Defensive]], [[#Primitive]]               | 10kg   | 60   | Feudal     | Rare         |     |
-| [[#Spear]] †                                             | Melee/Thrown (10m) | 1d10 R      | 0   | [[#Primitive]], [[#Unwieldy]]                | 3kg    | 15   | -          | Common       |     |
-| [[#Spetum]] †                                            | Melee              | 1d10 R      | 2   | [[#Primitive]], [[#Unbalanced]]              | 6kg    | 45   | Balecaster | Rare         |     |
-| [[#Steam Drill]] †                                       | Melee              | 2d10 I      | 3   | [[#Primitive]], [[#Unwieldy]]                | 18kg   | 100  | -          | Very Rare    |     |
-| [[#Stiletto]]                                            | Melee              | 1d5-1 R     | 2   | [[#Fast]], [[#Primitive]], [[#Unbalanced]]   | 0.2kg  | 25   | -          | Average      |     |
-| - [[#Landrian "Devil's Kiss" Stiletto\|Devil's Kiss]]    | Melee              | 1d5 R       | 3   | [[#Fast]], [[#Primitive]]                    | 0.3kg  | 70   | Landunder  | Rare         |     |
-| [[#Staff]] †                                             | Melee              | 1d10 I      | 0   | [[#Balanced]], [[#Primitive]]                | 3kg    | 10   | -          | Plentiful    |     |
-| [[#Sword]]                                               | Melee              | 1d10 R      | 0   | [[#Balanced]], [[#Primitive]]                | 2.5kg  | 15   | -          | Common       |     |
-| - [[#Fervious Long-Sabre\|Long-Sabre]] †                 | Melee              | 1d10+2 R    | 2   | [[#Balanced]], [[#Primitive]]                | 3kg    | 100  | Fervious   | Very Rare    |     |
-| - [[#Quicksilver Sword]]                                 | Melee              | 1d10+2 R    | 0   | [[#Balanced]], [[#Primitive]]                | 2kg    | 500  | Balecaster | Rare         |     |
-| - [[#Reliquary Blade]]                                   | Melee              | 1d10+2 R    | 3   | [[#Balanced]], [[#Sanctified Weapon]]        | 3kg    | 3000 | -          | Very Rare    |     |
-| - [[#Landrian Render\|Render]]                           | Melee              | 1d5+1 R     | 0   | [[#Primitive]], [[#Tearing]]                 | 1.2kg  | 50   | Landunder  | Rare         |     |
-| - [[#Sabre]]                                             | Melee              | 1d10 R      | 0   | [[#Balanced]], [[#Primitive]]                | 2kg    | 15   | -          | Common       |     |
-| - [[#Short Sword]]                                       | Melee              | 1d10-1 R    | 0   | [[#Primitive]]                               | 1.5kg  | 10   | -          | Common       |     |
+| Name                                                                                                                                 | Class              | Dam         | Pen | Special                                      | Wt     | Cost | World      | Availability |     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------- | --- | -------------------------------------------- | ------ | ---- | ---------- | ------------ | --- |
+| [Armored Gauntlet](Galaxy%20of%20Guns.md#Armored%20Gauntlet)                                                                         | Melee              | 1d5 I       | 0   | [[#Primitive]]                               | 0.5kg  | 35   | -          | Common       |     |
+| [Axe](Galaxy%20of%20Guns.md#Axe)                                                                                                     | Melee              | 1d10+1 R    | 0   | [[#Primitive]], [[#Unbalanced]]              | 4kg    | 10   | -          | Scarce       |     |
+| [Bastard Sword](Galaxy%20of%20Guns.md#Bastard%20Sword) †                                                                             | Melee              | 1d10+1 R    | 1   | [[#Primitive]]                               | 5kg    | 40   | Feudal     | Scarce       |     |
+| [Boarding Pike](Galaxy%20of%20Guns.md#Boarding%20Pike) †                                                                             | Melee              | 1d10+3 X    | 2   | Special                                      | 4kg    | 30   | Void       | Common       |     |
+| [Brass Knuckles](Galaxy%20of%20Guns.md#Brass%20Knuckles)                                                                             | Melee              | 1d5-1 I     | 0   | [[#Primitive]]                               | 0.5kg  | 5    | -          | Plentiful    |     |
+| [Buckler](Galaxy%20of%20Guns.md#Buckler)                                                                                             | Melee              | 1d5-2 I     | 0   | [[#Balanced]], [[#Primitive]]                | 1kg    | 30   | Feudal     | Common       |     |
+| [Club](Galaxy%20of%20Guns.md#Club)                                                                                                   | Melee              | 1d10 I      | 0   | [[#Primitive]]                               | 2kg    | 5    | -          | Abundant     |     |
+| [Falchion](Galaxy%20of%20Guns.md#Falchion)                                                                                           | Melee              | 2d5+1 R     | 0   | [[#Primitive]], [[#Unbalanced]]              | 2.5kg  | 20   | -          | Average      |     |
+| [Flail](Galaxy%20of%20Guns.md#Flail)                                                                                                 | Melee              | 1d10+2 I    | 0   | [[#Flexible]], [[#Primitive]]                | 4kg    | 20   | Feudal     | Scarce       |     |
+| [Great Weapons](Galaxy%20of%20Guns.md#Great%20Weapons) †                                                                             | Melee              | 2d10 R or I | 2   | [[#Primitive]], [[#Unwieldy]]                | 7kg    | 70   | Feudal     | Rare         |     |
+| [Hammer](Galaxy%20of%20Guns.md#Hammer)                                                                                               | Melee              | 1d10+1 I    | 0   | [[#Primitive]], [[#Unbalanced]]              | 4kg    | 10   | -          | Common       |     |
+| - [Great Hammer](Galaxy%20of%20Guns.md#Great%20Hammer) †                                                                             | Melee              | 1d10+4 I    | 2   | [[#Unwieldy]]                                | 8kg    | 70   | Imperial   | Average      |     |
+| - [Percussion Mallet](Galaxy%20of%20Guns.md#Percussion%20Mallet)                                                                     | Melee              | 1d10+3 I††  | 5   | [[#Unwieldy]]                                | 5kg    | 3000 | Forge      | Average      |     |
+| - [Warhammer](Galaxy%20of%20Guns.md#Warhammer)                                                                                       | Melee              | 1d10+2 I    | 1   | [[#Primitive]]                               | 2kg    | 35   | -          | Common       |     |
+| [Improvised Weapon](Galaxy%20of%20Guns.md#Improvised%20Weapon)                                                                       | Melee              | 1d10-2 I    | 0   | [[#Primitive]], [[#Unbalanced]]              | Varies | -    | -          | Abundant     |     |
+| [Knife](Galaxy%20of%20Guns.md#Knife)                                                                                                 | Melee/Thrown (3m)  | 1d5 R       | 0   | [[#Primitive]]                               | 0.5kg  | 5    | -          | Abundant     |     |
+| - [Bolo Knife](Galaxy%20of%20Guns.md#Bolo%20Knife)                                                                                   | Melee              | 2d5 R       | 2   | -                                            | 2kg    | 50   | Malfi      | Common       |     |
+| - [Combat Knife](Galaxy%20of%20Guns.md#Combat%20Knife)                                                                               | Melee              | 1d5+3 R     | 0   | [[#Primitive]]                               | 3kg    | 40   | -          | Average      |     |
+| - [Kraken Tooth Dagger](Galaxy%20of%20Guns.md#Kraken%20Tooth%20Dagger)                                                               | Melee/Thrown (5m)  | 1d5+1 R     | 1   | -                                            | 0.4kg  | 200  | Void       | Rare         |     |
+| - [Parrying Dagger](Galaxy%20of%20Guns.md#Parrying%20Dagger)                                                                         | Melee              | 1d5 R       | 0   | [[#Defensive]], [[#Primitive]]               | 0.5kg  | 50   | Landunder  | Scarce       |     |
+| - [Landrian "Sigilite" Blade\|Sigilite Blade](Galaxy%20of%20Guns.md#Landrian%20"Sigilite"%20Blade\|Sigilite%20Blade)                 | Melee              | 1d5 R       | 3   | [[#Defensive]]                               | 0.8kg  | 85   | Landunder  | Rare         |     |
+| - [Trophy Knife](Galaxy%20of%20Guns.md#Trophy%20Knife)                                                                               | Melee              | 1d5+1 R     | 1   | [[#Balanced]], [[#Primitive]]                | 0.5kg  | 700  | -          | Very Rare    |     |
+| [Man-Catcher](Galaxy%20of%20Guns.md#Man-Catcher) †                                                                                   | Melee              | 1d10 I      | 0   | [[#Primitive]], [[#Snare]], [[#Unwieldy]]    | 8kg    | 60   | -          | Scarce       |     |
+| [Balecarne Moon Blade\|Moon Blade](Galaxy%20of%20Guns.md#Balecarne%20Moon%20Blade\|Moon%20Blade)                                     | Melee/Thrown (5m)  | 1d10 R      | 0   | [[#Fast]], [[#Primitive]], [[#Unwieldy]]     | 3kg    | 25   | Munsk      | Rare         |     |
+| [Punch Dagger](Galaxy%20of%20Guns.md#Punch%20Dagger)                                                                                 | Melee              | 1d5+1 R     | 2   | [[#Primitive]]                               | 0.5kg  | 10   | -          | Average      |     |
+| [Magistratum "Punisher" Baton\|Punisher Baton](Galaxy%20of%20Guns.md#Magistratum%20"Punisher"%20Baton\|Punisher%20Baton)             | Melee              | 1d10 I      | 0   | -                                            | 3kg    | 50   | -          | Rare         |     |
+| [Scythe](Galaxy%20of%20Guns.md#Scythe) †                                                                                             | Melee              | 1d10+2 R    | 0   | [[#Primitive]], [[#Unwieldy]]                | 5kg    | 12   | Feudal     | Average      |     |
+| [Shield](Galaxy%20of%20Guns.md#Shield)                                                                                               | Melee              | 1d5 I       | 0   | [[#Defensive]], [[#Primitive]]               | 3kg    | 25   | Feudal     | Average      |     |
+| - [Guard Shield](Galaxy%20of%20Guns.md#Guard%20Shield)                                                                               | Melee              | 1d5 I       | 0   | [[#Defensive]], [[#Primitive]]               | 1.5kg  | 100  | -          | Scarce       |     |
+| - [Sepherin Mirror Shield\|Mirror Shield](Galaxy%20of%20Guns.md#Sepherin%20Mirror%20Shield\|Mirror%20Shield)                         | Melee              | 1d5-1 I     | 0   | [[#Defensive]], [[#Primitive]]               | 3.5kg  | 60   | Sepheris   | Rare         |     |
+| - [Naval Shield](Galaxy%20of%20Guns.md#Naval%20Shield)                                                                               | Melee              | 1d5+2 I     | 0   | [[#Defensive]], [[#Primitive]]               | 7kg    | 75   | Void       | Average      |     |
+| - [Arbitrator Suppression Shield\|Suppression Shield](Galaxy%20of%20Guns.md#Arbitrator%20Suppression%20Shield\|Suppression%20Shield) | Melee              | 1d10 I      | 0   | [[#Defensive]], [[#Recharge]], [[#Shocking]] | 4kg    | 250  | -          | Rare         |     |
+| - [Tower Shield](Galaxy%20of%20Guns.md#Tower%20Shield)                                                                               | Melee              | 1d5+2 I     | 0   | [[#Defensive]], [[#Primitive]]               | 10kg   | 60   | Feudal     | Rare         |     |
+| [Spear](Galaxy%20of%20Guns.md#Spear) †                                                                                               | Melee/Thrown (10m) | 1d10 R      | 0   | [[#Primitive]], [[#Unwieldy]]                | 3kg    | 15   | -          | Common       |     |
+| [Spetum](Galaxy%20of%20Guns.md#Spetum) †                                                                                             | Melee              | 1d10 R      | 2   | [[#Primitive]], [[#Unbalanced]]              | 6kg    | 45   | Balecaster | Rare         |     |
+| [Steam Drill](Galaxy%20of%20Guns.md#Steam%20Drill) †                                                                                 | Melee              | 2d10 I      | 3   | [[#Primitive]], [[#Unwieldy]]                | 18kg   | 100  | -          | Very Rare    |     |
+| [Stiletto](Galaxy%20of%20Guns.md#Stiletto)                                                                                           | Melee              | 1d5-1 R     | 2   | [[#Fast]], [[#Primitive]], [[#Unbalanced]]   | 0.2kg  | 25   | -          | Average      |     |
+| - [Landrian "Devil's Kiss" Stiletto\|Devil's Kiss](Galaxy%20of%20Guns.md#Landrian%20"Devil's%20Kiss"%20Stiletto\|Devil's%20Kiss)     | Melee              | 1d5 R       | 3   | [[#Fast]], [[#Primitive]]                    | 0.3kg  | 70   | Landunder  | Rare         |     |
+| [Staff](Galaxy%20of%20Guns.md#Staff) †                                                                                               | Melee              | 1d10 I      | 0   | [[#Balanced]], [[#Primitive]]                | 3kg    | 10   | -          | Plentiful    |     |
+| [Sword](Galaxy%20of%20Guns.md#Sword)                                                                                                 | Melee              | 1d10 R      | 0   | [[#Balanced]], [[#Primitive]]                | 2.5kg  | 15   | -          | Common       |     |
+| - [Fervious Long-Sabre\|Long-Sabre](Galaxy%20of%20Guns.md#Fervious%20Long-Sabre\|Long-Sabre) †                                       | Melee              | 1d10+2 R    | 2   | [[#Balanced]], [[#Primitive]]                | 3kg    | 100  | Fervious   | Very Rare    |     |
+| - [Quicksilver Sword](Galaxy%20of%20Guns.md#Quicksilver%20Sword)                                                                     | Melee              | 1d10+2 R    | 0   | [[#Balanced]], [[#Primitive]]                | 2kg    | 500  | Balecaster | Rare         |     |
+| - [Reliquary Blade](Galaxy%20of%20Guns.md#Reliquary%20Blade)                                                                         | Melee              | 1d10+2 R    | 3   | [[#Balanced]], [[#Sanctified Weapon]]        | 3kg    | 3000 | -          | Very Rare    |     |
+| - [Landrian Render\|Render](Galaxy%20of%20Guns.md#Landrian%20Render\|Render)                                                         | Melee              | 1d5+1 R     | 0   | [[#Primitive]], [[#Tearing]]                 | 1.2kg  | 50   | Landunder  | Rare         |     |
+| - [Sabre](Galaxy%20of%20Guns.md#Sabre)                                                                                               | Melee              | 1d10 R      | 0   | [[#Balanced]], [[#Primitive]]                | 2kg    | 15   | -          | Common       |     |
+| - [Short Sword](Galaxy%20of%20Guns.md#Short%20Sword)                                                                                 | Melee              | 1d10-1 R    | 0   | [[#Primitive]]                               | 1.5kg  | 10   | -          | Common       |     |
 † _Requires two hands to be used effectively_
 †† _Add twice the wielder's Strength Bonus to Damage_
 #### Armored Gauntlet
@@ -2171,13 +2170,13 @@ Chain weapons are popular amongst many warriors in the 41st Millennium as most r
 
 | Name                                          | Class          | Dam       | Pen | Special                                | Wt    | Cost  | World | Availability |
 | --------------------------------------------- | -------------- | --------- | --- | -------------------------------------- | ----- | ----- | ----- | ------------ |
-| [[#Chainsword]]                               | Melee          | 1d10+2 R  | 2   | [[#Balanced]], [[#Tearing]]            | 6kg   | 275   | -     | Scarce       |
-| - [[#Drusian "Crusader" Chainsword\|Drusian]] | Melee          | 1d10 R    | 2   | [[#Balanced]], [[#Fast]], [[#Tearing]] | 7kg   | 250   | -     | Average      |
-| - [[#Locke-Pattern Chainsword\|Locke]]        | Melee          | 1d10+5 R  | 2   | Special, [[#Tearing]]                  | 6kg   | 400   | -     | Scarce       |
-| [[#Chain Axe]]                                | Melee          | 1d10+4 R  | 2   | [[#Tearing]]                           | 13kg  | 450   | -     | Rare         |
-| [[#Chain Knife]]                              | Melee          | 1d5+3 R   | 2   | [[#Tearing]]                           | 2.5kg | 80    | Hive  | Scarce       |
-| [[#Crimson Crown]]                            | Thrown (SBx4m) | 1d10+2 R  | 2   | Special, [[#Tearing]]                  | 0.5kg | 2,000 | -     | Very Rare    |
-| [[#Eviscerator]] †                            | Melee          | 1d10+10 R | 5   | Special, [[#Tearing]], [[#Unwieldy]]   | 12kg  | 750   | -     | Rare         |
+| [Chainsword](Galaxy%20of%20Guns.md#Chainsword)                               | Melee          | 1d10+2 R  | 2   | [[#Balanced]], [[#Tearing]]            | 6kg   | 275   | -     | Scarce       |
+| - [Drusian "Crusader" Chainsword\|Drusian](Galaxy%20of%20Guns.md#Drusian%20"Crusader"%20Chainsword\|Drusian) | Melee          | 1d10 R    | 2   | [[#Balanced]], [[#Fast]], [[#Tearing]] | 7kg   | 250   | -     | Average      |
+| - [Locke-Pattern Chainsword\|Locke](Galaxy%20of%20Guns.md#Locke-Pattern%20Chainsword\|Locke)        | Melee          | 1d10+5 R  | 2   | Special, [[#Tearing]]                  | 6kg   | 400   | -     | Scarce       |
+| [Chain Axe](Galaxy%20of%20Guns.md#Chain%20Axe)                                | Melee          | 1d10+4 R  | 2   | [[#Tearing]]                           | 13kg  | 450   | -     | Rare         |
+| [Chain Knife](Galaxy%20of%20Guns.md#Chain%20Knife)                              | Melee          | 1d5+3 R   | 2   | [[#Tearing]]                           | 2.5kg | 80    | Hive  | Scarce       |
+| [Crimson Crown](Galaxy%20of%20Guns.md#Crimson%20Crown)                            | Thrown (SBx4m) | 1d10+2 R  | 2   | Special, [[#Tearing]]                  | 0.5kg | 2,000 | -     | Very Rare    |
+| [Eviscerator](Galaxy%20of%20Guns.md#Eviscerator) †                            | Melee          | 1d10+10 R | 5   | Special, [[#Tearing]], [[#Unwieldy]]   | 12kg  | 750   | -     | Rare         |
 † Requires two hands to be used effectively
 #### Chainsword
 
@@ -2223,24 +2222,24 @@ When deactivated, a power weapon counts as a Primitive weapon of the same type w
 
 | Name                                               | Class              | Dam        | Pen | Special                                                       | Wt     | Cost   | World            | Availability   |
 | -------------------------------------------------- | ------------------ | ---------- | --- | ------------------------------------------------------------- | ------ | ------ | ---------------- | -------------- |
-| [[#Null Rod]]                                      | Melee              | 1d10+4 E   | 6   | [[#Power Field]], Special                                     | 3kg    | 9,000  | -                | Extremely Rare |
-| [[#Omnissian Rod]]                                 | Melee              | 1d10+10 E  | 7   | [[#Balanced]], [[#Flexible]], [[#Power Field]], Special       | 9kg    |        | Tech-Priest Only | Extremely Rare |
-| [[#Power Axe]]                                     | Melee              | 1d10+7 E   | 8   | [[#Power Field]], [[#Unbalanced]]                             | 6kg    | 2,700  |                  | -              |
-| - [[#Loi-Pattern]] †                               | Melee              | 1d10+8 E   | 10  | [[#Power Field]], [[#Unbalanced]]                             | 7kg    | 3,200  |                  | -              |
-| - [[#Omnissian Axe]]                               | Melee              | 2d10+4 E   | 8   | [[#Power Field]], [[#Unbalanced]]                             | 8kg    |        | Tech-Priest Only | Extremely Rare |
-| [[#Power Blade]]                                   | Melee              | 1d10+3 E   | 6   | [[#Power Field]]                                              | 1.5kg  | 1,750  | -                | Very Rare      |
-| - [[#Khayer-Addin "Serpentine" Blade\|Serpentine]] | Melee              | 1d10+2 E   | 6   | [[#Fast]], [[#Power Field]]                                   | 1.5kg  | 2,000  | -                | Extremely Rare |
-| [[#Power Discus]]                                  | Thrown (SBx4m)     | 1d10+4 E   | 5   | [[#Power Field]], Special                                     | 0.2kg  | 10,000 | -                | Extremely Rare |
-| [[#Power Fist]] (gauntlet)                         | Melee              | 2d10 E††   | 9   | [[#Power Field]], [[#Unwieldy]]                               | 12kg   | 3,200  | -                | Very Rare      |
-| [[#Power Fist]] (glove)                            | Melee              | 2d10 E††   | 7   | [[#Power Field]], [[#Unwieldy]]                               | 7kg††† | 3,000  | -                | Very Rare      |
-| [[#Power Longsword]] †                             | Melee              | 1d10+7 E   | 7   | [[#Balanced]], [[#Power Field]]                               | 4.5kg  | 3,500  | -                | Very Rare      |
-| [[#Arbitrator Power Maul]] (high)                  | Melee              | 1d10+5 E   | 5   | [[#Power Field]]                                              | 3.5kg  | 2,500  | -                | Very Rare      |
-| [[#Arbitrator Power Maul]] (low)                   | Melee              | 1d10+1 I   | 2   | [[#Shocking]]                                                 |        |        |                  |                |
-| [[#Power Stake]]                                   | Melee              | 1d10+7 E   | 5   | [[#Power Field]], [[#Sanctified Weapon]], [[#Unbalanced]]     | 1kg    | 20,000 | -                | Extremely Rare |
-| [[#Power Sword]]                                   | Melee              | 1d10+6 E   | 6   | [[#Balanced]], [[#Power Field]]                               | 3.5kg  | 2,500  | -                | Very Rare      |
-| - [[#Power Sabre]]                                 | Melee              | 1d10+5 E   | 5   | [[#Balanced]], [[#Power Field]]                               | 3kg    | 2,700  | -                | Very Rare      |
-| [[#Thunder Hammer]] †                              | Melee              | 2d10+2 E†† | 10  | [[#Power Field]], [[#Recharge]], [[#Shocking]], [[#Unwieldy]] | 15kg   | 4,000  | -                | Very Rare      |
-| [[#Witch Lance]]                                   | Melee/Thrown (10m) | 1d10+5 E   | 6   | [[#Power Field]], Special                                     | 5kg    | 2,800  | -                | Very Rare      |
+| [Null Rod](Galaxy%20of%20Guns.md#Null%20Rod)                                      | Melee              | 1d10+4 E   | 6   | [[#Power Field]], Special                                     | 3kg    | 9,000  | -                | Extremely Rare |
+| [Omnissian Rod](Galaxy%20of%20Guns.md#Omnissian%20Rod)                                 | Melee              | 1d10+10 E  | 7   | [[#Balanced]], [[#Flexible]], [[#Power Field]], Special       | 9kg    |        | Tech-Priest Only | Extremely Rare |
+| [Power Axe](Galaxy%20of%20Guns.md#Power%20Axe)                                     | Melee              | 1d10+7 E   | 8   | [[#Power Field]], [[#Unbalanced]]                             | 6kg    | 2,700  |                  | -              |
+| - [Loi-Pattern](Galaxy%20of%20Guns.md#Loi-Pattern) †                               | Melee              | 1d10+8 E   | 10  | [[#Power Field]], [[#Unbalanced]]                             | 7kg    | 3,200  |                  | -              |
+| - [Omnissian Axe](Galaxy%20of%20Guns.md#Omnissian%20Axe)                               | Melee              | 2d10+4 E   | 8   | [[#Power Field]], [[#Unbalanced]]                             | 8kg    |        | Tech-Priest Only | Extremely Rare |
+| [Power Blade](Galaxy%20of%20Guns.md#Power%20Blade)                                   | Melee              | 1d10+3 E   | 6   | [[#Power Field]]                                              | 1.5kg  | 1,750  | -                | Very Rare      |
+| - [Khayer-Addin "Serpentine" Blade\|Serpentine](Galaxy%20of%20Guns.md#Khayer-Addin%20"Serpentine"%20Blade\|Serpentine) | Melee              | 1d10+2 E   | 6   | [[#Fast]], [[#Power Field]]                                   | 1.5kg  | 2,000  | -                | Extremely Rare |
+| [Power Discus](Galaxy%20of%20Guns.md#Power%20Discus)                                  | Thrown (SBx4m)     | 1d10+4 E   | 5   | [[#Power Field]], Special                                     | 0.2kg  | 10,000 | -                | Extremely Rare |
+| [Power Fist](Galaxy%20of%20Guns.md#Power%20Fist) (gauntlet)                         | Melee              | 2d10 E††   | 9   | [[#Power Field]], [[#Unwieldy]]                               | 12kg   | 3,200  | -                | Very Rare      |
+| [Power Fist](Galaxy%20of%20Guns.md#Power%20Fist) (glove)                            | Melee              | 2d10 E††   | 7   | [[#Power Field]], [[#Unwieldy]]                               | 7kg††† | 3,000  | -                | Very Rare      |
+| [Power Longsword](Galaxy%20of%20Guns.md#Power%20Longsword) †                             | Melee              | 1d10+7 E   | 7   | [[#Balanced]], [[#Power Field]]                               | 4.5kg  | 3,500  | -                | Very Rare      |
+| [Arbitrator Power Maul](Galaxy%20of%20Guns.md#Arbitrator%20Power%20Maul) (high)                  | Melee              | 1d10+5 E   | 5   | [[#Power Field]]                                              | 3.5kg  | 2,500  | -                | Very Rare      |
+| [Arbitrator Power Maul](Galaxy%20of%20Guns.md#Arbitrator%20Power%20Maul) (low)                   | Melee              | 1d10+1 I   | 2   | [[#Shocking]]                                                 |        |        |                  |                |
+| [Power Stake](Galaxy%20of%20Guns.md#Power%20Stake)                                   | Melee              | 1d10+7 E   | 5   | [[#Power Field]], [[#Sanctified Weapon]], [[#Unbalanced]]     | 1kg    | 20,000 | -                | Extremely Rare |
+| [Power Sword](Galaxy%20of%20Guns.md#Power%20Sword)                                   | Melee              | 1d10+6 E   | 6   | [[#Balanced]], [[#Power Field]]                               | 3.5kg  | 2,500  | -                | Very Rare      |
+| - [Power Sabre](Galaxy%20of%20Guns.md#Power%20Sabre)                                 | Melee              | 1d10+5 E   | 5   | [[#Balanced]], [[#Power Field]]                               | 3kg    | 2,700  | -                | Very Rare      |
+| [Thunder Hammer](Galaxy%20of%20Guns.md#Thunder%20Hammer) †                              | Melee              | 2d10+2 E†† | 10  | [[#Power Field]], [[#Recharge]], [[#Shocking]], [[#Unwieldy]] | 15kg   | 4,000  | -                | Very Rare      |
+| [Witch Lance](Galaxy%20of%20Guns.md#Witch%20Lance)                                   | Melee/Thrown (10m) | 1d10+5 E   | 6   | [[#Power Field]], Special                                     | 5kg    | 2,800  | -                | Very Rare      |
 † _Requires two hands to be used effectively_
 †† _Add twice the wielder's Strength Bonus to Damage_
 ††† _Not including external power source_
@@ -2332,15 +2331,15 @@ Shock weapons are designed to be generally nonlethal, attacking the subject with
 
 | Name                      | Class          | Dam      | Pen | Special                                                          | Wt    | Cost | World | Availability |
 | ------------------------- | -------------- | -------- | --- | ---------------------------------------------------------------- | ----- | ---- | ----- | ------------ |
-| [[#Concussion Mace]]†     | Melee          | 1d10+3 I | 4   | [[#Blast (X)\|Blast]] (1), [[#Unstable]], [[#Unwieldy]], Special | 15kg  | 600  | Void  | Scarce       |
-| [[#Electro-Flail]]        | Melee          | 1d10+2 I | 0   | [[#Flexible]], [[#Shocking]]                                     | 4.5kg | 375  | -     | Rare         |
-| [[#Neural Whip]]          | Melee (3m)     | 1d10+1 E | 0   | [[#Flexible]], [[#Shocking]], [[#Tearing]], Special              | 4kg   | 500  | -     | Rare         |
-| [[#Officer's Cutlass]]    | Melee          | 1d10 R   | 0   | [[#Shocking]], Special                                           | 3kg   | 200  | Void  | Scarce       |
-| [[#Shock Glove]]          | Melee          | 1d5 E    | 0   | [[#Shocking]], Special                                           | 1.5kg | 100  | -     | Scarce       |
-| [[#Shock Maul]]           | Melee          | 1d10 I   | 0   | [[#Shocking]]                                                    | 2.5kg | 150  | -     | Average      |
-| [[#Shock-Staff]]†         | Melee          | 1d5+3 I  | 0   | [[#Shocking]]                                                    | 2kg   | 100  | -     | Scarce       |
-| [[#Shock-Staff]] (spike)† | Melee          | 1d5+1 R  | 2   | [[#Shocking]]                                                    | 2kg   | 125  | -     | Rare         |
-| [[#Shock Star]]           | Thrown (SBx3m) | 1d5+2 R  | 0   | [[#Shocking]]                                                    | .2kg  | 350  | -     | Rare         |
+| [Concussion Mace](Galaxy%20of%20Guns.md#Concussion%20Mace)†     | Melee          | 1d10+3 I | 4   | [[#Blast (X)\|Blast]] (1), [[#Unstable]], [[#Unwieldy]], Special | 15kg  | 600  | Void  | Scarce       |
+| [Electro-Flail](Galaxy%20of%20Guns.md#Electro-Flail)        | Melee          | 1d10+2 I | 0   | [[#Flexible]], [[#Shocking]]                                     | 4.5kg | 375  | -     | Rare         |
+| [Neural Whip](Galaxy%20of%20Guns.md#Neural%20Whip)          | Melee (3m)     | 1d10+1 E | 0   | [[#Flexible]], [[#Shocking]], [[#Tearing]], Special              | 4kg   | 500  | -     | Rare         |
+| [Officer's Cutlass](Galaxy%20of%20Guns.md#Officer's%20Cutlass)    | Melee          | 1d10 R   | 0   | [[#Shocking]], Special                                           | 3kg   | 200  | Void  | Scarce       |
+| [Shock Glove](Galaxy%20of%20Guns.md#Shock%20Glove)          | Melee          | 1d5 E    | 0   | [[#Shocking]], Special                                           | 1.5kg | 100  | -     | Scarce       |
+| [Shock Maul](Galaxy%20of%20Guns.md#Shock%20Maul)           | Melee          | 1d10 I   | 0   | [[#Shocking]]                                                    | 2.5kg | 150  | -     | Average      |
+| [Shock-Staff](Galaxy%20of%20Guns.md#Shock-Staff)†         | Melee          | 1d5+3 I  | 0   | [[#Shocking]]                                                    | 2kg   | 100  | -     | Scarce       |
+| [Shock-Staff](Galaxy%20of%20Guns.md#Shock-Staff) (spike)† | Melee          | 1d5+1 R  | 2   | [[#Shocking]]                                                    | 2kg   | 125  | -     | Rare         |
+| [Shock Star](Galaxy%20of%20Guns.md#Shock%20Star)           | Thrown (SBx3m) | 1d5+2 R  | 0   | [[#Shocking]]                                                    | .2kg  | 350  | -     | Rare         |
 †Requires two hands to be used effectively
 ### Concussion Mace
 
@@ -2404,22 +2403,22 @@ Like their ranged counterparts, exotic melee weapons cover a wide range of devic
 
 | Name                                                | Class      | Dam        | Pen | Special                                              | Wt    | Cost   | World     | Availability  |
 | --------------------------------------------------- | ---------- | ---------- | --- | ---------------------------------------------------- | ----- | ------ | --------- | ------------- |
-| [[#Arc-Welder]]                                     | Melee      | 1d10+5 E†† | 10  | [[#Fast]], [[#Unwieldy]]                             | 2kg   | 1,700  | Lathes    | Very Rare     |
-| [[#Breacher]] †                                     | Melee      | 1d10+5 R   | 4   | [[#Tearing]], [[#Unwieldy]], Special                 | 18kg  | 750    | Forge     | Scarce        |
-| [[#Bulkhead Cutters]]                               | Melee      | 1d10+3 R   | 6   | [[#Tearing]], [[#Unwieldy]]                          | 8kg   | 100    | -         | Average       |
-| [[#Fervious Chain-Sticks\|Chain Sticks]]            | Melee      | 1d10+1 I   | 0   | [[#Fast]], [[#Primitive]], [[#Toxic]]                | 1kg   | 30     | Fervious  | Scarce        |
-| [[#Coil Whip]]                                      | Melee      | 1d10+5 E   | 4   | [[#Flexible]], [[#Shocking]]                         | 3kg   | 600    | Lathes    | Very Rare     |
-| [[#Penolpass Double Flail\|Double Flail]] †         | Melee      | 1d10 I     | 0   | [[#Balanced]], [[#Flexible]], [[#Primitive]]         | 4kg   | 28     | Penolpass | Scarce        |
-| [[#Sollex-Aegis Energy Blade\|Energy Blade]]        | Melee      | 1d10+6 E†† | 7   | [[#Balanced]], [[#Power Field]]                      | 1kg   | 5,000  | Forge     | Very Rare     |
-| [[#Forearm Power Blade]]                            | Melee      | 1d10+1 E   | 4   | [[#Balanced]], [[#Defensive]], [[#Power Field]]      | 1.5kg | 2,200  | -         | Very Rare     |
-| [[#Fractal Sword]]                                  | Melee      | 1d10+1 R   | 8   | [[#Balanced]]                                        | 1kg   | 10,000 | -         | ExtremelyRare |
-| [[#Garrotte]] †                                     | Melee      | 1d10 R     | 0   | [[#Flexible]], [[#Primitive]], [[#Unwieldy]]         | 0.5kg | 30     | Hive      | Scarce        |
-| [[#Groxwhip]]                                       | Melee (3m) | 1d10+3 R   | 0   | [[#Flexible]], [[#Primitive]], [[#Tearing]], Special | 4kg   | 45     | -         | Scarce        |
-| [[#Acreage Lightning Chain\|Lightning Chain]] †     | Melee      | 1d10+1 I   | 0   | [[#Flexible]], [[#Primitive]], [[#Shocking]]         | 4kg   | 100    | Acreage   | Very Rare     |
-| [[#Acreage Lightning Gauntlet\|Lightning Gauntlet]] | Melee      | 1d10 I     | 0   | [[#Primitive]], [[#Shocking]]                        | 2kg   | 80     | Acreage   | Very Rare     |
-| [[#Sieve Blade]]                                    | Melee      | 1d10-1 R   | 0   | [[#Primitive]]                                       | 0.5kg | 200    | -         | Rare          |
-| [[#Soft Sword]]                                     | Melee      | 1d10 R     | 2   | [[#Balanced]]                                        | 1.5kg | 400    | -         | Rare          |
-| [[#Vivisector]]                                     | Melee      | 1d5+5 R    | 4   | [[#Tearing]], [[#Unwieldy]]                          | 1.5kg | 650    | Forge     | Rare          |
+| [Arc-Welder](Galaxy%20of%20Guns.md#Arc-Welder)                                     | Melee      | 1d10+5 E†† | 10  | [[#Fast]], [[#Unwieldy]]                             | 2kg   | 1,700  | Lathes    | Very Rare     |
+| [Breacher](Galaxy%20of%20Guns.md#Breacher) †                                     | Melee      | 1d10+5 R   | 4   | [[#Tearing]], [[#Unwieldy]], Special                 | 18kg  | 750    | Forge     | Scarce        |
+| [Bulkhead Cutters](Galaxy%20of%20Guns.md#Bulkhead%20Cutters)                               | Melee      | 1d10+3 R   | 6   | [[#Tearing]], [[#Unwieldy]]                          | 8kg   | 100    | -         | Average       |
+| [Fervious Chain-Sticks\|Chain Sticks](Galaxy%20of%20Guns.md#Fervious%20Chain-Sticks\|Chain%20Sticks)            | Melee      | 1d10+1 I   | 0   | [[#Fast]], [[#Primitive]], [[#Toxic]]                | 1kg   | 30     | Fervious  | Scarce        |
+| [Coil Whip](Galaxy%20of%20Guns.md#Coil%20Whip)                                      | Melee      | 1d10+5 E   | 4   | [[#Flexible]], [[#Shocking]]                         | 3kg   | 600    | Lathes    | Very Rare     |
+| [Penolpass Double Flail\|Double Flail](Galaxy%20of%20Guns.md#Penolpass%20Double%20Flail\|Double%20Flail) †         | Melee      | 1d10 I     | 0   | [[#Balanced]], [[#Flexible]], [[#Primitive]]         | 4kg   | 28     | Penolpass | Scarce        |
+| [Sollex-Aegis Energy Blade\|Energy Blade](Galaxy%20of%20Guns.md#Sollex-Aegis%20Energy%20Blade\|Energy%20Blade)        | Melee      | 1d10+6 E†† | 7   | [[#Balanced]], [[#Power Field]]                      | 1kg   | 5,000  | Forge     | Very Rare     |
+| [Forearm Power Blade](Galaxy%20of%20Guns.md#Forearm%20Power%20Blade)                            | Melee      | 1d10+1 E   | 4   | [[#Balanced]], [[#Defensive]], [[#Power Field]]      | 1.5kg | 2,200  | -         | Very Rare     |
+| [Fractal Sword](Galaxy%20of%20Guns.md#Fractal%20Sword)                                  | Melee      | 1d10+1 R   | 8   | [[#Balanced]]                                        | 1kg   | 10,000 | -         | ExtremelyRare |
+| [Garrotte](Galaxy%20of%20Guns.md#Garrotte) †                                     | Melee      | 1d10 R     | 0   | [[#Flexible]], [[#Primitive]], [[#Unwieldy]]         | 0.5kg | 30     | Hive      | Scarce        |
+| [Groxwhip](Galaxy%20of%20Guns.md#Groxwhip)                                       | Melee (3m) | 1d10+3 R   | 0   | [[#Flexible]], [[#Primitive]], [[#Tearing]], Special | 4kg   | 45     | -         | Scarce        |
+| [Acreage Lightning Chain\|Lightning Chain](Galaxy%20of%20Guns.md#Acreage%20Lightning%20Chain\|Lightning%20Chain) †     | Melee      | 1d10+1 I   | 0   | [[#Flexible]], [[#Primitive]], [[#Shocking]]         | 4kg   | 100    | Acreage   | Very Rare     |
+| [Acreage Lightning Gauntlet\|Lightning Gauntlet](Galaxy%20of%20Guns.md#Acreage%20Lightning%20Gauntlet\|Lightning%20Gauntlet) | Melee      | 1d10 I     | 0   | [[#Primitive]], [[#Shocking]]                        | 2kg   | 80     | Acreage   | Very Rare     |
+| [Sieve Blade](Galaxy%20of%20Guns.md#Sieve%20Blade)                                    | Melee      | 1d10-1 R   | 0   | [[#Primitive]]                                       | 0.5kg | 200    | -         | Rare          |
+| [Soft Sword](Galaxy%20of%20Guns.md#Soft%20Sword)                                     | Melee      | 1d10 R     | 2   | [[#Balanced]]                                        | 1.5kg | 400    | -         | Rare          |
+| [Vivisector](Galaxy%20of%20Guns.md#Vivisector)                                     | Melee      | 1d5+5 R    | 4   | [[#Tearing]], [[#Unwieldy]]                          | 1.5kg | 650    | Forge     | Rare          |
 † _Requires two hands to be used effectively_
 ††  _Do not add the wielder's Strength Bonus to Damage with this weapon_
 #### Arc-Welder
@@ -2527,43 +2526,43 @@ The cost and availability of each upgrade refers to the component itself, not th
 
 | Name                         | Weight  | Cost    | Test | Availability   |
 | ---------------------------- | ------- | ------- | ---- | -------------- |
-| [[#Backpack Ammo Pack]]      | +25kg   | 100     | +10  | Rare           |
-| [[#Bipod]]                   | +2kg    | 10      | +30  | Average        |
-| [[#Calamity Vent]]           | +0.5kg  | 250     | +0   | Very Rare      |
-| [[#Combi-Weapon]]            | Special | Special | -20  | Special        |
-| [[#Combi-Weapon (Military)]] | Special | Special | +0   | Special        |
-| [[#Compact]]                 | x 1/2   | 50      | +0   | Average        |
-| [[#Dipole Mag-Lock]]         | +0.5kg  | 75      | +30  | Average        |
-| [[#Duplus Ammo Clips]]       | -       | 10      | -    | Scarce         |
-| [[#Exterminator]]            | +1kg    | 35      | +30  | Common         |
-| [[#Exterminator Cartridge]]  | +0.5kg  | 50      | +30  | Average        |
-| [[#Extra Grip]]              | +0.5kg  | 25      | +10  | Average        |
-| [[#Fire Selector]]           | +0.5kg  | 50      | +20  | Scarce         |
-| [[#Force Weapon]]            | -       | 3,500   | -20  | Very Rare      |
-| [[#Forearm Weapon Mounting]] | +1kg    | 300     | +0   | Scarce         |
-| [[#Gene-Lock Circuit]]       | +0.5kg  | 100     | +0   | Rare           |
-| [[#Grav-Accelerator]]        | +2kg    | 550     | -20  | Very Rare      |
-| [[#Integrated Weapon]]       | +0.5kg  | 200     | -30  | Extremely Rare |
-| [[#Lathe Blade]]             | -       | 2,500   | -20  | Very Rare      |
-| [[#Melee Attachment]]        | +0.3kg  | 5       | +30  | Plentiful      |
-| [[#Mono Edge]]               | -       | 40      | -10  | Scarce         |
-| [[#Mono-Sight]]              | +1kg    | 400     | +10  | Scarce         |
-| [[#Motion Predictor]]        | +0.5kg  | 1,000   | +10  | Rare           |
-| [[#Pyre-Lance Aperture]]     | +0.5kg  | 200     | +0   | Rare           |
-| [[#Rangefinder Sight]]       | +1.5kg  | 1,200   | +0   | Rare           |
-| [[#Red-Dot Laser Sight]]     | +0.5kg  | 50      | +20  | Scarce         |
-| [[#Sanctified Weapon]]       | -       | 500     | †    | Very Rare      |
-| [[#Silencer]]                | +1kg    | 10      | +30  | Plentiful      |
-| [[#Spoor Targeter]]          | +1.5kg  | 3,000   | -10  | Very Rare      |
-| [[#Stabiliser Rig]]          | +8kg    | 700     | +10  | Scarce         |
-| [[#Starflare Vent]]          | +0.5kg  | 300     | -10  | Very Rare      |
-| [[#Stutter-Las]]             | -       | 50      | -10  | Average        |
-| [[#Suspensors]]              | x 1/2   | 2,500   | -10  | Extremely Rare |
-| [[#Targeter]]                | +1.5kg  | 2,250   | +0   | Rare           |
-| [[#Telescopic Sight]]        | +1kg    | 35      | +20  | Average        |
-| [[#Tripod]]                  | +5kg    | 20      | +30  | Common         |
-| [[#Vox Operated]]            | +0.3kg  | 500     | +10  | Rare           |
-| [[#Whisper-Bolt Discharger]] | +2kg    | 80      | +0   | Scarce         |
+| [Backpack Ammo Pack](Galaxy%20of%20Guns.md#Backpack%20Ammo%20Pack)      | +25kg   | 100     | +10  | Rare           |
+| [Bipod](Galaxy%20of%20Guns.md#Bipod)                   | +2kg    | 10      | +30  | Average        |
+| [Calamity Vent](Galaxy%20of%20Guns.md#Calamity%20Vent)           | +0.5kg  | 250     | +0   | Very Rare      |
+| [Combi-Weapon](Galaxy%20of%20Guns.md#Combi-Weapon)            | Special | Special | -20  | Special        |
+| [Combi-Weapon (Military)](Galaxy%20of%20Guns.md#Combi-Weapon%20(Military)) | Special | Special | +0   | Special        |
+| [Compact](Galaxy%20of%20Guns.md#Compact)                 | x 1/2   | 50      | +0   | Average        |
+| [Dipole Mag-Lock](Galaxy%20of%20Guns.md#Dipole%20Mag-Lock)         | +0.5kg  | 75      | +30  | Average        |
+| [Duplus Ammo Clips](Galaxy%20of%20Guns.md#Duplus%20Ammo%20Clips)       | -       | 10      | -    | Scarce         |
+| [Exterminator](Galaxy%20of%20Guns.md#Exterminator)            | +1kg    | 35      | +30  | Common         |
+| [Exterminator Cartridge](Galaxy%20of%20Guns.md#Exterminator%20Cartridge)  | +0.5kg  | 50      | +30  | Average        |
+| [Extra Grip](Galaxy%20of%20Guns.md#Extra%20Grip)              | +0.5kg  | 25      | +10  | Average        |
+| [Fire Selector](Galaxy%20of%20Guns.md#Fire%20Selector)           | +0.5kg  | 50      | +20  | Scarce         |
+| [Force Weapon](Galaxy%20of%20Guns.md#Force%20Weapon)            | -       | 3,500   | -20  | Very Rare      |
+| [Forearm Weapon Mounting](Galaxy%20of%20Guns.md#Forearm%20Weapon%20Mounting) | +1kg    | 300     | +0   | Scarce         |
+| [Gene-Lock Circuit](Galaxy%20of%20Guns.md#Gene-Lock%20Circuit)       | +0.5kg  | 100     | +0   | Rare           |
+| [Grav-Accelerator](Galaxy%20of%20Guns.md#Grav-Accelerator)        | +2kg    | 550     | -20  | Very Rare      |
+| [Integrated Weapon](Galaxy%20of%20Guns.md#Integrated%20Weapon)       | +0.5kg  | 200     | -30  | Extremely Rare |
+| [Lathe Blade](Galaxy%20of%20Guns.md#Lathe%20Blade)             | -       | 2,500   | -20  | Very Rare      |
+| [Melee Attachment](Galaxy%20of%20Guns.md#Melee%20Attachment)        | +0.3kg  | 5       | +30  | Plentiful      |
+| [Mono Edge](Galaxy%20of%20Guns.md#Mono%20Edge)               | -       | 40      | -10  | Scarce         |
+| [Mono-Sight](Galaxy%20of%20Guns.md#Mono-Sight)              | +1kg    | 400     | +10  | Scarce         |
+| [Motion Predictor](Galaxy%20of%20Guns.md#Motion%20Predictor)        | +0.5kg  | 1,000   | +10  | Rare           |
+| [Pyre-Lance Aperture](Galaxy%20of%20Guns.md#Pyre-Lance%20Aperture)     | +0.5kg  | 200     | +0   | Rare           |
+| [Rangefinder Sight](Galaxy%20of%20Guns.md#Rangefinder%20Sight)       | +1.5kg  | 1,200   | +0   | Rare           |
+| [Red-Dot Laser Sight](Galaxy%20of%20Guns.md#Red-Dot%20Laser%20Sight)     | +0.5kg  | 50      | +20  | Scarce         |
+| [Sanctified Weapon](Galaxy%20of%20Guns.md#Sanctified%20Weapon)       | -       | 500     | †    | Very Rare      |
+| [Silencer](Galaxy%20of%20Guns.md#Silencer)                | +1kg    | 10      | +30  | Plentiful      |
+| [Spoor Targeter](Galaxy%20of%20Guns.md#Spoor%20Targeter)          | +1.5kg  | 3,000   | -10  | Very Rare      |
+| [Stabiliser Rig](Galaxy%20of%20Guns.md#Stabiliser%20Rig)          | +8kg    | 700     | +10  | Scarce         |
+| [Starflare Vent](Galaxy%20of%20Guns.md#Starflare%20Vent)          | +0.5kg  | 300     | -10  | Very Rare      |
+| [Stutter-Las](Galaxy%20of%20Guns.md#Stutter-Las)             | -       | 50      | -10  | Average        |
+| [Suspensors](Galaxy%20of%20Guns.md#Suspensors)              | x 1/2   | 2,500   | -10  | Extremely Rare |
+| [Targeter](Galaxy%20of%20Guns.md#Targeter)                | +1.5kg  | 2,250   | +0   | Rare           |
+| [Telescopic Sight](Galaxy%20of%20Guns.md#Telescopic%20Sight)        | +1kg    | 35      | +20  | Average        |
+| [Tripod](Galaxy%20of%20Guns.md#Tripod)                  | +5kg    | 20      | +30  | Common         |
+| [Vox Operated](Galaxy%20of%20Guns.md#Vox%20Operated)            | +0.3kg  | 500     | +10  | Rare           |
+| [Whisper-Bolt Discharger](Galaxy%20of%20Guns.md#Whisper-Bolt%20Discharger) | +2kg    | 80      | +0   | Scarce         |
 †This upgrade requires the attentions of a suitable member of the Ecclesiarchy
 
 ### Backpack Ammo Pack
