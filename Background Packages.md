@@ -22,7 +22,7 @@ The following Background Packages may be used with most or all Career Paths. Any
 #### **Cold Trader**
 **Career:** Any except Soroitas
 **Cost:** 200 xp
-**Requirements:** Void Born Homeworld
+**Requirements:** Void Born Home World
 
 Criminal merchants have lives that are filled with danger and threat. Despite the many enforcers they have bribed—or thugs they have standing guard, the Emperor’s Law is always vigilant. To work for the Cold Trade is much worse, as to deal in xenos artefacts can easily draw attention from members of the Calixian Ordo Xenos. It also requires knowledge of a variety of areas forbidden by most temporal authorities in the Imperium of Mankind. A dealer in illegal weapons might only need to be familiar with the workings of bolt shells or plasma venting; a Cold Trader, however, is dealing in alien weapons and needs intimate details on strange toxins, bizarre ammunition, and even hideous xenos physiology. Some clever traders specialise in forging their own xenos artefacts, for there are very few who could tell the difference.
 
@@ -31,12 +31,12 @@ as seemingly innocuous as a swath of glistening fabric or a lumpen idol, will re
 ##### **Effects**
 Apply all of the following to your character:
 
-**Been Around A Few Times:** While not necessarily any more skilful than most smugglers, the nature of a Cold Trader's work inevitably forces you into trying your hands at certain esoteric efforts with alarming frequency. You treat Forbidden Lore (Xenos) and Tech-Use as Basic Skills, and gain the Speak Language (Xenos—Pick One) Skill.
-**Traders' Kit:** Sometimes you may need to subdue an alien creature to relieve it of its possessions, assuming, of course, your goal wasn't to actually capture the xeno itself for a client with especially deranged interests. You begin play with a Needle Rifle with 2 reloads, a Web Pistol with 2 reloads, and the relevant Exotic Weapon Training Talent for both.
+* **Been Around A Few Times:** While not necessarily any more skilful than most smugglers, the nature of a Cold Trader's work inevitably forces you into trying your hands at certain esoteric efforts with alarming frequency. You treat Forbidden Lore (Xenos) and Tech-Use as Basic Skills, and gain the Speak Language (Xenos—Pick One) Skill.
+* **Traders' Kit:** Sometimes you may need to subdue an alien creature to relieve it of its possessions, assuming, of course, your goal wasn't to actually capture the xeno itself for a client with especially deranged interests. You begin play with a Needle Rifle with 2 reloads, a Web Pistol with 2 reloads, and the relevant Exotic Weapon Training Talent for both.
 #### **Convert**
-**Career:** Any except Soroitas and Tech-Priest
+**Career:** Any except Soroitas or Tech-Priest
 **Cost:** 300 xp
-**Requirements:** Feral Homeworld (or similar upbringing) only
+**Requirements:** Feral World Home World (or similar upbringing) only
 
 The Imperial Creed is a rabidly evangelical one, which loudly professes its divine mission to spread across the universe, annihilating all other faiths. Yet the Imperium, for all its might, does not  dominate every corner of the Galaxy. There are many independent worlds and human-controlled empires where older faiths yet prevail. Some are relics of pre-Imperial religions, perhaps even from old Terra, while others are local inventions or the works of subtle and devious xenos who use humanity’s drive to spirituality against it.
 
@@ -46,9 +46,8 @@ Those who join the Imperial fold (save those who have been clearly corrupted by 
 ##### **Effects**
 Apply all of the following to your character:
 
-**Talents:** You gain the Unshakeable Faith Talent, as you are a genuinely dedicated servant of the Master of Mankind.
-**Rough and Ready Faith:** You have travelled from a far frontier world or some other such benighted place where the Imperial Creed is only newly established to the blessed realms of the God-Emperor. You have practice surviving in many environments and therefore you gain the Survival Skill.
-**Former Heathen:** As a convert to the Imperial Creed, your faith is strong but the details of its more intricate proclivities are somewhat confusing to you, as you were converted rapidly under difficult circumstances. You gain the Common Lore (Imperial Creed) skill, but if you ever make a Test with this skill and roll with more than two degrees of failure, you have fundamentally mistaken some important details of the Imperial Creed, and the GM must determine the most socially embarrassing or perilous outcome of this misunderstanding. You retain this tendency even as you improve this skill.
+* **Former Heathen:** As a convert to the Imperial Creed, your faith is strong but the details of its more intricate proclivities are somewhat confusing to you, as you were converted rapidly under difficult circumstances. You gain the Common Lore (Imperial Creed) Skill, but if you ever make a Test with this skill and roll with more than two degrees of failure, you have fundamentally mistaken some important details of the Imperial Creed, and the GM must determine the most socially embarrassing or perilous outcome of this misunderstanding. You retain this tendency even as you improve this skill.
+* **Rough and Ready Faith:** You have travelled from a far frontier world or some other such benighted place where the Imperial Creed is only newly established to the blessed realms of the God-Emperor. You have practice surviving in many environments, and have likely encountered things that would make the average hiver flee in terror. You gain the Survival Skill and the Unshakeable Faith Talent.
 #### **Daemon Vanquisher**
 **Career:** Any
 **Cost:** 300 xp
@@ -57,8 +56,8 @@ When the Emperor calls, anyone who can hear it must answer. Few men or women hav
 ##### **Effects**
 Apply all of the following to your character:
 
-**Know Thy Foe:** Either of your own volition, or at the direction of your masters, you have studied various tightly-controlled manuscripts and data-stacks pertaining to the nature of the foul denizens of the warp, so as to better prepare yourself the next time you must do battle with such a fiend. You gain the Forbidden Lore (Daemonology) Skill.
-**Suffer Not The Daemon:** The dire threat posed by the daemon is not lost on you, and you have trained extensively to give yourself as much of an edge as possible against the malefic threat. You gain the Hatred (Daemons) Talent.
+* **Know Thy Foe:** Either of your own volition, or at the direction of your masters, you have studied various tightly-controlled manuscripts and data-stacks pertaining to the nature of the foul denizens of the warp, so as to better prepare yourself the next time you must do battle with such a fiend. You gain the Forbidden Lore (Daemonology) Skill.
+* **Suffer Not The Daemon:** The dire threat posed by the daemon is not lost on you, and you have trained extensively to give yourself as much of an edge as possible against the malefic threat. You gain the Hatred (Daemons) Talent.
 #### **Enforcer**
 **Career:** Adept, Arbitrator, Assassin, Guardsman, or Scum
 **Cost:** 300 xp
@@ -71,9 +70,9 @@ On Iocanthos, Enforcers are known by many names, their primary task to drag the 
 ##### **Effects**
 Apply all of the following to the character:
 
-**Granted Authority:** Enforcers are used to being given authority, and service in the Inquisition is often a familiar role. All Enforcers may re-roll one Intimidate or Fellowship-based Test per game session when invoking a higher authority for whom they work.
-**Homeworld Enforcer:** Each Enforcer has served for some time on their homeworld, and as every world is different, these benefits are unique to the type of world. Each Enforcer gains Talented (Pick One). This Talent must enhance a Skill that the character's Home World grants the character as either Trained, or a Skill the character's Home world allows him to treat as Basic.
-**The Thin Line:** Lawgivers tend to know their own, for the struggle against the antisocial and the malcontent is universal. You gain the Peer (Enforcers) Talent.
+* **Granted Authority:** Enforcers are used to being given authority, and service in the Inquisition is often a familiar role. All Enforcers may re-roll one Intimidate or Fellowship-based Test per game session when invoking a higher authority for whom they work.
+* **Homeworld Enforcer:** Each Enforcer has served for some time on their homeworld, and as every world is different, these benefits are unique to the type of world. Each Enforcer gains Talented (Pick One). This Talent must enhance a Skill that the character's Home World grants the character as either Trained, or a Skill the character's Home world allows him to treat as Basic.
+* **The Thin Line:** Lawgivers tend to know their own, for the struggle against the antisocial and the malcontent is universal. You gain the Peer (Enforcers) Talent.
 #### **Fate-Eater**
 **Career:** Any
 **Cost:** 400 xp
@@ -88,12 +87,12 @@ Mysteriously, such "fateless" souls appear to be able to consume the fate of oth
 ##### **Effects**
 Apply all of the following to your character:
 
-**No Future?:** The complete unknowability of your destiny weighs heavily on you in ways that are difficult to conceptualise but nonetheless quite profound. You gain the Dark Soul Talent and begin play with no Divination and 1 less Fate Point than you normally should (to a minimum of 1).
-**Feast of Fates Denied:** Every time you kill another character with Fate Points, the Touched by the Fates Trait, or who the GM feels is otherwise significantly important to the game's story, you may roll once on the Divination table, thereafter gaining the benefits of the result. Keep track of which Divinations you have applied—you cannot have the same Divination more than once, so an identical result is wasted and you gain no further benefits from consuming that character's fate.
+* **Feast of Fates Denied:** Every time you kill another character with Fate Points, the Touched by the Fates Trait, or who the GM feels is otherwise significantly important to the game's story, you may roll once on the Divination table, thereafter gaining the benefits of the result. Keep track of which Divinations you have applied—you cannot have the same Divination more than once, so an identical result is wasted and you gain no further benefits from consuming that character's fate.
+* **No Future?:** The complete unknowability of your destiny weighs heavily on you in ways that are difficult to conceptualise, but are nonetheless quite profound. You gain the Dark Soul Talent and begin play with no Divination and 1 less Fate Point than you normally should (to a minimum of 1).
 #### **Hive Ganger**
 **Career:** Adept, Assassin, Guardsman, Imperial Psyker, or Scum
 **Cost:** 200 xp
-**Requirements:** Hive Homeworld only
+**Requirements:** Hive World Home World
 
 To some extent there is always a measure of lawlessness and criminality on any of the God-Emperor's million worlds. Below the great sky-reaching spires of the hive cities, however, one can find entire parallel societies and systems of order run by these reprobates and felons. Where people live but the grip of the enforcers is weak the gangers will make their own law. 
 
@@ -103,8 +102,8 @@ The more Puritanical Inquisitors are unlikely to see any value in having a gange
 ##### **Effects**
 Apply all of the following to your character:
 
-**Ride or Die:** To your peers in the gang you're a loyal comrade ready to go into battle against your enemies. The enforcers and Arbitrators have a decidedly less positive opinion of your lifestyle, and finding gainful employment is challenging—not that you'd ever want to stoop to such a degrading situation, of course. You gain the Peer (Underworld) Talent, but suffer a –10 penalty to all Interaction Tests made against authority figures, such as enforcers and nobles. This penalty may not apply to specific individuals or groups with whom your gang has come to an understanding (i.e. they're on the take). Additionally, you have a social class level of Outcast for determining monthly income (and only for this purpose).
-**Street Soldier:** You have a diverse range of mostly self-taught skills to practice your "trade" such as it is. Some of them involve copious amounts of violence, but only to those who have it coming. You are trained in three of the following Skills of your choice: Awareness, Dodge, Concealment, Gamble, Evaluate, or Tech-Use. You also gain one Talent of your choice from the following list: Basic Weapon Training (SP), Pistol Training (SP), Heavy Weapon Training (SP), Melee Weapon Training (Primitive) or Melee Weapon Training (Chain).
+* **Ride or Die:** To your peers in the gang you're a loyal comrade ready to go into battle against your enemies. The enforcers and Arbitrators have a decidedly less positive opinion of your lifestyle, and finding gainful employment is challenging—not that you'd ever want to stoop to such a degrading situation, of course. You gain the Peer (Underworld) Talent, but suffer a –10 penalty to all Interaction Tests made against authority figures, such as enforcers and nobles. This penalty may not apply to specific individuals or groups with whom your gang has come to an understanding (i.e. they're on the take). Additionally, you have a social class level of Outcast for determining monthly income (and only for this purpose).
+* **Street Soldier:** You have a diverse range of mostly self-taught skills to practice your "trade" such as it is. Some of them involve copious amounts of violence, but only to those who have it coming. You are trained in three of the following Skills of your choice: Awareness, Dodge, Concealment, Gamble, Evaluate, or Tech-Use. You also gain one Talent of your choice from the following list: Basic Weapon Training (SP), Pistol Training (SP), Heavy Weapon Training (SP), Melee Weapon Training (Primitive) or Melee Weapon Training (Chain).
 #### **Impostor**
 **Career:** Any except Soroitas
 **Cost:** 400 xp
@@ -118,22 +117,23 @@ It is said that the true reach and influence of the most successful impostors is
 ##### **Effects**
 Apply all of the following to your character:
 
-**You Can Trust Me:** The measure of any impostor is how efficiently he can twist the truth to serve his purposes, stringing along any number of unknowing accomplices into his plans. You begin play with the Deceive and Disguise Skills, and your choice of the Talented (Deceive) or Talented (Disguise) Talents.
+* **You Can Trust Me:** The measure of any impostor is how efficiently he can twist the truth to serve his purposes, stringing along any number of unknowing accomplices into his plans. You begin play with the Deceive and Disguise Skills, and your choice of the Talented (Deceive) or Talented (Disguise) Talents.
 #### **Penitent**
 **Career:** Any except Soroitas
 **Cost:** 400 xp
 
-Among the Inquisition's numerous foes are vile heretics, adorers of daemons, depraved recidivists and warp-addled witches who scorn the purity of the Emperor for either their own gain, pleasure or spite. When discovered by servants of the Holy Ordos, all that these damned souls may hope for is a swift death, and there is no guarantee this will be given. Many are wracked, flayed and branded for days, weeks, or months before they are granted the peace of death. 
+Among the Inquisition's numerous foes are vile heretics, adorers of daemons, depraved recidivists
+and warp-addled witches who scorn the purity of the Emperor for either their own gain, pleasure or spite. When discovered by servants of the Holy Ordos, all that these damned souls may hope for is a swift death, and there is no guarantee this will be given. Many are wracked, flayed and branded for days, weeks, or months before they are granted the peace of death. 
 
 Some, in this time of pain and question, find in themselves an understanding of what they have done and what they have become. Of those, some beg for forgiveness; few receive it, for mercy is a rare commodity on the part of most Inquisitors. For those being tended to by an Inquisitor of a less Puritanical persuasion, those considered "redeemable" may find that their pleas have been heard by one who is willing to give them a second life: penance as service of the God-Emperor of Man they had once sinned against. These penitent servants have only the life that is given to them by their master, and appreciating the gravity of such a situation, are absolutely devoted both to that master and to the chance of true absolution for their past wickedness.
 
 A Radical Inquisitor could have no shortage of justifications for bringing such a "reformed" heretic into his service. Those who have consorted with the enemy are often well informed of their ways, making them excellent informants and analysts, or in some cases, infiltrators. Others possess proscribed knowledge that could be quite useful in the context of an investigation, or for Inquisitors who lean towards the far fringes of Radicalism, amassing their own furtive libraries. The secretive and clandestine nature of the typical cultist also makes them natural agents in their own right, as they already possess the necessary fundamentals of prosecuting the Inquisition's shadow war against mankind's myriad enemies.
 ##### **Effects**
-Apply all of the following changes to your character.
+Apply all of the following changes to your character:
 
-**Eternal Gratitude:** The depths of magnanimity shown by your captors is clear to you, for they have given you an almost impossibly generous opportunity to save both your body and soul. The fact that it was almost certainly for no altruistic reason is irrelevant. You are obsequiously loyal to your masters and gain the Insanely Faithful and Flagellant Talents. In addition, you must succeed at a **Hard (–20) Willpower Test** to knowingly betray or act against the interests of the Inquisition.
-**Reformed Heretic:** Your previous life as a sinner is over, but your time in darkness far from the God-Emperor's radiance is not forgotten. You begin play with any two Forbidden Lore Skills relevant to your prior misdeeds along with the Dark Soul Talent.
-**Indelible Mark of Wickedness:** Although you have returned to the straight and narrow path of faith your heresies and misdeeds have left their mark on you (and the tender ministrations of your Inquisitorial interrogators likely didn't help either). You begin play with one Malignancy and 15+1d5 Corruption Points. 
+* **Eternal Gratitude:** The depths of magnanimity shown by your captors is clear to you, for they have given you an almost impossibly generous opportunity to save both your body and soul. The fact that it was almost certainly for no altruistic reason is irrelevant. You are obsequiously loyal to your masters and gain the Insanely Faithful and Flagellant Talents. In addition, you must succeed at a **Hard (–20) Willpower Test** to knowingly betray or act against the interests of the Inquisition.
+* **Indelible Mark of Wickedness:** Although you have returned to the straight and narrow path of faith your heresies and misdeeds have left their mark on you (and the tender ministrations of your Inquisitorial interrogators likely didn't help either). You begin play with one Malignancy and 15+1d5 Corruption Points. 
+* **Reformed Heretic:** Your previous life as a sinner is over, but your time in darkness far from the God-Emperor's radiance is not forgotten. You begin play with any two Forbidden Lore Skills relevant to your prior misdeeds along with the Dark Soul Talent.
 #### **Pilgrim**
 **Career:** Any except Tech-Priest
 **Special:** A character may take this Background Package after character creation should their duties allow them to take a Pilgrimage of no shorter than two years.
@@ -148,9 +148,9 @@ A pilgrimage is not something one takes up lightly. It is often one’s children
 Pilgrimages take decades and can be adventures in their own right. Most pilgrims never return but the ancestors of those who do are changed, penniless individuals, tanned by the suns of a dozen strange worlds, inspired by the words of the saints, and bearing countless battered and travel worn personal relics. Pilgrimage is by no means a “soft option.” Those who survive even one leg of the major pilgrim routes are canny and wary travellers, well experienced in the wider Imperium.
 ##### **Effects**
 Apply all of the following effects to your character:
-**Skills:** You begin play with the Common Lore (Ecclesiarchy) (Int) and Survival (Int) skill.
-**Seasoned Traveller:** You gain the Hardy Talent.
-**Penniless:** You begin play (or return from your pilgrimage) with one weapon, a single devotional trinket, the clothes on his back and nothing else. All other equipment that your character would normally have is removed.
+
+* **Penniless:** The simple nature of a long pilgrimage is not generally conducive towards any sort of material wealth. You begin play (or return from your pilgrimage) with one weapon, a single devotional trinket, the clothes on his back and nothing else. All other equipment that your character would normally have is removed.
+* **Pious Traveller:** The time you've spent retracing the paths of saints and visiting the locations of great importance to the Imperial Creed has rendered you both more knowledgeable about matters of faith and physically tougher than those who only attend weekly services at the local chapel. You gain the Common Lore (Ecclesiarchy) and Survival Skills, along with the Hardy Talent.
 #### **Proven Innocent**
 **Career:** Any
 **Cost:** 200 xp
@@ -163,15 +163,15 @@ This is an offer in name only. Should the innocent refuse, it will be made quite
 ##### **Effects**
 Apply all of the following to your character:
 
-**Against the Odds:** Being accused of heresy by the Imperial Inquisition itself and emerging from the other side unscathed (mostly) is a minor miracle by any means, and if destiny was a quantifiable capital you've expended a good deal of it. You begin play with one less Fate Point than normal (minimum 1).
-**Special Circumstances:** The exacting process of both the inquiry and proving your innocence to the Interrogators tested every aspect of your being, and you were not found wanting. This extraordinary resilience against intense adversity, combined with the training you've received during your induction, has made you a superior specimen to most. Increase all of your Characteristics by +3 and gain 1 Wound.
-**Indulgences:** In light of the "highly unusual" situation which has brought about your service with the Holy Ordos your masters see to it that you do not suffer for lack of mundane amenities. You have a social class level of Mechanicus for determining monthly income (and only for this purpose). If your social class was already equal to or higher than this, calculate your monthly income as if you were three Ranks higher.
+* **Against the Odds:** Being accused of heresy by the Imperial Inquisition itself and emerging from the other side unscathed (mostly) is a minor miracle by any means, and if destiny was a quantifiable capital you've expended a good deal of it. You begin play with one less Fate Point than normal (minimum 1).
+* **Indulgences:** In light of the "highly unusual" situation which has brought about your service with the Holy Ordos your masters see to it that you do not suffer for lack of mundane amenities. You have a social class level of Mechanicus for determining monthly income (and only for this purpose). If your social class was already equal to or higher than this, calculate your monthly income as if you were three Ranks higher.
+* **Special Circumstances:** The exacting process of both the inquiry and proving your innocence to the Interrogators tested every aspect of your being, and you were not found wanting. This extraordinary resilience against intense adversity, combined with the training you've received during your induction, has made you a superior specimen to most. Increase all of your Characteristics by +3 and gain 1 Wound.
 #### **Scrounger**
 **Career:** Any except Soroitas
 **Cost:** 200 xp
-**Requirements:** Hive Homeworld
+**Requirements:** Hive World Home World
 
-Hiveworld living is often a matter of surviving with limited resources. Unless one is a spire noble, adept, or tradesman most make due with whatever woeful job they are assigned, but some decide
+Hive world living is often a matter of surviving with limited resources. Unless one is a spire noble, adept, or tradesman most make due with whatever woeful job they are assigned, but some decide
 to make their own way. From the lofty spires to the decaying underhive there is always a need for food, shelter, and materials, and an informal yet quite sophisticated market exists for all matters of products that are not traded in the regular channels of commerce.
 
 A Scrounger is part opportunist, part thief, and always on the lookout for the next chance to get something he needs. He operates throughout the greater hive cities of the Calixis Sector, from Sibellus to Subrique, finding what others cast off and acquiring it for his own purposes. This could be as easy as rummaging through local refuse tips, or as difficult as fishing rare alloys from molten slag flumes below a foundry. Groups of more-talented scroungers will occasionally make expeditions into the dangerous depths of the underhive, braving collapsing caverns and vicious mutants in search of fabled lost treasures of previous ages. Most searches will be relatively less circuitous, such as bribing a low level functionary for a moment's access to the reclamation stacks.
@@ -181,8 +181,8 @@ with gear and equipment of varying value disappearing during the night. It is he
 ##### **Effects**
 Apply all of the following to your character:
 
-**Skilled Reclaimator:** Your time spent excavating a hive's enormous tips looking for things of value has given you a keen and discerning eye for assessing worth and the mercantile ability to profit from the sweat of your labors. You gain the Barter, Evaluate, Tech-Use, and your choice of Trade (Prospector) or Trade (Merchant) Skills.
-**Purveyor of Procurement:** The network of fences, buyers, and fellow scroungers you have cultivated makes it significantly easier to source any bits and baubles you might be on the hunt for. While you are in a hive or another large settlement you treat items with an Availability of Rare or less as one step lower (to a minimum of Abundant).
+* **Purveyor of Procurement:** The network of fences, buyers, and fellow scroungers you have cultivated makes it significantly easier to source any bits and baubles you might be on the hunt for. While you are in a hive or another large settlement you treat items with an Availability of Rare or less as one step lower (to a minimum of Abundant).
+* **Skilled Reclaimator:** Your time spent excavating a hive's enormous tips looking for things of value has given you a keen and discerning eye for assessing worth and the mercantile ability to profit from the sweat of your labours. You gain the Barter, Evaluate, Tech-Use, and your choice of Trade (Prospector) or Trade (Merchant) Skills.
 #### **Untouchable**
 **Career:** Any except Imperial Psyker
 **Cost:** 400 xp, 600 xp or 800 xp (see below)
@@ -196,13 +196,15 @@ Despite the best efforts of some of the brightest minds in the Imperium, the man
 ##### **Effects**
 Apply all of the following to your character:
 
-**Blank:** Every fibre of your being is completely and utterly incompatible with all matters of psychic effects. Like a flame in an airless chamber, they simply cease to exist when in contact with your person. You may never gain any Psychic Powers, Pure Faith, Sorcery, or any other "supernatural" abilities that the GM deems appropriate.
-**Unsettling Presence:** Although they have a difficult time to describe exactly why, others find your mere presence off putting at best and completely intolerable at worst. Animals with sharp senses and the more intelligent beasts may also try to avoid being near you or display signs of defensive aggression if you approach. Based on the rating of your Untouchable Trait (see **Table: Untouchable Trait Rating** below) you suffer a penalty to all Interaction Skill Tests, and the starting Disposition of all NPCs you encounter may be reduced as well. In addition, your Fellowship Bonus is reduced by the rating of your Untouchable Trait (minimum 1) for the purposes of any Tests or effects that rely on it, such as the number of targets you can affect with a Charm Test. 
-**Warp Anathema:** Your character gains the Untouchable (X) Trait, with a rating of 1, 2, or 3 depending on whether you spent 400 xp, 600 xp, or 800 xp at selection. The higher the rating of your Untouchable Trait the more powerfully you suppress warp energies, but do note that the various social penalties and hindrances become markedly more severe in parallel (see **Table: Untouchable Trait Rating** below). The rating of your Untouchable Trait is inherent to your being—it cannot be trained or otherwise improved later (or reduced for that matter), so choose wisely when you select this Package.
+* **Blank:** Every fibre of your being is completely and utterly incompatible with all matters of psychic effects. Like a flame in an airless chamber, they simply cease to exist when in contact with your person. You may never gain any Psychic Powers, Pure Faith, Sorcery, or any other "supernatural" abilities that the GM deems appropriate.
+* **Unsettling Presence:** Although they have a difficult time to describe exactly why, others find your mere presence offputting at best and completely intolerable at worst. Animals with sharp senses and the more intelligent beasts may also try to avoid being near you or display signs of defensive aggression if you approach. Based on the rating of your Untouchable Trait (see **Table: Untouchable Trait Rating** below) you suffer a penalty to all Interaction Skill Tests, and the starting Disposition of all NPCs you encounter may be reduced as well. In addition, your Fellowship Bonus is reduced by the rating of your Untouchable Trait (minimum 1) for the purposes of any Tests or effects that rely on it, such as the number of targets you can affect with a Charm Test. 
+* **Warp Anathema:** Your character gains the Untouchable (X) Trait, with a rating of 1, 2, or 3 depending on whether you spent 400 xp, 600 xp, or 800 xp at selection. The higher the rating of your Untouchable Trait the more powerfully you suppress warp energies, but do note that the various social penalties and hindrances become markedly more severe in parallel (see **Table: Untouchable Trait Rating** below). The rating of your Untouchable Trait is inherent to your being—it cannot be trained or otherwise improved later (or reduced for that matter), so choose wisely when you select this Package.
 ##### **Trait: Untouchable (X)**
 Untouchables have no presence in the warp and inhibit psychic energy in the immediate area.
 This Trait has different levels of effect. The number in parentheses indicates the Untouchable’s level of power, which is measured on a scale from 1 to 3.
+
 **Psychic Invulnerability:** An Untouchable is completely immune to Psychic Powers and Psychic energy and effects directed against them. This includes special abilities used by creatures with the Daemonic Trait, the Warp Weapon Quality, Possession, Sorcery, Corruption Points from Warp Shock, and so forth. This ability is absolute, meaning it also affects typically beneficial effects, such as allies with the Pure Faith Talent or if the Untouchable were to receive any sort of healing from a Psychic Power. Untouchables cannot be detected by means of the Psyniscience Skill and similar abilities. Powers of this type directed at an Untouchable, even if successfully manifested, simply fail. If an Untouchable is caught in the effect of a Psychic Power, Psychic Phenomena, or Perils of the Warp over an area effect, it simply fails to affect him, although it may affect other people normally (subject to the Psychic Disruption effect, below).
+
 **Psychic Disruption:** All psykers, sorcerers, daemons, and other such entities within a certain radius of the Untouchable reduce their Psy Rating based on the Untouchable Trait's rating (see **Table: Untouchable Trait Rating** below). Lesser psychic entities, such as wyrds and naturally psychic creatures, that do not have a Psy Rating and manifest their powers in other ways are simply unable to do so. In addition, the Threshold of any psychic powers or sorcery increases relative to the Untouchable Trait's rating, and entities subject to Warp Instability suffer double Damage from its effects while within this area.
 
 **Note:** It may still be possible to indirectly affect an Untouchable with a Psychic Power—for example, a heavy object flung through the air using telekinesis could still strike him, and a building set on fire using pyromancy would still burn him as long as the flames were coming from other materials which had already come alight.
@@ -228,8 +230,8 @@ On Sleef, the warp whispers in the thunder of the volcanoes and can change the f
 ##### **Effects**
 Apply all of the following to your character:
 
-**Our Gift To You:** The warp itself has plans for you. None can say what they may be, but your destiny is very likely a dark one. You begin play with one Malignancy and 10+1d10 Corruption Points. In addition, You suffer a –10 penalty on any Test to resist gaining further Corruption Points.
-**Unnatural Assistance:** The long, snakelike fingers of the warp have infiltrated your mind, profoundly altering the way you perceive the world around you. Possessing even a tiny portion of insight as to the gloriously anarchic nature of the warp has rendered you remarkably unflappable, keeping your wits about you when any sane person would flee in terror. You gain the From Beyond Trait.
+* **Our Gift To You:** The warp itself has plans for you. None can say what they may be, but your destiny is very likely a dark one. You begin play with one Malignancy and 10+1d10 Corruption Points. In addition, you suffer a –10 penalty on any Test to resist gaining further Corruption Points in the future.
+* **Unnatural Assistance:** The long, snakelike fingers of the warp have infiltrated your mind, profoundly altering the way you perceive the world around you. Possessing even a tiny portion of insight as to the gloriously anarchic nature of the warp has rendered you remarkably unflappable, keeping your wits about you when any sane person would flee in terror. You gain the From Beyond Trait.
 ##### **Trait: From Beyond**
 The mind of a creature with this Trait is beyond the petty frailties and precarious sanity of a mortal mind. It is immune to Fear, Pinning, Insanity Points, and Psychic Powers used to cloud, control, or delude its mind.
 #### **Wyrd**
@@ -244,14 +246,14 @@ Only a Radical Inquisitor would consider knowingly taking a wyrd into his retinu
 ##### **Effects**
 Apply all of the following to your character:
 
-**Caress of Chaos:** The strange and ephemeral gift of your birth came with the faintest touch of Chaos almost imperceptibly seeding itself in your soul. You begin play with 1d5 Corruption Points.
-**Wyrdling:** Your psychic abilities are limited but you know them innately. You have a single Minor Psychic Power that is randomly generated at the point of character creation. You have no Psy Rating—instead, roll 1d10 and add your Willpower Bonus to see if you can manifest the power. If you generate Psychic Phenomena by rolling a 9 on the Power Roll you may re-roll it, but the results of the re-roll are final. As a wyrd you will not gain any additional Psychic Powers, but circumstances may cause you to metamorphose into a nascent psyker, and the darkly tempting mysteries of sorcery might make themselves known to you in time. Regardless of the nature of your power, you are still considered a psyker for the purposes of rules that pertain to psykers, such as the Hatred Talent or the effects of taking a dose of spook.
+* **Caress of Chaos:** The strange and ephemeral gift of your birth came with the faintest touch of of the warp almost imperceptibly seeding itself in your soul. You begin play with 1d5 Corruption Points.
+* **Wyrdling:** Your psychic abilities are limited but you know them innately. You have a single Minor Psychic Power that is randomly generated at the point of character creation. You have no Psy Rating—instead, roll 1d10 and add your Willpower Bonus to see if you can manifest the power. If you generate Psychic Phenomena by rolling a 9 on the Power Roll you may re-roll it, but the results of the re-roll are final. As a wyrd you will not gain any additional Psychic Powers, but circumstances may cause you to metamorphose into a nascent psyker, and the darkly tempting mysteries of sorcery might make themselves known to you in time. Regardless of the nature of your power, you are still considered a psyker for the purposes of rules that pertain to psykers, such as the Hatred Talent or the effects of taking a dose of spook.
 ## **Adepts: Knowledge is Power**
 The following Background Packages are intended for use with Adepts.
 #### **Kasballica Noble**
 **Career:** Adept, Assassin or Scum
 **Cost:** 400 xp
-**Requirements:** Hive or Imperial Home World
+**Requirements:** Hive or Imperial World Home World
 
 The Kasballica crime barons of the Drusus Marches have agents across the Calixis Sector and even within the Koronus Expanse. The combination of ruthless cunning and sheer audacity with which many of these men conduct "business" can rocket the unscrupulous to positions of power well above their station. These "Low Dukes" (as they are mockingly called in Hive Sibellus) are often considered little more than con men and crooks whose influence allows them to rub elbows with the true nobles whose titles are theirs by birth.
 
@@ -261,9 +263,9 @@ If an outed Kasballica noble appears to be "redeemable", an Inquisitor or Judge 
 ##### **Effects**
 Apply all of the following to your character:
 
-**Brothers in Trade:** Many of your prior "associates" are still out and about in the less legal precincts of society, and as long as you don't reveal the nature of your new masters they could be called upon to assist your endeavours. You gain the Peer (Underworld) Talent.
-**Do You Know Who I Am?:** Although you're no longer a member of the Kasballica the techniques of manipulation and subtly implied threats you picked up are still sharp tools in your kit. You gain the Blather and Intimidate Skills, and any Intimidate Tests targeting you or a group you're a member of suffer a -10 penalty.
-**Shady Income:** Some of your criminal enterprises continue to run on their own even as you've turned, or been forced to turn, most of your energies to more important tasks. In addition to the normal monthly income you gain from your career's Social Class, your various schemes and rackets generate another income stream each month using the following chart. Roll 1d10 and add the indicated earnings to any other income you are entitled to.
+* **Brothers in Trade:** Many of your prior "associates" are still out and about in the less legal precincts of society, and as long as you don't reveal the nature of your new masters they could be called upon to assist your endeavours. You gain the Peer (Underworld) Talent.
+* **Do You Know Who I Am?:** Although you're no longer a member of the Kasballica the techniques of manipulation and subtly implied threats you picked up are still sharp tools in your kit. You gain the Blather and Intimidate Skills, and any Intimidate Tests targeting you or a group you're a member of suffer a -10 penalty.
+* **Shady Income:** Some of your criminal enterprises continue to run on their own even as you've turned, or been forced to turn, most of your energies to more important tasks. In addition to the normal monthly income you gain from your career's Social Class, your various schemes and rackets generate another income stream each month using the following chart. Roll 1d10 and add the indicated earnings to any other income you are entitled to.
 ##### **Table: Kasballica Noble Income**
 
 | D10 | Result         | Earnings  |
@@ -279,12 +281,12 @@ Apply all of the following to your character:
 
 The Departmento Munitorium is a vast and unforgiving organisation with the unending task of keeping the Imperium's innumerable armed forces supplied with everything from voidship plasma cores to bootlaces and bullets. This, as can be imagined, requires a great deal of unimaginably complex logistical effort and administration. The role of the quastor in this is one of unblinking oversight and ruthless control, spending long hours auditing records for errors, graft, and misappropriation. Such individuals must also see that harsh discipline and work quotas are rigidly enforced, and remain vigilant for signs of rebellion or malcontent. Regularly targeted by criminals and even cultists who seek to plunder arms and equipment, not to mention by the vengeance of aggrieved labourers and prisoners, quastors have a justified reputation as being dour, humourless and a justly paranoid lot.
 
-The quastor's life is neither safe nor pleasant, but the attention to detail and arbitrary judgement it engenders are of obvious use in a servant of the Holy Ordos. Just as a virtue of the proclivities of their work, the quastor also tends to be of a more hardened sort that a rank-and-file adept of the Administratum or a commercia guild. Any quastor inducted into the ranks of the Inquisition is likely to find they have simply swapped one set of familiar dangers for far larger and even more terrible perils.
+The quastor's life is neither safe nor pleasant, but the attention to detail and arbitrary judgement it engenders are of obvious use in a servant of the Holy Ordos. Just as a virtue of the proclivities of their work, the quastor also tends to be of a more hardened sort than a rank-and-file adept of the Administratum or a commercia guild. Any quastor inducted into the ranks of the Inquisition is likely to find they have simply swapped one set of familiar dangers for far larger and even more terrible perils.
 ##### **Effects** 
 Apply all of the following to your character:
 
-**I'll Let Myself In:** While your schola mates in the Administratum would be perfectly content to file a demand form and wait for a response through the proper channels, your know perfectly well that your work for the Imperium's ongoing war efforts is far too exigent for such frivolities. When the manufactorum producing wheels for Leman Russ battle tanks falls behind schedule, you get to the root of the problem personally. You gain Command, Common Lore (Imperial Guard), Inquiry, Search, and Security as starting Skills.
-**Worn and Weary:** The work of most adepts is thankless already, but the quastor's lot is an especially grinding one. You have endured more excuses, deception, and sophistry than most, leaving you with a profoundly sour attitude and less than no patience for duplicity. Despised by nearly all that you regularly associate with, the endless skulduggery and entirely necessary fastidiousness has taken more than a little from the health of your mind. Reduce your starting Willpower and Fellowship each by –5, and gain the Paranoia Talent.
+* **I'll Let Myself In:** While your schola mates in the Administratum would be perfectly content to file a demand form and wait for a response through the proper channels, your know perfectly well that your work for the Imperium's ongoing war efforts is far too exigent for such frivolities. When the manufactorum producing wheels for Leman Russ battle tanks falls behind schedule, you get to the root of the problem personally. You gain Command, Common Lore (Imperial Guard), Inquiry, Search, and Security as starting Skills.
+* **Worn and Weary:** The work of most adepts is thankless already, but the quastor's lot is an especially grinding one. You have endured more excuses, deception, and sophistry than most, leaving you with a profoundly sour attitude and less than no patience for duplicity. Despised by nearly all that you regularly associate with, the endless skulduggery and entirely necessary fastidiousness has taken more than a little from the health of your mind. Reduce your starting Willpower and Fellowship each by –5, and gain the Paranoia Talent.
 #### **Scholar of the Colleges Hetaireia Lexis**
 **Cost:** 100 xp
 **Requirements:** Imperial World Homeworld or Noble Origin.
@@ -295,8 +297,8 @@ Many Puritan Inquisitors regard the Hetaireia as a breeding ground for dangerous
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Book Learning:** A true scholar by both name and deed, you have spent much time in research and academic debate—perhaps to the detriment of skills better suited for "wet work" tasks. Increase your Intelligence by +3 but reduce your Weapon Skill and Strength each by –5. You begin play with any one Forbidden Lore and Scholastic Lore Skills of your choice.
-**Hermetic Fraternity:** The Colleges Hetaireia is an insular organisation and for good reason. Despite its legal remit, the Hetaireia has no shortage of enemies in high places, and its scholars would do well to keep that in mind when travelling outside its walls. After all, a formal censure and rebuke can't un-servitorise you. You begin play with the Ciphers (Secret Society—Hetaireia) Skill and the Peer (Academic) Talent.
+* **Book Learning:** A true scholar by both name and deed, you have spent much time in research and academic debate—perhaps to the detriment of skills better suited for "wet work" tasks. Increase your Intelligence by +3 but reduce your Weapon Skill and Strength each by –5. You begin play with any one Forbidden Lore and Scholastic Lore Skills of your choice.
+* **Hermetic Fraternity:** The Colleges Hetaireia is an insular organisation and for good reason. Despite its legal remit, the Hetaireia has no shortage of enemies in high places, and its scholars would do well to keep that in mind when travelling outside its walls. After all, a formal censure and rebuke can't un-servitorise you. You begin play with the Ciphers (Secret Society—Hetaireia) Skill and the Peer (Academic) Talent.
 #### **Thy Name I Keep**
 **Cost:** 400 xp
 
@@ -307,9 +309,9 @@ who follow a particularly Radical philosophy, such talented individuals may find
 ##### **Effects**
 Apply all of the following to your character:
 
-**Darkness Visible:** Despite your best efforts the perfidious nature of the warp has insidiously infiltrated your studies and begun to sink its tendrils into your soul. Perhaps the daemon could enlighten you to better ways of protecting yourself from its corrosive influences... you begin play with 1d5+5 Corruption Points and 1d10 Insanity Points.
-**Know Thy Foe:** Attempting to control a daemon, even from a "safe" distance such as this, would spell certain damnation without extensive preparation and study. You have immersed yourself in all matters of proscribed manuscripts and risked denouncement and charges of heresy to arm yourself with as much knowledge as possible to keep the daemon under your thumb. You gain the Forbidden Lore (Daemonology) Skill as well as the Talented (Forbidden Lore (Daemonology)) and Resistance (Psychic Powers) Talents.
-**Power of the Daemon:** You have the effects of one boon of a Dark Pact. You may also attempt to call into your presence the daemon of which you know a fragment of its name. This works in exactly the same way as Invoking the Daemon.
+* **Darkness Visible:** Despite your best efforts the perfidious nature of the warp has insidiously infiltrated your studies and begun to sink its tendrils into your soul. Perhaps the daemon could enlighten you to better ways of protecting yourself from its corrosive influences... you begin play with 1d5+5 Corruption Points and 1d10 Insanity Points.
+* **Know Thy Foe:** Attempting to control a daemon, even from a "safe" distance such as this, would spell certain damnation without extensive preparation and study. You have immersed yourself in all matters of proscribed manuscripts and risked denouncement and charges of heresy to arm yourself with as much knowledge as possible to keep the daemon under your thumb. You gain the Forbidden Lore (Daemonology) Skill as well as the Talented (Forbidden Lore (Daemonology)) and Resistance (Psychic Powers) Talents.
+* **Power of the Daemon:** You have the effects of one boon of a Dark Pact. You may also attempt to call into your presence the daemon of which you know a fragment of its name. This works in exactly the same way as Invoking the Daemon.
 #### **Void Commercia**
 **Cost:** 200 xp
 **Requirements:** Void Born Origin
@@ -326,10 +328,8 @@ Only a profound fool would reject the demands of an Inquisitor, but there are ma
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Rhetorician:** Your greatest weapon is a sharp tongue, quick wit, and the esoteric knowledge behind them to trap your enemies with their own words and deeds. Consequently, you'd prefer to leave the use of actual weapons to your more rough and ready fellows. Increase your Intelligence and Fellowship by +3 but reduce your Weapon Skill and Toughness each by –5.
-**Juris Scholar:** When it comes to matters of trade your grasp of the controlling regulations, guild bylaws, and impost obligations is vast, and you aren't afraid to verbally bludgeon anyone who tries to twist those against you either. You gain the Barter, Blather, Charm, Common Lore (Imperium), Common Lore (Mercantile), Evaluate, Scrutiny, and Secret Tongue (Trading—Pick One) Skills. Selecting a Secret Tongue should be relevant to your prior tenure before joining the Inquisition, for example Goldentongue for gelt-brokers at the Goldenhand of Hive Tarsus, or Cordcordia for the thrallmasters of the DeVayne Incorporation. 
-
-**Skills:** You gain Barter (Fel), Charm (Fel), Common Lore (Imperium) (Int), Common Lore (Mercantile) (Int), Evaluate (Int), Scrutiny (Per), and Secret Tongue (your former master's organisation† ) (Int) as starting Skills.
+* **Juris Scholar:** When it comes to matters of trade your grasp of the controlling regulations, guild bylaws, and impost obligations is vast, and you aren't afraid to verbally bludgeon anyone who tries to twist those against you either. You gain the Barter, Blather, Charm, Common Lore (Imperium), Common Lore (Mercantile), Evaluate, Scrutiny, and Secret Tongue (Trading—Pick One) Skills. Selecting a Secret Tongue should be relevant to your prior tenure before joining the Inquisition, for example Goldentongue for gelt-brokers at the Goldenhand of Hive Tarsus, or Cordcordia for the thrallmasters of the DeVayne Incorporation. 
+* **Rhetorician:** Your greatest weapon is a sharp tongue, quick wit, and the esoteric knowledge behind them to trap your enemies with their own words and deeds. Consequently, you'd prefer to leave the use of actual weapons to your more rough and ready fellows. Increase your Intelligence and Fellowship by +3 but reduce your Weapon Skill and Toughness each by –5.
 ## **Arbitrators: Case File Access Denied**
 The following Background Packages are intended for use with Arbitrators.
 #### **Assignment: The Calixian Pattern Killings**
@@ -343,8 +343,8 @@ When the Lord Sector Quintus Hax himself fell victim to such a killing the patte
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Dragnet:** Going door to door and street by street after the latest victim is discovered is the only chance of getting a new lead on whoever, or whatever, is responsible for the Killings. You gain the Interrogation Skill and the Talented (Inquiry) Talent.
-**Not On My Watch:** The utterly confounding nature of the Killings could drive a man mad who lacks the critical mental edge to keep things in perspective and within their grasp. Your acumen is a cut above other troopers, which is why the Marshal put you on the case in the first place. Increase either your Intelligence or Perception by +5, or both by +3.
+* **Dragnet:** Going door to door and street by street after the latest victim is discovered is the only chance of getting a new lead on whoever, or whatever, is responsible for the Killings. You gain the Interrogation Skill and the Talented (Inquiry) Talent.
+* **Not On My Watch:** The utterly confounding nature of the Killings could drive a man mad who lacks the critical mental edge to keep things in perspective and within their grasp. Your acumen is a cut above other troopers, which is why the Marshal put you on the case in the first place. Increase either your Intelligence or Perception by +5, or both by +3.
 #### **Assignment: The Empty Men of Sinophia Magna**
 **Cost:** 100 xp
 
@@ -356,8 +356,8 @@ Some of the loyal Arbitrators who purged the Logicians' lair were utterly ruined
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Hammer of Hereteks:** After what you've seen on Sinophia you are completely convinced that your fellow man is capable of atrocities far beyond even those of xenos and daemons. Your will to utterly destroy those who would use technology to turn men into monsters is stronger than the ferrocrete walls of your preinct-fort. Increase your Willpower by +3, and you gain the Hatred (Tech Heretics) and Paranoia Talents.
-**What Has Been Seen...:** Some horrors are beyond human comprehension, and the fact that these heinous acts were committed by men somehow makes it all the worse. You gain the Jaded Talent and 1d10+5 Insanity Points.
+* **Hammer of Hereteks:** After what you've seen on Sinophia you are completely convinced that your fellow man is capable of atrocities far beyond even those of xenos and daemons. Your will to utterly destroy those who would use technology to turn men into monsters is stronger than the ferrocrete walls of your preinct-fort. Increase your Willpower by +3, and you gain the Hatred (Tech Heretics) and Paranoia Talents.
+* **What Has Been Seen...:** Some horrors are beyond human comprehension, and the fact that these heinous acts were committed by men somehow makes it all the worse. You gain the Jaded Talent and 1d10+5 Insanity Points.
 #### **Justice, Not Law**
 **Cost:** 200 xp
 
@@ -373,7 +373,7 @@ This very subjective interpretation of law, along with the strongly outcome-orie
 ##### **Effects**
 Apply all of the following to your character:
 
-**I'll Get My Hands Dirty:** Associating with "colourful" characters and developing leads from gutter-dwelling filth holds no contempt from you, as long as those lowlifes help you get your man. Some of your more straight-laced fellows in the Arbites take a dim view of your willingness to cooperate with such unsavoury types, though. You gain the Deceive, Disguise, and Intimidate Skills, as well as the Peer (Underworld) Talent. However, due to your reputation you also suffer a –10 penalty on all Interaction Tests with any Arbitrators or enforcers who have a strongly legalistic philosophy.
+* **I'll Get My Hands Dirty:** Associating with "colourful" characters and developing leads from gutter-dwelling filth holds no contempt from you, as long as those lowlifes help you get your man. Some of your more straight-laced fellows in the Arbites take a dim view of your willingness to cooperate with such unsavoury types, though. You gain the Deceive, Disguise, and Intimidate Skills, as well as the Peer (Underworld) Talent. However, due to your reputation you also suffer a –10 penalty on all Interaction Tests with any Arbitrators or enforcers who have a strongly legalistic philosophy.
 ## **Assassins: Societies of Murder**
 The following Background Packages are intended for use with Assassins.
 #### **The Astral Knives**
@@ -391,13 +391,12 @@ For an organisation which has specifically fallen under denouncement by the Inqu
 **Effects** 
 Apply all of the following to your character:
 
-**Death Cultist:** The Astral Knives take lives in subtle, unobtrusive ways so as to mask the role they play aboard the voidships in which the Order has a presence. If others among the crew or passengers were to discover the mishap that befell one of them was a deliberate act the protective value of the sacrifice would be lost. You gain the Ciphers (Secret Society—Astral Knives) and Deceive Skills, and you may also treat Forbidden Lore (Warp) and Tech Use as Basic Skills. Your prior murders earn you 1d5 Corruption Points.
-
-**Haemological Augury:** According to the masters of your Order spilling the blood of an undesirable can spare a ship from the cruel and capricious whims of the void. Indeed, you have found that taking a life can grant you a sliver of insight into what the future may hold and how to best navigate impending trouble. Each time you kill another character you may use the Foresight Talent once that day as if you possessed it. If the victim had no idea they were about to be killed, as is the way of the Astral Knives, you may apply the benefits of Foresight to any Test, not just Intelligence-based ones.
+* **Death Cultist:** The Astral Knives take lives in subtle, unobtrusive ways so as to mask the role they play aboard the voidships in which the Order has a presence. If others among the crew or passengers were to discover the mishap that befell one of them was a deliberate act the protective value of the sacrifice would be lost. You gain the Ciphers (Secret Society—Astral Knives) and Deceive Skills, and you may also treat Forbidden Lore (Warp) and Tech Use as Basic Skills. Your prior murders earn you 1d5 Corruption Points.
+* **Haemological Augury:** According to the masters of your Order spilling the blood of an undesirable can spare a ship from the cruel and capricious whims of the void. Indeed, you have found that taking a life can grant you a sliver of insight into what the future may hold and how to best navigate impending trouble. Each time you kill another character you may use the Foresight Talent once that day as if you possessed it. If the victim had no idea they were about to be killed, as is the way of the Astral Knives, you may apply the benefits of Foresight to any Test, not just Intelligence-based ones.
 #### **Kasballica Noble**
 **Career:** Adept, Assassin or Scum
 **Cost:** 400 xp
-**Requirements:** Hive or Imperial Home World
+**Requirements:** Hive World or Imperial World Home World
 
 The Kasballica crime barons of the Drusus Marches have agents across the Calixis Sector and even within the Koronus Expanse. The combination of ruthless cunning and sheer audacity with which many of these men conduct "business" can rocket the unscrupulous to positions of power well above their station. These "Low Dukes" (as they are mockingly called in Hive Sibellus) are often considered little more than con men and crooks whose influence allows them to rub elbows with the true nobles whose titles are theirs by birth.
 
@@ -407,9 +406,9 @@ If an outed Kasballica noble appears to be "redeemable", an Inquisitor or Judge 
 ##### **Effects**
 Apply all of the following to your character:
 
-**Brothers in Trade:** Many of your prior "associates" are still out and about in the less legal precincts of society, and as long as you don't reveal the nature of your new masters they could be called upon to assist your endeavours. You gain the Peer (Underworld) Talent.
-**Do You Know Who I Am?:** Although you're no longer a member of the Kasballica the techniques of manipulation and subtly implied threats you picked up are still sharp tools in your kit. You gain the Blather and Intimidate Skills, and any Intimidate Tests targeting you or a group you're a member of suffer a -10 penalty.
-**Shady Income:** Some of your criminal enterprises continue to run on their own even as you've turned, or been forced to turn, most of your energies to more important tasks. In addition to the normal monthly income you gain from your career's Social Class, your various schemes and rackets generate another income stream each month using the following chart. Roll 1d10 and add the indicated earnings to any other income you are entitled to.
+* **Brothers in Trade:** Many of your prior "associates" are still out and about in the less legal precincts of society, and as long as you don't reveal the nature of your new masters they could be called upon to assist your endeavours. You gain the Peer (Underworld) Talent.
+* **Do You Know Who I Am?:** Although you're no longer a member of the Kasballica the techniques of manipulation and subtly implied threats you picked up are still sharp tools in your kit. You gain the Blather and Intimidate Skills, and any Intimidate Tests targeting you or a group you're a member of suffer a -10 penalty.
+* **Shady Income:** Some of your criminal enterprises continue to run on their own even as you've turned, or been forced to turn, most of your energies to more important tasks. In addition to the normal monthly income you gain from your career's Social Class, your various schemes and rackets generate another income stream each month using the following chart. Roll 1d10 and add the indicated earnings to any other income you are entitled to.
 ##### **Table: Kasballica Noble Income**
 
 | D10 | Result         | Earnings  |
@@ -431,12 +430,11 @@ In organisation, the Moritat is supremely difficult to infiltrate or pin down, o
 The existence of the Moritat is something of an open secret in the hierarchy of the Calixian noble houses and the Adepta, although facts about them are scarce and often contradictory in the extreme. The cult's existence also seems to benefit from some measure of toleration by the Imperium's higher powers, and indeed, this cult is acknowledged by the Calixian Sector Synod of the Ecclesiarchy as legitimate. The fact that they also operate with a sort of informal approval of the Inquisition should not be overlooked, and many Inquisitors regard Moritat Assassins as invaluable resources, faithful killing machines that can be unleashed on the foes of mankind. 
 
 For a Moritat Assassin, the chance to serve the Inquisition is a blessed thing—dealing death to the God-Emperor's enemies first hand and also a proving ground where they can test their skills against the most dire and powerful opposition imaginable. It is rumoured that the Moritat's grandmaster, thought to reside somewhere on Scintilla, was one such Throne Agent who has been released from his service to the Inquisition in order to help foster new wielders of the Bloody Edge.
-
-**Effects** 
+##### **Effects** 
 Apply all of the following to your character:
 
-**Death Cultist:** Your training has made you exceptionally skilled at killing quietly, which you feel compelled to do as a matter of religious obligation. Your proficiency with a blade is almost peerless—your sociability, not so much. You gain the Climb, Secret Tongue (Moritat), Shadowing, and Silent Move Skills, as well as the Jaded Talent, but reduce your Fellowship by 10 (minimum 1). In addition, you gain 1d5+3 Insanity Points.
-**The Bloody Edge:** The Moritat severely disdain many modern weapons as crude and spiritually unfulfilling, preferring instead the sacred edge of the blade. As a Moritat you must pass a **Hard (–20) Willpower Test** to use any weapon lacking an "edge" in combat (thrown blades, knives and arrows are fine) unless you obviously have no chance of harming your enemy otherwise. However, such is your deadly artistry at bloodletting, any edged weapon in your hand counts as having the Tearing quality when used against living targets.
+* **Death Cultist:** Your training has made you exceptionally skilled at killing quietly, which you feel compelled to do as a matter of religious obligation. Your proficiency with a blade is almost peerless—your sociability, not so much. You gain the Climb, Secret Tongue (Moritat), Shadowing, and Silent Move Skills, as well as the Jaded Talent, but reduce your Fellowship by 10 (minimum 1). In addition, you gain 1d5+3 Insanity Points.
+* **The Bloody Edge:** The Moritat severely disdain many modern weapons as crude and spiritually unfulfilling, preferring instead the sacred edge of the blade. As a Moritat you must pass a **Hard (–20) Willpower Test** to use any weapon lacking an "edge" in combat (thrown blades, knives and arrows are fine) unless you obviously have no chance of harming your enemy otherwise. However, such is your deadly artistry at bloodletting, any edged weapon in your hand counts as having the Tearing quality when used against living targets.
 
 **Special:** Replace your normal starting equipment with the following: mono-edged sword, six throwing knives, crossbow pistol and twenty bolts, grapnel and line, equipment harness, 3 doses of stimm, and a hardened body glove (3 Armour Points to the Arms, Legs and Body).'
 
@@ -451,8 +449,8 @@ For all their spittle-throwing ravings, pyromania, and complete lack of subtlety
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Fanatic:** The Redemption is constantly on your mind, for sinners, mutants and heretics lurk all around you, desperate for your cleansing flame. Others just find you twitchy and easily moved to anger. Reduce your starting Fellowship by –5, and you gain the Interrogation and Intimidate Skills, along with 1d5 Insanity Points.
-**Scourge and Purge!**: Your hatred for the unclean strengthens your will against things that would send lesser men running in panic. You gain the Basic Weapon Training (Flame), Melee Weapon Training (Chain) and Unshakeable Faith Talents.
+* **Fanatic:** The Redemption is constantly on your mind, for sinners, mutants and heretics lurk all around you, desperate for your cleansing flame. Others just find you twitchy and easily moved to anger. Reduce your starting Fellowship by –5, and you gain the Interrogation and Intimidate Skills, along with 1d5 Insanity Points.
+* **Scourge and Purge!**: Your hatred for the unclean strengthens your will against things that would send lesser men running in panic. You gain the Basic Weapon Training (Flame), Melee Weapon Training (Chain) and Unshakeable Faith Talents.
 
 **Note:** A Redemptionist Alternate Rank is also available for characters who have fully dedicated themselves to the Cult of Redemption.
 ### **The Sons of Dispater**
@@ -470,8 +468,8 @@ While any Son would happily offer a contract to an Inquisitor, few if any would 
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Consummate Professional:** You have carefully honed the skills of your murderous trade to let you get close to your target, take them swiftly, and get out again just as smoothly. Increase your Weapon Skill or Ballistic Skill by +5 (your choice), and you gain the Common Lore (Underworld), Disguise, Intimidate, Security, and Shadowing Skills.
-**Marked for Death:** The first thing you learn as a Son of Dispater is that the contract is sacred and never to be broken under any circumstances. The consequences for such an act of betrayal are steep. Should you ever reneg on a contract and the Sons learn of your failure (which they almost certainly will if you do not cover your tracks carefully) you will be declared excommunicato and have a death mark placed upon you for other Sons to collect. This applies even if you betrayed your contract at the Inquisition's behest, although your master is unlikely to make such a suicidal demand unless he was already trying to be rid of you.
+* **Consummate Professional:** You have carefully honed the skills of your murderous trade to let you get close to your target, take them swiftly, and get out again just as smoothly. Increase your Weapon Skill or Ballistic Skill by +5 (your choice), and you gain the Common Lore (Underworld), Disguise, Intimidate, Security, and Shadowing Skills.
+* **Marked for Death:** The first thing you learn as a Son of Dispater is that the contract is sacred and never to be broken under any circumstances. The consequences for such an act of betrayal are steep. Should you ever reneg on a contract and the Sons learn of your failure (which they almost certainly will if you do not cover your tracks carefully) you will be declared excommunicato and have a death mark placed upon you for other Sons to collect. This applies even if you betrayed your contract at the Inquisition's behest, although your master is unlikely to make such a suicidal demand unless he was already trying to be rid of you.
 ## **Clerics: Defenders of the Faith**
 The following Background Packages are intended for use with Clerics.
 #### **Blessed Birth**
@@ -485,7 +483,8 @@ On individual worlds, other, more bizarre dates might be celebrated, such as Sai
 According to the dictates of the local belief system, a handful of children born on one of these holy days are often marked for an auspicious future. They may be deemed to have the attributes of the Saint whose day marks their birth, or they may represent some feature of the Holy Day’s underlying message. Such children are often named after the Saint who shares their day. Whatever the specifics of the individual’s personal holy day, they are marked by the faith of their world in some indefinable way. More often than not the Ecclesiarchy will do its best to bring such august youths into the cloth, as the rare conjunction of their birth and the portents thereof already makes for natural faith leaders.
 ##### **Effects**
 Apply all of the following to your character:
-**A Bold Destiny:** You can almost feel the God-Emperor's smiling visage at your back—He has plans for you. You begin play with 1 additional Fate Point, up to a maximum of 3. Should you already have 3 Fate Points during character creation you may "save" this Fate Point for later. The first time your total Fate is reduced to 2 Points or less you may spend another 100 xp in ritual purification and the renewing of your vows to serve the Master of Mankind, after which you may add this Fate Point back to your total.
+
+* **A Bold Destiny:** You can almost feel the God-Emperor's smiling visage at your back—He has plans for you. You begin play with 1 additional Fate Point, up to a maximum of 3. Should you already have 3 Fate Points during character creation you may "save" this Fate Point for later. The first time your total Fate is reduced to 2 Points or less you may spend another 100 xp in ritual purification and the renewing of your vows to serve the Master of Mankind, after which you may add this Fate Point back to your total.
 #### **The Great Chantries of Tarsus**
 **Cost:** 200 xp
 **Requirements:** May not have Feral World or Forge World Home World, or Void Born or Mind-Cleansed Origin
@@ -498,8 +497,8 @@ A cleric trained in a Tarsus chantry is likely to be more politically-minded tha
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Chantry Priest:** Years spent in the rarefied halls of your chantry with some of the finest religious tutelage in all of Calixis has given you a refined and erudite bearing with good social graces, but you've also come to believe that "hands-on" work in persecuting the enemies of mankind is for other priests. Increase your Intelligence and Fellowship Characteristics by +5 each and reduce your Weapon Skill, Ballistic Skill, and Strength Characteristics by –5 as well. You begin play with the Charm, Common Lore (Ecclesiarchy), Scrutiny (Per), and Speak Language (High Gothic) Skills.
-**Tarsine Alumni:** Aside from religious instruction you also had ample time to engage in congress and debate with many elites and august individuals of the Calixian Synod—a great opportunity to make valuable social connections and ingratiate yourself to your betters. You gain the Peer (Ecclesiarchy) Talent.
+* **Chantry Priest:** Years spent in the rarefied halls of your chantry with some of the finest religious tutelage in all of Calixis has given you a refined and erudite bearing with good social graces, but you've also come to believe that "hands-on" work in persecuting the enemies of mankind is for other priests. Increase your Intelligence and Fellowship Characteristics by +5 each and reduce your Weapon Skill, Ballistic Skill, and Strength Characteristics by –5 as well. You begin play with the Charm, Common Lore (Ecclesiarchy), Scrutiny (Per), and Speak Language (High Gothic) Skills.
+* **Tarsine Alumni:** Aside from religious instruction you also had ample time to engage in congress and debate with many elites and august individuals of the Calixian Synod—a great opportunity to make valuable social connections and ingratiate yourself to your betters. You gain the Peer (Ecclesiarchy) Talent.
 #### **Heretical Sect**
 **Cost:** 200 xp
 
@@ -512,7 +511,8 @@ The clandestine recusants of a heretical sect often immerse themselves in resear
 Once in a while, the existence of a recusant priest comes to the attention of the Inquisition. Those of a more Puritanical persuasion might consider handing the unfortunate soul over to their masters for punishment, but an individual who is capable enough to have evaded detection (so far) could be quite a valuable addition to an Inquisitor's retinue—assuming, of course, the actual nature of the recusant's heretical sect does not offend the Inquisitor's own sensibilities. In exchange for being allowed to pray their own conscience in peace, the recusant priest can bring their well-honed skill at dissembling, knowledge of cults, and how they evade detection to bear on his new master's quarries.
 ##### **Effects**
 Apply all of the following to your character:
-**Recusant:** Despite maintaining a facade of orthodoxy you have continued to practice the tenets of your heretical sect of the Imperial Creed in secret. This requires no shortage of deception on your part. As a heretic yourself, you have gained considerable knowledge and insight on the ways of those who defy the Imperium's laws—both of other heresies of interpretation as well as those of the "capital 'H'" variety. You gain the Deceive, Forbidden Lore (Cults) and Forbidden Lore (Heresy) Skills.
+
+* **Recusant:** Despite maintaining a facade of orthodoxy you have continued to practice the tenets of your heretical sect of the Imperial Creed in secret. This requires no shortage of deception on your part. As a heretic yourself, you have gained considerable knowledge and insight on the ways of those who defy the Imperium's laws—both of other heresies of interpretation as well as those of the "capital 'H'" variety. You gain the Deceive, Forbidden Lore (Cults) and Forbidden Lore (Heresy) Skills.
 ### **Mendicantine Missionary**
 **Package Cost:** 200 xp
 
@@ -524,9 +524,9 @@ The Mendicantine's staunch independence, world-wise and practical bearing, and s
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Preacher of the People:** You disdain the pompous trappings of the grand churches and cathedrals, preferring to spend your time amongst those most in need of religious guidance. Your travels have taken you far and wide, giving you a broader view of the Emperor's domains than most, and you have cultivated a charismatic and accommodating demeanour despite all the hardships along the way. Increase your Toughness and Fellowship Characteristics by +5, and you gain the Common Lore (Imperium), Navigation (Surface), Scholastic Lore (Legends) and Survival Skills.
-**Scorned Itinerant:** For all the good you've done in keeping the most deprived and forgotten souls in the God-Emperor's good graces the bulk of the Ecclesiarchy's preachers and prelates simply do not care for your heterodox ways and ragamuffin looks. You begin play with the Rival (Ecclesiarchy) Talent.
-**Vow of Charity:** The expense and sanctimony of frivolities like billow robes and rose-scattering cherubs offend your sensibilities—surely the expense of such aggrandising displays would be better spent on directly aiding those in spiritual poverty. You freely dispense the coin and scrip your fellows in the Ecclesiarchy would normally amass, keeping only a modest amount for your own needs. Your generous giving causes you to have a social class of Outcast for determining monthly income, and you generate starting gear and wealth as though you were a Scum. The Mendicantine Fraters will ensure you at least have a missionary shrine to your name, of course.
+* **Preacher of the People:** You disdain the pompous trappings of the grand churches and cathedrals, preferring to spend your time amongst those most in need of religious guidance. Your travels have taken you far and wide, giving you a broader view of the Emperor's domains than most, and you have cultivated a charismatic and accommodating demeanour despite all the hardships along the way. Increase your Toughness and Fellowship Characteristics by +5, and you gain the Common Lore (Imperium), Navigation (Surface), Scholastic Lore (Legends) and Survival Skills.
+* **Scorned Itinerant:** For all the good you've done in keeping the most deprived and forgotten souls in the God-Emperor's good graces the bulk of the Ecclesiarchy's preachers and prelates simply do not care for your heterodox ways and ragamuffin looks. You begin play with the Rival (Ecclesiarchy) Talent.
+* **Vow of Charity:** The expense and sanctimony of frivolities like billow robes and rose-scattering cherubs offend your sensibilities—surely the expense of such aggrandising displays would be better spent on directly aiding those in spiritual poverty. You freely dispense the coin and scrip your fellows in the Ecclesiarchy would normally amass, keeping only a modest amount for your own needs. Your generous giving causes you to have a social class of Outcast for determining monthly income, and you generate starting gear and wealth as though you were a Scum. The Mendicantine Fraters will ensure you at least have a missionary shrine to your name, of course.
 ### **Redemptionist Firebrand**
 **Career:** Assassin or Cleric
 **Cost:** 200 xp
@@ -537,8 +537,8 @@ For all their spittle-throwing ravings, pyromania, and complete lack of subtlety
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Fanatic:** The Redemption is constantly on your mind, for sinners, mutants and heretics lurk all around you, desperate for your cleansing flame. Others just find you twitchy and easily moved to anger. Reduce your starting Fellowship by –5, and you gain the Interrogation and Intimidate Skills, along with 1d5 Insanity Points.
-**Scourge and Purge!**: Your hatred for the unclean strengthens your will against things that would send lesser men running in panic. You gain the Basic Weapon Training (Flame), Melee Weapon Training (Chain) and Unshakeable Faith Talents.
+* **Fanatic:** The Redemption is constantly on your mind, for sinners, mutants and heretics lurk all around you, desperate for your cleansing flame. Others just find you twitchy and easily moved to anger. Reduce your starting Fellowship by –5, and you gain the Interrogation and Intimidate Skills, along with 1d5 Insanity Points.
+* **Scourge and Purge!**: Your hatred for the unclean strengthens your will against things that would send lesser men running in panic. You gain the Basic Weapon Training (Flame), Melee Weapon Training (Chain) and Unshakeable Faith Talents.
 
 **Note:** A Redemptionist Alternate Rank is also available for characters who have fully dedicated themselves to the Cult of Redemption.
 ## **Guardsmen: The Ashes of War**
@@ -552,8 +552,8 @@ The dwindling number of troopers who made it through the Mara Landing Massacre a
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Unbroken**: The horrors on Mara consumed the weak, and most of the "edge cases" succumbed to madness or heresy in the aftermath. You were one of the chosen few that managed to persevere against all odds. Whether it was luck, determination, or the eye of the God-Emperor upon you is hard to say. Increase your starting Willpower by +5 and gain 1 Fate Point. You also begin play with the Resistance (Psychic Powers) Talent.
-**Worse for Wear:** The corporeal wounds you suffered in the ice-choked shadow of the *Vervilix* healed long ago—the mental ones are much deeper and still fester. Even now you still find yourself jumping at shadows and suffering terrible nightmares of amorphous, inky masses riddled with teeth and eyes. You begin play with 10+1d5 Insanity Points, 1d5 Corruption Points, and the Horrific Nightmares Minor Disorder.
+* **Unbroken**: The horrors on Mara consumed the weak, and most of the "edge cases" succumbed to madness or heresy in the aftermath. You were one of the chosen few that managed to persevere against all odds. Whether it was luck, determination, or the eye of the God-Emperor upon you is hard to say. Increase your starting Willpower by +5 and gain 1 Fate Point. You also begin play with the Resistance (Psychic Powers) Talent.
+* **Worse for Wear:** The corporeal wounds you suffered in the ice-choked shadow of the *Vervilix* healed long ago—the mental ones are much deeper and still fester. Even now you still find yourself jumping at shadows and suffering terrible nightmares of amorphous, inky masses riddled with teeth and eyes. You begin play with 10+1d5 Insanity Points, 1d5 Corruption Points, and the Horrific Nightmares Minor Disorder.
 ### **Soldier of the Margin Crusade**
 **Cost:** 200 xp
 
@@ -567,8 +567,8 @@ Returned Crusade veterans find themselves coming into contact with the Inquisiti
 ##### **Effects** 
 Apply all of the following to your character: 
 
-**Battle Scars:** Years spent in heavy combat trying to conquer a frontier world, or being rapidly shuffled back to put down an uprising on another, has left you with a fair amount of wounds, broken bones, embedded shrapnel, and other physical harms. The priests tell you you should wear these like medals, and that seems fitting enough. You gain the Unshakeable Faith Talent but reduce your Toughness by –3.
-**Crusade Veteran:** The Crusade has taken on a decidedly muddled and tousled nature once breaking into the Halo Stars, and you've had to think and fend for yourself on more than a few occasions as chains of command collapse or your unit is forced to operate independently for days or weeks at a time. You gain the Awareness and Survival Skills.
+* **Battle Scars:** Years spent in heavy combat trying to conquer a frontier world, or being rapidly shuffled back to put down an uprising on another, has left you with a fair amount of wounds, broken bones, embedded shrapnel, and other physical harms. The priests tell you you should wear these like medals, and that seems fitting enough. You gain the Unshakeable Faith Talent but reduce your Toughness by –3.
+* **Crusade Veteran:** The Crusade has taken on a decidedly muddled and tousled nature once breaking into the Halo Stars, and you've had to think and fend for yourself on more than a few occasions as chains of command collapse or your unit is forced to operate independently for days or weeks at a time. You gain the Awareness and Survival Skills.
 ### **Tranch War Veteran**
 **Cost:** 100 xp
 
@@ -582,8 +582,8 @@ The henchmen of more militantly-minded Inquisitors will often loiter about these
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Despise The Mutant:** Whatever the mutants' grievances with the tyrannical Oligarchs of Tranch were in the beginning of the conflict are totally lost on you. All you care about are the faces of your comrades as they were butchered and paraded around like trophies, and those of the dishevelled citizens looking to you for protection from the ravening monsters. You gain the Hatred (Mutants) and Light Sleeper Talents.
-**Pacification Struggles:** Your time on Tranch was well into the pacification campaign, and you learned to fear the dark and quiet far more than explosions and gunfire. Instead of the bayonet charges and artillery barrages you had trained for, you found yourself conducting long patrols in burnt-out manufactorums and shepherding dishevelled refugees from optimistically-named "sanctuaries" in the Soot Warrens. You gain the Search Skill and 1d5 Insanity Points.
+* **Despise The Mutant:** Whatever the mutants' grievances with the tyrannical Oligarchs of Tranch were in the beginning of the conflict are totally lost on you. All you care about are the faces of your comrades as they were butchered and paraded around like trophies, and those of the dishevelled citizens looking to you for protection from the ravening monsters. You gain the Hatred (Mutants) and Light Sleeper Talents.
+* **Pacification Struggles:** Your time on Tranch was well into the pacification campaign, and you learned to fear the dark and quiet far more than explosions and gunfire. Instead of the bayonet charges and artillery barrages you had trained for, you found yourself conducting long patrols in burnt-out manufactorums and shepherding dishevelled refugees from optimistically-named "sanctuaries" in the Soot Warrens. You gain the Search Skill and 1d5 Insanity Points.
 #### **Witness to the Divine**
 **Cost:** 300 xp
 
@@ -602,7 +602,7 @@ Although it causes a good deal of organisational chafing with the Ecclesiarchy, 
 ##### **Effects**
 Apply all of the following to your character:
 
-**True Believer:** Whatever the source of your newfound faith, it is profound and deep, and reaches forever more to the very core of your being. No amount of preformative religious theatrics or memorisation of sacred texts can measure up to what you simply know to be true. You gain the Pure Faith Talent.
+* **True Believer:** Whatever the source of your newfound faith, it is profound and deep, and reaches forever more to the very core of your being. No amount of preformative religious theatrics or memorisation of sacred texts can measure up to what you simply know to be true. You gain the Pure Faith Talent.
 ## **Imperial Psykers: Translations and Revelations**
 The following Background Packages are intended for use with Psykers.
 ### **A Shadow Over Thy Soul**
@@ -616,8 +616,8 @@ To an Inquisitor who persecutes the corrupting forces of the warp, a psyker who 
 ##### **Effects** 
 Apply all of the following to your character: 
 
-**Know Thy Foe:** The struggle against Daemonic possession brought you to the very edge of oblivion, but you prevailed where most would have been consumed. Having a Daemon so horrifically close was both psychically and physically excruciating, but it has also given you some significant insight into the true nature of the warp-spawned fiends. The permanent shadow that marks you is also your greatest tool against them. You gain the Forbidden Lore (Daemonology) Skill and the Dark Soul and Resistance (Psychic Powers) Talents.
-**Malign Aura:** No one could survive a Daemon sinking its claws and fangs into them as deeply as you have without the warp's corrosive influence staining their souls, at least slightly anyway. You begin play with 1d10 Corruption Points and 1d5 Insanity Points.
+* **Know Thy Foe:** The struggle against Daemonic possession brought you to the very edge of oblivion, but you prevailed where most would have been consumed. Having a Daemon so horrifically close was both psychically and physically excruciating, but it has also given you some significant insight into the true nature of the warp-spawned fiends. The permanent shadow that marks you is also your greatest tool against them. You gain the Forbidden Lore (Daemonology) Skill and the Dark Soul and Resistance (Psychic Powers) Talents.
+* **Malign Aura:** No one could survive a Daemon sinking its claws and fangs into them as deeply as you have without the warp's corrosive influence staining their souls, at least slightly anyway. You begin play with 1d10 Corruption Points and 1d5 Insanity Points.
 ### **The Guiding Light of the God-Emperor**
 **Cost:** 200 xp
 
@@ -627,7 +627,7 @@ Psykers whose way is lit by the radiance of the Golden Throne don't simply view 
 ##### **Effects** 
 Apply all of the following to your character: 
 
-**Psychic Zealot:** Your piety to the Emperor and disgust of other psykers rivals that of any firebrand priest of the Ecclesiarchy. The fact that you yourself are a psyker only serves to further prove how deep your faith in the Master of Mankind goes. You gain the Flagellant, Hatred (Witches) and Insanely Faithful Talents, but reduce your Strength by –5 due to the toll excessive corporeal mortification has taken on your body.
+* **Psychic Zealot:** Your piety to the Emperor and disgust of other psykers rivals that of any firebrand priest of the Ecclesiarchy. The fact that you yourself are a psyker only serves to further prove how deep your faith in the Master of Mankind goes. You gain the Flagellant, Hatred (Witches) and Insanely Faithful Talents, but reduce your Strength by –5 due to the toll excessive corporeal mortification has taken on your body.
 ### **Living Nightmare**
 **Cost:** 300 xp
 
@@ -641,8 +641,8 @@ Despite being a total anomaly even among others of their kind, a psyker whose mi
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Psychic Abyss:** None can say what has caused your astonishingly rare characteristic, but they all agree your mind is far more protected than anyone else of your kind. Increase your starting Willpower by +5, and you gain the Resistance (Psychic Powers) Talent. Your mind cannot be read by any psychic or technological construct, such as the Mind Scan Psychic Power or Thief of Memory Sorcery. Any attempts to do so only see indescribable psychic abstractions.
-**The Tall Men:** Your unique condition has left you a little more unsettled than a "typical" sanctionite, although unknown to you, the faint visions and voices you experience from time to time are exactly the same as every other psyker with the same condition as you have. You gain 1d10+5 Insanity Points.
+* **Psychic Abyss:** None can say what has caused your astonishingly rare characteristic, but they all agree your mind is far more protected than anyone else of your kind. Increase your starting Willpower by +5, and you gain the Resistance (Psychic Powers) Talent. Your mind cannot be read by any psychic or technological construct, such as the Mind Scan Psychic Power or Thief of Memory Sorcery. Any attempts to do so only see indescribable psychic abstractions.
+* **The Tall Men:** Your unique condition has left you a little more unsettled than a "typical" sanctionite, although unknown to you, the faint visions and voices you experience from time to time are exactly the same as every other psyker with the same condition as you have. You gain 1d10+5 Insanity Points.
 ## **Scum: Lives Spent in Shadow**
 The following Background Packages are intended for use with Scum.
 ### **Beast House Slaver**
@@ -659,8 +659,8 @@ Curiously, the Inquisition's Calixian Conclave tends to let the Beast House go a
 ##### **Effects** 
 Apply all of the following to your character:
 
-**I Know People:** Slavers often act as the Beast House's direct contact to their customers, managing the "cargo" whilst en route and making sure its new owner is informed of the thing's proclivities and physiological needs. Of course, this offers you ample opportunities to partake in all matters of excesses, whose pleasures almost make you forget the horror of having a stenchbeast in your hold on the way over. Almost. You gain the Peer (Underworld) Talent and 1d5 Corruption Points.
-**Master of Monsters:** When a Beast House client needs a Ur-Ghul or Crurorian war beast for whatever purpose their heart desires you organise the acquisition based on your knowledge of the creature's habits and behaviours. You gain the Melee Weapon Training (Shock) Talent and your choice of either the Forbidden Lore (Mutants) or Scholastic Lore (Beasts) Skills, depending on what it is you've spent the most time tracking.
+* **I Know People:** Slavers often act as the Beast House's direct contact to their customers, managing the "cargo" whilst en route and making sure its new owner is informed of the thing's proclivities and physiological needs. Of course, this offers you ample opportunities to partake in all matters of excesses, whose pleasures almost make you forget the horror of having a stenchbeast in your hold on the way over. Almost. You gain the Peer (Underworld) Talent and 1d5 Corruption Points.
+* **Master of Monsters:** When a Beast House client needs a Ur-Ghul or Crurorian war beast for whatever purpose their heart desires you organise the acquisition based on your knowledge of the creature's habits and behaviours. You gain the Melee Weapon Training (Shock) Talent and your choice of either the Forbidden Lore (Mutants) or Scholastic Lore (Beasts) Skills, depending on what it is you've spent the most time tracking.
 ### **The Brotherhood of Thollos**
 **Cost:** 300 xp
 **Requirements:** Hive World or Imperial World Home World
@@ -673,8 +673,8 @@ Not all of those within the Brotherhood are mercenary hirelings. As a full servi
 ##### **Effects** 
 Apply all of the following to your character:
 
-**I Know People:** You've brokered weapons between narco-gangers, enlisted street thugs as extra protection for guilders running underhive expeditions, know exactly how much to pay off the local enforcers without getting them too greedy, and can probably point out the nearest place to find any kind of vice a person might want. You gain the Evaluate Skill and Peer (Underworld) Talent.
-**Stubjack:** You'd still rather talk your way out of a fight when possible, but mostly because you know it's better for business that way. If it looks like guns are being drawn, you're getting yours out first. Increase your Weapon Skill, Ballistic Skill and Toughness each by +3, and you gain the Street Fighting Talent. The violent reputation of the Brotherhood does make it harder for you to freely mingle with bluebloods and Administratum thralls, however, and you suffer a –10 penalty on all Interaction Tests made with high authorities or formal situations.
+* **I Know People:** You've brokered weapons between narco-gangers, enlisted street thugs as extra protection for guilders running underhive expeditions, know exactly how much to pay off the local enforcers without getting them too greedy, and can probably point out the nearest place to find any kind of vice a person might want. You gain the Evaluate Skill and Peer (Underworld) Talent.
+* **Stubjack:** You'd still rather talk your way out of a fight when possible, but mostly because you know it's better for business that way. If it looks like guns are being drawn, you're getting yours out first. Increase your Weapon Skill, Ballistic Skill and Toughness each by +3, and you gain the Street Fighting Talent. The violent reputation of the Brotherhood does make it harder for you to freely mingle with bluebloods and Administratum thralls, however, and you suffer a –10 penalty on all Interaction Tests made with high authorities or formal situations.
 ### **Cold Guild Courier**
 **Cost:** 100 xp
 **Requirements:** Void Born Origin
@@ -687,8 +687,8 @@ Many Inquisitors, who have need of infiltrators and couriers to acquire the high
 ##### **Effects** 
 Apply all of the following to your character:
 
-**Nothing to Declare:** Your ability to get something between hither and yon without tipping off nosy impost officers and perpetually glaring Arbitrators borders on the supernatural. It's really just a great deal of practice and technique, but nobody else needs to know that. You gain the Concealment Skill and the Concealed Cavity Talent, and increase your Perception by+5.
-**Shipwise:** Much of your life has been spent out in the void, moving from one world to the next with a very important cargo under your care. The needs of the Guild have made you exceptionally adroit at carefully stowing all matters of goods in the places where dockyard inspectors don't look and scanners don't penetrate, often with the assistance of members of the ship's crew that you've enlisted in your efforts. Some of these efforts have been deleterious to your health, however, from inhaling corrosive fumes from a ship's water purification plants to repeatedly entering and leaving cryostasis cells so your very life itself won't show on an auspex. You gain the Peer (Void Born) Talent but reduce your Toughness by –5.
+* **Nothing to Declare:** Your ability to get something between hither and yon without tipping off nosy impost officers and perpetually glaring Arbitrators borders on the supernatural. It's really just a great deal of practice and technique, but nobody else needs to know that. You gain the Concealment Skill and the Concealed Cavity Talent, and increase your Perception by+5.
+* **Shipwise:** Much of your life has been spent out in the void, moving from one world to the next with a very important cargo under your care. The needs of the Guild have made you exceptionally adroit at carefully stowing all matters of goods in the places where dockyard inspectors don't look and scanners don't penetrate, often with the assistance of members of the ship's crew that you've enlisted in your efforts. Some of these efforts have been deleterious to your health, however, from inhaling corrosive fumes from a ship's water purification plants to repeatedly entering and leaving cryostasis cells so your very life itself won't show on an auspex. You gain the Peer (Void Born) Talent but reduce your Toughness by –5.
 #### **Kasballica Noble**
 **Career:** Adept, Assassin or Scum
 **Cost:** 400 xp
@@ -702,12 +702,52 @@ If an outed Kasballica noble appears to be "redeemable", an Inquisitor or Judge 
 ##### **Effects**
 Apply all of the following to your character:
 
-**Brothers in Trade:** Many of your prior "associates" are still out and about in the less legal precincts of society, and as long as you don't reveal the nature of your new masters they could be called upon to assist your endeavours. You gain the Peer (Underworld) Talent.
-**Do You Know Who I Am?:** Although you're no longer a member of the Kasballica the techniques of manipulation and subtly implied threats you picked up are still sharp tools in your kit. You gain the Blather and Intimidate Skills, and any Intimidate Tests targeting you or a group you're a member of suffer a -10 penalty.
-**Shady Income:** Some of your criminal enterprises continue to run on their own even as you've turned, or been forced to turn, most of your energies to more important tasks. In addition to the normal monthly income you gain from your career's Social Class, your various schemes and rackets generate another income stream each month using the following chart. Roll 1d10 and add the indicated earnings to any other income you are entitled to.
+* **Brothers in Trade:** Many of your prior "associates" are still out and about in the less legal precincts of society, and as long as you don't reveal the nature of your new masters they could be called upon to assist your endeavours. You gain the Peer (Underworld) Talent.
+* **Do You Know Who I Am?:** Although you're no longer a member of the Kasballica the techniques of manipulation and subtly implied threats you picked up are still sharp tools in your kit. You gain the Blather and Intimidate Skills, and any Intimidate Tests targeting you or a group you're a member of suffer a -10 penalty.
+* **Shady Income:** Some of your criminal enterprises continue to run on their own even as you've turned, or been forced to turn, most of your energies to more important tasks. In addition to the normal monthly income you gain from your career's Social Class, your various schemes and rackets generate another income stream each month using the following chart. Roll 1d10 and add the indicated earnings to any other income you are entitled to.
+## **Soroitas: Brides of the Emperor**
+The following Background Packages are intended for use with Soroitas.
+#### **Blessed Birth**
+**Career:** Cleric or Sororitas
+**Cost:** 100xp
+
+The Imperium has a bewildering array of Saints’ days, holidays and festivals. Greatest amongst these is the Feast of the Emperor’s Ascension, the holiest day in the Imperial Calendar. The event is marked—according to the nature of the local cults—by feasting, sacrifices (either highly symbolic or disturbingly real), games, parades, mystery plays, or revelry and many more too numerous to list. Yet there are also millions of other festivals, both large and small. In the Calixis Sector, for example, Drusus Day is widely celebrated, marking the date of his death and mysterious resurrection that proved his blessing by the Emperor.
+
+On individual worlds, other, more bizarre dates might be celebrated, such as Saint Absolar’s Day on Ichovor, where the inhabitants, having spent the year meticulously carving beautiful statuettes of Saint Absolar the Iconoclast, smash them to smithereens on the Plains of Shards, so that the images of the Saint go the spiritual realm and sit alongside the Emperor. On the Hive World of Piety, vast night-time street parades consisting of tens of millions of individuals take place under glowing argon lights every year to mark the death of Father Faithful, an apocryphal local saint not formally recognised by the Ecclesiarchy. Every year these parades end in riot and disorder, but they continue for century after century.
+
+According to the dictates of the local belief system, a handful of children born on one of these holy days are often marked for an auspicious future. They may be deemed to have the attributes of the Saint whose day marks their birth, or they may represent some feature of the Holy Day’s underlying message. Such children are often named after the Saint who shares their day. Whatever the specifics of the individual’s personal holy day, they are marked by the faith of their world in some indefinable way. More often than not the Ecclesiarchy will do its best to bring such august youths into the cloth, as the rare conjunction of their birth and the portents thereof already makes for natural faith leaders.
+##### **Effects**
+Apply all of the following to your character:
+
+* **Bold Destiny:** You can almost feel the God-Emperor's smiling visage at your back—your destiny is being guided by His hand. You begin play with 1 additional Fate Point, up to a maximum of 3. Should you already have 3 Fate Points during character creation you may "save" this Fate Point for later. The first time your total Fate is reduced to 2 Points or less you may spend another 100 xp in ritual purification and the renewing of your vows to serve the Master of Mankind, after which you may add this Fate Point back to your total.
+#### **Denounced and Expelled**
+**Cost:** 300xp
+
+Answering the call to worship, service, and battle, the sisters of the Adepta Soroitas epitomise true faith in the God-Emperor. Each sister is sworn to serve the Master of Mankind, relentlessly trained to excel in all she does, and devoted absolutely to her Order, her work, and the Imperial faith. To say that the Soroitas are an organisation that does not tolerate deviancy or nonconformance is an understatement in the extreme.
+
+When a Soroita shows any evidence of divergence from the orthodoxy she is swiftly counselled by her Sister Superior, often compelled to perform some act of penance and guided more sternly thereafter until she is deemed to be back on the straight and narrow. If a sister commits a serious crime, but one whose severity does not demand execution or redemption via a penitent engine, she may face expulsion from her Order entirely. This fate can also befall those who simply continue to chafe under the rules of the Soroitas, accumulating enough minor infractions that even the most patient Sister Superior deems her to be "unredeemable".
+
+Expulsion from an Order of the Adepta Soroitas is a rare, but not unheard of, event. The expelled sister is heretofore banned from communing with her peers, and is generally forbidden from from referring to herself as a Soroita in the first place, even formerly. Depending on the circumstances of her expulsion, she may or may not be allowed to keep some or all of her equipment and gear, but regardless of any such material considerations she is forevermore an outsider—even for a Canoness, rescinding an expulsion is an absolutely preposterous proposition.
+
+The fates of expelled sisters can be as diverse as the failings that resulted in their expulsion. Some choose to abandon their prior ways of life entirely, becoming religious ascetics or itinerants who informally preach the Imperial Creed in the hopes of redeeming themselves in the eyes of the Emperor. Others choose to "go into business" for themselves, with sisters formerly of Militant Orders becoming highly capable mercenaries and bodyguards, whilst Non-Militants align themselves with benefactors needing their specialised skills of medicine, data processing, and social manoeuvring.
+
+For an Inquisitor the prospect of bringing in an expelled Soroita is a decidedly provocative one. Such a capable expert in her field, and one whose faith in the God-Emperor is (likely) unquestionable, would be a boon to any Acolyte cell in need of her services, and the Inquisition now need not concern themselves with questions of organisational oversight or the potential for conflicts between the sister's two masters. On the other hand, the sister's expulsion in the first place could be a sign of trouble ahead, and at the very least having her within the retinue would make for some awkward social implications when meeting with other members of the Ecclesiarchy.
+##### **Effects** 
+Apply all of the following to your character: 
+
+* **Banished:** Whatever offences you have committed were grave enough that your continued presence within the abbeys of your Order was entirely intolerable, and you now must make your way on your own recognisance. If you are a Battle Sister, you may no longer use the authority of the Adepta Soroitas to requisition weapons and equipment, and are henceforth considered to be a member of either the Supine or Trading Classes for the purposes of determining monthly income. Consult with your GM over which is most appropriate based on the circumstances of your expulsion from your Order.
+* **Guilty, But Not Condemned:** The process of your expulsion was long and arduous, likely with a significant period of confinement, severe questioning, and much debate as to whether you could be redeemed or should face an even worse form of punishment. Your superiors eventually concluded that your life was not forfeit, but you will never again be able to earn their trust and acceptance either. You gain 2d10 Insanity Points and the Resistance (Interrogation) Talent, but may never obtain the Peer or Good Reputation Talents for the Adepta Soroitas or the Ecclesiarchy.
+* **Uncertain Destiny:** The superiors of your Order have determined that you may no longer serve as a Soroita, but the auguries seem to indicate that despite this fall from grace the God-Emperor still has plans for you, and it would be the height of impropriety to second-guess His motives. You begin play with 1 additional Fate Point.
+
+**Note:** Depending on the circumstances of your expulsion from your Order you may or may not be allowed to keep the starting equipment your Career is normally entitled to—your superiors requiring you to surrender your equipment when you were expelled would be seen as a consequence of a more serious crime. If you are not permitted to keep your starting equipment, you begin play with that of a different Career as your GM deems appropriate for your circumstances. Suggested options are:
+
+* Battle Sister: Assassin or Guardsman
+* Sister Dialogous: Adept
+* Sister Famulous: Cleric or Scum
+* Sister Hospitaller: Adept
 ## **Tech-Priests: Cults of the Machine**
 The following Background Packages are intended for use with Tech-Priests.
-### **The Disciples of Thule**
+#### **The Disciples of Thule**
 **Cost:** 100 xp
 **Home World:** Forge World Home World or Void Born Origin
 
@@ -719,100 +759,47 @@ Internal matters notwithstanding, the Thulians enjoy considerable power and infl
 ##### **Effects** 
 Apply all of the following to your character: 
 
-**Explorator:** Your interests are more academic than material, and would rather spend time piecing together fragmentary remains of ancient data-crypts than forging (or using) weapons. That can be left to the secutors and battle servitors, as your mind is focused on more important matters. You gain the Common Lore (Machine Cult), Evaluate, Forbidden Lore (Archaeotech), Logic, and Scholastic Lore (Cryptology) Skills, but reduce your Weapon Skill and Perception by –5 each.
-### **The Divine Light of Sollex**
+* **Explorator:** Your interests are more academic than material, and would rather spend time piecing together fragmentary remains of ancient data-crypts than forging (or using) weapons. That can be left to the secutors and battle servitors, as your mind is focused on more important matters regarding the . You gain the Common Lore (Machine Cult), Evaluate, Forbidden Lore (Archaeotech), Logic, and Scholastic Lore (Cryptology) Skills, but reduce your Weapon Skill and Perception by –5 each.
+#### **The Divine Light of Sollex**
+**Cost:** 300 xp
+**Requirements:** Forge World Home World
 
-[](https://github.com/zyzyx159/Rule-books/blob/main/Inquisitors%20Handbook/Chapter%201%20-%20Advanced%20Character%20Creation.md#the-divine-light-of-sollex)
+The weapon-mystics of the Cult of Sollex are a warlike sect of the Adeptus Mechanicus who study the art of destruction and specialise in the occult mysteries of photon and laser, finding divine wisdom of the Omnissiah in a fractured spectrum of light. The Sollex grew out of an otherwise minor manufactory on the death world of Haddrak in the northern rim of the Adrantis Nebula. Here, unique crystalline deposits heretofore unknown to the greater body of the Mechanicus can be found amid that world's lifekilling sulphurous plains. The progenitors of the Sollex first sought to exploit these glassy masses for mundane industrial production purposes, only to discover their singularly efficient qualities when used as part of any system that refracts or amplifies light.
 
-**Home World:** Forge World. **Cost:** 300 xp
+From this unexpected technical bounty the Cult of Sollex emerged. No longer mere crystal-prospectors of a backwater death world, export of Sollex-pattern weapons, holo systems, and illuminators made the tech-priests of Haddrak spectacularly wealthy. This, naturally, they attributed to the divine guidance of the Machine God, and from the acid storm-ravaged wastes great fortresses of black basalt emerged, part manufactorum and part temple, stabbing up through the burning skies like monumental clawed hands grasping at the heavens. From within these imposing edifices Sollex techno-artificers work day and night, producing everything from particularly powerful laspistols to enormous arc discharge lamps capable of lighting up even the grandest cathedrals of the Ecclesiarchy. Reputedly, they also work on a strictly commission basis on more esoteric and hidden projects for secretive patrons whose identities are guarded as aggressively as the Sollex's own photonic discoveries.
 
-The weapon-mystics of the Cult of Sollex form a sect of the Adeptus Mechanicus based on the minor forge world of Haddrak in the Drusus Marches. The sect has expanded beyond its world of origin enjoying adherents among the Magos Militant of the Lathes and the tech-priests assigned to Battlefleet Calixis. The Sollex are a warlike sect who study the art of destruction and specialise in the occult mysteries of photon and laser, finding divine wisdom in a fractured spectrum of light. Aside from producing particularly powerful and advanced weapons and holo systems, the work of Sollex is reputed to have been put to more esoteric and hidden ends, and their secrets are well-guarded, even compared to the rest of the Cult Mechanicus.
+Seeing the Omnissiah's divine light in their fibre-optic manifolds and lasgun focusing lenses, Sollex cultists believe it is their sacred duty to bring this light to bear against the enemies of the Mechanicus. To them, burning away the unprincipled tech-heretic, the xenos marauder, and the Chaos warpsmith who would dare profane their machine spirits with daemonic spirits is an act of faith and piety which pleases the Machine God. The Sollex are as coldly ruthless and determined in their zealotry to protect the arcane mysteries of the Machine Cult as Redemptionists of the Imperial Creed are in their incendiary fanaticism to torch heretics and sinners. Sollex tech-priests harbour an especially violent loathing of Eldar pirates, as they suffered frequent raids and other alien depredations in the cult's early days on Haddrak. 
 
-A Sollex tech-priest may have been selected for Inquisitorial service owing to an above average experience of warfare, arms and hostile contact with the alien. They often seem even more inhuman than their fellows, far more fanatical and militant in their adherence to the mystical dogma of the Cult Mechanicus, and utterly unforgiving of those who blaspheme against the Machine God.
+As insular and secretive as they are, Sollex cultists often try to keep agents of the Inquisition at a mechadendrite's length, and are typically sceptical of collaborative efforts between their priests and the Holy Ordos. When it comes to persecuting those who have blasphemed against the Machine God, or taking the fight to vile xenos ravagers, they tend to be understandably more accommodating. 
+##### **Effects** 
+Apply all of the following changes to your character:
 
-**Effects** Apply all of the following changes to your character:
+* **Militant Sect:** You prove your piety to the Machine God by utterly smiting its enemies with divine irradiance, and spend more time in martial practice and contemplation of the Omnissiah as an engine of war than in the acquisition of more academic knowledge. You gain the Hatred (Eldar), Hatred (Tech-heretics), and Unshakeable Faith Talents, as well as 1d5 Insanity Points. Reduce your Perception and Fellowship Characteristics by –5 each; investigation and negotiation are not the purview of your sect.
+* **Praise the Photonic Induction:** Sollex seeks mastery over the manipulation of light itself more than anything else, both to create greater artifices of illumination and to better disintegrate those who would transgress against the laws of the Cult Mechanicus. You gain the Ciphers (Secret Society—Sollex), Common Lore (Machine Cult), Demolition, and Scholastic Lore (Tactical Imperialis) Skills. You also gain a +10 bonus on all Tests made with laser or holo devices (including Ballistic Skill Tests made to attack with las weapons).
+#### **Malygrisian Tech Heresy**
+**Package Cost:** 200 xp
+**Requirements:** Forge World Home World or Void Born Origin
 
-**Characteristics:** Reduce starting Fellowship by –5.
+The infamous renegade Magos Umbra Malygris, known to Inquisitorial records as Malygris the Damned, led a widespread and insidious tech-heretic cult that flourished in the Malfian sub-sector three centuries ago. Many great crimes against both Imperial Law and the Cult Mechanicus's own doctrines were laid against him, including the fashioning of forbidden silica animus, corpse vivication and the unleashing of experimental viralstrains on unsuspecting populations to test their effects. Eventually the renegade was tracked down and he and his followers destroyed in bloody confrontation with a joint Inquisitorial-Mechanicus purgation. 
 
-**Skills:** You start the game with Ciphers (Secret Society— Sollex) (Int), Common Lore (Machine Cult) (Int), Demolition (Int), and Scholastic Lore (Tactica Imperialis) (Int). You also gain a +10 bonus on all Tech-Use Tests made when working on or with laser or holo devices.
+Since then his works and researches have been brutally, but not entirely successfully, suppressed. Despite the sanctions against it, Malygris's lore persists, kept alive in no small part by those tech-priests tasked to hunt down rebellious members of the Mechanicus itself. The absolutely proscribed knowledge is frighteningly tantalising for the more officious tech-priests, and even though it is kept under close guard unauthorised copies and manuscripts seem to keep leaking out. While undoubtedly a sought-after target for Logicians and other out-and-out hereteks, the so-called Malygris Codex is arguably more dangerous due to its insidiously alluring nature to otherwise right-minded tech-priests. An unfortunate number of those following in Malygris' wretched footsteps were first ensnared by the arch-heretic's provocative writings, and this continues long after his destruction.
 
-**Talents:** You gain Hatred (Tech-heretics) and Unshakable Faith.
-
-**Insanity Points:** You begin play with 1d5 Insanity Points.
-
-### **Malygrisian Tech Heresy**
-
-[](https://github.com/zyzyx159/Rule-books/blob/main/Inquisitors%20Handbook/Chapter%201%20-%20Advanced%20Character%20Creation.md#malygrisian-tech-heresy)
-
-**Home World:** Forge World or Void Born. **Package Cost:** 200 xp
-
-The infamous renegade Magos Umbra Malygris, known to Inquisitorial records as Malygris the Damned, led a widespread and insidious tech-heretic cult that flourished in the Malfian sub-sector three centuries ago. Many great crimes against both Imperial Law and the Cult Mechanicus's own doctrines were laid against him, including the fashioning of forbidden silica animus, corpse vivication and the unleashing of experimental viralstrains on unsuspecting populations to test their effects. Eventually the renegade was tracked down and he and his followers destroyed in bloody confrontation with a joint Inquisitorial-Mechanicus purgation. Since then his works and researches have been brutally, but not entirely successfully, suppressed. Despite the sanctions against it, Malygris's lore persists, kept alive in no small part by those tech-priests tasked to hunt down rebellious members of the Mechanicus itself, much in the same way as the more Radical factions of the Holy Ordos seek to turn the tools of the arch-enemy against its own followers, risking destruction at the hands of their own kind.
-
-A tech-priest inducted into the Inquisition who has absorbed Malgrisian data walks a deadly tightrope. On the one hand, he is armed with knowledge of occult science few others can match, making him a very able opponent for the dark powers of heresy and corruption. On the other hand, such tech-priests already stand half-steeped in shadow, and are thus in peril for their very souls.
-
-**Effects** Apply all of the following changes to your character:
-
-**Skills:** You begin play with Ciphers (Malygris Codex) (Int), Forbidden Lore (Warp) (Int), Forbidden Lore (Xenos) (Int), Scholastic Lore (Legend) (Int) and Scholastic Lore (Numerology) (Int).
-
-**Corruption:** You start play with 1d5 Corruption Points.
-
-**Insanity Points:** You are Unhinged and begin with 1d5 Insanity Points.
-
-**Note:** In absorbing this knowledge, you have jeopardised more than your life. If the source of your knowledge is somehow proved, you are in danger from elements of the Cult Mechanicus itself.
-
-Omnissian Apostate
-Career: Tech-Priest only
-Cost: 100xp
-The Imperium consists of two great empires divided by a
-common faith. The Ministorum claims the souls of the untold
-trillions who worship the Emperor as the saviour of mankind,
-and the Adeptus Mechanicus claims the bodies of a lesser part
-of humanity in the name of their Omnissiah, caring little for the
-souls of their devotees at all. Although in the Credo Mechanicus,
-the Emperor is nominally acknowledged as the Omnissiah,
-some extremists from both factions chafe at the teachings of the
-other. Many fanatics within the Calixian Ministorum are secretly
-shocked that what is in effect a massive Empire of heretics is
-allowed to flourish within the bosom of the Imperium.
-Inspired by misguided zealotry, certain devout, renegade
-Ministorum clerics infiltrate the great Forge Worlds of the
-Calixian Mechanicus, seeking to reclaim lost souls in the
-name of the Emperor from what they regard as a nest of
-mechanical monsters. They set up secret shrines, priest holes
-and temples in corners of the vast factoria, quietly teaching
-the Imperial Creed and offering hope to those who have
-toiled their entire lives beneath belching smokestacks to obey
-the bland dictates of their part-machine overlords. The Lathe
-Worlds are a particular target for the Calixian Ministorum,
-which has historically resented their tremendous power,
-wealth and influence within the Sector. Turbulent priests
-seek to destabilise the trio of Forge Worlds from within by
-creating secret cells of long term sleeper agents, raised from
-birth to clandestinely kneel before the “true” Emperor.
-It is said that no man may truly serve two masters, and
-indeed Tech-Priests who deviate, even for a moment, from
-any outward displays of devotion to their great calling take
-their lives in their hands, for the Calixian Technomagi would
-be well within their rights to execute or servitorise any within
-their realms who cast aside the Omnissian oath. These devout
-servants of the Emperor become cunning and devious, wise
-in the ways of the machine in order to allow them to practise
-their faith in secret. Such conflicted individuals are very
-rare, and often seek release from the pressures and risks of
-their immensely stressful secret life by consenting to being
-assigned to lonely assignments in far flung worlds, or to assist
-in the retinues of powerful Inquisitors.
-Effects
+A tech-priest inducted into the Inquisition who has previously absorbed Malgrisian data walks a deadly line. On the one hand, he is armed with knowledge of occult science few others can match, making him a very able opponent for the dark powers of heresy and corruption. Indeed, there are Radical factions of the Holy Ordos that explicitly endorse turning the tools of the enemies of mankind against them, and those possessing knowledge of the Malygris Codex can find capable allies there. On the other hand, such tech-priests already stand half-steeped in shadow, and are thus in peril for their very souls. Much like his Radical counterparts in the Inquisition, a Malgrisian neophyte, knowingly or otherwise, puts himself in severe danger from his more uncompromising peers who see little daylight between him and the heretics he claims to hunt.
+##### **Effects** 
 Apply all of the following to your character:
-Skills: Deceive (Fel) and Common Lore (Imperial Creed).
-Rational Liar: You are adept at crafting logical half truths that
-seem plausible to all but the most careful and thoughtful observer.
-Use Intelligence in place of Fellowship on all Deceive Tests.
-Condemned In the Eyes of the Omnissiah: Supplication to
-the Imperial Cult would mark you as an apostate in the eyes of the
-Calixian Cult Mechanicus. You must live a secretive life of furtive
-worship, snatching moments to commune with the God-Emperor
-away from the gaze of your peers. Such behaviour means that you
-may never gain the following Talents: Peer (Adeptus Mechanicus)
-or Good Reputation (Adeptus Mechanicus). Furthermore, if you
-are discovered you will be punished severely.
+
+* **Malign Knowledge:** Your examination of the Malygris Codex has given you great insight on the methods and motives of tech-heretics and other cultists who conspire against the Mechanicus. It's also planted tiny seeds of doubt in your mind that could yet sprout into the same damnation that consumed Malygris himself. You gain the Ciphers (Malygris Codex), Forbidden Lore (Warp), Forbidden Lore (Xenos), Scholastic Lore (Legend) and Scholastic Lore (Numerology) Skills. You also gain 1d5 Corruption and Insanity Points each.
+#### **Omnissian Apostate**
+**Cost:** 100xp
+
+The Imperium consists of two great empires divided by a common faith. The Ministorum claims the souls of the untold trillions who worship the Emperor as the saviour of mankind, and the Adeptus Mechanicus claims the bodies of a lesser part of humanity in the name of their Omnissiah, caring little for the souls of their devotees at all. Although in the Credo Mechanicus, the Emperor is nominally acknowledged as the Omnissiah, some extremists from both factions chafe at the teachings of the other. Many fanatics within the Calixian Ministorum are secretly shocked that what is in effect a massive Empire of heretics is allowed to flourish within the bosom of the Imperium.
+
+Inspired by misguided zealotry and heedless of the consequences such a schism might cause, certain especially devout Ministorum clerics have infiltrated the great Forge Worlds of the
+Calixian Mechanicus, seeking to reclaim lost souls in the name of the Emperor from what they regard as a nest of mechanical monsters. These very unsanctioned missionaries set up secret shrines, priest holes and temples in corners of the vast factoria, quietly teaching the Imperial Creed and offering hope to those who have toiled their entire lives beneath belching smokestacks to obey the bland dictates of their part-machine overlords. The Lathe Worlds are a particular target for the Calixian Ministorum, which has historically resented their tremendous power, wealth and influence within the Sector. Turbulent priests seek to destabilise the trio of Forge Worlds from within by creating secret cells of long term sleeper agents, raised from birth to clandestinely kneel before the “true” Emperor.
+
+It is said that no man may truly serve two masters, and indeed tech-priests who deviate, even for a moment, from any outward displays of devotion to their great calling take their lives in their hands, for the Calixian Technomagi would be well within their rights to purge or servitorise any within their realms who cast aside the Omnissian oath. These devout servants of the Emperor become cunning and devious, wise in the ways of the machine in order to allow them to practise their faith in secret. Such conflicted individuals are very rare, and often seek release from the pressures and risks of their immensely stressful secret life by consenting to being assigned to lonely assignments in far flung worlds, or joining cells of Inquisitorial agents tasked with persecuting their common foes. For an Inquisitor having an apostate tech-priest in their retinue is a significant organisational liability, but a master of the machine who can also navigate more "delicate" social settings is a powerful weapon that would be hard to refuse.
+##### **Effects**
+Apply all of the following to your character:
+
+* **Defective:** Supplication to the Imperial Cult would mark you as an apostate in the eyes of the Cult Mechanicus. You must live a secretive life of furtive worship, snatching moments to commune with the God-Emperor away from the gaze of your peers. You gain the Common Lore (Imperial Creed) Skill, but may never gain the Peer (Adeptus Mechanicus) or Good Reputation (Adeptus Mechanicus) Talents due to your secretive nature. If any orthodox Mechanicus can confirm your apostasy against the Omnissiah you will face the most severe sanctions, and even the Inquisition may not be able to protect you from that.
+* **Rational Liar:** You are adept at crafting logical half truths and highly effective lies of omission, which has greatly helped you avoid the detection of your forbidden faith thus far. You gain the Deceive Skill, and may use Intelligence in place of Fellowship as the governing Characteristic when making Deceive Tests.
