@@ -82,25 +82,25 @@ Nuns with Guns. The Sisters of battle are the imperiams answer to the church not
 
 # Rank 4 Advances
 
-| Name                                               | Cost | Type | Prerequisites                          |
-| -------------------------------------------------- | ---- | ---- | -------------------------------------- |
-| Climb +10                                          | 100  | S    | Climb                                  |
-| Common Lore (Imperium)                             | 100  | S    | —                                      |
-| Common Lore (War)                                  | 100  | S    | —                                      |
-| Literacy +10                                       | 100  | S    | —                                      |
-| Command                                            | 200  | S    | —                                      |
-| Crack Shot                                         | 200  | S    | BS 40                                  |
-| Forbidden Lore (Heresy) +10                        | 200  | S    | Forbidden Lore (Heresy)                |
-| Forbidden Lore (Psykers)                           | 200  | S    | —                                      |
-| Basic Weapon Training (Melta)                      | 200  | T    | —                                      |
-| Cleanse and Purify                                 | 200  | T    | Basic Weapon (Flame)                   |
-| Sound Constitution                                 | 200  | T    | —                                      |
-| Armour of Contempt                                 | 300  | T    | WP 40                                  |
-| Arms Master                                        | 300  | T    | BS 30, Basic Weapon Training (any two) |
-| [[#THE POWER OF FAITH\|Faith Talent]]              | 300  | T    | Varies                                 |
-| Heavy Weapon Training (Flame)                      | 300  | T    | —                                      |
-| [[#**TALENT LITANY OF BATTLE**\|Litany of Battle]] | 300  | T    | Fel 30                                 |
-| Hardy                                              | 400  | T    | —                                      |
+| Name                                           | Cost | Type | Prerequisites                          |
+| ---------------------------------------------- | ---- | ---- | -------------------------------------- |
+| Climb +10                                      | 100  | S    | Climb                                  |
+| Common Lore (Imperium)                         | 100  | S    | —                                      |
+| Common Lore (War)                              | 100  | S    | —                                      |
+| Literacy +10                                   | 100  | S    | —                                      |
+| Command                                        | 200  | S    | —                                      |
+| Crack Shot                                     | 200  | S    | BS 40                                  |
+| Forbidden Lore (Heresy) +10                    | 200  | S    | Forbidden Lore (Heresy)                |
+| Forbidden Lore (Psykers)                       | 200  | S    | —                                      |
+| Basic Weapon Training (Melta)                  | 200  | T    | —                                      |
+| Cleanse and Purify                             | 200  | T    | Basic Weapon (Flame)                   |
+| Sound Constitution                             | 200  | T    | —                                      |
+| Armour of Contempt                             | 300  | T    | WP 40                                  |
+| Arms Master                                    | 300  | T    | BS 30, Basic Weapon Training (any two) |
+| [[#THE POWER OF FAITH\|Faith Talent]]          | 300  | T    | Varies                                 |
+| Heavy Weapon Training (Flame)                  | 300  | T    | —                                      |
+| [[#TALENT LITANY OF BATTLE\|Litany of Battle]] | 300  | T    | Fel 30                                 |
+| Hardy                                          | 400  | T    | —                                      |
 # Rank 5 Advances
 
 | Name                                   | Cost | Type | Prerequisites                    |
