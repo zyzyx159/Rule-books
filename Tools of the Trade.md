@@ -162,7 +162,8 @@ Photo-visors use complex electrically-powered filtration lenses to amplify ambie
 
 Good Craftsmanship photo-visors can employ more sophisticated filtration systems to shield the wearer from exceptionally bright light, rendering them immune to the blinding effects of photon flash grenades and similar devices.
 
-Photo-Contacts: These superior pieces of gear utilize the same equipment as photo-visors but in a much more compact profile, granting similar effects to the wearer but in the form of unobtrusive contact lenses.
+#### Photo-Contacts:
+These superior pieces of gear utilize the same equipment as photo-visors but in a much more compact profile, granting similar effects to the wearer but in the form of unobtrusive contact lenses.
 
 ### Re-Breather
 
