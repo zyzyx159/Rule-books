@@ -40,12 +40,13 @@ M --> N[Sniper 10,000-14,999]
 graph TD
 T1 --> T2 --> T3 --> T4 --> T5
 
-T1("<a class='internal-link' href='Guardsman#**Conscript Advances**'> Conscript)
+T1("<a class='internal-link' href='Guardsman#**Conscript Advances**'> Conscript</a>" 0-499)
 T2("[[Guard 500-999]]")
 T3("[[Armsman 1,000-1,999]]")
 T4("[[Sergeant 2,000-2,999]]")
 T5("[[Vet]ran 3,000-5,999]]")
-```## **Conscript Advances**
+```
+## **Conscript Advances**
 
 *"If they can bleed and run, they can hold a gun."*
 
