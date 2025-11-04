@@ -42,18 +42,9 @@ T1 --> T2 --> T3 --> T4 --> 5T
  
 T1("[[Conscript 0-499]]")
 T2("[[Guard 500-999]]")
-T3("[[Armsman 1,000-1,999];
-C --> D[Sergeant 2,000-2,999];
-D --> E[Veteran 3,000-5,999]
-E -- Heavy Weapons --> F[Assult Veteran 6,000-7,999]
-F --> G[Shock Trooper 8,000-9,9999]
-G --> H[Storm Trooper 10,000-14,999]
-E -- Command --> I[Lieutenant 6,000-7999]
-I --> J[Captain 8,000-9,999]
-J --> K[Commander 10,000-14,999]
-E -- Stealth --> L[Scout 6,000-7,999]
-L --> M[Marksman 8,000-9,999]
-M --> N[Sniper 10,000-14,999]
+T3("[[Armsman 1,000-1,999]]")
+T4("[[Sergeant 2,000-2,999]]")
+T5("[[Veteran 3,000-5,999]]")
 ```
 ## **Conscript Advances**
 
