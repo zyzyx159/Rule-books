@@ -19,9 +19,9 @@ Soldier, fighter, man-at-arms, warrior, or heavy, those who fight for a living a
 | Fellowship         |    500     |       750        |    1,000    |   2,500    |
 # Advancement Tree
 
-```mermaid
+```mehrmaid
 graph TD
-A[Conscript 0-499] --> B[Guard 500-999];
+A("[[Conscript 0-499]]") --> B[Guard 500-999];
 B --> C[Armsman 1,000-1,999];
 C --> D[Sergeant 2,000-2,999];
 D --> E[Veteran 3,000-5,999]
