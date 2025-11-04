@@ -38,9 +38,9 @@ M --> N[Sniper 10,000-14,999]
 
 ```mehrmaid
 graph TD
-T1 --> T2 --> T3 --> T4 --> 5T
+T1 --> T2 --> T3 --> T4 --> T5
  
-T1("[[Conscript 0-499]]")
+T1("[[Conscript Advances]]" 0-499)
 T2("[[Guard 500-999]]")
 T3("[[Armsman 1,000-1,999]]")
 T4("[[Sergeant 2,000-2,999]]")
