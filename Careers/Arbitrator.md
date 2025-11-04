@@ -25,10 +25,10 @@ A[Trooper 0-499] --> B[Enforcer 500-999]
 B --> C[Regulator 1,000-1,999]
 C --> D[Investigator 2,000-2,999]
 D --> E[Arbitrator 3,000-5,999]
-E -- Riot Cop --> F[Proctor 6,000-7,999]
+E --> F[Proctor 6,000-7,999]
 F --> G[Marshal 8,000-9,999]
 G --> H[Lord Marshal 10,000-14,999]
-E -- Detective --> I[Intelligencer 6,000-7,999]
+E --> I[Intelligencer 6,000-7,999]
 I --> J[Magistrate 8,000-9,999]
 J --> K[Justicar 10,000-14,999]
 ```
@@ -38,30 +38,30 @@ J --> K[Justicar 10,000-14,999]
 
 A Trooper is drilled in combat and his duties to the Imperium: he is stout of heart and eager to enforce the Emperor's law.
 
-| Advance                                                     | Cost | Type |         Prerequisites         |
-| ----------------------------------------------------------- | :--: | :--: | :---------------------------: |
-| Awareness                                                   | 100  |  S   |               —               |
-| Common Lore (Adeptus Arbites)                               | 100  |  S   |               —               |
-| Common Lore (Adeptus Arbites) +10                           | 100  |  S   | Common Lore (Adeptus Arbites) |
-| Common Lore (Imperium)                                      | 100  |  S   |               —               |
-| Drive (Ground Vehicle)                                      | 100  |  S   |               —               |
-| Drive (Hover Vehicle)                                       | 100  |  S   |               —               |
-| Inquiry                                                     | 100  |  S   |               —               |
-| Inquiry +10                                                 | 100  |  S   |            Inquiry            |
-| Literacy                                                    | 100  |  S   |               —               |
-| Scrutiny                                                    | 100  |  S   |               —               |
-| Swim                                                        | 100  |  S   |               —               |
-| Basic Weapon Training (Primitive)                           | 100  |  T   |               —               |
-| Basic Weapon Training (SP)                                  | 100  |  T   |               —               |
-| Melee Weapon Training (Primitive)                           | 100  |  T   |               —               |
-| Pistol Training (Las)                                       | 100  |  T   |               —               |
-| Pistol Training (Primitive)                                 | 100  |  T   |               —               |
-| Pistol Training (SP)                                        | 100  |  T   |               —               |
-| Quick Draw                                                  | 100  |  T   |               —               |
-| Rapid Reload                                                | 100  |  T   |               —               |
-| Sound Constitution†                                         | 100  |  T   |               —               |
-| Thrown Weapon Training (Primitive)                          | 100  |  T   |               —               |
-| †*You may take this Talent up to three times at this Rank.* |      |      |                               |
+| Advance                                                                 | Cost | Type |         Prerequisites         |
+| ----------------------------------------------------------------------- | :--: | :--: | :---------------------------: |
+| [Awareness](Skills.md#awareness)                                        | 100  |  S   |               —               |
+| [Common Lore (Adeptus Arbites)](Skills.md#common-lore)                  | 100  |  S   |               —               |
+| [Common Lore (Adeptus Arbites) +10](Skills.md#common-lore)              | 100  |  S   | Common Lore (Adeptus Arbites) |
+| [Common Lore (Imperium)](Skills.md#common-lore)                         | 100  |  S   |               —               |
+| [Drive (Ground Vehicle)](Skills.md#drive)                               | 100  |  S   |               —               |
+| [Drive (Hover Vehicle)](Skills.md#drive)                                | 100  |  S   |               —               |
+| [Inquiry](Skills.md#inquiry)                                            | 100  |  S   |               —               |
+| [Inquiry +10](Skills.md#inquiry)                                        | 100  |  S   |            Inquiry            |
+| [Literacy](Skills.md#literacy)                                          | 100  |  S   |               —               |
+| [Scrutiny](Skills.md#scrutiny)                                          | 100  |  S   |               —               |
+| [Swim](Skills.md#swim)                                                  | 100  |  S   |               —               |
+| [Basic Weapon Training (Primitive)](Talents.md#basic-weapon-training)   | 100  |  T   |               —               |
+| [Basic Weapon Training (SP)](Talents.md#basic-weapon-training)          | 100  |  T   |               —               |
+| [Melee Weapon Training (Primitive)](Talents.md#melee-weapon-training)   | 100  |  T   |               —               |
+| [Pistol Training (Las)](Talents.md#pistol-training)                     | 100  |  T   |               —               |
+| [Pistol Training (Primitive)](Talents.md#pistol-training)               | 100  |  T   |               —               |
+| [Pistol Training (SP)](Talents.md#pistol-training)                      | 100  |  T   |               —               |
+| [Quick Draw](Talents.md#quick-draw)                                     | 100  |  T   |               —               |
+| [Rapid Reload](Talents.md#rapid-reload)                                 | 100  |  T   |               —               |
+| [Sound Constitution†](Talents.md#sound-constitution)                    | 100  |  T   |               —               |
+| [Thrown Weapon Training (Primitive)](Talents.md#thrown-weapon-training) | 100  |  T   |               —               |
+| †*You may take this Talent up to three times at this Rank.*             |      |      |                               |
 
 ## **Enforcer Advances**
 
@@ -69,28 +69,28 @@ A Trooper is drilled in combat and his duties to the Imperium: he is stout of he
 
 An Enforcer is taught how to keep order in the most desperate situations, stand ing shoulder to shoulder with his fellow Arbitrators.
 
-| Advance                           | Cost | Type |           Prerequisites           |
-| --------------------------------- | :--: | :--: | :-------------------------------: |
-| Common Lore (Adeptus Arbites) +20 | 100  |  S   | Common Lore (Adeptus Arbites) +10 |
-| Common Lore (Underworld)          | 100  |  S   |                 —                 |
-| Drive (Ground Vehicle) +10        | 100  |  S   |      Drive (Ground Vehicle)       |
-| Intimidate                        | 100  |  S   |                 —                 |
-| Security                          | 100  |  S   |                 —                 |
-| Tracking                          | 100  |  S   |                 —                 |
-| Basic Weapon Training (Las)       | 100  |  T   |                 —                 |
-| Disarm                            | 100  |  T   |               Ag 30               |
-| Double Team                       | 100  |  T   |                 —                 |
-| Leap Up                           | 100  |  T   |               Ag 30               |
-| Light Sleeper                     | 100  |  T   |              Per 30               |
-| Melee Weapon Training (Shock)     | 100  |  T   |                 —                 |
-| Peer (Adeptus Arbites)            | 100  |  T   |              Fel 30               |
-| Resistance (Cold)                 | 100  |  T   |                 —                 |
-| Resistance (Heat)                 | 100  |  T   |                 —                 |
-| Sound Constitution                | 100  |  T   |                 —                 |
-| Takedown                          | 100  |  T   |                 —                 |
-| Barter                            | 200  |  S   |                 —                 |
-| Ciphers (Acolyte)                 | 200  |  S   |                 —                 |
-| Tech-Use                          | 200  |  S   |                 —                 |
+| Advance                                                           | Cost | Type |           Prerequisites           |
+| ----------------------------------------------------------------- | :--: | :--: | :-------------------------------: |
+| [Common Lore (Adeptus Arbites) +20](Skills.md#common-lore)        | 100  |  S   | Common Lore (Adeptus Arbites) +10 |
+| [Common Lore (Underworld)](Skills.md#common-lore)                 | 100  |  S   |                 —                 |
+| [Drive (Ground Vehicle) +10](Skills.md#drive)                     | 100  |  S   |      Drive (Ground Vehicle)       |
+| [Intimidate](Skills.md#intimidate)                                | 100  |  S   |                 —                 |
+| [Security](Skills.md#security)                                    | 100  |  S   |                 —                 |
+| [Tracking](Skills.md#tracking)                                    | 100  |  S   |                 —                 |
+| [Basic Weapon Training (Las)](Talents.md#basic-weapon-training)   | 100  |  T   |                 —                 |
+| [Disarm](Talents.md#disarm)                                       | 100  |  T   |               Ag 30               |
+| [Double Team](Talents.md#double-team)                             | 100  |  T   |                 —                 |
+| [Leap Up](Talents.md#leap-up)                                     | 100  |  T   |               Ag 30               |
+| [Light Sleeper](Talents.md#light-sleeper)                         | 100  |  T   |              Per 30               |
+| [Melee Weapon Training (Shock)](Talents.md#melee-weapon-training) | 100  |  T   |                 —                 |
+| [Peer (Adeptus Arbites)](Talents.md#peer)                         | 100  |  T   |              Fel 30               |
+| [Resistance (Cold)](Talents.md#resistance)                        | 100  |  T   |                 —                 |
+| [Resistance (Heat)](Talents.md#resistance)                        | 100  |  T   |                 —                 |
+| [Sound Constitution](Talents.md#sound-constitution)               | 100  |  T   |                 —                 |
+| [Takedown](Talents.md#takedown)                                   | 100  |  T   |                 —                 |
+| [Barter](Skills.md#barter)                                        | 200  |  S   |                 —                 |
+| [Ciphers (Acolyte)](Skills.md#ciphers)                            | 200  |  S   |                 —                 |
+| [Tech-Use](Skills.md#tech-use)                                    | 200  |  S   |                 —                 |
 
 ## **Regulator Advances**
 
@@ -98,30 +98,30 @@ An Enforcer is taught how to keep order in the most desperate situations, stand 
 
 Regulators take the law to the underworld, holding their own against any who challenge the Emperor's law.
 
-| Advance                          | Cost | Type | Prerequisites |
-| -------------------------------- | :--: | :--: | :-----------: |
-| Awareness +10                    | 100  |  S   |   Awareness   |
-| Ciphers (Underworld)             | 100  |  S   |       —       |
-| Dodge                            | 100  |  S   |       —       |
-| Drive (Ground Vehicle) +20       | 100  |  S   |               |
-| Interrogation                    | 100  |  S   |       —       |
-| Scholastic Lore (Judgement)      | 100  |  S   |       —       |
-| Search                           | 100  |  S   |       —       |
-| Die Hard                         | 100  |  T   |     WP 40     |
-| Sound Constitution               | 100  |  T   |       —       |
-| Climb                            | 200  |  S   |       —       |
-| Secret Tongue (Acolyte)          | 200  |  S   |       —       |
-| Silent Move                      | 200  |  S   |       —       |
-| Basic Weapon Training (Flame)    | 200  |  T   |       —       |
-| Basic Weapon Training (Launcher) | 200  |  T   |       —       |
-| Heavy Weapon Training (SP)       | 200  |  T   |       —       |
-| Pistol Training (Flame)          | 200  |  T   |       —       |
-| Sprint                           | 200  |  T   |       —       |
-| Street Fighting                  | 200  |  T   |       —       |
-| Two-Weapon Wielder (Ballistic)   | 200  |  T   | BS 35, Ag 35  |
-| Two-Weapon Wielder (Melee)       | 200  |  T   | WS 35, Ag 35  |
-| Survival                         | 300  |  S   |       —       |
-| Crushing Blow                    | 300  |  T   |     S 40      |
+| Advance                                                              | Cost | Type | Prerequisites |
+| -------------------------------------------------------------------- | :--: | :--: | :-----------: |
+| [Awareness +10](Skills.md#awareness)                                 | 100  |  S   |   Awareness   |
+| [Ciphers (Underworld)](Skills.md#ciphers)                            | 100  |  S   |       —       |
+| [Dodge](Skills.md#dodge)                                             | 100  |  S   |       —       |
+| [Drive (Ground Vehicle) +20](Skills.md#drive)                        | 100  |  S   |               |
+| [Interrogation](Skills.md#interrogation)                             | 100  |  S   |       —       |
+| [Scholastic Lore (Judgement)](Skills.md#scholastic-lore)             | 100  |  S   |       —       |
+| [Search](Skills.md#search)                                           | 100  |  S   |       —       |
+| [Die Hard](Talents.md#die-hard)                                      | 100  |  T   |     WP 40     |
+| [Sound Constitution](Talents.md#sound-constitution)                  | 100  |  T   |       —       |
+| [Climb](Skills.md#climb)                                             | 200  |  S   |       —       |
+| [Secret Tongue (Acolyte)](Skills.md#secret-tongue)                   | 200  |  S   |       —       |
+| [Silent Move](Skills.md#silent-move)                                 | 200  |  S   |       —       |
+| [Basic Weapon Training (Flame)](Talents.md#basic-weapon-training)    | 200  |  T   |       —       |
+| [Basic Weapon Training (Launcher)](Talents.md#basic-weapon-training) | 200  |  T   |       —       |
+| [Heavy Weapon Training (SP)](Talents.md#heavy-weapon-training)       | 200  |  T   |       —       |
+| [Pistol Training (Flame)](Talents.md#pistol-training)                | 200  |  T   |       —       |
+| [Sprint](Talents.md#sprint)                                          | 200  |  T   |       —       |
+| [Street Fighting](Talents.md#street-fighting)                        | 200  |  T   |       —       |
+| [Two-Weapon Wielder (Ballistic)](Talents.md#two-weapon-wielder)      | 200  |  T   | BS 35, Ag 35  |
+| [Two-Weapon Wielder (Melee)](Talents.md#two-weapon-wielder)          | 200  |  T   | WS 35, Ag 35  |
+| [Survival](Skills.md#survival)                                       | 300  |  S   |       —       |
+| [Crushing Blow](Talents.md#crushing-blow)                            | 300  |  T   |     S 40      |
 
 ## **Investigator Advances**
 
@@ -129,30 +129,30 @@ Regulators take the law to the underworld, holding their own against any who cha
 
 Investigators learn the arts of inquiry, using contacts, charm and dirty tactics to uncover the truth.
 
-| Advance                      | Cost | Type | Prerequisites |
-| ---------------------------- | :--: | :--: | :-----------: |
-| Charm                        | 100  |  S   |       —       |
-| Common Lore (Administratum)  | 100  |  S   |       —       |
-| Deceive                      | 100  |  S   |       —       |
-| Inquiry +20                  | 100  |  S   |  Inquiry +10  |
-| Search +10                   | 100  |  S   |    Search     |
-| Security +10                 | 100  |  S   |   Security    |
-| Tracking +10                 | 100  |  S   |   Tracking    |
-| Basic Weapon Training (Bolt) | 100  |  T   |       —       |
-| Decadence                    | 100  |  T   |     T 30      |
-| Hard Target                  | 100  |  T   |     Ag 40     |
-| Heightened Senses (Hearing)  | 100  |  T   |       —       |
-| Heightened Senses (Sight)    | 100  |  T   |       —       |
-| Iron Jaw                     | 100  |  T   |     T 40      |
-| Peer (Underworld)            | 100  |  T   |    Fel 30     |
-| Pistol Training (Bolt)       | 100  |  T   |       —       |
-| Rapid Reaction               | 100  |  T   |     Ag 40     |
-| Blather                      | 200  |  S   |       —       |
-| Carouse                      | 200  |  S   |       —       |
-| Evaluate                     | 200  |  S   |       —       |
-| Secret Tongue (Acolyte) +10  | 200  |  S   |       —       |
-| Sound Constitution           | 200  |  T   |       —       |
-| Tech-Use +10                 | 300  |  S   |   Tech-Use    |
+| Advance                                                          | Cost | Type | Prerequisites |
+| ---------------------------------------------------------------- | :--: | :--: | :-----------: |
+| [Charm](Skills.md#charm)                                         | 100  |  S   |       —       |
+| [Common Lore (Administratum)](Skills.md#common-lore)             | 100  |  S   |       —       |
+| [Deceive](Skills.md#deceive)                                     | 100  |  S   |       —       |
+| [Inquiry +20](Skills.md#inquiry)                                 | 100  |  S   |  Inquiry +10  |
+| [Search +10](Skills.md#search)                                   | 100  |  S   |    Search     |
+| [Security +10](Skills.md#security)                               | 100  |  S   |   Security    |
+| [Tracking +10](Skills.md#tracking)                               | 100  |  S   |   Tracking    |
+| [Basic Weapon Training (Bolt)](Talents.md#basic-weapon-training) | 100  |  T   |       —       |
+| [Decadence](Talents.md#decadence)                                | 100  |  T   |     T 30      |
+| [Hard Target](Talents.md#hard-target)                            | 100  |  T   |     Ag 40     |
+| [Heightened Senses (Hearing)](Talents.md#heightened-senses)      | 100  |  T   |       —       |
+| [Heightened Senses (Sight)](Talents.md#heightened-senses)        | 100  |  T   |       —       |
+| [Iron Jaw](Talents.md#iron-jaw)                                  | 100  |  T   |     T 40      |
+| [Peer (Underworld)](Talents.md#peer)                             | 100  |  T   |    Fel 30     |
+| [Pistol Training (Bolt)](Talents.md#pistol-training)             | 100  |  T   |       —       |
+| [Rapid Reaction](Talents.md#rapid-reaction)                      | 100  |  T   |     Ag 40     |
+| [Blather](Skills.md#blather)                                     | 200  |  S   |       —       |
+| [Carouse](Skills.md#carouse)                                     | 200  |  S   |       —       |
+| [Evaluate](Skills.md#evaluate)                                   | 200  |  S   |       —       |
+| [Secret Tongue (Acolyte) +10](Skills.md#secret-tongue)           | 200  |  S   |       —       |
+| [Sound Constitution](Talents.md#sound-constitution)              | 200  |  T   |       —       |
+| [Tech-Use +10](Skills.md#tech-use)                               | 300  |  S   |   Tech-Use    |
 
 ## **Arbitrator Advances**
 
@@ -160,44 +160,44 @@ Investigators learn the arts of inquiry, using contacts, charm and dirty tactics
 
 Arbitrators are guardians of order and the rule of law within the Imperium. Implacable, unrelenting, and nigh-on impossible to kill; they are the Emperor's jus tice, manifest.
 
-| Advance                                                     | Cost | Type |      Prerequisites       |
-| ----------------------------------------------------------- | :--: | :--: | :----------------------: |
-| Awareness +20                                               | 100  |  S   |      Awareness +10       |
-| Charm +10                                                   | 100  |  S   |          Charm           |
-| Climb +10                                                   | 100  |  S   |          Climb           |
-| Common Lore (Underworld) +10                                | 100  |  S   | Common Lore (Underworld) |
-| Concealment                                                 | 100  |  S   |            —             |
-| Dodge +10                                                   | 100  |  S   |          Dodge           |
-| Interrogation +10                                           | 100  |  S   |      Interrogation       |
-| Intimidation +10                                            | 100  |  S   |       Intimidation       |
-| Scholastic Lore (Tactica Imperialis)                        | 100  |  S   |            —             |
-| Scrutiny +10                                                | 100  |  S   |         Scrutiny         |
-| Secret Tongue (Gutter)                                      | 100  |  S   |            —             |
-| Ambidextrous                                                | 100  |  T   |          Ag 30           |
-| Hardy                                                       | 100  |  T   |           T 40           |
-| Nerves of Steel                                             | 100  |  T   |            —             |
-| Peer (Government)                                           | 100  |  T   |          Fel 30          |
-| Sure Strike                                                 | 100  |  T   |          WS 30           |
-| Step Aside                                                  | 100  |  T   |       Ag 40, Dodge       |
-| True Grit                                                   | 100  |  T   |           T 40           |
-| Forbidden Lore (Cults)                                      | 200  |  S   |            —             |
-| Forbidden Lore (Mutants)                                    | 200  |  S   |            —             |
-| Logic                                                       | 200  |  S   |            —             |
-| Scholastic Lore (Occult)                                    | 200  |  S   |            —             |
-| Shadowing                                                   | 200  |  S   |            —             |
-| Silent Move +10                                             | 200  |  S   |       Silent Move        |
-| Sleight of Hand                                             | 200  |  S   |            —             |
-| Basic Weapon Training (Plasma)                              | 200  |  T   |            —             |
-| Combat Master                                               | 200  |  T   |          WS 30           |
-| Deadeye Shot                                                | 200  |  T   |          BS 30           |
-| Heavy Weapon Training (Flame)                               | 200  |  T   |            —             |
-| Melee Weapon Training (Chain)                               | 200  |  T   |            —             |
-| Pistol Training (Plasma)                                    | 200  |  T   |            —             |
-| Sound Constitution†                                         | 200  |  T   |            —             |
-| Exotic Weapon Training (Web Pistol)                         | 300  |  T   |            —             |
-| Exotic Weapon Training (Webber)                             | 300  |  T   |            —             |
-| Swift Attack                                                | 300  |  T   |          WS 35           |
-| †*You may take this Talent up to three times at this Rank.* |      |      |                          |
+| Advance                                                                  | Cost | Type |      Prerequisites       |
+| ------------------------------------------------------------------------ | :--: | :--: | :----------------------: |
+| [Awareness +20](Skills.md#awareness)                                     | 100  |  S   |      Awareness +10       |
+| [Charm +10](Skills.md#charm)                                             | 100  |  S   |          Charm           |
+| [Climb +10](Skills.md#climb)                                             | 100  |  S   |          Climb           |
+| [Common Lore (Underworld) +10](Skills.md#common-lore)                    | 100  |  S   | Common Lore (Underworld) |
+| [Concealment](Skills.md#concealment)                                     | 100  |  S   |            —             |
+| [Dodge +10](Skills.md#dodge)                                             | 100  |  S   |          Dodge           |
+| [Interrogation +10](Skills.md#interrogation)                             | 100  |  S   |      Interrogation       |
+| [Intimidation +10](Skills.md#intimidate)                                 | 100  |  S   |       Intimidation       |
+| [Scholastic Lore (Tactica Imperialis)](Skills.md#scholastic-lore)        | 100  |  S   |            —             |
+| [Scrutiny +10](Skills.md#scrutiny)                                       | 100  |  S   |         Scrutiny         |
+| [Secret Tongue (Gutter)](Skills.md#secret-tongue)                        | 100  |  S   |            —             |
+| [Ambidextrous](Talents.md#ambidextrous)                                  | 100  |  T   |          Ag 30           |
+| [Hardy](Talents.md#hardy)                                                | 100  |  T   |           T 40           |
+| [Nerves of Steel](Talents.md#nerves-of-steel)                            | 100  |  T   |            —             |
+| [Peer (Government)](Talents.md#peer)                                     | 100  |  T   |          Fel 30          |
+| [Sure Strike](Talents.md#sure-strike)                                    | 100  |  T   |          WS 30           |
+| [Step Aside](Talents.md#step-aside)                                      | 100  |  T   |       Ag 40, Dodge       |
+| [True Grit](Talents.md#true-grit)                                        | 100  |  T   |           T 40           |
+| [Forbidden Lore (Cults)](Skills.md#forbidden-lore)                       | 200  |  S   |            —             |
+| [Forbidden Lore (Mutants)](Skills.md#forbidden-lore)                     | 200  |  S   |            —             |
+| [Logic](Skills.md#logic)                                                 | 200  |  S   |            —             |
+| [Scholastic Lore (Occult)](Skills.md#scholastic-lore)                    | 200  |  S   |            —             |
+| [Shadowing](Skills.md#shadowing)                                         | 200  |  S   |            —             |
+| [Silent Move +10](Skills.md#silent-move)                                 | 200  |  S   |       Silent Move        |
+| [Sleight of Hand](Skills.md#sleight-of-hand)                             | 200  |  S   |            —             |
+| [Basic Weapon Training (Plasma)](Talents.md#basic-weapon-training)       | 200  |  T   |            —             |
+| [Combat Master](Talents.md#combat-master)                                | 200  |  T   |          WS 30           |
+| [Deadeye Shot](Talents.md#deadeye-shot)                                  | 200  |  T   |          BS 30           |
+| [Heavy Weapon Training (Flame)](Talents.md#heavy-weapon-training)        | 200  |  T   |            —             |
+| [Melee Weapon Training (Chain)](Talents.md#melee-weapon-training)        | 200  |  T   |            —             |
+| [Pistol Training (Plasma)](Talents.md#pistol-training)                   | 200  |  T   |            —             |
+| [Sound Constitution†](Talents.md#sound-constitution)                     | 200  |  T   |            —             |
+| [Exotic Weapon Training (Web Pistol)](Talents.md#exotic-weapon-training) | 300  |  T   |            —             |
+| [Exotic Weapon Training (Webber)](Talents.md#exotic-weapon-training)     | 300  |  T   |            —             |
+| [Swift Attack](Talents.md#swift-attack)                                  | 300  |  T   |          WS 35           |
+| †*You may take this Talent up to three times at this Rank.*              |      |      |                          |
 
 ## **Intelligencer Advances**
 
@@ -205,33 +205,33 @@ Arbitrators are guardians of order and the rule of law within the Imperium. Impl
 
 Intelligencers are spymasters, tacticians and forensic experts. Their powerful intellect is matched only by their dedication to the Imperium.
 
-| Advance                         | Cost | Type |                 Prerequisites                  |
-| ------------------------------- | :--: | :--: | :--------------------------------------------: |
-| Common Lore (Administratum) +10 | 100  |  S   |          Common Lore (Administratum)           |
-| Interrogation +20               | 100  |  S   |               Interrogation +10                |
-| Search +20                      | 100  |  S   |                   Search +10                   |
-| Security +20                    | 100  |  S   |                  Security +10                  |
-| Shadowing +10                   | 100  |  S   |                   Shadowing                    |
-| Speak Language (High Gothic)    | 100  |  S   |                       —                        |
-| Tracking +20                    | 100  |  S   |                  Tracking +10                  |
-| Resistance (Insanity)           | 100  |  T   |                       —                        |
-| Strong Minded                   | 100  |  T   |       WP 30, Resistance (Psychic Powers)       |
-| Total Recall                    | 100  |  T   |                     Int 30                     |
-| Disguise                        | 200  |  S   |                       —                        |
-| Lip Reading                     | 200  |  S   |                       —                        |
-| Scholastic Lore (Bureaucracy)   | 200  |  S   |                       —                        |
-| Scholastic Lore (Cryptology)    | 200  |  S   |                       —                        |
-| Melee Weapon Training (Power)   | 200  |  T   |                       —                        |
-| Blademaster                     | 200  |  T   |     WS 30, Melee Weapon Training (any one)     |
-| Sound Constitution              | 200  |  T   |                       —                        |
-| Talented (Inquiry)              | 200  |  T   |                    Inquiry                     |
-| Talented (Logic)                | 200  |  T   |                     Logic                      |
-| Talented (Shadowing)            | 200  |  T   |                   Shadowing                    |
-| Scholastic Lore (Chymistry)     | 300  |  S   |                       —                        |
-| Secret Tongue (Administratum)   | 300  |  S   | Common Lore (Administratum), Peer (Government) |
-| Counter Attack                  | 300  |  T   |                     WS 40                      |
-| Crippling Strike                | 300  |  T   |                     WS 50                      |
-| Resistance (Psychic Powers)     | 300  |  T   |                       —                        |
+| Advance                                                           | Cost | Type |                 Prerequisites                  |
+| ----------------------------------------------------------------- | :--: | :--: | :--------------------------------------------: |
+| [Common Lore (Administratum) +10](Skills.md#common-lore)          | 100  |  S   |          Common Lore (Administratum)           |
+| [Interrogation +20](Skills.md#interrogation)                      | 100  |  S   |               Interrogation +10                |
+| [Search +20](Skills.md#search)                                    | 100  |  S   |                   Search +10                   |
+| [Security +20](Skills.md#security)                                | 100  |  S   |                  Security +10                  |
+| [Shadowing +10](Skills.md#shadowing)                              | 100  |  S   |                   Shadowing                    |
+| [Speak Language (High Gothic)](Skills.md#speak-language)          | 100  |  S   |                       —                        |
+| [Tracking +20](Skills.md#tracking)                                | 100  |  S   |                  Tracking +10                  |
+| [Resistance (Insanity)](Talents.md#resistance)                    | 100  |  T   |                       —                        |
+| [Strong Minded](Talents.md#strong-minded)                         | 100  |  T   |       WP 30, Resistance (Psychic Powers)       |
+| [Total Recall](Talents.md#total-recall)                           | 100  |  T   |                     Int 30                     |
+| [Disguise](Skills.md#disguise)                                    | 200  |  S   |                       —                        |
+| [Lip Reading](Skills.md#lip-reading)                              | 200  |  S   |                       —                        |
+| [Scholastic Lore (Bureaucracy)](Skills.md#scholastic-lore)        | 200  |  S   |                       —                        |
+| [Scholastic Lore (Cryptology)](Skills.md#scholastic-lore)         | 200  |  S   |                       —                        |
+| [Melee Weapon Training (Power)](Talents.md#melee-weapon-training) | 200  |  T   |                       —                        |
+| [Blademaster](Talents.md#blademaster)                             | 200  |  T   |     WS 30, Melee Weapon Training (any one)     |
+| [Sound Constitution](Talents.md#sound-constitution)               | 200  |  T   |                       —                        |
+| [Talented (Inquiry)](Talents.md#talented)                         | 200  |  T   |                    Inquiry                     |
+| [Talented (Logic)](Talents.md#talented)                           | 200  |  T   |                     Logic                      |
+| [Talented (Shadowing)](Talents.md#talented)                       | 200  |  T   |                   Shadowing                    |
+| [Scholastic Lore (Chymistry)](Skills.md#scholastic-lore)          | 300  |  S   |                       —                        |
+| [Secret Tongue (Administratum)](Skills.md#secret-tongue)          | 300  |  S   | Common Lore (Administratum), Peer (Government) |
+| [Counter Attack](Talents.md#counter-attack)                       | 300  |  T   |                     WS 40                      |
+| [Crippling Strike](Talents.md#crippling-strike)                   | 300  |  T   |                     WS 50                      |
+| [Resistance (Psychic Powers)](Talents.md#resistance)              | 300  |  T   |                       —                        |
 
 ## **Magistrate Advances**
 
@@ -239,31 +239,31 @@ Intelligencers are spymasters, tacticians and forensic experts. Their powerful i
 
 Magistrates rule upon intricate cases of heresy and sedition. By dispensing death, they keep the soul of the Imperium alive.
 
-| Advance                                                   | Cost | Type |             Prerequisites              |
-| --------------------------------------------------------- | :--: | :--: | :------------------------------------: |
-| Charm +20                                                 | 100  |  S   |               Charm +10                |
-| Common Lore (Ecclesiarchy)                                | 100  |  S   |                   —                    |
-| Common Lore (Imperial Creed)                              | 100  |  S   |                   —                    |
-| Literacy +10                                              | 100  |  S   |                Literacy                |
-| Scholastic Lore (Bureaucracy) +10                         | 100  |  S   |     Scholastic Lore (Bureaucracy)      |
-| Scholastic Lore (Cryptology) +10                          | 100  |  S   |      Scholastic Lore (Cryptology)      |
-| Scholastic Lore (Judgement) +10                           | 100  |  S   |      Scholastic Lore (Judgement)       |
-| Scholastic Lore (Occult) +10                              | 100  |  S   |        Scholastic Lore (Occult)        |
-| Scholastic Lore (Philosophy)                              | 100  |  S   |                   —                    |
-| Speak Language (High Gothic) +10                          | 100  |  S   |      Speak Language (High Gothic)      |
-| Blind Fighting                                            | 100  |  T   |                 Per 30                 |
-| Lightning Reflexes                                        | 100  |  T   |                   —                    |
-| Precise Blow                                              | 100  |  T   |           WS 40, Sure Strike           |
-| Resistance (Fear)                                         | 100  |  T   |                   —                    |
-| Command                                                   | 200  |  S   |                   —                    |
-| Forbidden Lore (Heresy)                                   | 200  |  S   |                   —                    |
-| Air of Authority                                          | 200  |  T   |                 Fel 30                 |
-| Arms Master                                               | 200  |  T   | BS 30, Basic Weapon Training (any two) |
-| Peer (Inquisition)                                        | 200  |  T   |                 Fel 30                 |
-| Sound Constitution†                                       | 200  |  T   |                   —                    |
-| Forbidden Lore (Psykers)                                  | 300  |  S   |                   —                    |
-| Furious Assault                                           | 300  |  T   |                 WS 35                  |
-| †*You may take this Talent up to two times at this Rank.* |      |      |                                        |
+| Advance                                                        | Cost | Type |             Prerequisites              |
+| -------------------------------------------------------------- | :--: | :--: | :------------------------------------: |
+| [Charm +20](Skills.md#charm)                                   | 100  |  S   |               Charm +10                |
+| [Common Lore (Ecclesiarchy)](Skills.md#common-lore)            | 100  |  S   |                   —                    |
+| [Common Lore (Imperial Creed)](Skills.md#common-lore)          | 100  |  S   |                   —                    |
+| [Literacy +10](Skills.md#literacy)                             | 100  |  S   |                Literacy                |
+| [Scholastic Lore (Bureaucracy) +10](Skills.md#scholastic-lore) | 100  |  S   |     Scholastic Lore (Bureaucracy)      |
+| [Scholastic Lore (Cryptology) +10](Skills.md#scholastic-lore)  | 100  |  S   |      Scholastic Lore (Cryptology)      |
+| [Scholastic Lore (Judgement) +10](Skills.md#scholastic-lore)   | 100  |  S   |      Scholastic Lore (Judgement)       |
+| [Scholastic Lore (Occult) +10](Skills.md#scholastic-lore)      | 100  |  S   |        Scholastic Lore (Occult)        |
+| [Scholastic Lore (Philosophy)](Skills.md#scholastic-lore)      | 100  |  S   |                   —                    |
+| [Speak Language (High Gothic) +10](Skills.md#speak-language)   | 100  |  S   |      Speak Language (High Gothic)      |
+| [Blind Fighting](Talents.md#blind-fighting)                    | 100  |  T   |                 Per 30                 |
+| [Lightning Reflexes](Talents.md#lightning-reflexes)            | 100  |  T   |                   —                    |
+| [Precise Blow](Talents.md#precise-blow)                        | 100  |  T   |           WS 40, Sure Strike           |
+| [Resistance (Fear)](Talents.md#resistance)                     | 100  |  T   |                   —                    |
+| [Command](Skills.md#command)                                   | 200  |  S   |                   —                    |
+| [Forbidden Lore (Heresy)](Skills.md#forbidden-lore)            | 200  |  S   |                   —                    |
+| [Air of Authority](Talents.md#air-of-authority)                | 200  |  T   |                 Fel 30                 |
+| [Arms Master](Talents.md#arms-master)                          | 200  |  T   | BS 30, Basic Weapon Training (any two) |
+| [Peer (Inquisition)](Talents.md#peer)                          | 200  |  T   |                 Fel 30                 |
+| [Sound Constitution†](Talents.md#sound-constitution)           | 200  |  T   |                   —                    |
+| [Forbidden Lore (Psykers)](Skills.md#forbidden-lore)           | 300  |  S   |                   —                    |
+| [Furious Assault](Talents.md#furious-assault)                  | 300  |  T   |                 WS 35                  |
+| †*You may take this Talent up to two times at this Rank.*      |      |      |                                        |
 
 ## **Justicar Advances**
 
@@ -271,32 +271,32 @@ Magistrates rule upon intricate cases of heresy and sedition. By dispensing deat
 
 The Justicar brings the light of the Emperor's judgement to decadent nobles, corrupt officials and worlds brought low by dark worship.
 
-| Advance                                                   | Cost | Type |             Prerequisites             |
-| --------------------------------------------------------- | :--: | :--: | :-----------------------------------: |
-| Literacy +20                                              | 100  |  S   |             Literacy +10              |
-| Scholastic Lore (Judgement) +20                           | 100  |  S   |    Scholastic Lore (Judgement) +10    |
-| Scholastic Lore (Tactica Imperialis) +10                  | 100  |  S   | Scholastic Lore (Tactica Imperialis)  |
-| Forbidden Lore (Cults) +10                                | 200  |  S   |        Forbidden Lore (Cults)         |
-| Forbidden Lore (Heresy) +10                               | 200  |  S   |        Forbidden Lore (Heresy)        |
-| Forbidden Lore (Mutants) +10                              | 200  |  S   |       Forbidden Lore (Mutants)        |
-| Forbidden Lore (Psykers) +10                              | 200  |  S   |       Forbidden Lore (Psykers)        |
-| Scrutiny +20                                              | 200  |  S   |             Scrutiny +10              |
-| Basic Weapon Training (Melta)                             | 200  |  T   |                   —                   |
-| Dual Shot                                                 | 200  |  T   | Ag 40, Two-Weapon Wielder (Ballistic) |
-| Dual Strike                                               | 200  |  T   |   Ag 40, Two-Weapon Wielder (Melee)   |
-| Heavy Weapon Training (Bolt)                              | 200  |  T   |                   —                   |
-| Hip Shooting                                              | 200  |  T   |             BS 40, Ag 40              |
-| Independent Targeting                                     | 200  |  T   |                 BS 40                 |
-| Iron Discipline                                           | 200  |  T   |            WP 30, Command             |
-| Peer (Nobility)                                           | 200  |  T   |                Fel 30                 |
-| Pistol Training (Melta)                                   | 200  |  T   |                   —                   |
-| Talented (Command)                                        | 200  |  T   |                Command                |
-| Wall of Steel                                             | 200  |  T   |                 Ag 35                 |
-| Forbidden Lore (Inquisition)                              | 300  |  S   |                   —                   |
-| Crack Shot                                                | 300  |  T   |                 BS 40                 |
-| Lightning Attack                                          | 300  |  T   |             Swift Attack              |
-| Sound Constitution†                                       | 300  |  T   |                   —                   |
-| †*You may take this Talent up to two times at this Rank.* |      |      |                                       |
+| Advance                                                               | Cost | Type |             Prerequisites             |
+| --------------------------------------------------------------------- | :--: | :--: | :-----------------------------------: |
+| [Literacy +20](Skills.md#literacy)                                    | 100  |  S   |             Literacy +10              |
+| [Scholastic Lore (Judgement) +20](Skills.md#scholastic-lore)          | 100  |  S   |    Scholastic Lore (Judgement) +10    |
+| [Scholastic Lore (Tactica Imperialis) +10](Skills.md#scholastic-lore) | 100  |  S   | Scholastic Lore (Tactica Imperialis)  |
+| [Forbidden Lore (Cults) +10](Skills.md#forbidden-lore)                | 200  |  S   |        Forbidden Lore (Cults)         |
+| [Forbidden Lore (Heresy) +10](Skills.md#forbidden-lore)               | 200  |  S   |        Forbidden Lore (Heresy)        |
+| [Forbidden Lore (Mutants) +10](Skills.md#forbidden-lore)              | 200  |  S   |       Forbidden Lore (Mutants)        |
+| [Forbidden Lore (Psykers) +10](Skills.md#forbidden-lore)              | 200  |  S   |       Forbidden Lore (Psykers)        |
+| [Scrutiny +20](Skills.md#scrutiny)                                    | 200  |  S   |             Scrutiny +10              |
+| [Basic Weapon Training (Melta)](Talents.md#basic-weapon-training)     | 200  |  T   |                   —                   |
+| [Dual Shot](Talents.md#dual-shot)                                     | 200  |  T   | Ag 40, Two-Weapon Wielder (Ballistic) |
+| [Dual Strike](Talents.md#dual-strike)                                 | 200  |  T   |   Ag 40, Two-Weapon Wielder (Melee)   |
+| [Heavy Weapon Training (Bolt)](Talents.md#heavy-weapon-training)      | 200  |  T   |                   —                   |
+| [Hip Shooting](Talents.md#hip-shooting)                               | 200  |  T   |             BS 40, Ag 40              |
+| [Independent Targeting](Talents.md#independent-targeting)             | 200  |  T   |                 BS 40                 |
+| [Iron Discipline](Talents.md#iron-discipline)                         | 200  |  T   |            WP 30, Command             |
+| [Peer (Nobility)](Talents.md#**peer**)                                | 200  |  T   |                Fel 30                 |
+| [Pistol Training (Melta)](Talents.md#pistol-training)                 | 200  |  T   |                   —                   |
+| [Talented (Command)](Talents.md#talented)                             | 200  |  T   |                Command                |
+| [Wall of Steel](Talents.md#wall-of-steel)                             | 200  |  T   |                 Ag 35                 |
+| [Forbidden Lore (Inquisition)](Skills.md#forbidden-lore)              | 300  |  S   |                   —                   |
+| [Crack Shot](Talents.md#crack-shot)                                   | 300  |  T   |                 BS 40                 |
+| [Lightning Attack](Talents.md#lightning-attack)                       | 300  |  T   |             Swift Attack              |
+| [Sound Constitution†](Talents.md#sound-constitution)                  | 300  |  T   |                   —                   |
+| †*You may take this Talent up to two times at this Rank.*             |      |      |                                       |
 
 ## **Proctor Advances**
 
@@ -304,30 +304,30 @@ The Justicar brings the light of the Emperor's judgement to decadent nobles, cor
 
 Proctors lead Adeptes Arbites riot squads and suppression forces against highly armed, and highly foolish, criminals.
 
-| Advance                           | Cost | Typ |             Prerequisites              |
-| --------------------------------- | :--: | :-: | :------------------------------------: |
-| Climb +20                         | 100  |  S  |               Climb +10                |
-| Command                           | 100  |  S  |                   —                    |
-| Interrogation +20                 | 100  |  S  |           Interrogation +10            |
-| Intimidation +20                  | 100  |  S  |            Intimidation +10            |
-| Survival +10                      | 100  |  S  |                Survival                |
-| Tracking +20                      | 100  |  S  |              Tracking +10              |
-| Arms Master                       | 100  |  T  | BS 30, Basic Weapon Training (any two) |
-| Hip Shooting                      | 100  |  T  |              BS 40, Ag 40              |
-| Ciphers (War Cant)                | 200  |  S  |                   —                    |
-| Evaluate +10                      | 200  |  S  |                Evaluate                |
-| Secret Tongue (Military)          | 200  |  S  |                   —                    |
-| Basic Weapon Training (Melta)     | 200  |  T  |                   —                    |
-| Blind Fighting                    | 200  |  T  |                 Per 30                 |
-| Heavy Weapon Training (Bolt)      | 200  |  T  |                   —                    |
-| Heavy Weapon Training (Las)       | 200  |  T  |                   —                    |
-| Heavy Weapon Training (Launcher)  | 200  |  T  |                   —                    |
-| Heavy Weapon Training (Primitive) | 200  |  T  |                   —                    |
-| Marksman                          | 200  |  T  |                 BS 35                  |
-| Melee Weapon Training (Power)     | 200  |  T  |                   —                    |
-| Pistol Training (Melta)           | 200  |  T  |                   —                    |
-| Lightning Attack                  | 300  |  T  |              Swift Attack              |
-| Sound Constitution                | 300  |  T  |                   —                    |
+| Advance                                                               | Cost | Typ |             Prerequisites              |
+| --------------------------------------------------------------------- | :--: | :-: | :------------------------------------: |
+| [Climb +20](Skills.md#climb)                                          | 100  |  S  |               Climb +10                |
+| [Command](Skills.md#command)                                          | 100  |  S  |                   —                    |
+| [Interrogation +20](Skills.md#interrogation)                          | 100  |  S  |           Interrogation +10            |
+| [Intimidation +20](Skills.md#intimidate)                              | 100  |  S  |            Intimidation +10            |
+| [Survival +10](Skills.md#survival)                                    | 100  |  S  |                Survival                |
+| [Tracking +20](Skills.md#tracking)                                    | 100  |  S  |              Tracking +10              |
+| [Arms Master](Talents.md#arms-master)                                 | 100  |  T  | BS 30, Basic Weapon Training (any two) |
+| [Hip Shooting](Talents.md#hip-shooting)                               | 100  |  T  |              BS 40, Ag 40              |
+| [Ciphers (War Cant)](Skills.md#ciphers)                               | 200  |  S  |                   —                    |
+| [Evaluate +10](Skills.md#evaluate)                                    | 200  |  S  |                Evaluate                |
+| [Secret Tongue (Military)](Skills.md#secret-tongue)                   | 200  |  S  |                   —                    |
+| [Basic Weapon Training (Melta)](Talents.md#basic-weapon-training)     | 200  |  T  |                   —                    |
+| [Blind Fighting](Talents.md#blind-fighting)                           | 200  |  T  |                 Per 30                 |
+| [Heavy Weapon Training (Bolt)](Talents.md#heavy-weapon-training)      | 200  |  T  |                   —                    |
+| [Heavy Weapon Training (Las)](Talents.md#heavy-weapon-training)       | 200  |  T  |                   —                    |
+| [Heavy Weapon Training (Launcher)](Talents.md#heavy-weapon-training)  | 200  |  T  |                   —                    |
+| [Heavy Weapon Training (Primitive)](Talents.md#heavy-weapon-training) | 200  |  T  |                   —                    |
+| [Marksman](Talents.md#marksman)                                       | 200  |  T  |                 BS 35                  |
+| [Melee Weapon Training (Power)](Talents.md#melee-weapon-training)     | 200  |  T  |                   —                    |
+| [Pistol Training (Melta)](Talents.md#pistol-training)                 | 200  |  T  |                   —                    |
+| [Lightning Attack](Talents.md#lightning-attack)                       | 300  |  T  |              Swift Attack              |
+| [Sound Constitution](Talents.md#sound-constitution)                   | 300  |  T  |                   —                    |
 
 ## **Marshal Advances**
 
@@ -335,25 +335,25 @@ Proctors lead Adeptes Arbites riot squads and suppression forces against highly 
 
 Marshals take the rule of law to the darkest dens of scum and depravity, dispensing justice in a bright arc of muzzle flare.
 
-| Advance                                                   | Cost | Type |             Prerequisites             |
-| --------------------------------------------------------- | :--: | :--: | :-----------------------------------: |
-| Command +10                                               | 100  |  S   |                Command                |
-| Scholastic Lore (Tactica Imperialis) +10                  | 100  |  S   | Scholastic Lore (Tactica Imperialis)  |
-| Security +20                                              | 100  |  S   |             Security +10              |
-| Bulging Biceps                                            | 100  |  T   |                 S 45                  |
-| Dual Shot                                                 | 100  |  T   | Ag 40, Two-Weapon Wielder (Ballistic) |
-| Independent Targeting                                     | 100  |  T   |                 BS 40                 |
-| Iron Discipline                                           | 100  |  T   |            WP 30, Command             |
-| Resistance (Poisons)                                      | 100  |  T   |                   —                   |
-| Common Lore (War)                                         | 200  |  S   |                   —                   |
-| Gunslinger                                                | 200  |  T   | BS 40, Two-Weapon Wielder (Ballistic) |
-| Heavy Weapon Training (Plasma)                            | 200  |  T   |                   —                   |
-| Peer (Inquisition)                                        | 200  |  T   |                Fel 30                 |
-| Peer (Military)                                           | 200  |  T   |                Fel 30                 |
-| Crack Shot                                                | 300  |  T   |                 BS 40                 |
-| Last Man Standing                                         |      |      |                                       |
-| Sound Constitution†                                       | 300  |  T   |                   —                   |
-| †*You may take this Talent up to two times at this Rank.* |      |      |                                       |
+| Advance                                                               | Cost | Type |             Prerequisites             |
+| --------------------------------------------------------------------- | :--: | :--: | :-----------------------------------: |
+| [Command +10](Skills.md#command)                                      | 100  |  S   |                Command                |
+| [Scholastic Lore (Tactica Imperialis) +10](Skills.md#scholastic-lore) | 100  |  S   | Scholastic Lore (Tactica Imperialis)  |
+| [Security +20](Skills.md#security)                                    | 100  |  S   |             Security +10              |
+| [Bulging Biceps](Talents.md#bulging-biceps)                           | 100  |  T   |                 S 45                  |
+| [Dual Shot](Talents.md#dual-shot)                                     | 100  |  T   | Ag 40, Two-Weapon Wielder (Ballistic) |
+| [Independent Targeting](Talents.md#independent-targeting)             | 100  |  T   |                 BS 40                 |
+| [Iron Discipline](Talents.md#iron-discipline)                         | 100  |  T   |            WP 30, Command             |
+| [Resistance (Poisons)](Talents.md#resistance)                         | 100  |  T   |                   —                   |
+| [Common Lore (War)](Skills.md#common-lore)                            | 200  |  S   |                   —                   |
+| [Gunslinger](Talents.md#gunslinger)                                   | 200  |  T   | BS 40, Two-Weapon Wielder (Ballistic) |
+| [Heavy Weapon Training (Plasma)](Talents.md#heavy-weapon-training)    | 200  |  T   |                   —                   |
+| [Peer (Inquisition)](Talents.md#peer)                                 | 200  |  T   |                Fel 30                 |
+| [Peer (Military)](Talents.md#peer)                                    | 200  |  T   |                Fel 30                 |
+| [Crack Shot](Talents.md#crack-shot)                                   | 300  |  T   |                 BS 40                 |
+| [Last Man Standing](Talents.md#last-man-standing)                     |      |      |                                       |
+| [Sound Constitution†](Talents.md#sound-constitution)                  | 300  |  T   |                   —                   |
+| †*You may take this Talent up to two times at this Rank.*             |      |      |                                       |
 
 ## **Lord Marshal Advances**
 
@@ -361,25 +361,25 @@ Marshals take the rule of law to the darkest dens of scum and depravity, dispens
 
 As the Imperium is mighty, so too is the Lord Marshal. His will is not blunted by the petty whims of circumstance. The cold rule of law is his only measure, and woe betide those that fall short.
 
-| Advance                                                   | Cost | Type |              Prerequisites               |
-| --------------------------------------------------------- | :--: | :--: | :--------------------------------------: |
-| Command +20                                               | 100  |  S   |               Command +10                |
-| Scholastic Lore (Judgement) +10                           | 100  |  S   |       Scholastic Lore (Judgement)        |
-| Scholastic Lore (Judgement) +20                           | 100  |  S   |     Scholastic Lore (Judgement) +10      |
-| Scholastic Lore (Tactica Imperialis) +20                  | 100  |  S   | Scholastic Lore (Tactica Imperialis) +10 |
-| Speak Language (High Gothic)                              | 100  |  S   |                    —                     |
-| Into the Jaws of Hell                                     | 100  |  T   |             Iron Discipline              |
-| Common Lore (Administratum) +10                           | 200  |  S   |       Common Lore (Administratum)        |
-| Common Lore (War) +10                                     | 200  |  S   |            Common Lore (War)             |
-| Literacy +10                                              | 200  |  S   |                 Literacy                 |
-| Scholastic Lore (Bureaucracy)                             | 200  |  S   |                    —                     |
-| Scholastic Lore (Philosophy)                              | 200  |  S   |                    —                     |
-| Cleanse and Purify                                        | 200  |  T   |      Basic Weapon Training (Flame)       |
-| Counter Attack                                            | 300  |  T   |                  WS 40                   |
-| Crippling Strike                                          | 300  |  T   |                  WS 50                   |
-| Dual Strike                                               | 300  |  T   |    Ag 40, Two-Weapon Wielder (Melee)     |
-| Duty Unto Death                                           | 300  |  T   |                  WP 45                   |
-| Heavy Weapon Training (Melta)                             | 200  |  T   |                    —                     |
-| Mighty Shot                                               | 300  |  T   |                  BS 40                   |
-| Sound Constitution†                                       | 300  |  T   |                    —                     |
-| †*You may take this Talent up to two times at this Rank.* |      |      |                                          |
+| Advance                                                               | Cost | Type |              Prerequisites               |
+| --------------------------------------------------------------------- | :--: | :--: | :--------------------------------------: |
+| [Command +20](Skills.md#command)                                      | 100  |  S   |               Command +10                |
+| [Scholastic Lore (Judgement) +10](Skills.md#scholastic-lore)          | 100  |  S   |       Scholastic Lore (Judgement)        |
+| [Scholastic Lore (Judgement) +20](Skills.md#scholastic-lore)          | 100  |  S   |     Scholastic Lore (Judgement) +10      |
+| [Scholastic Lore (Tactica Imperialis) +20](Skills.md#scholastic-lore) | 100  |  S   | Scholastic Lore (Tactica Imperialis) +10 |
+| [Speak Language (High Gothic)](Skills.md#speak-language)              | 100  |  S   |                    —                     |
+| [Into the Jaws of Hell](Talents.md#into-the-jaws-of-hell)             | 100  |  T   |             Iron Discipline              |
+| [Common Lore (Administratum) +10](Skills.md#common-lore)              | 200  |  S   |       Common Lore (Administratum)        |
+| [Common Lore (War) +10](Skills.md#common-lore)                        | 200  |  S   |            Common Lore (War)             |
+| [Literacy +10](Skills.md#literacy)                                    | 200  |  S   |                 Literacy                 |
+| [Scholastic Lore (Bureaucracy)](Skills.md#scholastic-lore)            | 200  |  S   |                    —                     |
+| [Scholastic Lore (Philosophy)](Skills.md#scholastic-lore)             | 200  |  S   |                    —                     |
+| [Cleanse and Purify](Talents.md#cleanse-and-purify)                   | 200  |  T   |      Basic Weapon Training (Flame)       |
+| [Counter Attack](Talents.md#counter-attack)                           | 300  |  T   |                  WS 40                   |
+| [Crippling Strike](Talents.md#crippling-strike)                       | 300  |  T   |                  WS 50                   |
+| [Dual Strike](Talents.md#dual-strike)                                 | 300  |  T   |    Ag 40, Two-Weapon Wielder (Melee)     |
+| [Duty Unto Death](Talents.md#duty-unto-death)                         | 300  |  T   |                  WP 45                   |
+| [Heavy Weapon Training (Melta)](Talents.md#heavy-weapon-training)     | 200  |  T   |                    —                     |
+| [Mighty Shot](Talents.md#mighty-shot)                                 | 300  |  T   |                  BS 40                   |
+| [Sound Constitution†](Talents.md#sound-constitution)                  | 300  |  T   |                    —                     |
+| †*You may take this Talent up to two times at this Rank.*             |      |      |                                          |
