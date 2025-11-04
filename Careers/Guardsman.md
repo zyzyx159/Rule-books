@@ -40,11 +40,11 @@ M --> N[Sniper 10,000-14,999]
 graph TD
 T1 --> T2 --> T3 --> T4 --> T5
  
-T1("[[Guardsman#**Conscript Advances**]]" 0-499)
+T1("conscript"[[Guardsman#**Conscript Advances**] 0-499)
 T2("[[Guard 500-999]]")
 T3("[[Armsman 1,000-1,999]]")
 T4("[[Sergeant 2,000-2,999]]")
-T5("[[Veteran 3,000-5,999]]")
+T5("[[Vet]ran 3,000-5,999]]")
 ```
 ## **Conscript Advances**
 
