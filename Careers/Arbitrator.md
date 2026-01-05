@@ -38,30 +38,30 @@ J --> K[Justicar 10,000-14,999]
 
 A Trooper is drilled in combat and his duties to the Imperium: he is stout of heart and eager to enforce the Emperor's law.
 
-| Advance                                                                 | Cost | Type |         Prerequisites         |
-| ----------------------------------------------------------------------- | :--: | :--: | :---------------------------: |
-| [Awareness](Skills.md#awareness)                                        | 100  |  S   |               —               |
-| [Common Lore (Adeptus Arbites)](Skills.md#common-lore)                  | 100  |  S   |               —               |
-| [Common Lore (Adeptus Arbites) +10](Skills.md#common-lore)              | 100  |  S   | Common Lore (Adeptus Arbites) |
-| [Common Lore (Imperium)](Skills.md#common-lore)                         | 100  |  S   |               —               |
-| [Drive (Ground Vehicle)](Skills.md#drive)                               | 100  |  S   |               —               |
-| [Drive (Hover Vehicle)](Skills.md#drive)                                | 100  |  S   |               —               |
-| [Inquiry](Skills.md#inquiry)                                            | 100  |  S   |               —               |
-| [Inquiry +10](Skills.md#inquiry)                                        | 100  |  S   |            Inquiry            |
-| [Literacy](Skills.md#literacy)                                          | 100  |  S   |               —               |
-| [Scrutiny](Skills.md#scrutiny)                                          | 100  |  S   |               —               |
-| [Swim](Skills.md#swim)                                                  | 100  |  S   |               —               |
-| [Basic Weapon Training (Primitive)](Talents.md#basic-weapon-training)   | 100  |  T   |               —               |
-| [Basic Weapon Training (SP)](Talents.md#basic-weapon-training)          | 100  |  T   |               —               |
-| [Melee Weapon Training (Primitive)](Talents.md#melee-weapon-training)   | 100  |  T   |               —               |
-| [Pistol Training (Las)](Talents.md#pistol-training)                     | 100  |  T   |               —               |
-| [Pistol Training (Primitive)](Talents.md#pistol-training)               | 100  |  T   |               —               |
-| [Pistol Training (SP)](Talents.md#pistol-training)                      | 100  |  T   |               —               |
-| [Quick Draw](Talents.md#quick-draw)                                     | 100  |  T   |               —               |
-| [Rapid Reload](Talents.md#rapid-reload)                                 | 100  |  T   |               —               |
-| [Sound Constitution†](Talents.md#sound-constitution)                    | 100  |  T   |               —               |
-| [Thrown Weapon Training (Primitive)](Talents.md#thrown-weapon-training) | 100  |  T   |               —               |
-| †*You may take this Talent up to three times at this Rank.*             |      |      |                               |
+| Advance                                                     | Cost | Type |         Prerequisites         |
+| ----------------------------------------------------------- | :--: | :--: | :---------------------------: |
+| Awareness                                                   | 100  |  S   |               —               |
+| Common Lore (Adeptus Arbites)                               | 100  |  S   |               —               |
+| Common Lore (Adeptus Arbites) +10                           | 100  |  S   | Common Lore (Adeptus Arbites) |
+| Common Lore (Imperium)                                      | 100  |  S   |               —               |
+| Drive (Ground Vehicle)                                      | 100  |  S   |               —               |
+| Drive (Hover Vehicle)                                       | 100  |  S   |               —               |
+| Inquiry                                                     | 100  |  S   |               —               |
+| Inquiry +10                                                 | 100  |  S   |            Inquiry            |
+| Literacy                                                    | 100  |  S   |               —               |
+| Scrutiny                                                    | 100  |  S   |               —               |
+| Swim                                                        | 100  |  S   |               —               |
+| Basic Weapon Training (Primitive)                           | 100  |  T   |               —               |
+| Basic Weapon Training (SP)                                  | 100  |  T   |               —               |
+| Melee Weapon Training (Primitive)                           | 100  |  T   |               —               |
+| Pistol Training (Las)                                       | 100  |  T   |               —               |
+| Pistol Training (Primitive)                                 | 100  |  T   |               —               |
+| Pistol Training (SP)                                        | 100  |  T   |               —               |
+| Quick Draw                                                  | 100  |  T   |               —               |
+| Rapid Reload                                                | 100  |  T   |               —               |
+| Sound Constitution†                                         | 100  |  T   |               —               |
+| Thrown Weapon Training (Primitive)                          | 100  |  T   |               —               |
+| †*You may take this Talent up to three times at this Rank.* |      |      |                               |
 
 ## **Enforcer Advances**
 
