@@ -1810,37 +1810,37 @@ The Rite of Setesh is performed over 3d10+10 days as the character is completely
 
  As the name suggests, this type of augmetic is typically inserted or nestled into the bearer's flesh rather than outright replacing it entirely. A bewildering array of implants can be encountered in the Imperium, with the only real constant between them being that they add some kind of capability or use that the bearer did not have before. Some implant systems can be almost common sights within certain groups well-developed worlds, while others are on fantastically rare and esoteric that are usually made only on a commissioned basis.
 
-| Implants                                                                    |      |      |                |
-| --------------------------------------------------------------------------- | ---- | ---- | -------------- |
-| Name                                                                        | Cost | Test | Availability   |
-| [Auger Implants](Tools%20of%20the%20Trade.md#Auger%20Implants)†                                                        | 1200 | +0   | Rare           |
-| [Bio-Power Cells](Tools%20of%20the%20Trade.md#Bio-Power%20Cells)                                                        | 625  | +10  | Very Rare      |
-| [Calculus Logi Implant](Tools%20of%20the%20Trade.md#Calculus%20Logi%20Implant)                                                  | 4000 | -20  | Very Rare      |
-| [Chem Implant](Tools%20of%20the%20Trade.md#Chem%20Implant)                                                           | -    | -    | -              |
-| - [Chem Gland](Tools%20of%20the%20Trade.md#Chem%20Gland)                                                           | 5000 | -10  | Very Rare      |
-| - [Injector Rig](Tools%20of%20the%20Trade.md#Injector%20Rig)†                                                        | 700  | +10  | Scarce         |
-| [Cranial Reinforcement](Tools%20of%20the%20Trade.md#Cranial%20Reinforcement)                                                  | 1800 | -20  | Rare           |
-| [Cortex Implants](Tools%20of%20the%20Trade.md#Cortex%20Implants)†                                                       | 5500 | -30  | Very Rare      |
-| [Exoskeletal Augmetics](Tools%20of%20the%20Trade.md#Exoskeletal%20Augmetics)†                                                 | 3000 | -10  | Very Rare      |
-| [Internal Blade](Tools%20of%20the%20Trade.md#Internal%20Blade)                                                         | 1000 | +0   | Very Rare      |
-| [Locator Matrix](Tools%20of%20the%20Trade.md#Locator%20Matrix)                                                         | 1550 | -10  | Rare           |
-| [Memorance Unit](Tools%20of%20the%20Trade.md#Memorance%20Unit)                                                         | 2300 | -10  | Rare           |
-| [Mind Impulse Unit](Tools%20of%20the%20Trade.md#Mind%20Impulse%20Unit)                                                      | 1750 | -10  | Rare           |
-| - [Cerebral Plug](Tools%20of%20the%20Trade.md#Cerebral%20Plug)                                                        | 550  | +10  | Scarce         |
-| - [Mind Impulse Unit, Superior](Tools%20of%20the%20Trade.md#Mind%20Impulse%20Unit,%20Superior)                                          | 5200 | -20  | Very Rare      |
-| - [Mind-Weapon Interface](Tools%20of%20the%20Trade.md#Mind-Weapon%20Interface)                                                | 1100 | -10  | Rare           |
-| [Pain Ward](Tools%20of%20the%20Trade.md#Pain%20Ward)                                                              | 4000 | -20  | Extremely Rare |
-| [Respiratory Purifier Implant](Tools%20of%20the%20Trade.md#Respiratory%20Purifier%20Implant)                                           | 750  | -10  | Rare           |
-| [Scribe-Tines](Tools%20of%20the%20Trade.md#Scribe-Tines)                                                           | 600  | +0†† | Scarce         |
-| [Sub-dermal Armour](Tools%20of%20the%20Trade.md#Sub-dermal%20Armour)                                                      | 2700 | -20  | Very Rare      |
-| [Synth-Muscle](Tools%20of%20the%20Trade.md#Synth-Muscle)                                                           | 2500 | -20  | Rare           |
-| - [Synth-Muscle (huge)](Tools%20of%20the%20Trade.md#Synth-Muscle%20(huge))                                                  | 3750 | -30  | Very Rare      |
-| [Vehicle Interface Circuitry](Tools%20of%20the%20Trade.md#Vehicle%20Interface%20Circuitry)                                            | 1500 | +10  | Scarce         |
-| [Vitae Supplaceor](Tools%20of%20the%20Trade.md#Vitae%20Supplaceor)                                                       | 5500 | -20  | Very Rare      |
-| [Void skin](Tools%20of%20the%20Trade.md#Void%20skin)                                                              | 2000 | -10  | Extremely Rare |
-| [Vox plant](Tools%20of%20the%20Trade.md#Vox%20plant)                                                              | 300  | +0   | Scarce         |
-| † This item's Craftsmanship has one or more special effects                 |      |      |                |
-| †† Attaching this bionic requires a Tech-Use Test instead of a Medicae Test |      |      |                |
+| Implants                                                                                       |      |      |                |
+| ---------------------------------------------------------------------------------------------- | ---- | ---- | -------------- |
+| Name                                                                                           | Cost | Test | Availability   |
+| [Auger Implants](Tools%20of%20the%20Trade.md#Auger%20Implants)†                                | 1200 | +0   | Rare           |
+| [Bio-Power Cells](Tools%20of%20the%20Trade.md#Bio-Power%20Cells)                               | 625  | +10  | Very Rare      |
+| [Calculus Logi Implant](Tools%20of%20the%20Trade.md#Calculus%20Logi%20Implant)                 | 4000 | -20  | Very Rare      |
+| [Chem Implant](Tools%20of%20the%20Trade.md#Chem%20Implant)                                     | -    | -    | -              |
+| - [Chem Gland](Tools%20of%20the%20Trade.md#Chem%20Gland)                                       | 5000 | -10  | Very Rare      |
+| - [Injector Rig](Tools%20of%20the%20Trade.md#Injector%20Rig)†                                  | 700  | +10  | Scarce         |
+| [Cranial Reinforcement](Tools%20of%20the%20Trade.md#Cranial%20Reinforcement)                   | 1800 | -20  | Rare           |
+| [Cortex Implants](Tools%20of%20the%20Trade.md#Cortex%20Implants)†                              | 5500 | -30  | Very Rare      |
+| [Exoskeletal Augmetics](Tools%20of%20the%20Trade.md#Exoskeletal%20Augmetics)†                  | 3000 | -10  | Very Rare      |
+| [Internal Blade](Tools%20of%20the%20Trade.md#Internal%20Blade)                                 | 1000 | +0   | Very Rare      |
+| [Locator Matrix](Tools%20of%20the%20Trade.md#Locator%20Matrix)                                 | 1550 | -10  | Rare           |
+| [Memorance Unit](Tools%20of%20the%20Trade.md#Memorance%20Unit)                                 | 2300 | -10  | Rare           |
+| [Mind Impulse Unit](Tools%20of%20the%20Trade.md#Mind%20Impulse%20Unit)                         | 1750 | -10  | Rare           |
+| - [Cerebral Plug](Tools%20of%20the%20Trade.md#Cerebral%20Plug)                                 | 550  | +10  | Scarce         |
+| - [Mind Impulse Unit, Superior](Tools%20of%20the%20Trade.md#Mind%20Impulse%20Unit,%20Superior) | 5200 | -20  | Very Rare      |
+| - [Mind-Weapon Interface](Tools%20of%20the%20Trade.md#Mind-Weapon%20Interface)                 | 1100 | -10  | Rare           |
+| [Pain Ward](Tools%20of%20the%20Trade.md#Pain%20Ward)                                           | 4000 | -20  | Extremely Rare |
+| [Respiratory Purifier Implant](Tools%20of%20the%20Trade.md#Respiratory%20Purifier%20Implant)   | 750  | -10  | Rare           |
+| [Scribe-Tines](Tools%20of%20the%20Trade.md#Scribe-Tines)                                       | 600  | +0†† | Scarce         |
+| [Sub-dermal Armour](Tools%20of%20the%20Trade.md#Sub-dermal%20Armour)                           | 2700 | -20  | Very Rare      |
+| [Synth-Muscle](Tools%20of%20the%20Trade.md#Synth-Muscle)                                       | 2500 | -20  | Rare           |
+| - [Synth-Muscle (huge)](Tools%20of%20the%20Trade.md#Synth-Muscle%20(huge))                     | 3750 | -30  | Very Rare      |
+| [Vehicle Interface Circuitry](Tools%20of%20the%20Trade.md#Vehicle%20Interface%20Circuitry)     | 1500 | +10  | Scarce         |
+| [Vitae Supplaceor](Tools%20of%20the%20Trade.md#Vitae%20Supplaceor)                             | 5500 | -20  | Very Rare      |
+| [Void skin](Tools%20of%20the%20Trade.md#Void%20skin)                                           | 2000 | -10  | Extremely Rare |
+| [Vox plant](Tools%20of%20the%20Trade.md#Vox%20plant)                                           | 300  | +0   | Scarce         |
+| † This item's Craftsmanship has one or more special effects                                    |      |      |                |
+| †† Attaching this bionic requires a Tech-Use Test instead of a Medicae Test                    |      |      |                |
 #### Auger Implants
 
 Compact yet sophisticated sensorum suites can be physically integrated with the nervous system and brain, granting the bearer enhanced perceptive abilities beyond the fundamental senses. Fiber-thin wires are carefully inserted into different areas of the brain and connected to a tiny logis stack implanted in the base of the skull to process the additional flow of sensory data. Externally, the bearer might sport a few small metallic studs or ports on their head, but on the whole the implant is unobtrusive unless the bearer desires a more dramatic effect (tech-priests are particularly wont to do this, sometimes bearing additional cybernetic eyes or glowing vox detectors). The bearer can activate their augers simply through mental concentration, augmenting or subsuming their normal senses briefly to consult what others could never perceive without the aid of an auspex. Of course, like many other types of scanner, an auger implant isn't infallible and can be prone to interference and "false positive" findings - those who bear these augmetics should reserve their best judgement when their implant and biological senses sharply contradict.
