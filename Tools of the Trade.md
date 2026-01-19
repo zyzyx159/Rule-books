@@ -162,7 +162,8 @@ Photo-visors use complex electrically-powered filtration lenses to amplify ambie
 
 Good Craftsmanship photo-visors can employ more sophisticated filtration systems to shield the wearer from exceptionally bright light, rendering them immune to the blinding effects of photon flash grenades and similar devices.
 
-Photo-Contacts: These superior pieces of gear utilize the same equipment as photo-visors but in a much more compact profile, granting similar effects to the wearer but in the form of unobtrusive contact lenses.
+#### Photo-Contacts:
+These superior pieces of gear utilize the same equipment as photo-visors but in a much more compact profile, granting similar effects to the wearer but in the form of unobtrusive contact lenses.
 
 ### Re-Breather
 
@@ -327,37 +328,37 @@ When a targeting monocle is created it may duplicate the effects of any one weap
 
 Giving the incredible breadth and span of the Imperium of Man, it is no surprise that there are a staggering array of food, drink, intoxicants, drugs, and other items meant to be taken into the body. Some alter the consumer's mindset or perception, others can fulfill valuable medical needs, while many more simply sustain important biological functions. To attempt to codify a complete list of edibles and drinkables consumed within the God-Emperor's domain would be an impossible undertaking even for a battalion of expert lexmechanics, but some more common items that an Acolyte of the Calixian Conclave might find during the course of his duties are listed here. An appendix containing more specialized or region/world-specific consumables follows.
 
-| Drugs & Consumables                                                           |        |        |              |
-| ----------------------------------------------------------------------------- | ------ | ------ | ------------ |
-| Name                                                                          | Weight | Cost   | Availability |
-| [Amasec](Tools%20of%20the%20Trade.md#Amasec) (bottle)                                                          | 1kg    | 50+    | Scarce       |
-| [Attention Spanner (Drug)](Tools%20of%20the%20Trade.md#Attention%20Spanner%20(Drug))† (dose)                                         | -      | 45     | Rare         |
-| [Calmer (Drug)](Tools%20of%20the%20Trade.md#Calmer%20(Drug)) (dose)                                                     | -      | 20     | Plentiful    |
-| [Combat Ration Pack](Tools%20of%20the%20Trade.md#Combat%20Ration%20Pack) (day)                                                 | 1kg    | 2      | Plentiful    |
-| [Long Duration Ration Pack](Tools%20of%20the%20Trade.md#Long%20Duration%20Ration%20Pack) (day)                                          | 0.75kg | 5      | Average      |
-| [Emergency Ration Pack](Tools%20of%20the%20Trade.md#Emergency%20Ration%20Pack) (day)                                              | 0.5kg  | 10     | Common       |
-| [De-Tox (Drug)](Tools%20of%20the%20Trade.md#De-Tox%20(Drug)) (dose)                                                     | -      | 65     | Scarce       |
-| [Foodstuffs](Tools%20of%20the%20Trade.md#Foodstuffs) (meal)                                                        | Varies | Varies | Ubiquitous   |
-| [Frenzon (Drug)](Tools%20of%20the%20Trade.md#Frenzon%20(Drug))† (dose)                                                   | -      | 50     | Rare         |
-| [Cold Fire](Tools%20of%20the%20Trade.md#Cold%20Fire)† (dose)                                                        | -      | 200    | Very Rare    |
-| [Ghostfire Pollen Extract](Tools%20of%20the%20Trade.md#Ghostfire%20Pollen%20Extract)† (dose)                                         | -      | 300    | Very Rare    |
-| [Halo (Drug)](Tools%20of%20the%20Trade.md#Halo%20(Drug)) (dose)                                                       | -      | 100    | Common       |
-| [Kick (Drug)](Tools%20of%20the%20Trade.md#Kick%20(Drug))† (dose)                                                      | -      | 55     | Average      |
-| [Lho-Sticks](Tools%20of%20the%20Trade.md#Lho-Sticks)‡ (pack of 20)                                                 | -      | 1      | Abundant     |
-| [Obscura (Drug)](Tools%20of%20the%20Trade.md#Obscura%20(Drug)) cut‡ (dose)                                               | -      | 20     | Scarce       |
-| [Obscura (Drug)](Tools%20of%20the%20Trade.md#Obscura%20(Drug)) pure‡ (dose)                                              | -      | 150    | Rare         |
-| [Ploin Juice](Tools%20of%20the%20Trade.md#Ploin%20Juice) (bottle)                                                     | 0.5kg  | 5      | Scarce       |
-| [Recaf](Tools%20of%20the%20Trade.md#Recaf) (3 cup thermos)                                                    | 1.5kg  | 3+     | Plentiful    |
-| [Rotgut](Tools%20of%20the%20Trade.md#Rotgut) (bottle)                                                          | 1kg    | 3+     | Common       |
-| [Slaught (Drug)](Tools%20of%20the%20Trade.md#Slaught%20(Drug))† (dose)                                                   | -      | 75     | Scarce       |
-| [Spook (Drug)](Tools%20of%20the%20Trade.md#Spook%20(Drug)) (dose)                                                      | -      | 350    | Very Rare    |
-| [Spur (Drug)](Tools%20of%20the%20Trade.md#Spur%20(Drug))†‡ (dose)                                                     | -      | 60     | Scarce       |
-| [Stimm (Drug)](Tools%20of%20the%20Trade.md#Stimm%20(Drug))† (dose)                                                     | -      | 20     | Average      |
-| [Tranq](Tools%20of%20the%20Trade.md#Tranq) (tankard)                                                          | 0.5kg  | 1      | Abundant     |
-| [Truth Serum (Drug)](Tools%20of%20the%20Trade.md#Truth%20Serum%20(Drug)) (dose)                                                | -      | 130    | Rare         |
-| [Wideawake (Drug)](Tools%20of%20the%20Trade.md#Wideawake%20(Drug))† (dose)                                                 | -      | 4      | Plentiful    |
-| †A user can develop immunity to this drug; see Building Immunity sidebar      |        |        |              |
-| ‡ This drug is addictive; see Getting Addicted sidebar and drug's description |        |        |              |
+| Drugs & Consumables                                                                            |        |        |              |
+| ---------------------------------------------------------------------------------------------- | ------ | ------ | ------------ |
+| Name                                                                                           | Weight | Cost   | Availability |
+| [Amasec](Tools%20of%20the%20Trade.md#Amasec) (bottle)                                          | 1kg    | 50+    | Scarce       |
+| [Attention Spanner (Drug)](Tools%20of%20the%20Trade.md#Attention%20Spanner%20(Drug))† (dose)   | -      | 45     | Rare         |
+| [Calmer (Drug)](Tools%20of%20the%20Trade.md#Calmer%20(Drug)) (dose)                            | -      | 20     | Plentiful    |
+| [Combat Ration Pack](Tools%20of%20the%20Trade.md#Combat%20Ration%20Pack) (day)                 | 1kg    | 2      | Plentiful    |
+| [Long Duration Ration Pack](Tools%20of%20the%20Trade.md#Long%20Duration%20Ration%20Pack) (day) | 0.75kg | 5      | Average      |
+| [Emergency Ration Pack](Tools%20of%20the%20Trade.md#Emergency%20Ration%20Pack) (day)           | 0.5kg  | 10     | Common       |
+| [De-Tox (Drug)](Tools%20of%20the%20Trade.md#De-Tox%20(Drug)) (dose)                            | -      | 65     | Scarce       |
+| [Foodstuffs](Tools%20of%20the%20Trade.md#Foodstuffs) (meal)                                    | Varies | Varies | Ubiquitous   |
+| [Frenzon (Drug)](Tools%20of%20the%20Trade.md#Frenzon%20(Drug))† (dose)                         | -      | 50     | Rare         |
+| [Cold Fire](Tools%20of%20the%20Trade.md#Cold%20Fire)† (dose)                                   | -      | 200    | Very Rare    |
+| [Ghostfire Pollen Extract](Tools%20of%20the%20Trade.md#Ghostfire%20Pollen%20Extract)† (dose)   | -      | 300    | Very Rare    |
+| [Halo (Drug)](Tools%20of%20the%20Trade.md#Halo%20(Drug)) (dose)                                | -      | 100    | Common       |
+| [Kick (Drug)](Tools%20of%20the%20Trade.md#Kick%20(Drug))† (dose)                               | -      | 55     | Average      |
+| [Lho-Sticks](Tools%20of%20the%20Trade.md#Lho-Sticks)‡ (pack of 20)                             | -      | 1      | Abundant     |
+| [Obscura (Drug)](Tools%20of%20the%20Trade.md#Obscura%20(Drug)) cut‡ (dose)                     | -      | 20     | Scarce       |
+| [Obscura (Drug)](Tools%20of%20the%20Trade.md#Obscura%20(Drug)) pure‡ (dose)                    | -      | 150    | Rare         |
+| [Ploin Juice](Tools%20of%20the%20Trade.md#Ploin%20Juice) (bottle)                              | 0.5kg  | 5      | Scarce       |
+| [Recaf](Tools%20of%20the%20Trade.md#Recaf) (3 cup thermos)                                     | 1.5kg  | 3+     | Plentiful    |
+| [Rotgut](Tools%20of%20the%20Trade.md#Rotgut) (bottle)                                          | 1kg    | 3+     | Common       |
+| [Slaught (Drug)](Tools%20of%20the%20Trade.md#Slaught%20(Drug))† (dose)                         | -      | 75     | Scarce       |
+| [Spook (Drug)](Tools%20of%20the%20Trade.md#Spook%20(Drug)) (dose)                              | -      | 350    | Very Rare    |
+| [Spur (Drug)](Tools%20of%20the%20Trade.md#Spur%20(Drug))†‡ (dose)                              | -      | 60     | Scarce       |
+| [Stimm (Drug)](Tools%20of%20the%20Trade.md#Stimm%20(Drug))† (dose)                             | -      | 20     | Average      |
+| [Tranq](Tools%20of%20the%20Trade.md#Tranq) (tankard)                                           | 0.5kg  | 1      | Abundant     |
+| [Truth Serum (Drug)](Tools%20of%20the%20Trade.md#Truth%20Serum%20(Drug)) (dose)                | -      | 130    | Rare         |
+| [Wideawake (Drug)](Tools%20of%20the%20Trade.md#Wideawake%20(Drug))† (dose)                     | -      | 4      | Plentiful    |
+| †A user can develop immunity to this drug; see Building Immunity sidebar                       |        |        |              |
+| ‡ This drug is addictive; see Getting Addicted sidebar and drug's description                  |        |        |              |
 [Frontier Consumables](Tools%20of%20the%20Trade.md#Frontier%20Consumables)
 [Specialty Consumables](Tools%20of%20the%20Trade.md#Specialty%20Consumables)
 ### BUILDING IMMUNITY
