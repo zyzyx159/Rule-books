@@ -24,11 +24,11 @@ The following Alternate Career Ranks may be selected by Clerics.
 
 *“I charge thee, foul spirit, whatever thy corrupt nature, along with all thy twisted minions now possessing this servant of the God-Emperor, by the mysteries of his holy ascension and enduring sacrifice in the sacred chains of the Golden Throne, that you tell me by some sign thy name, and the day and hour of thy departure. I compel thee, moreover, to obey me to the letter, I who am a humble servant of the God-Emperor. Depart, then, despised transgressor. Depart and burn forever in the outer darkness that awaits thee and thy benighted kin!”*
 
-— Extract from the Codex Exorcismus
+— extract from the Codex Exorcismus
 ### **Background**
 The senior members of the Adeptus Ministorum are fully aware that daemons are no mere allegory for wickedness, but real, unclean and unquiet spirits lurking in the warp, seeking to devour the souls of the faithful. The prelates and other high-ranking clergy fear the influence of these beings, and rightly so, for they are the antithesis of all for which the God-Emperor’s church stands, and their hunger is unending.
 
-The Ministorum is not tasked with combating these entities: that is the role of the daemon hunters of the Ordo Malleus. However, a notable exception is made for the practice of exorcism, expelling daemonic presence from a possessed host. Such sinister machinations are often quite subtle, eluding detection in low hive hab-stacks and frontier parishes as the daemon works to sow discord, fear, and heresy among the faithful. It is the charge of the exorcist to identify these benighted souls and cast the daemon out of them back to whatever of the myraid hells spawned their loathsome existence. In this way, even humble clerics can do their part in waging war against Mankind's greatest enemy.
+The Ministorum is not tasked with combating these entities: that is the role of the daemon hunters of the Ordo Malleus. However, a notable exception is made for the practice of exorcism, expelling daemonic presence from a possessed host. Such sinister machinations are often quite subtle, eluding detection in low hive hab-stacks and frontier parishes as the daemon works to sow discord, fear, and heresy among the faithful. It is the charge of the exorcist to identify these benighted souls and cast the daemon out of them back to whatever of the myriad hells spawned their loathsome existence. In this way, even humble clerics can do their part in waging war against Mankind's greatest enemy.
 
 The Archexorcist, an esteemed rank created by then-Cardinal Ignato Borja, is facially a more respected member of this brotherhood of daemon banishers, invested with greater authority within the Sector Synod to investigate rumours of possession and expel daemons from the bodies of the faithful. However, this is something of a ruse by the politically-savvy Ignato—the Archexorcists are more akin to his own contingent of holy warriors, and are skilled in far more than just liturgy and exorcism. Suspicious of the Black Orders and their close ties to the Ordo Malleus of the Inquisition, the now Archcardinal used his considerable resources to obtain all matters of proscribed texts on daemonology and rare, valuable equipment to aid his henchmen in their righteous task. The end result is a functionally parallel coterie of daemon hunters, capable and knowledgeable fighters in their own right, but whose loyalty lies personally with the Archcardinal himself.
 
@@ -81,7 +81,7 @@ Reliquary 26 works quite closely with the larger Ordos of the Inquisition. Often
 An experienced servant of Reliquary 26 is an indispensable resource to an Acolyte cell. When dealing with nobility or other well-to-do types, or in areas where ancient or xenos technology may
 be encountered, an Inquisitor would be well served by requisitioning an Agent of Reliquary 26's services. Such Agents usually only serve the Inquisitor the duration of the investigation at hand. Inquisitors who must regularly navigate such treacherous situations have been known to second a trusted Acolyte to the Custodiatrix to be trained in their ways, effectively gaining a permanent "representative" to Reliquary 26's hallowed armoury. As the point of contact between the Grand Reliquarium and the often covetous owners of the sought-after artefacts, most Agents become quite adept at negotiation and tradecraft. Such skills can be invaluable to an Acolyte cell, especially in situations where a hostile acquisition could be more troublesome than normal.
 
-**Required Career:** Any Career
+**Required Career:** Any
 **Alternate Rank:** Rank 4 or higher (2,000 xp)
 **Other Requirements:** Must have acquired one item of Near Unique Availability or rarer, and turned it over to his Inquisitor or directly to the Grand Reliquarium.
 **Aggrieved Parties:** Even if the character has not personally wronged them, at least one group of well-heeled individuals gravely dislikes Reliquary 26. The character gains the [Rival (Ecclesiarchy), (Nobility), or (Rogue Trader)](talents.md#rival) Talent at the GM's discretion.
@@ -118,7 +118,7 @@ be encountered, an Inquisitor would be well served by requisitioning an Agent of
 
 *"To defeat the Daemon, you must hate the Daemon. To hate the Daemon, you must know the Daemon. To know the Daemon is to know madness."*
 
-— Daemon hunter proverb
+— daemon hunter proverb
 ### **Background**
 In the eternal battle against the Enemy Beyond, faith and knowledge are powerful weapons. Few within the Holy Ordos wield these weapons with greater prowess than the Banisher. Whether stalking the darkest halls of a hive librarium in search of omens or enacting the Rites of Dispossession in the fields of battle, daemonic lore is vitally important to the servants of the Collegia Exterminatus.
 
@@ -239,7 +239,6 @@ As sin is immortal, the Confessor's work is never truly done. Having heard the c
 Confessors, being powerful men of faith and often of no fixed address, are frequently seconded to Imperial Guard regiments, Planetary Defence Forces, and other militant organisations that can use some extra spiritual backbone. The Confessor's rhetoric and evangelising strengthens the fighting men's resolve, absolving them of their sins and urging them to greater feats of bravery in the battle to come. The Confessor's talents at identifying recusant sinners and dragging them back into the God-Emperor's good graces is especially useful here, as there are ample examples of crushing military defeats have been brought about by the moral failings of a few men at an inopportune moment. 
 
 For many of the same reasons, a Confessor can be an ideal Acolyte for more puritanical Inquisitors. Largely unconnected to the Ecclesiarchy's political manoeuvrings and the trappings of high office, Confessors are often indifferent to what they perceive as frivolities of station and other excessive formalities. If service in an Inquisitor's retinue will help him save the souls of more sinners—and in Inquisitorial work, these tend to be in high number—a Confessor is likely to leap at the chance. The Confessor's various methods of compelling a confession from from the recalcitrant is a particular boon, and there are many puritanical Interrogators who were once ordinary Confessors who simply answered a higher calling.
-
 ### **Becoming a Confessor**
 While many Confessors operating in the Calixis Sector are trained at one of the Adeptus Ministorum's special shrines, a sort of Ecclesiastical schola to teach the various methods of eliciting repentance, quite a few are trained in private by experienced Confessors in the course of their travels. A great many itinerant Confessors began as novices learning under a wizened expert, and it is not at all uncommon to encounter a Confessor plying his trade with the assistance of a hopeful candidate. Some novice Clerics come quickly to the Confessor's craft, especially those of particularly pure heart and mind, while others realise their true calling later in their careers, often after chafing under what they see as unnecessary pomposity and ceremony within the Ecclesiarchy's rigid structures. 
 
@@ -333,7 +332,7 @@ The Cult of the Pure Form is not a secretive group, in which members meet covert
 | **Gift of Purity**                                                        |  †   | Talent | —                                 |
 | **Purity of Flesh**                                                       |  †   | Talent | —                                 |
 | **Reformed Skin**                                                         |  †   | Talent | Gift of Purity or Purity of Flesh |
-*† This Talent has no xp cost, but can only be selected under specific circumstances. See each Talent's description for details.*
+*†This Talent has no xp cost, but can only be selected under specific circumstances. See each Talent's description for details.*
 #### **Talent: Gift of Purity**
 The Acolyte has forsaken the cybernetic, cast out the desire for the bionic, and joined the ranks of the Untouched. Never will sacred flesh be sullied by the implantation of devices that rob the Acolyte of his purity. The character cannot, under any circumstances, choose or accept the implantation of cybernetics/bionics, even if the result of refusing them would result in certain death. If the character finds himself implanted with cybernetics/bionics against his will, then he must remove them as soon as possible, replacing this Talent with the Purity of Flesh instead. 
 
@@ -404,12 +403,11 @@ The Seeker now begins to understand the True Name of the daemon on a conceptual 
 The Seeker has mastery over his foe's True Name, understanding all its subtle nuances and pronunciation along with any other verbal or somatic cues needed to recite it. Within the Ordo Malleus puritans view this as pure heresy, whilst radicals see perhaps one of the most powerful weapons one can wield against the daemon. The character gains a +30 bonus to any Tests made as part of a ritual against the daemon, and may attempt to banish the daemon from the materium simply by repeatedly reciting its name (see Banishment below).
 
 **Banishment:** As a Full Action the character makes a Literacy Test opposed by the daemon's Willpower. If the character succeeds reciting the daemon's True Name it suffers 1d10 Damage, plus another 1d10 for every degree of success the character achieves. This Damage is considered Sanctified, and is not reduced by the daemon's Armour (though it is reduced by Toughness). The Damage can be any type the GM deems appropriate. If the daemon is slain from Damage inflicted by Banishment it cannot return to the materium again for quite some time, and in any event is unlikely to cause the Acolytes any further trouble.
-
 ## **Demagogue**
 
 *“You have been forsaken! You have been enslaved by lies, beaten by injustice, and bled by greed, but you have not bowed your heads or bent your knees. If it takes a thousand years and a river of blood, then so be it, but we will be free!”*
 
-— Unidentified heretic on Tranch prior to the rising of the Pale Throng 
+— unidentified heretic on Tranch prior to the rising of the Pale Throng 
 ### **Background**
 Demagogues are rabble rousers and agitators who can sway great crowds with their words. These fiery orators may be cult leaders, idealists, madmen, fanatics, or subtle manipulators and agent provocateurs. All, however, have the skill to draw crowds together with words, bind them with rhetoric, and loose them on a target like a pack of dogs. Worlds have burned because of the actions of such men and women. Some wish for nothing more than to see the world around them torn down and set aflame, to stoke the fires of anger and dissent to the point of an all-consuming inferno. Others are created by the injustices done to them or those around them, injustices that push the demagogue past the confines of society and into open insurrection against those in authority or anyone else the demagogue believes to have wronged them. Many Demagogues within the Imperium are touched with such conviction and faith that they use their skills to build crusades of the credulous and desperate.
 
@@ -467,7 +465,7 @@ According to the legend, while in transit to the next war zone a great warship c
 Those who serve the Ecclesiarchy are often drafted into the Frateris Militia to serve in times of need. While not formally trained or given a wage as members of a proper military would be, they are excused from other official duties during their service. Anyone with strong loyalty to the Ecclesiarchy and a willingness to take up arms against mankind's enemies could have served in a Frateris Militia, and any Inquisitor worth his salt would value a man of faith who also happens to be proficient in combat as a member of an Acolyte cell.
 
 **Required Career:** Adept, Cleric, or Scum
-**Alternate Rank:** Rank 1 or higher (0 xp).
+**Alternate Rank:** Rank 1 or higher (0 xp)
 **Militia Service:** A character who replaces Rank 1 with Frateris Militia also replaces all starting equipment with a Las Carbine or Hunting Rifle and 2 reloads, Aquila Necklace, a Charm, a Knife, a backpack and a Flak Vest.
 **Brothers in Arms:** As the name implies, only male characters may become members of a Frateris Militia. With the (very) notable exception of the Adepta Soroitas, the Ecclesiarchy disdains the idea of expending women in combat.
 #### **Table: Frateris Militia Advances**
@@ -488,7 +486,7 @@ Those who serve the Ecclesiarchy are often drafted into the Frateris Militia to 
 | [Sound Constitution](talents.md#sound%20constitution)†                    | 100  | Talent | —             |
 | [Frenzy](talents.md#frenzy)                                               | 200  | Talent | —             |
 | [Insanely Faithful](talents.md#insanely%20faithful)                       | 200  | Talent | —             |
-*† This Talent may be taken up to two times for this Alternate Rank.*
+*†This Talent may be taken up to two times for this Alternate Rank.*
 ## **Forsaken Priest**
 
 *“Any grace that was mine is gone. I am a priest of a church of bones and all my flock are grinning skulls and ashes. I am no longer a man: I am a thing made of bleak knowledge, squandered purity and regret.”*
@@ -653,7 +651,7 @@ The character is intimately familiar with the use of Flame weapons and likely ha
 
 *"Any problem in the world can be solved with the careful application of high explosives. The trick is not to be around when they go off."*
 
-— Attributed to an ancient Terran warlord
+— attributed to an ancient Terran warlord
 ### **Background**
  It is said by some of the more philosophically-minded Administratum thralls that everything within the Imperium is connected by endless invisible threads of interdependence, a vast web of commerce, trade, and movement of men that binds the whole together. From the astropathic messages brought to the table of a lord, to the food eaten by the lowest worker in a forge, all depends on something else to exist, and those in turn on other things. These threads of reliance form a vast entanglement of power and stability on which order, faith, and indeed survival itself depends. It is the destruction of these threads that is the Saboteur’s purpose, and for many, their most beloved art.
 
@@ -692,7 +690,7 @@ A Saboteur's qualifications are deceptively simple: move surreptitiously and cau
 
 *"And who am I to be this year, hmm? A wealthy functionary in a dubious merchant guild? No? Hmm, perhaps a pampered Ecclesiastic keeping watch for detestable heresy within a suspect sect? Still no, eh? Well then, can I spend the majority of this mission indoors at least? Another Imperial Guard unit? How do heretics keep managing to sneak into those! Well at least I won't remember any of it after retrieval..."*
 
-— A Slate-Agent, currently named Cavel Posdanik
+— a Slate-Agent, currently named Cavel Posdanik
 ### **Background**
 On the planet of Malfi, a place often considered the "second capital" of the Calixis Sector, the men and women of the ruling class play a vicious game of politics and favour. This game is played not on any game-board, but in every palace, mansion, and villa. It is not played with pieces, but with the livelihood of their dynasties. The strategy of this game lies with political manoeuvring and favourable alliances. The stakes of this game are neither bragging rights nor pride, they are the very existence of the noble family, and the rights of rulership. The greatest advantage in this game of political infighting is information, preferably that which could shame and discredit a rival. In the pursuit of this sort of information the noble houses of Malfi have each developed methods particular to their own dynasty. It was for this purpose that the first Slate-Agents were trained. The Malfian house which first created the Slate-Agents is long forgotten, whether fallen to obscurity or risen to heights beyond all recognition, none can say. What is well known, however, is the efficacy of the Slate-Agent as a spy and operative. The secrets of creating a Slate-Agent escaped the Malfian backstabber-lords over a century ago, and other powerful organisations in Calixis — namely the Inquisition and the Adeptus Arbites — are known to employ these unique savant-moles for deep undercover work.
 
@@ -857,7 +855,6 @@ Witchfinders all start from a similar point in their labours, but tend to be qui
 Typically, the Witchfinder is already perfectly convinced of the witch's guilt (such investigation is done before the public trial even begins), but the kitschy event goes on as a spectacle for the citizens. The Witchfinder will call witnesses and air their testimony to those in attendance, keeping the common attendees engaged in the process and sharing in the apparent responsibility for the witch's inevitable demise. Although the Witchfinder is likely to wear an Inquisitorial badge of office, he is far from the nightmarish apparition spoken of in hushed tones that many common citizens associate with the word "Inquisitor". Colourful, outspoken, and stagy, the citizens might view a Witchfinder as terrifying or charming (possibly both), but above all else he is seen as a protector, someone who has their best interests in mind.
 
 At its core, the Witchfinder's art is theatre and drama. The witch trials provide the masses with a warning against heresy, instruction on how to act when confronted by it, and reassurance that their betters care and are looking out for them. It also serves a subtle but important political purpose. By masking the Monodominants' extreme hatred of psykers behind layers of legal and moral justification, the Witchfinder blunts the jurisdictional anger of the Adeptus Astra Telepathica when psykers that should have been delivered to their custody are die during tests or by an incensed mob of onlookers. After all, it was neither the Inquisition or the Ecclesiarchy who put them to the torch, but their own peers in a moment of ochlocratic violence. That the Witchfinder was the proximate cause of these events is only a minor detail, of course.
-
 ### **Becoming a Witchfinder**
 All Witchfinders are of the Ordo Hereticus, specifically its puritan faction, and have been trained by an informal association of Monodominant Inquisitors and more firebrand elements of the Ecclesiarchy to destroy renegade psykers in a uniquely flamboyant way. The Acolyte's previous work in uncovering heretical cults, withstanding truths that would decimate a lesser mind, and the oratory and rhetorical faculties from their time in the Ministorum prepare them for the rigours of facing witches.
 

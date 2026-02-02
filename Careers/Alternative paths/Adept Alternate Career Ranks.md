@@ -19,12 +19,11 @@ The following Alternate Career Ranks may be selected by Adepts.
 | [Warp Dabbler](adept%20alternate%20career%20ranks.md#warp%20dabbler)                                 |      6       |
 | [Xeno-Arcanist](adept%20alternate%20career%20ranks.md#xeno-arcanist)                                 |      4       |
 | [Verispex Adept](adept%20alternate%20career%20ranks.md#verispex%20adept)                             |      1       |
-
 ## **Agent of the Lords Dragon**
 
 *“The phrase 'be seeing you' has a different meaning for us, Inquisitor Caidin. When we say this, it is to be taken quite literally.”*
 
-– Arch-Magos Karolinious Benz, Magos-Draco of the Lords Dragon
+— Arch-Magos Karolinious Benz, Magos-Draco of the Lords Dragon
 ### **Background**
 Shrouded in mystery, and whispered about only by fools and madmen, is the legend of the Panopticon. Supposedly hidden deep within the Lathes System, this orbiting void station is rumoured to be the real authority behind the Calixian Mechanicus, and the seat of power for an organisation whose name is synonymous with dread: the Lords Dragon.
 
@@ -102,7 +101,7 @@ Tech-heresy is a grave matter, and one that the Mechanicus does not take lightly
 
 *“Ours is not an easy task. We gather those most important relics, those symbols of the culture of Mankind. We dare the darkness and travel across the stars clinging to rumour and legend as our guide.”*
 
-– Marcius Dans, Agent of Reliquary 26
+— Marcius Dans, Agent of Reliquary 26
 ### **Background**
 Entombed more than a hundred metres beneath the Inquisition's majestic if imposing Tricorn Palace is the Grand Reliquarium, a series of vaults that are home to many artefacts and powerful relics of the Calixis Sector. In these hallowed halls rest hundreds of items of power, from crafted trinkets of the Dark Age of Technology to the blessed weapons of venerable martyrs or even saints. Each of these vaults, of which reliable sources claim there at at least one hundred, are heavily guarded, monitored, and tended to by the Custodiatrix, a small organisation of curator-assassins, each charged with the safety of the artefacts and assigned to one of the vaults. Reliquary 26 contains the relics of the Scholariate at Arms.
 
@@ -115,7 +114,7 @@ Reliquary 26 works quite closely with the larger Ordos of the Inquisition. Often
 An experienced servant of Reliquary 26 is an indispensable resource to an Acolyte cell. When dealing with nobility or other well-to-do types, or in areas where ancient or xenos technology may
 be encountered, an Inquisitor would be well served by requisitioning an Agent of Reliquary 26's services. Such Agents usually only serve the Inquisitor the duration of the investigation at hand. Inquisitors who must regularly navigate such treacherous situations have been known to second a trusted Acolyte to the Custodiatrix to be trained in their ways, effectively gaining a permanent "representative" to Reliquary 26's hallowed armoury. As the point of contact between the Grand Reliquarium and the often covetous owners of the sought-after artefacts, most Agents become quite adept at negotiation and tradecraft. Such skills can be invaluable to an Acolyte cell, especially in situations where a hostile acquisition could be more troublesome than normal.
 
-**Required Career:** Any Career
+**Required Career:** Any
 **Alternate Rank:** Rank 4 or higher (2,000 xp)
 **Other Requirements:** Must have acquired one item of Near Unique Availability or rarer, and turned it over to his Inquisitor or directly to the Grand Reliquarium.
 **Aggrieved Parties:** Even if the character has not personally wronged them, at least one group of well-heeled individuals gravely dislikes Reliquary 26. The character gains the [Rival (Ecclesiarchy), (Nobility), or (Rogue Trader)](talents.md#rival) Talent at the GM's discretion.
@@ -275,7 +274,7 @@ The Cult of the Pure Form is not a secretive group, in which members meet covert
 | **Gift of Purity**                                                        |  †   | Talent | —                                 |
 | **Purity of Flesh**                                                       |  †   | Talent | —                                 |
 | **Reformed Skin**                                                         |  †   | Talent | Gift of Purity or Purity of Flesh |
-*† This Talent has no xp cost, but can only be selected under specific circumstances. See each Talent's description for details.*
+*†This Talent has no xp cost, but can only be selected under specific circumstances. See each Talent's description for details.*
 #### **Talent: Gift of Purity**
 The Acolyte has forsaken the cybernetic, cast out the desire for the bionic, and joined the ranks of the Untouched. Never will sacred flesh be sullied by the implantation of devices that rob the Acolyte of his purity. The character cannot, under any circumstances, choose or accept the implantation of cybernetics/bionics, even if the result of refusing them would result in certain death. If the character finds himself implanted with cybernetics/bionics against his will, then he must remove them as soon as possible, replacing this Talent with the Purity of Flesh instead. 
 
@@ -296,7 +295,7 @@ Any Fate Points gained from the Purity of Flesh Talent are lost when the missing
 
 *“The most ideal of conditions for defeating the daemon: be on a first-name basis.”*
 
-– High Banisher Segrin, Ordo Malleus
+— High Banisher Segrin, Ordo Malleus
 ### **Background**
 Within the Collegia Exterminatus it is considered a blessing that summoning a powerful daemon  is not easy; it can take a lifetime of devotion and years of preparation. Generational cults of worship exist that have secretive agendas hidden behind layers of faithful rhetoric. However, banishing or controlling a daemon is a far less difficult task if the summoner or banisher possesses the True Name of the daemon.
 
@@ -393,7 +392,7 @@ Demagogues who serve radical Inquisitors usually assume the role through necessi
 
 *“My militia of faithful, you may not be clad in the blessed flak armour of the Imperial Guard. You may not bring the Emperor’s wrath through the barrel of the righteous lasgun. What you lack in the Imperium’s most blessed weapons of war you replace with fervour and faith. No army forged can stand before the might of the Emperor’s judgement wrought by our hands.”*
 
-– Abbot Vonn Schtiel
+— Abbot Vonn Schtiel
 ### **Background**
 Since the dark days of Sebastian Thor’s great reformation, the Ministorum has been prevented, by the dictates of the Decree Passive, from maintaining forces that consist of “men at arms.” Although this statute put an end to the vast standing armies of the ancient Ecclesiarchy, the archaic wording of the decree has been subjected to many abuses and creative interpretations over the centuries, and only a fool would assume that the Ecclesiarchy lacks military power.
 
@@ -429,12 +428,12 @@ Those who serve the Ecclesiarchy are often drafted into the Frateris Militia to 
 | [Sound Constitution](talents.md#sound%20constitution)†                    | 100  | Talent | —             |
 | [Frenzy](talents.md#frenzy)                                               | 200  | Talent | —             |
 | [Insanely Faithful](talents.md#insanely%20faithful)                       | 200  | Talent | —             |
-*† This Talent may be taken up to two times for this Alternate Rank.*
+*†This Talent may be taken up to two times for this Alternate Rank.*
 ## **Magistrate**
 
 *"The law demanded that we take action! The crimes of House Torald could not go unpunished. Of course, we had sufficient justification to intervene. The Lex Calixis, volume 65c is clear on the matter. Chapter 2076, subsection 776, paragraph 876, widely recognised as the 'Warptime disjunction clause' clearly excuses the apparent lack probable cause for action against the accused House. Should this court find the aforementioned action against House Torald unlawful and thereby strip all findings from the accumulated evidence, this court would be setting a dangerous precedent, which could have disastrous repercussions for Arbites actions throughout the whole of the Calixis Sector. I trust this Honourable Court, in its infinite justice and wisdom will make the right decision. Your Lordships."*
 
-– Veglan Hesk, Magistrate, Hive Subrique
+— Veglan Hesk, Magistrate, Hive Subrique
 ### **Background**
 To enforce every mandate within the enormity of the Lex Imperialis is a nearly impossible task; even the truncated Lex Calixis is a daunting endeavour. These codices of law are so enormously dense that few individuals can claim to know all of their secrets (or loopholes). Even the Judges of the Adeptus Arbites must regularly confer with archive-savants and librarium cogitation engines in order to make their rulings. Working for planetary enforcers or powerful nobles during trials by court, legal experts known as Magistrates make up a group of rare minds primarily concerned with matters of Imperial law. These steadfast scholars spend decades poring over the Lex Calixis, learning its every nuance and interpretation. Magistrates of each Calixian sub-sector are tasked with mastering not only the greater Lex Calixis, but also their own planet's specific laws as well. As
 such, the Magistrates stationed on any of the Sector's central worlds may be called upon to aid Nobles and Governors across the Sector.
@@ -453,7 +452,7 @@ When an Adept wishes to journey into the legal libraries, they normally need onl
 
 **Required Career:** Adept
 **Alternate Rank:** Rank 7 or higher (8,000 xp)
-**Other Requirements:** Literacy Skill and either Common Lore (Administratum) or Scholastic Lore (Judgement) Skill
+**Other Requirements:** [Literacy](skills.md#literacy) Skill and either [Common Lore (Administratum)](skills.md#common%20lore) or [Scholastic Lore (Judgement)](skills.md#scholastic%20lore) Skill
 #### **Table: Magistrate Advances**
 | Advance                                                          | Cost |  Type  | Prerequisites                      |
 | ---------------------------------------------------------------- | :--: | :----: | ---------------------------------- |
@@ -488,7 +487,7 @@ least a modicum of fear. A ganger or Imperial citizen is likely at least knowing
 
 *"If you wish him dead I can oblige, though you may be able to affect such an end yourself without recourse to my arts. My speciality is the manipulation of events to violent ends by malign artifice; chiefly war, tragedy and rebellion. If that is not what you desire then perhaps it is not I that you seek."*
 
-—Corwainious Tare, daemonologist
+— Corwainious Tare, daemonologist
 ### **Background**
 A Malefic Scholar studies and acquires proscribed knowledge concerning the quintessence of the warp, the power and nature of daemons, and the manipulation of the immaterium by the arts of ritual and sorcery. These are the wizened masters of warp craft who can summon daemons, open portals into the ether, see things far off and days remote, and create artefacts of occult and unclean power. Such dedication is motivated by an obsession with knowing what should not be known, or by the desire to wield unnatural power that is beyond that open to most humans. The power of a Malefic Scholar has potential that is only bound by the weakness of the human mind when confronted with truths greater than it can cope with.
 
@@ -597,9 +596,9 @@ Note that if a benefit of this Talent grants you another Talent you must still b
 
 *"Any problem in the world can be solved with the careful application of high explosives. The trick is not to be around when they go off."*
 
-— Attributed to an ancient Terran warlord
+— attributed to an ancient Terran warlord
 ### **Background**
- It is said by some of the more philosophically-minded Administratum thralls that everything within the Imperium is connected by endless invisible threads of interdependence, a vast web of commerce, trade, and movement of men that binds the whole together. From the astropathic messages brought to the table of a lord, to the food eaten by the lowest worker in a forge, all depends on something else to exist, and those in turn on other things. These threads of reliance form a vast entanglement of power and stability on which order, faith, and indeed survival itself depends. It is the destruction of these threads that is the Saboteur’s purpose, and for many, their most beloved art.
+It is said by some of the more philosophically-minded Administratum thralls that everything within the Imperium is connected by endless invisible threads of interdependence, a vast web of commerce, trade, and movement of men that binds the whole together. From the astropathic messages brought to the table of a lord, to the food eaten by the lowest worker in a forge, all depends on something else to exist, and those in turn on other things. These threads of reliance form a vast entanglement of power and stability on which order, faith, and indeed survival itself depends. It is the destruction of these threads that is the Saboteur’s purpose, and for many, their most beloved art.
 
 Saboteurs are craftsmen of panic, destruction, and downfall—sometimes all three at once! They are the loosed dogs of secret wars of destabilisation and terror that rage in the shadows of the Imperium of Mankind. Trained to move unseen amongst the great flocks of humanity, the Saboteur is a faceless agent of fear, mayhem, and death that attacks the physical and psychological fabric that binds the Imperium together. Many act as tools or proxies of larger conspiracies, sowing fear among the people and crippling the local authorities' means to resist the hideous plans of the Saboteur's employers. Others ply their trade for their own goals alone, seeking to topple institutions and spires out of personal animus for the rulers and powerful, or even just for the perverse joy of destruction itself.
 
@@ -636,9 +635,9 @@ A Saboteur's qualifications are deceptively simple: move surreptitiously and cau
 
 *"And who am I to be this year, hmm? A wealthy functionary in a dubious merchant guild? No? Hmm, perhaps a pampered Ecclesiastic keeping watch for detestable heresy within a suspect sect? Still no, eh? Well then, can I spend the majority of this mission indoors at least? Another Imperial Guard unit? How do heretics keep managing to sneak into those! Well at least I won't remember any of it after retrieval..."*
 
-— A Slate-Agent, currently named Cavel Posdanik
+— a Slate-Agent, currently named Cavel Posdanik
 ### **Background**
-On the planet of Malfi, a place often considered the "second capital" of the Calixis Sector, the men and women of the ruling class play a vicious game of politics and favour. This game is played not on any game-board, but in every palace, mansion, and villa. It is not played with pieces, but with the livelihood of their dynasties. The strategy of this game lies with political manoeuvring and favourable alliances. The stakes of this game are neither bragging rights nor pride, they are the very existence of the noble family, and the rights of rulership. The greatest advantage in this game of political infighting is information, preferably that which could shame and discredit a rival. In the pursuit of this sort of information the noble houses of Malfi have each developed methods particular to their own dynasty. It was for this purpose that the first Slate-Agents were trained. The Malfian house which first created the Slate-Agents is long forgotten, whether fallen to obscurity or risen to heights beyond all recognition, none can say. What is well known, however, is the efficacy of the Slate-Agent as a spy and operative. The secrets of creating a Slate-Agent escaped the Malfian backstabber-lords over a century ago, and other powerful organisations in Calixis — namely the Inquisition and the Adeptus Arbites — are known to employ these unique savant-moles for deep undercover work.
+On the planet of Malfi, a place often considered the "second capital" of the Calixis Sector, the men and women of the ruling class play a vicious game of politics and favour. This game is played not on any game-board, but in every palace, mansion, and villa. It is not played with pieces, but with the livelihood of their dynasties. The strategy of this game lies with political manoeuvring and favourable alliances. The stakes of this game are neither bragging rights nor pride, they are the very existence of the noble family, and the rights of rulership. The greatest advantage in this game of political infighting is information, preferably that which could shame and discredit a rival. In the pursuit of this sort of information the noble houses of Malfi have each developed methods particular to their own dynasty. It was for this purpose that the first Slate-Agents were trained. The Malfian house which first created the Slate-Agents is long forgotten, whether fallen to obscurity or risen to heights beyond all recognition, none can say. What is well known, however, is the efficacy of the Slate-Agent as a spy and operative. The secrets of creating a Slate-Agent escaped the Malfian backstabber-lords over a century ago, and other powerful organisations in Calixis—namely the Inquisition and the Adeptus Arbites—are known to employ these unique savant-moles for deep undercover work.
 
 Masters of subterfuge and disguise, each Slate-Agent is a perfect operative of infiltration and observation. It is the gruelling process of their creation which makes a Slate-Agent so optimally crafted for their intended job. The first stage of a Slate-Agent's conditioning is aimed at wholly annihilating any sense of self possessed by the recruit, reducing them to little more than a biological machine in the service of their masters. It is from this state that Slate-Agents receive  heir moniker, as from this point forward, each Agent is a "blank-slate" on which new identities can be written. To achieve this, recruits are deprived of sleep, food, water, and dignity, as well as forced to endure horrific psychological torments, all the while they are watched for signs of opposition or rebelliousness. Once the recruit has been reduced to an entirely pliant and workable state, the trainers begin the slow process of rebuilding their charge. Using incredibly complex and methodical hypno-indoctrination techniques they prepare the recruit's mind to take shape around cover-identities, each of which includes skills, history, profession, and contacts, as well as personality and mannerisms, all combined to provide a flawless cover for the Slate-Agent. The trainers use psycho-conditioning to thread the recruit's psyche with triggers and fail-safes, in order to reset the conditioning once their mission is complete. Oft-times the conditioning of Slate-Agents is so complete that during their missions they are wholly unaware of their true identity until their loyalty is tested, at which point, deep-planted hypno-barriers close off the mind to any possibility of traitorous or mutinous thoughts.
 
@@ -851,8 +850,8 @@ Tricorn Palace, or for those who've demonstrated a true knack for field work, in
 **Alternate Rank:** Rank 1 or higher (0xp)
 **Other Requirements:** This Alternate Career Rank must be chosen during character creation—the very long training process, taking several years for even the most adroit Acolytes, makes becoming a Verispex Adept in the midst of a campaign an unrealistic prospect.
 #### **Table: Verispex Adept Advances**
-| Advance                                                                      | Cost | Type   | Prerequisites                            |
-| ---------------------------------------------------------------------------- | ---- | ------ | ---------------------------------------- |
+| Advance                                                                      | Cost |  Type  | Prerequisites                            |
+| ---------------------------------------------------------------------------- | :--: | :----: | ---------------------------------------- |
 | [Awareness](skills.md#awareness)                                             | 100  | Skill  | —                                        |
 | [Awareness +10](skills.md#awareness)                                         | 100  | Skill  | Awareness                                |
 | [Chem-Use](skills.md#chem-use)                                               | 100  | Skill  | —                                        |

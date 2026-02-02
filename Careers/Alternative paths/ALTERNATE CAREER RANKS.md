@@ -61,6 +61,25 @@ The following Alternate Career Ranks may be selected by Adepts.
 | [Warp Dabbler](adept%20alternate%20career%20ranks.md#warp%20dabbler)                                 |      6       |
 | [Xeno-Arcanist](adept%20alternate%20career%20ranks.md#xeno-arcanist)                                 |      4       |
 | [Verispex Adept](adept%20alternate%20career%20ranks.md#verispex%20adept)                             |      1       |
+### **Arbitrators: Case File Access Denied**
+The following Alternate Career Ranks may be selected by Arbitrators.
+#### **Table: Arbitrator Alternate Career Ranks**
+| Name                                                                                                                  | Minimum Rank |
+| --------------------------------------------------------------------------------------------------------------------- | :----------: |
+| [Agent of the Lords Dragon](arbitrator%20alternate%20career%20ranks.md#agent%20of%20the%20lords%20dragon)             |      4       |
+| [Agent of Reliquary 26](arbitrator%20alternate%20career%20ranks.md#agent%20of%20reliquary%2026)                       |      4       |
+| [Chastener](arbitrator%20alternate%20career%20ranks.md#chastener)                                                     |      3       |
+| [Cult of the Pure Form](arbitrator%20alternate%20career%20ranks.md#cult%20of%20the%20pure%20form)                     |      4       |
+| [Malfian Bloodsworn](arbitrator%20alternate%20career%20ranks.md#malfian%20bloodsworn)                                 |      5       |
+| [Mortiurge](arbitrator%20alternate%20career%20ranks.md#mortiurge)                                                     |      5       |
+| [Ordo Sicarius Initiate](arbitrator%20alternate%20career%20ranks.md#ordo%20sicarius%20initiate)                       |      4       |
+| [Saboteur](arbitrator%20alternate%20career%20ranks.md#saboteur)                                                       |      3       |
+| [Sin Eater](arbitrator%20alternate%20career%20ranks.md#sin%20eater)                                                   |      4       |
+| [Slate-Agent](arbitrator%20alternate%20career%20ranks.md#slate-agent)                                                 |      6       |
+| [Suffering Marshal](arbitrator%20alternate%20career%20ranks.md#suffering%20marshal)                                   |      5       |
+| [Tyrantine Shadow Agent](arbitrator%20alternate%20career%20ranks.md#tyrantine%20shadow%20agent)                       |      5       |
+| [Warden of the Divisio Immoralis](arbitrator%20alternate%20career%20ranks.md#warden%20of%20the%20divisio%20immoralis) |      1       |
+| [Warp Dabbler](arbitrator%20alternate%20career%20ranks.md#warp%20dabbler)                                             |      6       |
 ### **Assassins: Societies of Murder**
 The following Alternate Career Ranks may be selected by Assassins.
 #### **Table: Assassin Alternate Career Ranks**
@@ -73,6 +92,7 @@ The following Alternate Career Ranks may be selected by Assassins.
 | [Malfian Bloodsworn](assassin%20alternate%20career%20ranks.md#malfian%20bloodsworn)                     |      5       |
 | [Metallican Gunslinger](assassin%20alternate%20career%20ranks.md#metallican%20gunslinger)               |      1       |
 | [Moritat Reaper](assassin%20alternate%20career%20ranks.md#moritat%20reaper)                             |      6       |
+| [Mortiurge](assassin%20alternate%20career%20ranks.md#mortiurge)                                         |      5       |
 | [Ordo Sicarius Initiate](assassin%20alternate%20career%20ranks.md#ordo%20sicarius%20initiate)           |      4       |
 | [Redemptionist](assassin%20alternate%20career%20ranks.md#redemptionist)                                 |      1       |
 | [Saboteur](assassin%20alternate%20career%20ranks.md#saboteur)                                           |      3       |
@@ -104,6 +124,28 @@ The following Alternate Career Ranks may be selected by Assassins.
 | [Warp Dabbler](cleric%20alternate%20career%20ranks.md#warp%20dabbler)                               |      6       |
 | [Witchfinder](cleric%20alternate%20career%20ranks.md#witchfinder)                                   |      6       |
 †*This Alternate Career Rank may only be selected during character creation and replacing Rank 1.*
+## **Guardsmen: The Ashes of War**
+The following Alternate Career Ranks are intended for use with Guardsmen
+#### **Table: Guardsman Alternate Career Ranks**
+| Name                                                                                                             | Minimum Rank |
+| ---------------------------------------------------------------------------------------------------------------- | :----------: |
+| [Agent of Reliquary 26](guardsman%20alternate%20career%20ranks.md#agent%20of%20reliquary%2026)                   |      4       |
+| [Chaliced Commissariat Operative](guardsman%20alternate%20career%20ranks.md#chaliced%20commissariat%20operative) |      3       |
+| [Chastener](guardsman%20alternate%20career%20ranks.md#chastener)                                                 |      3       |
+| [Cult of the Pure Form](guardsman%20alternate%20career%20ranks.md#cult%20of%20the%20pure%20form)                 |      4       |
+| [Drill Abbot](guardsman%20alternate%20career%20ranks.md#drill%20abbot)                                           |      5       |
+| [Feral Warrior](guardsman%20alternate%20career%20ranks.md#feral%20warrior)                                       |      4       |
+| [Malfian Bloodsworn](guardsman%20alternate%20career%20ranks.md#malfian%20bloodsworn)                             |      5       |
+| [Mortiurge](guardsman%20alternate%20career%20ranks.md#mortiurge)                                                 |      5       |
+| [Ordo Sicarius Initiate](guardsman%20alternate%20career%20ranks.md#ordo%20sicarius%20initiate)                   |      4       |
+| [Penal Legionnaire](guardsman%20alternate%20career%20ranks.md#penal%20legionnaire)†                              |      1       |
+| [Pyroclast](guardsman%20alternate%20career%20ranks.md#pyroclast)                                                 |      5       |
+| [Saboteur](guardsman%20alternate%20career%20ranks.md#saboteur)                                                   |      3       |
+| [Slate-Agent](guardsman%20alternate%20career%20ranks.md#slate-agent)                                             |      6       |
+| [Suffering Marshal](guardsman%20alternate%20career%20ranks.md#suffering%20marshal)                               |      5       |
+| [Tyrantine Shadow Agent](guardsman%20alternate%20career%20ranks.md#tyrantine%20shadow%20agent)                   |      5       |
+| [Warp Dabbler](guardsman%20alternate%20career%20ranks.md#warp%20dabbler)                                         |      6       |
+†*This Alternate Career Rank may only be selected during character creation.*
 ### **Imperial Psykers: Translations and Revelations**
 The following Alternate Career Ranks may be selected by Imperial Psykers. 
 #### **Table: Imperial Psyker Alternate Career Ranks**
@@ -132,6 +174,7 @@ The following Alternate Career Ranks may be selected by Scum.
 | [Malfian Bloodsworn](scum%20alternate%20career%20ranks.md#malfian%20bloodsworn)             |      5       |
 | [Malifixer](scum%20alternate%20career%20ranks.md#malifixer)                                 |      2       |
 | [Metallican Gunslinger](scum%20alternate%20career%20ranks.md#metallican%20gunslinger)       |      1       |
+| [Mortiurge](scum%20alternate%20career%20ranks.md#mortiurge)                                 |      5       |
 | [Ordo Sicarius Initiate](scum%20alternate%20career%20ranks.md#ordo%20sicarius%20initiate)   |      4       |
 | [Reclaimator](scum%20alternate%20career%20ranks.md#reclaimator)                             |      1       |
 | [Saboteur](scum%20alternate%20career%20ranks.md#saboteur)                                   |      3       |

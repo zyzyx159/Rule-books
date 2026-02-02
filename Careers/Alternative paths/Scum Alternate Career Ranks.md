@@ -1,99 +1,23 @@
-The following Alternate Career Ranks may be selected by Assassins. 
-#### **Table: Assassin Alternate Career Ranks**
-| Name                                                                                                    | Minimum Rank |
-| ------------------------------------------------------------------------------------------------------- | :----------: |
-| [Agent of the Lords Dragon](assassin%20alternate%20career%20ranks.md#agent%20of%20the%20lords%20dragon) |      4       |
-| [Agent of Reliquary 26](assassin%20alternate%20career%20ranks.md#agent%20of%20reliquary%2026)           |      4       |
-| [Chastener](assassin%20alternate%20career%20ranks.md#chastener)                                         |      3       |
-| [Cult of the Pure Form](assassin%20alternate%20career%20ranks.md#cult%20of%20the%20pure%20form)         |      4       |
-| [Malfian Bloodsworn](assassin%20alternate%20career%20ranks.md#malfian%20bloodsworn)                     |      5       |
-| [Metallican Gunslinger](assassin%20alternate%20career%20ranks.md#metallican%20gunslinger)               |      1       |
-| [Moritat Reaper](assassin%20alternate%20career%20ranks.md#moritat%20reaper)                             |      6       |
-| [Mortiurge](assassin%20alternate%20career%20ranks.md#mortiurge)                                         |      5       |
-| [Ordo Sicarius Initiate](assassin%20alternate%20career%20ranks.md#ordo%20sicarius%20initiate)           |      4       |
-| [Redemptionist](assassin%20alternate%20career%20ranks.md#redemptionist)                                 |      1       |
-| [Saboteur](assassin%20alternate%20career%20ranks.md#saboteur)                                           |      3       |
-| [Sin Eater](assassin%20alternate%20career%20ranks.md#sin%20eater)                                       |      4       |
-| [Slate-Agent](assassin%20alternate%20career%20ranks.md#slate-agent)                                     |      6       |
-| [Suffering Marshal](assassin%20alternate%20career%20ranks.md#suffering%20marshal)                       |      5       |
-| [Tyrantine Shadow Agent](assassin%20alternate%20career%20ranks.md#tyrantine%20shadow%20agent)           |      5       |
-| [Warp Dabbler](assassin%20alternate%20career%20ranks.md#warp%20dabbler)                                 |      6       |
-## **Agent of the Lords Dragon**
-
-*“The phrase 'be seeing you' has a different meaning for us, Inquisitor Caidin. When we say this, it is to be taken quite literally.”*
-
-— Arch-Magos Karolinious Benz, Magos-Draco of the Lords Dragon
-### **Background**
-Shrouded in mystery, and whispered about only by fools and madmen, is the legend of the Panopticon. Supposedly hidden deep within the Lathes System, this orbiting void station is rumoured to be the real authority behind the Calixian Mechanicus, and the seat of power for an organisation whose name is synonymous with dread: the Lords Dragon.
-
-Dispatched to the then-unconquered Calix Expanse thousands of years ago through Logis-Prophesies, secretive Tech-Priests sought out worlds to eventually bring under Mechanicus control. They were to locate any sites that would be advantageous once the upcoming Angevin Crusade had finished, and to ensure that the Mechanicus claimed the most important worlds as their own, before the Adeptus Ministorum gained a foothold in the new Sector. The first agents to arrive quickly discovered a small system colonised aeons ago during Mankind’s earliest steps into the galaxy. The irregular orbits of its main worlds created violent shifts of gravity, and had resulted in the formation of three unusual asteroid belts. Only the bravest or most foolish of ship captains could ever hope to safely navigate the gravitic nightmare of the system’s asteroids, and thus the Lords Dragon, the ancient cabal of Arch-Magi tasked with policing the Mechanicus within the Sector, took the hidden centre of these belts as their new home.
-
-The Panopticon Orbital was built as a habitat and headquarters for the Lords Dragon, but more importantly as a hub of observation. The Lords Dragon knew that they would need to observe the emerging Calixis Sector to ensure that tech-heresy and affronts to the Machine God never went unpunished. Using scarcely understood devices from the Dark Age of Technology, the Lords Dragon established an extensive monitoring network known as the Praecursator Grid across the Pondus system, using the space around their new home as a field test. If their system allowed observation without direct interference, then they knew that they could expand the grid to cover all the forge worlds that would eventually be built, and even some worlds outside the Mechanicus’ sphere of authority.
-
-They soon discovered that the surviving descendants of the original colonists had actually thrived in their cruel environment, and performed genetic modifications to improve their usefulness even further. Lest others such as the Ecclesiarchy claim them, the population was interred into massive Great Holds and kept in stasis in the fringes of the cometary clouds surrounding the system. When the Crusade arrived in the system many years later, it would find a group of harsh, uninhabited worlds suitable only for the Adeptus Mechanicus, and once established, the Lords Dragon could bring the population back, each one of them ready and eager to work for the glory of the Omnissiah. Such is the scope of the Lords Dragon and their guidance for the greater good of the Machine Cult.
-
-With the success of their observation technology, the Lords Dragon began to involve themselves directly in the Angevin Crusade. They went back to their usual methods of seeking out corruption from within, ensuring that the worlds the crusade conquered were purged of tech-heresy. They took steps to ensure that the Explorator fleets found their way to what would become the Lathes System, and then did what they could to engineer the ceding of the worlds to the Mechanicum. As each new forge world was lit, the Lords Dragon monitored. Within each new voidship hull laid or Skitarii regiment raised, their surveillance kept close watch for any signs of deviant thought or deed. Hardly a moment went by when the Lords Dragon were unable to view exactly what the Mechanicus was doing within the gestating Calixis Sector, or, at least, that is what they would wish all who dwell in the Lathe Worlds to believe.
-
-The Lords Dragon have always made the Inquisition wary. From the Inquisition’s perspective, only it has the proper remit and power to safeguard humanity against the terrors within, without, and beyond, and it does not relish the idea of others, operating outside of its purview, attempting to do the same. The Tricorn Palace has spent many fruitless years petitioning the Lathes for access to the Panopticon Orbital, but every request has been denied. To make matters worse, the Inquisition is seemingly unable to even prove its existence, though many suppose this is more than likely a ploy of intrigue for the purposes of future negotiations—if there's one thing the Inquisition excels at above all else, it is finding things.
-
-More disturbing are the continued reports that the Praecursator Grid extends beyond the borders of the Cult Mechanicus, and that the Lords Dragon have the ability to spy upon many important Ecclesiarchical holdings, the domain of Sector Lord Hax, and the Tricorn Palace itself. Some even believe that all the cybernetics manufactured within the Calixis Sector are part of this Grid, and that everyone who has ever received a bionic is actually an unwitting spy in service to the Lords Dragon. If such a revelation were found to be true then the outrage, especially from the Ecclesiarchy and groups such as the Cult of the Pure Form, would be immense, and the Calixis
-Sector could find itself in a sectarian conflict the likes of which it has never seen. The Inquisition has mounted numerous operations to infiltrate the Lords Dragon but has not met with any reported success, their agents usually returning empty-handed—often with a letter of reproachment from the Lords Dragon in hand—or, sometimes, simply not returning at all.
-
-Yet for all their clandestine work and surprisingly adroit political manoeuvring, the Lords Dragon are more than willing to work alongside the Inquisition when the situation calls for it. Unlike most within the Calixian Mechanicus, the Lords Dragon are not especially secretive when it comes to cooperation with other organisations, as long as they can stay behind the scenes. This has given the Lords Dragon a fearful reputation amongst the Lathe populations, and they are all too eager and willing to foster this dread. They actively encourage the servants of the Mechanicus to believe the stories—that they are always watching, that they can operate in plain sight without anyone knowing, and that the fabled Dragon Secutorii are waiting for the moment when they will swoop down and destroy everyone who has ever cursed at a machine. This could be a ruse to disguise possible gaps in their observational systems or limitations of their power, creating the impression that the Lords Dragon are more omniscient than they truly are. Some even whisper that the dreaded Praecursator Grid itself does not exist at all, and never has either—the seemingly pervasive eyes and ears of the Lords Dragon, then, are actually just the result of diligent "old-fashioned" agent work. Few are willing to determine if these rumours might be correct, and only those dwelling within the Panopticon Orbital know the real truth.
-
-To be such an agent is to act in the name of the Omnissiah and to always watch for tech-heresy in any form, no matter the source. Such deviance within the Sector often comes from the highest Magos as well as the least disciplined novice Tech-Adept, as well as from unsanctified xenos abominations that would pollute the Machine Spirit. Their extensive surveillance technologies across the Lathe Worlds are not absolute, and only through extensive travel and investigation can they properly act to ensure the preservation of the Mechanicum. Agents may have differing standards as to what constitutes tech-heresy, however, despite what appear to be rigid definitions. The cabal is remarkably united in its goals, though, for the Cult of the Machine God’s survival is of paramount importance. Only through the proper worship of the Omnissiah and his blessed technologies can humanity continue, let alone achieve the perfection of the Holy Machine. All who serve the Dragon in the Lathes know that Mankind is but one blasphemous experiment or unholy xenotech activation away from falling once again into darkness, and it is their duty to prevent this, damn the protestations of the Sector's other authorities.
-### **Becoming an Agent of the Lords Dragon**
-Very much like the Holy Ordos of the Inquisition, the Lords Dragon are quite cautious when it comes to whom they select as their representatives. Each carefully chosen Agent must be trustworthy and incorruptible, and they must take the secrets of the Lords Dragon to their graves. To join the Lords Dragon is to gain knowledge of one of the greatest secrets in the Calixis Sector, the Praecursator Grid, and although most Agents never see the Panopticon Orbital, all are aware of its unique ability to use this Grid to observe and gather data from every forge world across the Calixis Sector. Perhaps surprisingly, Agents of the Lord Dragon are loaned to Inquisitors on a regular basis, although the more cynical voices within the Inquisition see this apparent high level of assistance as just another example of the Lords Dragon’s desire to infiltrate all aspects of the Sector's authorities and governing bodies.
-
-Upon becoming an Agent of the Lords Dragon, the character gains the **Rigor Mentis Trait**.
-
-**Required Career:** Adept, Arbitrator, Assassin, or Tech-Priest
-**Alternate Rank:** Rank 4 or higher (2,000 xp)
-**Mechanicum Thrall:** Even Agents who are not ordained Tech-Priests benefit from the considerable resources the Lords Dragon have at their disposal. The character is considered Mechanicus Class for the purposes of determining monthly income.
-**Other Requirements:** Cannot have Peer (Ecclesiarchy) or Good Reputation (Ecclesiarchy)
-#### **Trait: Rigor Mentis**
-The Lords Dragon might enjoy the level of dread that they inspire within the Lathe Worlds, but even they would not risk their greatest secrets for something as trivial as a reputation. Those who find themselves selected to join the Lords Dragon’s ranks undergo significant hypnoath conditioning that makes them resistant to interrogation, specifically interrogation related to the Lords Dragon themselves or anything to do with the Panopticon Orbital. It is an unconscious form of mental defence, and even if the Agent were aware of it, he would be unable to crack it intentionally.
-
-The Acolyte may re-roll any Interaction Test made to resist the effects of Interrogation, Charm, Deceive, or any other method that an adversary might use to gain information relating to the Lords Dragon, the Panopticon Orbital, or anything related to the Praecursator Grid.
-#### **Table: Agent of the Lords Dragon Advances**
-| Advance                                                               | Cost |  Type  | Prerequisites                      |
-| --------------------------------------------------------------------- | :--: | :----: | ---------------------------------- |
-| [Common Lore (Machine Cult)](skills.md#common%20lore)                 | 100  | Skill  | —                                  |
-| [Common Lore (Machine Cult) +10](skills.md#common%20lore)             | 100  | Skill  | Common Lore (Machine Cult)         |
-| [Common Lore (Tech)](skills.md#common%20lore)                         | 100  | Skill  | —                                  |
-| [Common Lore (Tech) +10](skills.md#common%20lore)                     | 100  | Skill  | Common Lore (Tech)                 |
-| [Deceive](skills.md#deceive)                                          | 100  | Skill  | —                                  |
-| [Inquiry](skills.md#inquiry)                                          | 100  | Skill  | —                                  |
-| [Interrogation](skills.md#interrogation)                              | 100  | Skill  | —<br>                              |
-| [Scrutiny](skills.md#scrutiny)                                        | 100  | Skill  | —<br>                              |
-| [Search](skills.md#search)                                            | 100  | Skill  | —<br>                              |
-| [Shadowing](skills.md#shadowing)                                      | 100  | Skill  | —<br>                              |
-| [Silent Move](skills.md#silent%20move)                                | 100  | Skill  | —<br>                              |
-| [Tech-Use](skills.md#tech-use)                                        | 100  | Skill  | —<br>                              |
-| [Hatred (Tech-Heretics)](talents.md#hatred)                           | 100  | Talent | —<br>                              |
-| [Resistance (Fear)](talents.md#resistance)                            | 100  | Talent | —<br>                              |
-| [Resistance (Psychic Powers)](talents.md#resistance)                  | 100  | Talent | —<br>                              |
-| [Strong Minded](talents.md#strong%20minded)                           | 100  | Talent | WP 30, Resistance (Psychic Powers) |
-| [Deceive +10](skills.md#deceive)                                      | 200  | Skill  | Deceive                            |
-| [Forbidden Lore (Adeptus Mechanicus)](skills.md#forbidden%20lore)     | 200  | Skill  | —<br>                              |
-| [Forbidden Lore (Adeptus Mechanicus) +10](skills.md#forbidden%20lore) | 200  | Skill  | Forbidden Lore (Ad. Mech.)         |
-| [Forbidden Lore (Heresy)](skills.md#forbidden%20lore)                 | 200  | Skill  | —                                  |
-| [Forbidden Lore (Inquisition)](skills.md#forbidden%20lore)            | 200  | Skill  | —                                  |
-| [Inquiry +10](skills.md#inquiry)                                      | 200  | Skill  | Inquiry                            |
-| [Interrogation +10](skills.md#interrogation)                          | 200  | Skill  | Interrogation                      |
-| [Scrutiny +10](skills.md#scrutiny)                                    | 200  | Skill  | Scrutiny                           |
-| [Search +10](skills.md#search)                                        | 200  | Skill  | Search                             |
-| [Shadowing +10](skills.md#shadowing)                                  | 200  | Skill  | Shadowing                          |
-| [Silent Move +10](skills.md#silent%20move)                            | 200  | Skill  | Silent Move                        |
-| [Tech-Use +10](skills.md#tech-use)                                    | 200  | Skill  | Tech-Use                           |
-| **All-Seeing Eye**                                                    | 200  | Talent | WP 40, Tech-Use                    |
-| [Mental Fortress](talents.md#mental%20fortress)                       | 200  | Talent | WP 50, Strong Minded               |
-| **Metal Fatigue**                                                     | 200  | Talent | Interrogation                      |
-| [Peer (Adeptus Mechanicus)](talents.md#peer)                          | 200  | Talent | Fel 30                             |
-#### **Talent: All-Seeing Eye**
-At some point during his service to the Lords Dragon, an Agent will be instructed in how to gain limited access to the Praecursator Grid. To access to the Praecursator Grid, the Acolyte should make a **Hard (–20) Tech-Use Test**. If he succeeds, the Acolyte gains the most recently recorded information, usually no more than a day old. If the Acolyte gains 3 or more degrees of success, he gains complete access to the Grid on that planet, and may look through any pict feed and access any archived data. Access to the Praecursator Grid must be gained personally, and the GM has final determination on whether the Acolyte can access the Grid, as well as whether the Grid is functioning within the requested area.
-#### **Talent: Metal Fatigue**
-Tech-heresy is a grave matter, and one that the Mechanicus does not take lightly. Hereteks and others who would misuse the Omnissiah’s gifts are the greatest enemies of the Lords Dragon, and they have developed many ways to drive information from those they capture. One of the more insidious interrogation methods is that of Metal Fatigue, where a small bionic implant is used to slowly disintegrate the subject’s cybernetic components. This causes an excruciating pain that very few can resist, and those who do often die in agony, bereft of their bionics. The Acolyte can use Metal Fatigue by making an Opposed Tech-Use Test against the subject’s Toughness. For every Degree of Success the Acolyte gains, the subject takes 1 Damage and suffers a –10 penalty to the Interrogation Test that follows. If the subject takes Damage equal to his Toughness Bonus, he permanently loses one randomly chosen cybernetic. The subject of the interrogation must have at least one cybernetic implant for the Acolyte to use this Talent.
+The following Alternate Career Ranks may be selected by Scum. 
+#### **Table: Scum Alternate Career Ranks**
+| Name                                                                                        | Minimum Rank |
+| ------------------------------------------------------------------------------------------- | :----------: |
+| [Agent of Reliquary 26](scum%20alternate%20career%20ranks.md#agent%20of%20reliquary%2026)   |      4       |
+| [Cult of the Pure Form](scum%20alternate%20career%20ranks.md#cult%20of%20the%20pure%20form) |      4       |
+| [Cult-Stalker](scum%20alternate%20career%20ranks.md#cult-stalker)                           |      1       |
+| [Demagogue](scum%20alternate%20career%20ranks.md#demagogue)                                 |      3       |
+| [Frateris Militia](scum%20alternate%20career%20ranks.md#frateris%20militia)                 |      1       |
+| [Malfian Bloodsworn](scum%20alternate%20career%20ranks.md#malfian%20bloodsworn)             |      5       |
+| [Malifixer](scum%20alternate%20career%20ranks.md#malifixer)                                 |      2       |
+| [Metallican Gunslinger](scum%20alternate%20career%20ranks.md#metallican%20gunslinger)       |      1       |
+| [Mortiurge](scum%20alternate%20career%20ranks.md#mortiurge)                                 |      5       |
+| [Ordo Sicarius Initiate](scum%20alternate%20career%20ranks.md#ordo%20sicarius%20initiate)   |      4       |
+| [Reclaimator](scum%20alternate%20career%20ranks.md#reclaimator)                             |      1       |
+| [Saboteur](scum%20alternate%20career%20ranks.md#saboteur)                                   |      3       |
+| [Slate-Agent](scum%20alternate%20career%20ranks.md#slate-agent)                             |      6       |
+| [Suffering Marshal](scum%20alternate%20career%20ranks.md#suffering%20marshal)               |      5       |
+| [Tyrantine Shadow Agent](scum%20alternate%20career%20ranks.md#tyrantine%20shadow%20agent)   |      5       |
+| [Warp Dabbler](scum%20alternate%20career%20ranks.md#warp%20dabbler)                         |      6       |
 ## **Agent of Reliquary 26**
 
 *“Ours is not an easy task. We gather those most important relics, those symbols of the culture of Mankind. We dare the darkness and travel across the stars clinging to rumour and legend as our guide.”*
@@ -111,7 +35,7 @@ Reliquary 26 works quite closely with the larger Ordos of the Inquisition. Often
 An experienced servant of Reliquary 26 is an indispensable resource to an Acolyte cell. When dealing with nobility or other well-to-do types, or in areas where ancient or xenos technology may
 be encountered, an Inquisitor would be well served by requisitioning an Agent of Reliquary 26's services. Such Agents usually only serve the Inquisitor the duration of the investigation at hand. Inquisitors who must regularly navigate such treacherous situations have been known to second a trusted Acolyte to the Custodiatrix to be trained in their ways, effectively gaining a permanent "representative" to Reliquary 26's hallowed armoury. As the point of contact between the Grand Reliquarium and the often covetous owners of the sought-after artefacts, most Agents become quite adept at negotiation and tradecraft. Such skills can be invaluable to an Acolyte cell, especially in situations where a hostile acquisition could be more troublesome than normal.
 
-**Required Career:** Any Career
+**Required Career:** Any
 **Alternate Rank:** Rank 4 or higher (2,000 xp)
 **Other Requirements:** Must have acquired one item of Near Unique Availability or rarer, and turned it over to his Inquisitor or directly to the Grand Reliquarium.
 **Aggrieved Parties:** Even if the character has not personally wronged them, at least one group of well-heeled individuals gravely dislikes Reliquary 26. The character gains the [Rival (Ecclesiarchy), (Nobility), or (Rogue Trader)](talents.md#rival) Talent at the GM's discretion.
@@ -144,74 +68,12 @@ be encountered, an Inquisitor would be well served by requisitioning an Agent of
 | [Tech-Use](skills.md#tech-use)                                                 | 200  | Skill  | —              |
 | [Foresight](talents.md#foresight)                                              | 200  | Talent | —              |
 | [Iron Discipline](talents.md#iron%20discipline)                                | 200  | Talent | WP 30, Command |
-## **Chastener**
-
-*"Who can truly return to the grace of the God-Emperor without the searing pain which accompanies having one's sin revealed in His just light? This modest brand I have here is but a small thing by comparison, but the pain you feel should serve as a sufficient representation. Now, kindly hold still..."*
-
-— Marcus Danturian, Chastener of The Pendulum
-### **Background**
-To be gunned down in the street, cornered by a squad of black-armoured Arbitrators or green-clad Magistratum enforcers, is a common (and usually deserved) end for those who have threatened the stability and constancy of Imperial society. Not all crimes warrant death, however, and those who show some contrition, a chance at rehabilitation, or are just not foolish enough to point a gun at a lawgiver are more than likely to make the acquaintances of a Chastener. It is the duty of the Chasteners to return the body and soul of such criminals to the service of the Emperor, which He so rightly requires. 
-
-The Chastener is a determined hound of a lawman, one that bites viciously but with enough measured restraint to subdue his target without killing them whenever possible. Arbitrator precinct forts and the better-equipped enforcer houses will often feature a specialised simulation room for these men to practice the ways of fighting to subdue and restrain. A Chastener also learns the finer aspects of interrogation, torture, and coercive force, to better extract confessions and provide repentance and absolution to those who would receive it. For those renegades who would prefer a quick and heroic death, going down in a hail of Arbites gunfire to avoid true penance for their crimes, a Chastener determined to take them alive is like a force of nature, standing in defiance of whatever threats the criminal poses to deliver them to their judgement.
-
-Long considered an antiquated and whimsical notion, the forceful rehabilitation of the recidivist and the renegade has returned to the mainstream largely as a result of the influence of Lord Marshal Goreman of the Calixian Arbites. Goreman, more of a pious man of faith than a dispassionate legalist, holds to the notion that each man's first duty is to serve the Emperor in life and deed. To act contrary to the law is to not only disobey this duty, but to spit in the face of everything the Emperor has built and the countless sacrifices He has made to secure Mankind's future. Therefore, in the Lord Marshal's view, it is not the Arbitrators' place to take from the Emperor one who might still serve the purpose for which he was born. Following the lead of their master and patron, the Chasteners seek to return their prey to the straight and narrow rather than execute them right off, with killing reserved only for the most irredeemable or to protect the lives of their fellow lawgivers. If a Chastener succeeds in his task, not only will he have returned a wayward soul to the service of the God-Emperor, for the betterment of all, but he will have also saved the same soul from damnation.
-
-The ways in which crime is punished without resorting to the barbarity of execution are many and varied, but only a few outcomes exist for the criminal. In the eyes of the Chastener, the most desired result is to return the prisoner to Imperial society, well-chastised for his lawless ways and repentant, a good and kind soul remade from the dark and depraved heart it had been before. In many cases, the criminal is often too far gone, their crimes so numerous and repulsive that true clemency is impossible. The Chastener must be perceptive and of sound judgement, able to discern the pleas of mercy from the truly remorseful from the conceit of those merely expressing fear and cowardice. These important distinctions made, the Chastener can then go about his work of absolving the repentant, consigning the recalcitrant to more long-term forms of rehabilitation, and—if necessary—putting to death the absolutely irredeemable. Those who have received absolution return to criminality only very, very rarely, and the Lord Marshal has been quite keen to use such outcomes to validate his positions.
-
-Reaching any of these ends is no easy thing, either for the criminal or his Chastener, for those who have started down the path of impiousness and criminality have already forsaken their duty to Mankind in favour of their own desires and depravities. In order to return a prisoner to the lawful path, the deviant mind must first be broken free of the taint of rebellion, impulsivity, and faithlessness. As each criminal is a unique case, with their own motives and levers, the Chastener must be a master of both physical torture and corporeal punishments as well as psychological readjustment, whichever is most effective for their current charge. Of course, breaking the subject's errant spirit is only the first stage of the process of rehabilitation. Only after they have been reduced to little more than cowering shells of the foolhardy criminals they once were are the prisoners prepared to be reforged by the Chasteners into proper Imperial citizens. This process has been known to take years for some especially heinous villains, a full daily commitment for the Chastener that consumes the entirety of their hours on duty. Those who fully understand the severity of their misdeeds and the gravity of the situation they find themselves in, meanwhile, might only need a few weeks of a Chastener's tender ministrations before they can be paroled back into society.
-
-Of course, the Chastener's job does not start in the interrogation room. Whilst Arbitrators and rank-and-file enforcers are perfectly capable soldiers of the law, their methods are largely martial in nature. When bullets are flying but circumstances demand the miscreant be taken alive, the Chastener has the responsibility of exercising the necessary restraint to capture and detain the ruffians. To improve their chances for a successful arrest (and staying alive in a firefight) Chasteners
-receive extensive training in all sorts of subdual weaponry, from shock mauls to stun grenades to grapple-nets, among other esoteric devices of man-catching. Finally, the Chastener must be able to use his own body as a weapon to restrain his prey, for it cannot be guaranteed that the optimal tool for the job is always at hand. Chasteners thus place significant emphasis on bare-handed combat, as sometimes an effective chokehold or strategically placed carapace boot might be the only means the Chastener has of subduing his quarry.
-
-The Chastener's ability to doggedly pursue, detain, and interrogate criminals makes them both valuable agents of Imperial law and attractive prospects for Inquisitors of the Holy Ordos. The same skills used to extract confessions and repentance from criminals are very applicable to breaking the will of heretics and cultists. While more puritanical Inquisitors might view death as the only acceptable punishment for heresy, extracting information from the heretic first is usually still considered a best practice. Many experienced Chasteners have found themselves scooped up by the Inquisition, either by simple conscription or, for the more fanciful and imaginative, appealing to the Chastener's sense of "a higher duty". This propensity is a vindication of training such lawgivers to their task, but also a point of contention for Lord Marshal Goreman and his like-minded confederates, as their most talented men seem to keep getting appropriated by the one authority the Arbites cannot resist.
-### **Becoming a Chastener**
-Joining the ranks of the Chasteners is as much a choice as joining the cadre of an Inquisitor. While some may strive for the position, most are pushed toward it by their superiors. Many are recruited directly from the ranks of Arbites troopers, but well-regarded planetary enforcers and even informants and bounty hunters have been known to find themselves wearing the Chastener's chained badge. Troopers who have shown natural knack at interrogation and uncommon restraint in the apprehension of criminals are natural candidates for the rank of Chastener. Few chosen deny the position, for while many Arbitrators prefer a more straightforward approach to dealing with criminals, the rank and honour paid to a Chastener is a valuable asset to anyone
-wishing to one day command a Precinct of his own. 
-
-Those in charge of putting prospective Chasteners through the training program are encouraged to create tasks that escalate in danger and require ever increasing creativity on the part of the candidate. The time and effort placed into training these individuals makes recruitment a serious
-affair, especially considering the potential that they may find themselves serving an entirely more lofty master before the Arbitrator precinct fort or enforcer house has a chance to really make good on their investment.
-
-**Required Careers:** Arbitrator, Assassin, or Guardsman
-**Alternate Rank:** Rank 3 or higher (1,000 xp)
-**Other Requirements:** [Inquiry](skills.md#inquiry) and [Interrogation](skills.md#interrogation) Skills
-#### **Table: Chastener Advances**
-| Advance                                                                        | Cost |  Type  | Prerequisites                 |
-| ------------------------------------------------------------------------------ | :--: | :----: | :---------------------------- |
-| [Chem-Use](skills.md#chem-use)                                                 | 100  | Skill  | —                             |
-| [Common Lore (Underworld)](skills.md#common%20lore)                            | 100  | Skill  | —                             |
-| [Common Lore (Underworld) +10](skills.md#common%20lore)                        | 100  | Skill  | Common Lore (Underworld)      |
-| [Concealment](skills.md#concealment)                                           | 100  | Skill  | —                             |
-| [Interrogation +10](skills.md#interrogation)                                   | 100  | Skill  | Interrogation                 |
-| [Intimidate](skills.md#intimidate)                                             | 100  | Skill  | —                             |
-| [Intimidate +10](skills.md#intimidate)                                         | 100  | Skill  | Intimidate                    |
-| [Scholastic Lore (Judgement)](skills.md#scholastic%20lore)                     | 100  | Skill  | —                             |
-| [Scrutiny](skills.md#scrutiny)                                                 | 100  | Skill  | —                             |
-| [Scrutiny +10](skills.md#scrutiny)                                             | 100  | Skill  | Scrutiny                      |
-| [Shadowing](skills.md#shadowing)                                               | 100  | Skill  | —                             |
-| [Silent Move](skills.md#silent%20move)                                         | 100  | Skill  | —                             |
-| [Concealment +10](skills.md#concealment)                                       | 200  | Skill  | Concealment                   |
-| [Inquiry +10](skills.md#inquiry)                                               | 200  | Skill  | Inquiry                       |
-| [Silent Move +10](skills.md#silent%20move)                                     | 200  | Skill  | Silent Move                   |
-| [Disarm](talents.md#disarm)                                                    | 200  | Talent | Ag 30                         |
-| [Exotic Weapon Training (Web Pistol)](talents.md#exotic%20weapon%20training)   | 200  | Talent | —                             |
-| [Exotic Weapon Training (Webber)](talents.md#exotic%20weapon%20training)       | 200  | Talent | —                             |
-| [Iron Jaw](talents.md#iron%20jaw)                                              | 200  | Talent | T 40                          |
-| [Melee Weapon Training (Shock)](talents.md#melee%20weapon%20training)          | 200  | Talent | —                             |
-| [Nerves of Steel](talents.md#nerves%20of%20steel)                              | 200  | Talent | —                             |
-| [Peer (Adeptus Arbites)](talents.md#peer)                                      | 200  | Talent | Fel 30                        |
-| [Sound Constitution](talents.md#sound%20constitution)†                         | 200  | Talent | —                             |
-| [Sure Strike](talents.md#sure%20strike)                                        | 200  | Talent | WS 30                         |
-| [Takedown](talents.md#takedown)                                                | 200  | Talent | —                             |
-| [Exotic Weapon Training (Heavy Webber)](talents.md#exotic%20weapon%20training) | 300  | Talent | —                             |
-| [Unarmed Warrior](talents.md#unarmed%20warrior%20%28ascendant%20talent%29)     | 300  | Talent | WS 35, Ag 35                  |
-| [Unarmed Master](talents.md#unarmed%20master%20%28ascendant%20talent%29)       | 500  | Talent | WS 45, Ag 40, Unarmed Warrior |
-†*You may select this Talent twice at this Rank.*
 ## **Cult of the Pure Form**
 
 *"The flesh is strong!"*
 
 — Pure Form maxim
-## **Background**
+### **Background**
 Given the intense liturgical "differences" between them, the Ecclesiarchy and the Adeptus Mechanicus have never enjoyed a healthy working relationship within the Calixis Sector. Conflicts between the two organisations tend to be wars of words, though, political battles fought in the capital worlds of the Sector, rather than outright "shooting wars" between men and machines. Nevertheless, there have been several overt conflicts, such as the attack on the Explorator vessel *Omega Inquiry* from an Adepta Sororitas strike force on the far edges of the Halo Stars. There are no official records of the encounter, but the Tricorn contains sealed datavaults hinting at a heretofore undiscovered abhuman strain that the Mechanicus had uncovered far from civilised space, and the Ministorum’s reactions of horror when their spies reported the discovery. Greatly displeasured by the loss of the Explorator coterie, a Mechanicus Secutor cohort laid waste to two outpost convents in retaliation, and was about to escalate further before secretive diplomacy and unnamed offerings negotiated by third parties settled the matter. Such incidents are still rare, but with the gradual rise of a group calling itself the Cult of the Pure Form, this could begin to change.
 
 It is not known exactly who founded the Cult of the Pure Form, but their influence began in the Malfian Sub-Sector in the immediate aftermath of the Malygrisian Heresy. The traitorous Tech- Priest and his followers ravaged numerous worlds with their devastating weaponry, and some began to think that the existence of the Adeptus Mechanicus would lead to another, inevitable war. The followers of this emerging cult feared that this coming doom would scour humankind from the galaxy, leaving only the cold, barely-human flesh and machine hybrids of the Mechanicus domains behind. This twisted line of logic grew quickly until the first major anti-Mechanicum movement of the Calixis Sector’s history began to swell, with loud marches and violent demonstrations.
@@ -273,7 +135,7 @@ The Cult of the Pure Form is not a secretive group, in which members meet covert
 | **Gift of Purity**                                                        |  †   | Talent | —                                 |
 | **Purity of Flesh**                                                       |  †   | Talent | —                                 |
 | **Reformed Skin**                                                         |  †   | Talent | Gift of Purity or Purity of Flesh |
-*† This Talent has no xp cost, but can only be selected under specific circumstances. See each Talent's description for details.*
+*†This Talent has no xp cost, but can only be selected under specific circumstances. See each Talent's description for details.*
 #### **Talent: Gift of Purity**
 The Acolyte has forsaken the cybernetic, cast out the desire for the bionic, and joined the ranks of the Untouched. Never will sacred flesh be sullied by the implantation of devices that rob the Acolyte of his purity. The character cannot, under any circumstances, choose or accept the implantation of cybernetics/bionics, even if the result of refusing them would result in certain death. If the character finds himself implanted with cybernetics/bionics against his will, then he must remove them as soon as possible, replacing this Talent with the Purity of Flesh instead. 
 
@@ -289,7 +151,151 @@ For those Acolytes who prefer to remain whole physically as well as spiritually 
 
 When taken, the Acolyte gains a replacement body part reclaimed from a servitor or an executed criminal. The replacement is not a perfect analogue for the Acolyte's original flesh, however, and imposes the same penalties that a Poor Craftsmanship cybernetic would (and, obviously, does not confer a bonus to his Toughness or a reduced chance of death from Critical Effects). Superior examples, vat-grown in bioreactors to closely match the Acolyte's body, may be purchased for 75% the cost of a cybernetic replacement instead—these effectively duplicate the Acolyte's missing parts and impose no penalties on their use (but still doesn't grant any special benefits or effects that an augmetic part might).
 
-Any Fate Points gained from the Purity of Flesh Talent are lost when the missing parts are replaced with Reformed Skin, so the pious cultist should consider carefully how much he's willing to go without when considering a flesh-crafted replacement. Unless the missing body part would lead to inevitable death, such as a bionic cardiac system, the Acolyte is under no obligation to actually take this Talent. Reformed Skin costs no xp to purchase, though there may be a cost in Thrones if the Acolyte wishes to utilise a better quality part.
+Any Fate Points gained from the Purity of Flesh Talent are lost when the missing parts are replaced with Reformed Skin, so the pious cultist should consider carefully how much he's willing to go without when considering a flesh-crafted replacement. Unless the missing body part would lead to inevitable death, such as a bionic cardiac system, the Acolyte is under no obligation to actually take this Talent. Reformed Skin costs no xp to purchase, though there may be a cost in Thrones if the Acolyte wishes to utilise a better quality part. 
+## **Cult-Stalker**
+
+*"We are at war with forces too terrible to comprehend. We cannot afford mercy for any of its victims too weak to take the correct course. Mercy destroys us; it weakens us and saps our resolve. Put aside all such thoughts. They are not worthy of Inquisitors in the service of our Emperor. Praise His name for in our resolve we only reflect His purpose of will."*
+
+— excerpt from Verses of Inquisitor Octus Enoch
+### **Background**
+An uncomfortable revelation many Acolytes of the Inquisition come to realise through the course of their duties is that there are cults devoted to the Dark Gods hidden within all levels of society. Such is the hideously virulent nature of Chaos that the most insignificant underhive dreg all the way up to their planetary governor are vulnerable to its taint, and even knowledgeable members of the Adepta are far from immune to such profane temptations. Each Chaos cult plans its own way to escape detection until it can grow to the point of dominating society and begin paying the horrific toll of souls demanded by its dark masters.
+
+Extremist political organisations and criminal syndicates make especially good fronts for cults, since they naturally attract the power-hungry, the faithless, and the mentally unbalanced, each of whom can be quite well-suited to becoming wholly believing members of a cult. A very successful cult can even gain enough power to become the governing body of its home planet, surreptitiously toppling Imperial rule without ever having to resort to rebellion. In some respects, secret societies and recidivist gangs are one of the greatest threats facing the Holy Inquisition—they are innumerable in their multitudes and diversity, yet any could be a fertile breeding ground for cultist activity.
+
+Often, cults lair in unsavory parts of cities where no lawgiver would dare go without formidable backup. As they do not want to call attention to this problem, a “troubleshooter” is occasionally brought in from the local criminal element to assist the planetary enforcers, or even the Adeptus Arbites, by infiltrating the cult and determining the degree of depravity that is occurring within. 
+Usually this service comes at the price of a pardon for the troubleshooter's other crimes, but some street scum have been willing to offer their assistance with an investigation purely out of their personal devotion to the God-Emperor. Firebrand Ministorum priests are apt to preach that faithlessness and recidivism go hand in hand, but any hardened enforcer worth his salt knows the faithful don't always obey the law.
+
+The Inquisition, always looking to keep a step ahead from those who would tear the Imperium asunder with their vile machinations, has not been ignorant of the cult infiltration methods of the various lawgivers of Calixis. For those who've witnessed the horrors a clandestine Chaos cult is capable of unleashing if allowed to take root, finding out whether a given secret society is trucking with the Ruinous Powers or merely up to mundane acts of deviancy is of paramount importance. The Cult-Stalker, a creation of some less puritanical Inquisitors of the Calixian Conclave, is a purpose-made tool for this task.
+
+A Cult-Stalker's mission is deceptively simple: infiltrate a cult, gather information about its ways and means, and determine if the cult represents a moral threat of heresy. The Stalker may have to participate in dark initiation rituals or perform all matters of heathen acts in order to gain access to the cult's upper echelons, and those unable to keep their true loyalties in order are likely to be short-lived agents. Once the nature of the threat, if any, is identified, the Cult-Stalker must then collect as much evidence as possible before exfiltrating the organisation to present their findings. This is often easier said than done, especially for Stalkers who have gained the trust of the cult's inner circles.
+
+Some Inquisitorial Acolytes, already skilled in the arts of deception and deep cover, choose to take up this difficult and often thankless task, seeing it as a challenge to their abilities or perhaps just the best way they can serve their master. Most, however, are true scummers who've been dragooned into a radical Inquisitor's employ—guilty of some misdeeds that warranted an Inquisitor's attention, the unfortunate lowlifes are coerced into becoming Cult-Stalkers to avoid punishment, a sort of penitent informant. Such Acolytes are considered entirely disposable at first, but those who've successfully managed to infiltrate a cult to the satisfaction of their new master can find their stock rising quite quickly.
+### **Becoming a Cult-Stalker**
+A successful Cult-Stalker must have a keen eye for detail and a strong yet inquiring mind, capable of playing the role of a cultist without becoming fully engulfed in the cult's ways. The Cult-Stalker is no mere undercover agent, but fully commits to the part, outwardly appearing to be exactly the sort of heretic or degenerate that their master ultimately aims to destroy. Cult-Stalkers undergo a thorough programme of instruction on the nature of the cult they are to infiltrate, but once inside are entirely left to their own discretion about how to rob the cult of its secrets and escape alive.
+
+**Required Career:** Scum
+**Alternate Rank:** Rank 1 or higher (0 xp)
+**A Dreg is Still a Dreg:** Ultimately, the dangerous game a Cult-Stalker plays is just a far more perilous version of what many deceitful scummers get up to on the regular. The often surprisingly well-heeled nature of many cults does tend to give more opportunities for profit along the way, however. The character still generates monthly income as an Outcast, but substitutes the following table in place of **Scum Income**:
+#### **Table: Cult Stalker Income**
+| D10 | Result     | Earnings   |
+| --- | :--------- | :--------- |
+| 1-3 | Scrounge   | 10+1d10    |
+| 4-5 | Confidence | 20+FB d10  |
+| 6-7 | Extort     | 40+SB d10  |
+| 8-9 | Embezzle   | 50+IB d10  |
+| 10  | Loot       | 100+FP d10 |
+*FB = Fel Bonus, SB = S Bonus, AB = Ag Bonus, IB = Int Bonus, FP = Fate Points*
+#### **Table: Cult-Stalker Advances**
+| Advance                                                        | Cost |  Type  | Prerequisites          |
+| -------------------------------------------------------------- | :--: | :----: | ---------------------- |
+| [Blather](Skills.md#blather)                                   | 100  | Skill  | —                      |
+| [Ciphers (Underworld)](Skills.md#ciphers)                      | 100  | Skill  | —                      |
+| [Deceive](Skills.md#deceive)                                   | 100  | Skill  | —                      |
+| [Inquiry](Skills.md#inquiry)                                   | 100  | Skill  | —                      |
+| [Interrogation](Skills.md#interrogation)                       | 100  | Skill  | —                      |
+| [Scholastic Lore (Judgement)](Skills.md#scholastic%20lore<br>) | 100  | Skill  | —                      |
+| [Scrutiny](Skills.md#scrutiny)                                 | 100  | Skill  | —                      |
+| [Forbidden Lore (Cults)](Skills.md#forbidden%20lore)           | 100  | Skill  | —                      |
+| [Forbidden Lore (Cults) +10](Skills.md#forbidden%20lore)       | 200  | Skill  | Forbidden Lore (Cults) |
+| [Inquiry +10](Skills.md#inquiry)                               | 200  | Skill  | Inquiry                |
+| [Concealed Cavity](Talents.md#concealed%20cavity)              | 200  | Talent | —                      |
+| [Hatred (Cults)](Talents.md#hatred)                            | 200  | Talent | —                      |
+| [Unremarkable](Talents.md#unremarkable)                        | 200  | Talent | —                      |
+| **Cult Briefing**                                              | 400  | Talent | —                      |
+#### **Talent: Cult Briefing**
+The Cult-Stalker has undergone a significant regimen of preparatory indoctrination ahead of their planned infiltration. Depending on the type of the cult he has been tasked with infiltrating he gains one of the following benefits:
+
+* **Political:** The character has spent weeks memorising the intricate relationships of noble families, powerful local leaders, cabinet advisers and military personnel. The character may treat all [Common Lore](skills.md#common%20lore) Skills as Basic Skills. In addition, he is treated as having the [Total Recall](talents.md#total%20recall) Talent when attempting to recall someone's name within one world’s political or social elite.
+* **Heretek:** The character has spent hours alongside Tech-Priests, learning their ways and examining their mannerisms. He has been implanted with a single augmetic designed to appear "questionable" to Mechanicus observers. He gains the [Tech-Use](skills.md#tech-use) Skill and one of the following Talents: [Autosanguine](talents.md#autosanguine), [Logis Implant](talents.md#logis%20implant), [Orthoproxy](talents.md#orthoproxy) or [Technical Knock](talents.md#technical%20knock).
+* **Pleasure:** Steady doses of poison within controlled environments, chemical treatments, and dozens of surgeries have prepared the character to resist the call of a pleasure cult while simultaneously making them look like a perfect candidate. The character gains +5 Fellowship and chooses either the [Chem Geld](talents.md#chem%20geld) or [Decadence](talents.md#decadence) Talent.
+* **Blood:** Endless hours of martial training and physical conditioning have prepared the Acolyte to impress cult members with his martial prowess. The character gains the [Melee Weapon Training (*Any—choose one*)](talents.md#melee%20weapon%20training) and [Frenzy](talents.md#frenzy) Talents.
+* **Culture:** Hypno-indoctrination and months of linguistic drills have prepared the character to blend seamlessly in with a society alien to his own and work his way into the halls of power. The character chooses one Homeworld other than his own and gains all the Traits associated with that Homeworld (both negative and positive).
+
+This selection is permanent, and the Cult-Stalker is best employed when utilised against similar cults to the one he was indoctrinated to infiltrate.
+## **Demagogue**
+
+*“You have been forsaken! You have been enslaved by lies, beaten by injustice, and bled by greed, but you have not bowed your heads or bent your knees. If it takes a thousand years and a river of blood, then so be it, but we will be free!”*
+
+— unidentified heretic on Tranch prior to the rising of the Pale Throng 
+### **Background**
+Demagogues are rabble rousers and agitators who can sway great crowds with their words. These fiery orators may be cult leaders, idealists, madmen, fanatics, or subtle manipulators and agent provocateurs. All, however, have the skill to draw crowds together with words, bind them with rhetoric, and loose them on a target like a pack of dogs. Worlds have burned because of the actions of such men and women. Some wish for nothing more than to see the world around them torn down and set aflame, to stoke the fires of anger and dissent to the point of an all-consuming inferno. Others are created by the injustices done to them or those around them, injustices that push the demagogue past the confines of society and into open insurrection against those in authority or anyone else the demagogue believes to have wronged them. Many Demagogues within the Imperium are touched with such conviction and faith that they use their skills to build crusades of the credulous and desperate.
+
+Many, if not most, demagogues true believers, faithful and loyal to the Emperor in mind and action, but the consequences of their fomentations can be extremely dire for those in positions of power. Indeed, planet-wide sectarian conflicts, religious schism, and popular upheaval strong enough to threaten the Imperial tithe have all been started, likely quite unwittingly, by demagogues faithful to the Master of Mankind yet scorning of His temporal vassals. Perhaps unsurprisingly, to many Imperial authorities, these incendiary individuals are, for the most part, a menace whose activities must be controlled, and if necessary, curtailed—possibly with great and uncompromising force.
+
+This is often more easily said than done. Rare is the Emperor-fearing demagogue who will willingly end their campaign of incitement under threats from authorities they already care little for in the first place. In some cases, productive negotiation has led to a cooling of tensions and a certain measure of redress for the demagogue's grievances, but this is more often the exception than the rule. Mutual animosity and irreconcilable differences have frequently led to short-sighted potentates having the demagogue silenced permanently, only to watch in horror as the demagogue's followers explode into completely uncontrollable revolt, anarchy, and destruction over their martyred leader's demise.
+
+Persecuting recidivist demagogues, those who hold no great love for the Imperium or its institutions, can be even more of a thorny prospect. Many demagogues are adept at slipping through the Imperial society unseen and unaccounted for. Indeed, it is not uncommon for a recidivist demagogue to appear long enough to create a brushfire rebellion or riot, only to melt away when the authorities move against them and begin plans anew to replicate the destruction they have unleashed somewhere else. It matters not whether the demagogue is motivated by a personal conviction to see the forces and structure of ordered society burn, or if the act of inciting revolt is simply a profitable enterprise to be repeated for the demagogue's simple cupidity. These elusive agitators are the most dangerous and hunted variety of demagogue, and many are counted amongst the Calixis Sector's most notorious of rebels and heretics. 
+
+Among Inquisitors of a less-puritanical mien a demagogue could be a very valuable asset. Some Inquisitors will train a demagogue in the art of incitement, effectively creating a rabble-rousing agent they can deploy where social unrest and disarray are needed. Others could be true recidivist demagogues co-opted by the Inquisition as a means of avoiding a far worse fate than instigating a crisis over a cause they don't believe in. Such "social" weapons are often deployed into situations where an Inquisitor has reason to believe the authority in question has fallen to corruption or heresy, but either lacks the means to prove it to the more staid Adeptus, or the unique circumstances of the situation preclude simply arresting or removing said authority by the Inquisitor's own prerogative.
+
+It has been said by some (albeit in decidedly hushed tones) within the halls of Lord Hax's Lucid Palace that the mutant uprising on Tranch was the product of just such an Inquisitorial gambit. Sensing that the slowly growing unrest within Tranch's soot warrens would inevitably lead to an uprising against that world's feckless oligarchs, a handful of radical Recongregationist Inquisitors hatched a bold scheme. The Recongregationists, already entirely dismissive of the planetary authorities, believed that the mutant Shroud Masters of Tranch would use the uprising to launch a massive uprising of other mutants and abhumans across the entire Sector. 
+
+Instead of trying to prevent the uprising in the first place—deemed to be a hopeless prospect in light of Tranch's brutal and deeply ingrained discord—the Recongregationists took several steps to deliberately accelerate the upheaval. This included sending in a cadre of trained demagogues explicitly to agitate the discontent of the soot warren dwellers. The scheme worked, and the world was in full revolt in a matter of months. The Shroud Masters, caught by surprise as the uprising they were carefully preparing suddenly and fiercely launched right out from under them, were not yet in a position to propagate the revolution to the other hive worlds of Calixis. Their master plan thwarted, the Shroud Masters scattered as the Imperial Guard retook the rebelling world spire by spire and hive by hive. Of no minor footnote, the larger body of the Inquisition ousted Tranch's surviving oligarchs, deeming them collectively guilty of such dereliction and incompetence as to have all but caused the revolt in the first place.
+
+If this pernicious rumour is to be believed, the Recongregationists were broadly successful. The Shroud Masters' Sector-wide uprising was suppressed before it could begin, Tranch's inefficacious oligarchs were either killed or replaced, and Calixis had millions fewer mutants by the time the Imperial Guard regiments were being demobilised. Officially, the Inquisition has rigorously denied that any such scheme existed. This is just as well, as if there was any truth to it, the supposed Recongregationists would do well to keep their actions secret even from their peers. Even disregarding the millions of dead civilians and Guardsmen, the near-total destruction of Tranch's economy and much of its infrastructure brought about by a planetary revolt literally instigated by the radicals could have them accused of sedition, if not outright heresy.
+### **Becoming a Demagogue**
+Demagogues who serve radical Inquisitors usually assume the role through necessity. When you are charged with bringing blood and destruction or instigating fundamental changes in the structure of Imperial authority, the ability to create a riot, instigate a mutiny, and foment rebellion is useful indeed. Talented orators and socially adept Acolytes may embrace this role and dedicate themselves to perfecting its finer points, while some are thrust towards it by their master. While it is their best-known talent, demagogues are not limited to practising their social graces before large crowds, and any Acolyte cell could benefit from having a master of rhetoric and persuasion to aid them when the bullets and las blasts aren't flying. 
+
+**Required Career:** Adept, Cleric, Imperial Psyker, or Scum
+**Alternate Rank:** Rank 3 or higher (1,000 xp)
+#### **Table: Demagogue Advances**
+| Advance                                             | Cost |  Type  | Prerequisites |
+| --------------------------------------------------- | :--: | :----: | ------------- |
+| [Charm](skills.md#charm)                            | 100  | Skill  | —             |
+| [Charm +10](skills.md#charm)                        | 100  | Skill  | Charm         |
+| [Command](skills.md#command)                        | 100  | Skill  | —             |
+| [Deceive](skills.md#deceive)                        | 100  | Skill  | —             |
+| [Deceive +10](skills.md#deceive)                    | 100  | Skill  | —             |
+| [Disguise](skills.md#disguise)                      | 100  | Skill  | —             |
+| [Unremarkable](talents.md#unremarkable)             | 100  | Talent | —             |
+| [Command +10](skills.md#command)                    | 200  | Skill  | Command       |
+| [Deceive +20](skills.md#deceive)                    | 200  | Skill  | Deceive +10   |
+| [Disguise +10](skills.md#disguise)                  | 200  | Skill  | Disguise      |
+| [Air of Authority](talents.md#air%20of%20authority) | 200  | Talent | Fel 30        |
+| [Inspire Wrath](talents.md#inspire%20wrath)         | 200  | Talent | Fel 30        |
+| [Master Orator](talents.md#master%20orator)         | 200  | Talent | Fel 30        |
+| [Command +20](skills.md#command)                    | 300  | Skill  | Command +10   |
+## **Frateris Militia**
+
+*“My militia of faithful, you may not be clad in the blessed flak armour of the Imperial Guard. You may not bring the Emperor’s wrath through the barrel of the righteous lasgun. What you lack in the Imperium’s most blessed weapons of war you replace with fervour and faith. No army forged can stand before the might of the Emperor’s judgement wrought by our hands.”*
+
+— Abbot Vonn Schtiel
+### **Background**
+Since the dark days of Sebastian Thor’s great reformation, the Ministorum has been prevented, by the dictates of the Decree Passive, from maintaining forces that consist of “men at arms.” Although this statute put an end to the vast standing armies of the ancient Ecclesiarchy, the archaic wording of the decree has been subjected to many abuses and creative interpretations over the centuries, and only a fool would assume that the Ecclesiarchy lacks military power.
+
+In times of great need—wars of faith and crusades, but also revolts and disasters—Ecclesiastical authorities will arm its male servants, both from the clergy and the mass of lay followers. A great mass of clerks, Deacons, Pardoners, and other minor functionaries swarm from the great temples and cathedrals, armed with whatever weapons they can lay their hands upon. To some, they are nothing but a disorganised rabble, a greater threat to themselves than to any opposing force, but on many occasions a hastily-assembled Frateris Militia have been known to perform tremendous acts of courage and valour in the name of the Emperor. Though rarely mentioned by the remembrancers once the conflict has passed, more than a few worlds have been saved from xenos invasion and the forces of rebellion by the fervent defence of a legion of Ecclesiastical militiamen.
+
+Members of the Frateris Militia are not professional soldiers, and receive no formal training in their role, although frontier diocese and those on politically unstable worlds have been known to drill their able-bodied clergy on basic military tactics (on a strictly unofficial basis, of course). However, their faith is strong, and what they lack in standardised equipment and manuals of arms they make up for with zeal to serve the God-Emperor.
+
+One of the many legends of St. Drusus involves a close friend and confidant, Abbot Rempsi. As a young man Rempsi had been drafted into the Frateris Militia and joined the crusade to return the Calyx Expanse into the Imperial fold. He was a fiery orator whose rage was barely contained even when not surrounded by the bloodshed of combat. The survival rate of most Frateris Militia during the Angevin Crusade was poor by any standards, but Rempsi managed to survive a dozen conflicts before he met Drusus, providing spiritual counsel to the lay members and urging them on to great feats of bravery once the battle was enjoined.
+
+According to the legend, while in transit to the next war zone a great warship carrying both Imperial Guard and Frateris Militia was assailed by blind, void-dwelling xenos which swarmed through the vessel's halls and atriums hungry for a meal of human flesh. Locked in a bulkhead with several dozen Frateris Militia, Drusus battled alongside Rempsi, holding the choke point leading to the enginarium. Eventually overrun, dozens of xenos rushed through the corridors and would soon overwhelm the enginarium and snuff out the ship's plasma cores. The young Rempsi bellowed with rage and disgust at the abominable force before him, and his militia followed him headlong towards the enemy, only to abruptly stop a few dozen metres short. Peaceful calm washed over them as they began to loudly recite the Litany of Refusal. Overwhelmed by the sonorous chanting, the xenos were repelled, unable to come within striking distance of the Frateris Militia and saving the ship. Drusus knew that he had witnessed a miracle. Abbot Rempsi was forever changed, his spittle-hurling rage replaced by steadfastness and serene determination in the will of the God-Emperor. Rempsi spent much of the rest of the crusade as one of Drusus' most phlegmatic and composed advisers, and is still revered today by the stoic and composed throughout the Sector.
+### **Becoming a Frateris Militia**
+Those who serve the Ecclesiarchy are often drafted into the Frateris Militia to serve in times of need. While not formally trained or given a wage as members of a proper military would be, they are excused from other official duties during their service. Anyone with strong loyalty to the Ecclesiarchy and a willingness to take up arms against mankind's enemies could have served in a Frateris Militia, and any Inquisitor worth his salt would value a man of faith who also happens to be proficient in combat as a member of an Acolyte cell.
+
+**Required Career:** Adept, Cleric, or Scum
+**Alternate Rank:** Rank 1 or higher (0 xp).
+**Militia Service:** A character who replaces Rank 1 with Frateris Militia also replaces all starting equipment with a Las Carbine or Hunting Rifle and 2 reloads, Aquila Necklace, a Charm, a Knife, a backpack and a Flak Vest.
+**Brothers in Arms:** As the name implies, only male characters may become members of a Frateris Militia. With the (very) notable exception of the Adepta Soroitas, the Ecclesiarchy disdains the idea of expending women in combat.
+#### **Table: Frateris Militia Advances**
+| Advance                                                                   | Cost |  Type  | Prerequisites |
+| ------------------------------------------------------------------------- | :--: | :----: | ------------- |
+| [Awareness](skills.md#awareness)                                          | 100  | Skill  | —             |
+| [Common Lore (Ecclesiarchy)](skills.md#common%20lore)                     | 100  | Skill  | —             |
+| [Common Lore (Imperial Creed)](skills.md#common%20lore)                   | 100  | Skill  | —             |
+| [Common Lore (Imperium)](skills.md#common%20lore)                         | 100  | Skill  | —             |
+| [Common Lore (War)](skills.md#common%20lore)                              | 100  | Skill  | —             |
+| [Dodge](skills.md#dodge)                                                  | 100  | Skill  | —             |
+| [Swim](skills.md#swim)                                                    | 100  | Skill  | —             |
+| [Basic Weapon Training (Primitive)](talents.md#basic%20weapon%20training) | 100  | Talent | —             |
+| [Basic Weapon Training (SP)](talents.md#basic%20weapon%20training)        | 100  | Talent | —             |
+| [Melee Weapon Training (Primitive)](talents.md#melee%20weapon%20training) | 100  | Talent | —             |
+| [Pistol Training (Primitive)](talents.md#pistol%20training)               | 100  | Talent | —             |
+| [Pistol Training (SP)](talents.md#pistol%20training)                      | 100  | Talent | —             |
+| [Sound Constitution](talents.md#sound%20constitution)†                    | 100  | Talent | —             |
+| [Frenzy](talents.md#frenzy)                                               | 200  | Talent | —             |
+| [Insanely Faithful](talents.md#insanely%20faithful)                       | 200  | Talent | —             |
+*†This Talent may be taken up to two times for this Alternate Rank.*
 ## **Malfian Bloodsworn**
 
 *"Now be a nice gent and come here and bleed on this warrant for me, eh? Then I'll make it quick for ye, otherwise I'll get a bit put out, and well… I hate swabbing the floor and getting nice parchment dirty. Seems so… undignified like."*
@@ -309,7 +315,7 @@ More morally flexible Inquisitors are not above hiring members of the Bloodsworn
 Becoming part of the Blood Guild is deceptively simple: the candidates must make their way to one of the guild's charter houses on any of the main worlds of the Malfian sub-sector, offer payment of a thousand Throne gelt, and, as long as they themselves are not under a blood warrant and are not otherwise subject to "higher oath", they are given a "grey warrant" to execute. Grey warrants are those that have languished uncollected on the charter house's books for some time, usually because the money offered doesn't merit the danger or expenditure of time involved in the collection. To become Bloodsworn, all they need do is successfully claim the warrant by any means necessary. This could include the help of others, and assuming they're willing to participate in such an endeavour, might form a small adventure for the other Acolytes to aid in. Once successful, the candidate must then swear a blood oath to abide by the guild's covenants, adding a sample of their blood to the guild's gene registry of members. The candidate is given a guild symbol and a copy of his charter as credentials, and may thereafter claim the right to the title of "Bloodsworn" and execute lawful warrants anywhere the guild's authority is recognised. 
 
 **Required Career:** Assassin, Arbitrator, Guardsman, or Scum
-**Alternate Rank:** Rank 5 or higher (3,000 xp)
+**Alternate Rank:** Rank 5 or higher (3,000 xp).
 **Other Requirements:** Must gain a charter from the Blood Guild of Malfi. Arbitrators and Guardsmen must not be in active Imperial service when receiving their charter, and Acolytes of the Inquisition would need to conceal their true allegiance from the guild.
 #### **Table: Malfian Bloodsworn Advances**
 | Advance                                                                    | Cost |  Type  | Prerequisites                 |
@@ -355,11 +361,68 @@ Becoming part of the Blood Guild is deceptively simple: the candidates must make
 | [Unarmed Warrior](talents.md#unarmed%20warrior%20%28ascendant%20talent%29) | 300  | Talent | WS 35, Ag 35                  |
 | [Unarmed Master](talents.md#unarmed%20master%20%28ascendant%20talent%29)   | 500  | Talent | WS 45, Ag 40, Unarmed Warrior |
 †*You may select this Talent twice at this Rank.*
+## **Malifixer**
+
+*"My name is Artonias Scopralo, I solve problems. Am I to understand that cadaver is the one in question? Excellent. I'll need a vat of bio-waste, some corpse starch, and ten kilos of rockcrete mix. If self preservation is an instinct you possess then fetch them quickly. And stop bleeding everywhere, it's breaking my concentration."*
+
+— Artonias Scopralo, Kasballica Malifixer
+### **Background**
+The criminal underworld in the Calixis Sector is by no means forgiving. It is a harsh, cruel existence punctuated by violence bet against the fleeting hope of a quick payoff. Organisations such as the Kasballica and the Beast House make their way on the backs of the unfortunate individuals that they have collected into their ranks as much by desperation as by ambition or even simple greed. Of course, this is not to say that those lowly scum who make up the bulk of such criminal enterprises are not themselves enterprising and opportunistic individuals who could have been great boons to their fellow man if they'd remained on the straight and narrow. Indeed, while many lackeys of the Calixian underworld are morally bankrupt stubjacks, they are matched by those ambitious souls who would seek only to better their lot, either through criminal advancement and the profits thereof, or by escaping the harsh life to which they were born or have fallen into.
+
+The most cruel and ruthless often rise through the ranks of their organisation through sheer self-serving strength and a willingness to brutalise anyone who would hinder their goals. Others play a more subtle but no less dangerous game, relying on their cunning and quick wits to be in the right place at the right time to make their play for power. All understand to rise above a certain level in their syndicate makes exposure by the authorities an impossible prospect, for if the lawgivers don't kill them first, their former comrades will in the interest of tying up loose ends. Within this world there exists a very particular sort of specialist, most commonly known as a Malifixer, whose trade is to prevent such a grim fate from befalling his paying clients.
+
+Malifixers are men and women whose skills are broad, and their understanding of Imperial Law vast. They watch the Arbitrators and the enforcers as closely as their organisations are watched; often living for years near the Calixian Precinct Fortresses, just observing their ways and building rapport with officers they believe to be corruptible. Some of the most talented Malifixers will even engineer attacks or plant misleading evidence, leading investigators to rival criminal groups—a common expression amongst Scintillan Malifixers is that the best way to defeat your enemies is to have the authorities do it for you.
+
+The Kasballica makes extensive use of Malifixers, using them not only to spy on the organisations of their enemies, but also on their own organisation as well, acting as a sort of criminal enforcer. It is not unheard of for a Malifixer to live for years within a rival group only to turn on them at a vital moment, or deliver key evidence into the hands of the authorities just when they need a break the most. Once positioned securely within an organisation, the Malifixer must simply watch and learn, reporting and interpreting what he sees to his superiors. Given the horrendous consequences should a Malifixer's real loyalty ever be discovered by his comrades in crime, only the most resourceful can ever truly thrive. Those who do become masters of the art of deception and observation, able to willingly perform any clandestine deed their criminal employers demand, all while keeping watch on those around them for a key piece of information.
+
+The key tool in the Malifixer's arsenal is his network of contacts, individuals trusted to perform a task or provide some vital piece of information when no one else can. A successful Malifixer's reach is broad, able to call upon other elements of the criminal underworld, corrupt enforcers, guild bondsmen, and for the most accomplished, even members of the Adepta. If a Malifixer isn't able to make his client's problem go away, he almost certainly knows someone who can. It is said that the best Malifixers no longer need to dirty their hands at all—their investments in developing an expansive spider's web of associations across many levels of Imperial society pays dividends, and the Malifixer need only make a vox call, leave a message in a dead drop, or visit a social club. A favour is called, a service is performed, and the client's troubles are dealt with.
+
+A successful Malifixer would like very, very much to never so much as breathe the same air as a member of the Inquisition. This fell agency's ability to infiltrate organisations and bend individuals to its will humbles even the greatest Malifixer's accomplishments, and if a matter rises to importance enough to draw an Inquisitor's interest, any Malifixer who knows what's right for him would wisely drop the matter. No criminal enterprise, however profitable, is worth the risk of attracting the attentions of the All-Seeing Eye. When they do cross paths, it is often because the Malifixer was in the service of a heretical cult, wittingly or otherwise, and he now finds himself caught up in the Inquisition's inescapable grip. Ordinarily this is the end, and the Malifixer will face the same fate as those he was working for. Less puritanical Inquisitors, however, have been known to see a compromised Malifixer as a potentially extremely capable operative, and it isn't like they're in any position to refuse such a job offer anyway...
+### **Becoming a Malifixer**
+Once in a great while, a cunning Inquisitorial Acolyte will, with their master's support, re-invent themselves as a Malifixer, carrying on the work much like the genuine issue, but all the while secretly passing information on to their Inquisitor. More often than not, however, a Malifixer falls into the service of an Inquisitor less than voluntarily. Puritan Inquisitors often regard such individuals as just another morally-compromised recidivist, and when swept up during a purge of a heretical cult or organisation they're disposed of along with the common thugs. A radical, however, might see the virtue in offering a Malifixer a second chance if they're willing to serve a new master. Impressed into the service of the Inquisition, the Malifixer now acts as a high-level informant, practising their trade as before but now dutifully reporting when their clients have strayed from mere criminality to outright heresy. 
+
+Most consider this a lifetime punishment, robbed of their freedom of agency, but at least preferable to death. Rarely, a Malifixer with enough self-awareness and gravitas will come to understand this service is a gift, redeeming their corrupt souls in the eyes of the God-Emperor through service to His own Inquisition. A few have even risen quite far within the Holy Ordos. It is rumoured that a handful of full-blooded Inquisitors in the Calixian Conclave, all quite invested in detecting heretical activity in the criminal underworld, are actually born-again Malifixers.
+
+A Malifixer Acolyte is a powerful, if slow-acting, weapon to break open opaque underworld organisations. When the trail of heretical misdeeds leads to a powerful narco-gang or corrupt bondsman's union, a Malifixer who plays his cards right can plant the seeds of doubt in the organisation, offer his services to protect them from detection, and then once in their employ deliver whatever evidences of heresy his master requires to act against them.
+
+**Required Career:** Scum
+**Alternate Rank:** Rank 3 or higher (1,000 xp)
+**Other Requirements:** Fellowship 35, [Peer (Underworld)](talents.md#peer) Talent
+#### **Table: Malifixer Advances** 
+| Advance                                                        | Cost |  Type  | Prerequisites                |
+| -------------------------------------------------------------- | :--: | :----: | ---------------------------- |
+| [Blather](skills.md#blather)                                   | 100  | Skill  | —                            |
+| [Blather +10](skills.md#blather)                               | 100  | Skill  | Blather                      |
+| [Carouse](skills.md#carouse)                                   | 100  | Skill  | —                            |
+| [Carouse +10](skills.md#carouse)                               | 100  | Skill  | Carouse                      |
+| [Ciphers (Underworld)](skills.md#ciphers)                      | 100  | Skill  | —                            |
+| [Common Lore (Adeptus Arbites)](skills.md#common%20lore)       | 100  | Skill  | —                            |
+| [Common Lore (Underworld)](skills.md#common%20lore)            | 100  | Skill  | —                            |
+| [Common Lore (Underworld) +10](skills.md#common%20lore)        | 100  | Skill  | Common Lore (Underworld)     |
+| [Common Lore (Underworld) +20](skills.md#common%20lore)        | 100  | Skill  | Common Lore (Underworld) +10 |
+| [Deceive](skills.md#deceive)                                   | 100  | Skill  | —                            |
+| [Deceive +10](skills.md#deceive)                               | 100  | Skill  | Deceive                      |
+| [Inquiry](skills.md#inquiry)                                   | 100  | Skill  | —                            |
+| [Inquiry +10](skills.md#inquiry)                               | 100  | Skill  | Inquiry                      |
+| [Lip Reading](skills.md#lip%20reading)                         | 100  | Skill  | —                            |
+| [Lip Reading +10](skills.md#lip%20reading)                     | 100  | Skill  | Lip Reading                  |
+| [Scholastic Lore (Judgement)](skills.md#scholastic%20lore)     | 100  | Skill  | —                            |
+| [Scholastic Lore (Judgement) +10](skills.md#scholastic%20lore) | 100  | Skill  | Scholastic Lore (Judgement)  |
+| [Scrutiny](skills.md#scrutiny)                                 | 100  | Skill  | —                            |
+| [Scrutiny +10](skills.md#scrutiny)                             | 100  | Skill  | Scrutiny                     |
+| [Search](skills.md#search)                                     | 100  | Skill  | —                            |
+| [Security](skills.md#security)                                 | 100  | Skill  | —                            |
+| [Sleight of Hand](skills.md#sleight%20of%20hand)               | 100  | Skill  | —                            |
+| [Light Sleeper](talents.md#light%20sleeper)                    | 100  | Talent | Per 30                       |
+| [Paranoia](talents.md#paranoia)                                | 100  | Talent | —                            |
+| [Heightened Senses (Hearing)](talents.md#heightened%20senses)  | 200  | Talent | —                            |
+| [Good Reputation (Underworld)](talents.md#good%20reputation)   | 300  | Talent | Fel 30, Peer (Underworld)    |
+| [Peer (Enforcers)](talents.md#peer)                            | 300  | Talent | Fel 30                       |
 ## **Metallican Gunslinger**
 
 *"They say he's fast, like chain lightning fast. Don't believe it, no one's that fast."*
 
-— Last words attributed to Kail Strom, bounty hunter
+— last words attributed to Kail Strom, bounty hunter
 ### **Background**
 The pistoleros of Gunmetal City on Scintilla are the finest in the sector, the most infamous and the most lethal. In action, they are a blazing whirl of muzzle flashes, their hands so fast that their pistols seem mere extensions of their murderous will, and all around them people die. This is the craft of the Metallican Gunslinger, and be they gang heavies, famed arena champions, assassins wreathed in gunsmoke, or grim wanderers, each is worth the price if killing is involved. With its vast manufactoria cranking out untold small arms day and night, Gunmetal City adores the gun and honours above all others those who forge or wield them with great skill. With every man and woman (and most children!) packing at least one piece of cold iron, when a Metallican is said to be a skilled gunman, it is a stone cold truth, as they have managed to elevate themselves above a thousand others to be so named.
 
@@ -408,65 +471,6 @@ Metallican Gunslingers are notoriously proud of their skill with pistols and dis
 **Prerequisites:** Ballistic Skill 50, Quick Draw
 
 For many Metallican Gunslingers the apex of the pistol fighter's art is in the fast draw, the sound of a hand slapping against a leather holster only to be almost instantly drowned out by gunshots and the distinctive thud of dead men hitting the floor. Whenever a Metallican Gunslinger uses the [Quick Draw](talents.md#quick%20draw) Talent to draw a pistol for the first time it gains +1 to Damage inflicted for every degree of success on the Gunslinger's Ballistic Skill Tests until the start of his next Turn. This Talent may only be used the first time the Gunslinger draws a given pistol in each combat, but can be used with as many individual pistols as the Gunslinger carries on his body.
-## **Moritat Reaper**
-
-*"I never saw the killer fully, though I thank the Saviour-Emperor for her. We'd lost half the squad and Proctor Aeldred had just gone down with his throat bit open. I fired off the last round from my Puritan and had nothing left but my boot knife and a prayer on my lips when this dark shape dropped from the gantry above. The carrionates, well, the rotted things just came apart, black clotted blood and rancid flesh everywhere. The one in front of me went down in five twitching chunks and I swear I didn't see a single sword stroke fall… a miracle sir. The Emperor's own bloody work—like a death angel from the old hive tales."*
-
-— Deputy Provost Morcar, report on the Morningside Incident, Hive Gloriana
-### **Background**
-The Moritat are an ancient Imperial Death Cult devoted to the art of the blade and their own dark and bloody interpretation of the Imperial Creed. The Moritat's membership view themselves as a sect of assassin-mystics in service ultimately of the God-Emperor Himself, and deem their killings divinely licensed, if not directly ordained. In the Moritat's dogma (as it is with many death cults), blood holds a sacred place: it represents both beating life and the shed blood of the countless millions who have been martyred so humanity can continue to exist. Particularly, it embodies the sacrifice of the Emperor Himself. For the Moritat, then, there is no more sacred act than the spilling of blood and for this reason they prefer to do their work with the edge of the blade over any other implement of death.
-
-Their secret rituals revolve around blood and, to them, no lesson is truly learned and no truth uncovered without bloodshed to mark its moment. Central to the Moritat's doctrine and training is the "travail", the processes of struggle and lethal combat making up the course of their lives and serving to hone their skills. During this time, the Moritat makes their way as a contracted assassin, often only for a nominal fee or a bizarre or symbolic item of payment, or, just as often, as a murderer who seeks out worthy targets among those skilled enough to prove challenging or who they regard as the Emperor's foes—heretics, mutants, cultists and witches, although a particular Moritat has his or her own favoured targets. Many Moritat find service with the Holy Ordos during this period as the goals of the Inquisition and the Moritat's chosen victims marry well together. The sanction of Inquisitorial authority often serves to cover up the assassin's less orthodox habits. The Moritat assassin is watched in secret by members of their own cult throughout the travail and once their superiors deem they have grown sufficiently skilled enough, they are initiated into the cult's higher mysteries, becoming a thing of whispered legend—a Moritat Reaper.
-
-The Moritat Reaper is a vision of death incarnate with a blade, skilled to an extent that few can match: agile, deft, and merciless. They are also patient, capable of waiting still for hours in the shadows or stalking their prey for days before choosing the right moment to strike. Once unleashed in combat, they erupt in savage grace, their blades leaping, flashing, and severing with seemingly wild abandon, belying the consummate precision with which their bloodletting is driven. Once drenched in the blood of their victims, only then is a Moritat satiated and offers up thanks to the Emperor in silent prayer in his or her own cult's tongue—laced, it is said, with a million metaphors for taking a life.
-
-The services of a Moritat Reaper as an Acolyte is a highly valuable commodity in the Holy Ordos of the Calixis Sector, particularly with Inquisitors who prefer their killings and purges to take the shape of precisely orchestrated strikes and assassinations over public witch hunts and storm trooper raids. The close, if informal, relationship between the Moritat cult and the Inquisition creates a certain level of mutual trust between them. Their disquieting blood rituals notwithstanding, the loyalty and faith of a Moritat Reaper serving as an Acolyte is close to unquestionable, and most Moritat would jump at the opportunity to serve in an Inquisitor's retinue if for no other reason than the opportunity to test their skills against some of the God-Emperor's most hated foes.
-### **Becoming a Moritat Reaper**
-The Reaper is the apotheosis of a Moritat cultist who has remained true to the cult's tenets of holy bloodshed. Those who have held tight to the cult's dogma of ritual killing, honed their skills over years of plying the assassin's trade, and displayed exceptional physical prowess and mental fortitude may be invited by a master of their order to partake in a trial of arms against several of the cult's favoured enemies in single combat. Those who succeed are awarded the revered title of Reaper, and inducted into the more secretive inner circles of the cult.
-
-**Required Career:** Assassin
-**Required Experience:** Rank 6 or higher (6,000 xp)
-**Other Requirements:** You must have selected [The Moritat](background%20packages.md#the%20moritat) Background Package during character creation and remained true to the cult's teachings. Upon reaching Rank 6 you must select the Death Adept path.
-#### **Table: Moritat Reaper Advances** 
-| Advance                                                  | Cost |  Type  | Prerequisites                     |
-| -------------------------------------------------------- | :--: | :----: | --------------------------------- |
-| [Climb +20](Skills.md#climb)                             | 100  | Skill  | Climb +10                         |
-| [Concealment +10](Skills.md#concealment)                 | 100  | Skill  | Concealment                       |
-| [Contortionist +10](Skills.md#contortionist)             | 100  | Skill  | Contortionist                     |
-| [Deceive](Skills.md#deceive)                             | 100  | Skill  | —                                 |
-| [Intimidate +10](Skills.md#intimidate)                   | 100  | Skill  | Intimidate                        |
-| [Secret Tongue (Moritat) +10](Skills.md#secret%20tongue) | 100  | Skill  | Secret Tongue (Moritat)           |
-| [Silent Move +20](Skills.md#silent%20move)               | 100  | Skill  | Silent Move +10                   |
-| [Survival +10](Skills.md#survival)                       | 100  | Skill  | Survival                          |
-| [Ambidextrous](Talents.md#ambidextrous)                  | 100  | Talent | Ag 30                             |
-| [Assassin Strike](Talents.md#assassin%20strike)          | 100  | Talent | Ag 40, Acrobatics                 |
-| [Combat Master](Talents.md#combat%20master)              | 100  | Talent | WS 30                             |
-| [Meditation](Talents.md#meditation)                      | 100  | Talent | —                                 |
-| [Deceive +10](Skills.md#deceive)                         | 200  | Skill  | Deceive                           |
-| [Forbidden Lore (Cults)](Skills.md#forbidden%20lore)     | 200  | Skill  | —                                 |
-| [Scholastic Lore (Legend)](Skills.md#scholastic%20lore)  | 200  | Skill  | —                                 |
-| [Scholastic Lore (Occult)](Skills.md#scholastic%20lore)  | 200  | Skill  | —                                 |
-| [Secret Tongue (Moritat) +20](Skills.md#secret%20tongue) | 200  | Skill  | Secret Tongue (Moritat) +10       |
-| [Counter-attack](Talents.md#counter-attack)              | 200  | Talent | WS 40                             |
-| [Dual Strike](Talents.md#dual%20strike)                  | 200  | Talent | Ag 40, Two-Weapon Wielder (Melee) |
-| [Frenzy](Talents.md#frenzy)                              | 200  | Talent | —                                 |
-| [Hatred (Heretics)](Talents.md#hatred)                   | 200  | Talent | —                                 |
-| [Hatred (Mutants)](Talents.md#hatred)                    | 200  | Talent | —                                 |
-| [Hatred (Psykers)](Talents.md#hatred)                    | 200  | Talent | —                                 |
-| [Insanely Faithful](Talents.md#insanely%20faithful)      | 200  | Talent | —                                 |
-| [Nerves of Steel](Talents.md#nerves%20of%20steel)        | 200  | Talent | —                                 |
-| [Sound Constitution](Talents.md#sound%20constitution)†   | 200  | Talent | —                                 |
-| [Step Aside](Talents.md#step%20aside)                    | 200  | Talent | Ag 40, Dodge                      |
-| [Wall of Steel](Talents.md#wall%20of%20steel)            | 200  | Talent | Ag 35                             |
-| [Peer (Inquisition)](Talents.md#peer)                    | 300  | Talent | Fel 30                            |
-| **The Reaping**                                          | 300  | Talent | WS 40, Combat Master              |
-†*This Talent may be taken up to three times for this Alternate Rank.*
-#### **Talent: The Reaping**
-**Prerequisites:** Weapon Skill 40, Combat Master
-
-The deadly fighting arts of the Moritat teach a special manoeuvre only made possible by their near preternatural skill with a blade, allowing one great devastating cut with which several opponents can be dispatched in a great effusion of sacred blood.
-
-While using a sword or similarly edged weapon you make spend a Full Action to make a single attack against every eligible target engaged in melee combat with you. You declare which target you attack first and then move in a clockwise or counter-clockwise direction (your choice) making an attack against each target in turn. Test Weapon Skill and roll Damage separately for each target. These attacks can be Parried or Dodged as normal, but if an attack is successfully Parried, the Reaping blow is stopped and you can make no further attacks.
 ## **Mortiurge**
 
 *“….The Guild-Dame was shot twice at close range while seated at her desk, once to the heart and once to the head. Either wound would have been immediately fatal. The killer had gained access though the front door, posing as a Provost-Captain, and left the premises by walking calmly out the way he entered. Evidence recovered at the scene implicates the Guild-Dame and several other prominent Guilders of bribery of cinq-port officials and cadre enforcers. Arbites Castigation Detachments dispatched. See attached log of execution warrants #77–134…”*
@@ -575,66 +579,65 @@ The time an Acolyte spends among the most ruthless and efficient agents of steal
 * **Wraith:** You have spent countless hours tracking masters of the art of stealth, honing an ability to think ahead and predict your prey's clandestine movements. You gain the [Talented (Shadowing)](talents.md#talented) Talent. If you already possess this Talent, its bonus increases to +15 instead of the usual +10.
 
 Note that if a benefit of this Talent grants you another Talent you must still be able to meet the prerequisites, if any, for that Talent in order to accept it.
-## **Redemptionist**
+## **Reclaimator**
 
-*“There are none above redemption at the end of a Chainsword. Should I fall, it is because it is my sublime reward to have been chosen for absolution by the God-Emperor.”*
+*“Tranters, primes, ’lthic cells, hand rippers, I can get ’em all, reconditioned and good as new—even a batch of good slaught. Great wheel o’ the steel god crush me if it’s not so. The price? Let’s not quibble about the price. You see, I know this up-hive guilder rolling in gelt, and he needs a little intel you may have the knowing of yourself…”*
 
-— Redeemer Cosler
+— Obadiah Plex, Reclaimator, Hive Magnogorsk
 ### **Background**
-The Imperial Creed is generally not a forgiving doctrine of faith, but those who observe it in the strictest and most fundamental way possible know that redemption is only found in death. Many seek their own redemption on the battlefield for the sins they have committed against the God-Emperor—the Redemptionist seeks to bring redemption to others. Many Redemptionists find one sin particularly offensive and seek any opportunity to bring final salvation to aliens, heretics, those who consort with profane powers, and all matters of other sinners and degenerates.
+Technology is a thing little understood and its workings lie shrouded in mystery and superstition for most of humanity. The Adeptus Mechanicus holds undisputed rights to the secret lore of science and technology, but the tech-priests themselves are comparably few in number, particularly when set against the teeming billions of the hive worlds or the isolated crews of ships plying the void. Such people rely on technological infrastructure in great profusion simply to live, be it a hive water-recyk system or a ship's thermal heaters. The ongoing low-grade maintenance of such petty systems, along with the day-to-day workings of the more sophisticated parts of a manufactora's machinery and the like are left to an army of technomats, functionaries, duct-crawlers, voidwalkers, and work-prefects gifted by their Mechanicus masters with just sufficient knowledge to perform their tasks with due deference and supplication to the machine-spirits and nothing more. These individuals are knowledgeable enough to know what do to in order to make the machine perform the desired functions, but neither why they do it or what actual functions occur within the innards of the machine itself.
 
-Redemptionists will often congregate in cults whose focus of hatred is similar. In the beginning, such groups are often little more than a disorganised and shabby rabble, congregating in public squares and watering houses to denounce sinners and loudly proclaim the wickedness of those around them. If a cult manages to find purchase it will begin to swell its numbers, attracting more angry, often downtrodden or disaffected members of society looking for an outlet for their frustrations. The cult's leaders, known as Redeemers, are quick to welcome such lost souls into the fold, enlightening them to the true causes of their suffering and how they can find purpose as a holy warrior for the God-Emperor. As the cult grows in strength it will begin to undertake increasingly bold (and destructive) crusades, often rapidly progressing from vandalism to arson to outright armed conflict against any groups they deem heretical or blasphemous—which is many!
+Of this disparate group, some of the most skilled whilst simultaneously least trusted are the Reclaimators. It is their task to redeem raw materials from old and damaged systems, to scavenge useful parts from the detritus and wreckage, and in some cases perform minor repairs and refurbishment of technological devices, be they in-place or found in some perilous heap. By necessity, a Reclaimator's skills begin to stray into a higher understanding of machinery and technology than most, for their works frequently take them into the bowels of great technological artifices. Many learn to worship the Machine God in a fragmentary and superstitious manner, marking them apart from others—never a true subject of the Mechanicus, but far more knowledgeable about machine spirits and faithful to the precepts of the Omnissiah than most. Added to which, the Reclaimators themselves are often sent in to dangerous or unsafe areas with little in the way of direct supervision. Those that learn the necessary tricks of the trade to avoid all matters of unpleasant ways to die tend to become quite capable and independent operators. Most scavenge and salvage a good deal more than their masters know, and innumerable Reclaimators have "gone into business" for themselves, trading in technological wares from unassuming storefronts and pop-up stalls in market plazas. As a result, most Reclaimators have a reputation (entirely well-deserved by some) as suspicious, shifty characters who sell their skills and the items they retrieve or repair for a good profit on the black market. Many have links to criminal gangs, as obtaining mechanical goods through legitimate channels can be quite challenging for such malcontents, and the more ruthless are often willing to resort to robbery and even murder to build up their spoils as long as they think they can get away with it.
 
-The established organs of the Ecclesiarchy have an inconstant relationship with Redemptionist cults. As a cult grows it is not uncommon for deacons and bishops to furtively arm or otherwise aid the cult's efforts, viewing their pugnacious crusades against degenerate holo-theaters, narco gangers, and mutant enclaves as a valuable form of social "housekeeping". The propensity for innocents to be swept up in a Redemptionist purge, along with the ever-increasing collateral damage to infrastructure, makes any kind of official sanction unlikely. Large groups of Redemptionists, whipped into frenzies of ecstatic destruction, are known to pose a serious threat to stable populations. The task at hand is never truly done in their eyes—if all of the mutants are purged, it is a great day for the faithful, but now all those who aided or tolerated them must be purged. All those who failed to fight the mutants must then be purged, then all those who might fail in the future, and so on. City and even planetary authorities must often begin to suppress a highly successful Redemptionist cult before the frenzied need to put the blasphemous to the pyre spreads out of control and hurls the entire world into anarchy. Clever, if amoral, leaders will attempt to redirect the Redemptionists' righteous wrath, finding a new target (preferably off-world) for them to sink their chainswords into. If that isn't possible, or if the Redeemers' zealotry starts directing their incendiary mobs against the Ecclesiarchy itself, the clerical leaders will often be forced to make the very painful decision to forcibly break up the cult before the grip of the Imperial Church itself is threatened.
+In the Calixis Sector, Reclaimators are common on all of the great hive worlds, where there is a nigh-endless amount of technological scrap waiting for the right hands to refurbish and return it to the Omnissiah's glory. Any technologically developed world will likely have at least some Reclaimators plying their trade, however, and even large voidships will likely have a few on board. Despite their arguably vital role in society, they rarely enjoy a good reputation, although in some places their ill-renown is more deserved than others. On war-ravaged Tranch, the men and women who make up the numerous Reclaimator scav-packs that prowl the ruins are often little more than murderous bandits weighed down by dead men's plunder and broken trinket-fetishes. Scintillan Reclaimators are one of the primary means by which the deadly narco-gangs seem to always have a reliable supply of weapons and equipment to terrorise the common citizens with. Among the void born it is no different; the wrecker crews of breaker-ships and junkers are considered untrustworthy and accursed of their kind, and the void families tell dark stories of death-scows, haunted vessels filled with scavengers driven to cannibalism and madness by want or by uncovering something best left alone in their desire for valuable salvage.
 
-Once a Redemption cult is "stoked down" most of its rank-and-file firebrands will return to their menial existences, while the true zealots will often scatter back into society to begin the work of fomenting a new purge later. The Redeemers are usually rounded up for questioning—the most fanatical and fractious are likely to be exiled or executed (especially those who've turned their rage against the Ministorum), while those deemed to be subordinable to Ecclesastic authority may be pulled into the church to put their incendiary talents to use for its betterment. During such times, as the rubble and the cremated remains of blasphemers, mutants, and sinners are swept up, shadowy organisations—clandestine cabals within the Ecclesiarchy, death cults, and, naturally, the Inquisition—will often try to recruit the most capable Redemptionists into their service. 
+In one place in the Sector, perhaps perversely, the Reclaimator is held in high esteem: Fenksworld's nightmarish Hive Volg and that place is Volg. Here, where there is virtually no formal Adeptus Mechanicus presence, the Reclaimator’s knowledge is a vital part of sustaining life against the myriad hazards the hivers must struggle against on a daily basis. Given very little to work with in the city’s environs, the Reclaimators of Volg have a reputation for coming up with nearly miraculous (if often crazed and dangerous) solutions to keep things running, and ever more inventively salvaged weapons to drive away the bloated things crawling up from the depths. Some Administratum observers have pointed to the Reclaimators' unusual designs and the local worship of a debased form of the Machine God known as “Ironskull” to support a particular theory: it is supposed that Volg's highly capable Reclaimators are descended from rogue Tech-Priests exiled to that wretched place as a punishment in times past, and it is this influence that's enabled Volg to survive for as long as it has.
+### **Becoming a Reclaimator**
+Below the towering hive spires and within the vast iron canyons of Mechanicus forges scummers with a technically-minded bent, or just those who fancy themselves as dealmakers and traders, take up the shabby mantle of Reclaimator as a way to avoid more drudging labour, escape from under the crushing thumb of oppressive overseers, and seek fortune and adventure—or that's the idea, anyway. The reality of the Reclaimator's lot in life rarely matches up with the romanticised version seen in penthrift dreadfuls and the occasional holo-drama. However, for those with the wherewithal to avoid any of the almost limitless lethal dangers posed by decaying plasma stacks, half-collapsed industrial vaults, toxic air, and ravenous mutants, a Reclaimator's trade can be quite lucrative, especially compared to the sorts of "honest work" such a scummer might perform.
 
-Zealous Inquisitors, especially those of the Ordo Hereticus, are often quite keen to bring such a firebrand into their retinues. As long as the Redemptionist can be trusted to follow orders and respect the supreme authority of his master, an Acolyte cell could greatly benefit from such an unwaveringly righteous warrior's martial prowess and piousness to the God-Emperor. Aside from recruiting Redemptionist Acolytes, an Inquisitor might also assemble, often surreptitiously, small groups of former Redemptionists to act as an unsubtle burning cudgel. These disposable zealots can be set upon organisations the Inquisitor has deemed to be heretical but, for whatever extenuating circumstance, cannot act against directly. Alternatively, they could just used as a simple distraction whilst the Inquisitor's own Acolytes do the more delicate work of bringing the heretics to justice.
-### **Becoming a Redemptionist**
-A strict adherence to the vengeful spirit of the Imperial Creed is the first step down the road of the Redemptionist. Faithful communities from all across the Imperium of Man produce Redemptionists and their cults. Many don the red robes and take up the chainblade and the flamer as a response to the perception of sin and moral decay all around them—an attitude the Redeemers will eagerly encourage. Others come up in religious communities, often in monasteries and other insular Ecclesastical holdings, that preach the Redemption as a normal aspect of the Imperial Creed, and lived their entire lives knowing that it is only a matter of time before the wicked can be put to the torch. In the main, the only true requirement is a powerful affirmation in the divine supremacy of the God-Emperor and a burning desire to castigate any whose faith is questionable.
+A Reclaimator can fall in with the Inquisition in any number of ways. Some catch the eye of an Inquisitor after acting as a guide for their Acolytes during a search for cultists, while others might be impressed—possibly against their will—after turning in a heretical construct or xenos artefact found during their normal labours. Often a cut above their kind in terms of intelligence and resourcefulness, a Reclaimator can make an excellent agent for infiltrating criminal gangs, contacting cult groups, and passing unobserved through the more squalid reaches of hive cities, while their void born brethren are just as useful aboard ship or working orbitals and dockyards. 
 
-**Required Career:** Assassin, Guardsman, or Cleric
+**Required Career:** Scum
 **Alternate Rank:** Rank 1 or higher (0 xp)
-**True Believer:** Redemptionists care little for wealth, spending more time in prayer and plotting the destruction of sinners than building social clout. The character is considered Supine Class for the purposes of determining monthly income.
-**Holy Instruments:** A character who replaces Rank 1 with the Redemptionist Alternate Career Rank also replaces Basic Weapon Training (Primitive) and Thrown Weapon Training with Melee Weapon Training (Chain) and Basic Weapon Training (Flame). If the character has the Redemptionist Firebrand Background Package they also replace their starting equipment with a chainsword, flamer, and shield robes.
-#### **Table: Redemptionist Advances** 
-| Advance                                                                   | Cost |  Type  | Prerequisites                 |
-| ------------------------------------------------------------------------- | :--- | :----: | ----------------------------- |
-| [Awareness](Skills.md#awareness)                                          | 100  | Skill  | —                             |
-| [Intimidate](Skills.md#intimidate)                                        | 100  | Skill  | —                             |
-| [Basic Weapon Training (Flame)](Talents.md#basic%20weapon%20training)     | 100  | Talent | —                             |
-| [Basic Weapon Training (Primitive)](Talents.md#basic%20weapon%20training) | 100  | Talent | —                             |
-| [Frenzy](Talents.md#frenzy)                                               | 100  | Talent | —                             |
-| [Hatred *(Any—pick one)*](Talents.md#hatred)                              | 100  | Talent | —                             |
-| [Melee Weapon Training (Chain)](Talents.md#melee%20weapon%20training)     | 100  | Talent | —                             |
-| [Melee Weapon Training (Primitive)](Talents.md#melee%20weapon%20training) | 100  | Talent | —                             |
-| [Sound Constitution](Talents.md#sound%20constitution)†                    | 100  | Talent | —                             |
-| [Thrown Weapon Training](Talents.md#thrown%20weapon%20training)           | 100  | Talent | —                             |
-| [Dodge](Skills.md#dodge)                                                  | 200  | Skill  | —                             |
-| [Scrutiny](Skills.md#scrutiny)                                            | 200  | Skill  | —                             |
-| [Heavy Weapon Training (Flame)](Talents.md#heavy%20weapon%20training)     | 200  | Talent | —                             |
-| Pure Faith                                                                | 200  | Talent | —                             |
-| **Chain Weapon Expert**                                                   | 300  | Talent | Melee Weapon Training (Chain) |
-| Faith Talent‡                                                             | 300∗ | Talent | Pure Faith                    |
-| **Flame Weapon Expert**                                                   | 300  | Talent | Basic Weapon Training (Flame) |
-†*You may select this Talent twice at this Rank.*
-‡*You may select this Talent twice when you enter this Alternate Career Rank and one additional time for each Rank thereafter.*
-∗*Redemptionists pay only 200xp for Emperor's Wrath Faith Talents.*
-#### **Talent: Chain Weapon Expert**
-**Prerequisites:** Melee Weapon Training (Chain)
-
-The character knows that fear is for the enemy and wrath is for the faithful. When wielding a Chain weapon that has a chance of striking the user, such as an Eviscerator, the user deftly turns the blade to its side after the swing and only takes his Strength Bonus in Impact Damage rather than the weapon’s full Damage when he hits himself. He reduces this Damage as normal with Armour and Toughness Bonus.
-#### **Talent: Flame Weapon Expert**
-**Prerequisites:** Basic Weapon Training (Flame)
-
-The character is intimately familiar with the use of Flame weapons and likely has some burn scars to prove it. The character treats all Flame weapons as if they had the Reliable quality.
+**Other Requirements:** Intelligence 30, Hive World, Forge World, or Void Born Origin
+#### **Table: Reclaimator Advances**
+| Advance                                                       | Cost |  Type  | Prerequisites |
+| ------------------------------------------------------------- | :--: | :----: | ------------- |
+| [Awareness +10](Skills.md#awareness)                          | 100  | Skill  | Awareness     |
+| [Barter](Skills.md#barter)                                    | 100  | Skill  | —             |
+| [Charm](Skills.md#charm)                                      | 100  | Skill  | —             |
+| [Dodge](Skills.md#dodge)                                      | 100  | Skill  | —             |
+| [Dodge +10](Skills.md#dodge)                                  | 100  | Skill  | Dodge         |
+| [Drive (Ground Vehicle)](Skills.md#drive)                     | 100  | Skill  | —             |
+| [Drive (Walker)](Skills.md#drive)                             | 100  | Skill  | —             |
+| [Evaluate](Skills.md#evaluate)                                | 100  | Skill  | —             |
+| [Search](Skills.md#search)                                    | 100  | Skill  | —             |
+| [Trade (Technomat)](Skills.md#trade)                          | 100  | Skill  | —             |
+| [Pistol Training (Las)](Talents.md#pistol%20training)         | 100  | Talent | —             |
+| [Pistol Training (Primitive)](Talents.md#pistol%20training)   | 100  | Talent | —             |
+| [Sound Constitution](Talents.md#sound%20constitution)†        | 100  | Talent | —             |
+| [Unremarkable](Talents.md#unremarkable)                       | 100  | Talent | —             |
+| [Barter +10](Skills.md#barter)                                | 200  | Skill  | Barter        |
+| [Chem-Use](Skills.md#chem-use)                                | 200  | Skill  | —             |
+| [Chem-Use +10](Skills.md#chem-use)                            | 200  | Skill  | Chem-Use      |
+| [Common Lore (Tech)](Skills.md#common%20lore)                 | 200  | Skill  | —             |
+| [Tech-Use](Skills.md#tech-use)                                | 200  | Skill  | —             |
+| [Trade (Technomat) +10](Skills.md#trade)                      | 200  | Skill  | —             |
+| [Heightened Senses (Hearing)](Talents.md#heightened%20senses) | 100  | Talent | —             |
+| [Heightened Sense (Sight)](Talents.md#heightened%20senses)    | 100  | Talent | —             |
+| [Quick Draw](Talents.md#quick%20draw)                         | 200  | Talent | —             |
+| [Rapid Reaction](Talents.md#rapid%20reaction)                 | 200  | Talent | Ag 40         |
+| [Common Lore (Machine Cult)](Skills.md#common%20lore)         | 300  | Skill  | —             |
+| [Scholastic Lore (Chymistry)](Skills.md#scholastic%20lore)    | 300  | Skill  | —             |
+| [Tech-Use +10](Skills.md#tech-use)                            | 300  | Skill  | Tech-Use      |
+†*You may select this Talent twice for this Alternate Rank.*
 ## **Saboteur**
 
 *"Any problem in the world can be solved with the careful application of high explosives. The trick is not to be around when they go off."*
 
 — attributed to an ancient Terran warlord
 ### **Background**
-It is said by some of the more philosophically-minded Administratum thralls that everything within the Imperium is connected by endless invisible threads of interdependence, a vast web of commerce, trade, and movement of men that binds the whole together. From the astropathic messages brought to the table of a lord, to the food eaten by the lowest worker in a forge, all depends on something else to exist, and those in turn on other things. These threads of reliance form a vast entanglement of power and stability on which order, faith, and indeed survival itself depends. It is the destruction of these threads that is the Saboteur’s purpose, and for many, their most beloved art.
+ It is said by some of the more philosophically-minded Administratum thralls that everything within the Imperium is connected by endless invisible threads of interdependence, a vast web of commerce, trade, and movement of men that binds the whole together. From the astropathic messages brought to the table of a lord, to the food eaten by the lowest worker in a forge, all depends on something else to exist, and those in turn on other things. These threads of reliance form a vast entanglement of power and stability on which order, faith, and indeed survival itself depends. It is the destruction of these threads that is the Saboteur’s purpose, and for many, their most beloved art.
 
 Saboteurs are craftsmen of panic, destruction, and downfall—sometimes all three at once! They are the loosed dogs of secret wars of destabilisation and terror that rage in the shadows of the Imperium of Mankind. Trained to move unseen amongst the great flocks of humanity, the Saboteur is a faceless agent of fear, mayhem, and death that attacks the physical and psychological fabric that binds the Imperium together. Many act as tools or proxies of larger conspiracies, sowing fear among the people and crippling the local authorities' means to resist the hideous plans of the Saboteur's employers. Others ply their trade for their own goals alone, seeking to topple institutions and spires out of personal animus for the rulers and powerful, or even just for the perverse joy of destruction itself.
 
@@ -667,63 +670,13 @@ A Saboteur's qualifications are deceptively simple: move surreptitiously and cau
 | [Demolition +20](skills.md#demolition)            | 300  | Skill  | Demolition +10  |
 | [Security +20](skills.md#security)                | 300  | Skill  | Security +10    |
 | [Tech-Use +10](skills.md#tech-use)                | 300  | Skill  | Tech-Use        |
-## **Sin Eater**
-
-*“I am damned, my soul is forfeit, I who was pure am now darkened. This service I must do, this sacrifice I must make, for the Emperor and His glory.”*
-
-— excerpt from the forbidden words of Oblation
-### **Background**
-Among the various sects of the Calixian Inquisition's radical faction the Oblationists are perhaps the most divisive and controversial who have not been declared as heretics outright by their puritan counterparts. At the core of the Oblationist creed is the total conviction that the power of the warp is corrupting without exception or degree: all touched by it are damned. Yet these powers are the most powerful weapon against the enemies that conspire to consume mankind—refusing to use them, over petty self-interest for one's own soul, is therefore an act of pure cowardice. The Oblationist sees the decision to wield daemon weapons, bind unhallowed servants, and learn the arts of the sorcerer—or abstaining from such methods—as a choice between damnation and the sacred duty to the God-Emperor. To this choice there are two possible responses: to withhold one’s hands from the weapons of the enemy and remain pure and impotent, or to damn oneself by taking up those weapons, an ultimate act of sacrifice in service to the Emperor. To the Oblationist, this is no choice at all. A pure servant of the Emperor, who offers his very soul in His cause, may bend the weapons of Chaos to serve Mankind.
-
-Sin Eaters are the manifestation of Oblationism taken to its fullest extent. These grim men and
-women have been trusted with the truth about the warp, its absolutely corrupting influence and yet, paradoxically, an ultimate weapon against the greatest and most ravenous enemies of man. A few pure servants of the Emperor must tread this path of ruin and walk willingly into damnation if all are to be saved. Having accepted this truth and proved their loyalty to their Inquisitor, an Acolyte may be submitted to terrible ordeals, invested with a dictate to destroy any others who stray into damnation, and thus become a Sin Eater. Austere in aspect and nature, a Sin Eater is a merciless warrior who is prepared and trained to meet the powers of the witch and the daemon head-on, no matter the personal cost.
-
-The ordeal that creates a Sin Eater is a ritual of pain and damnation, torturous to both mind and body. While a choir of blind priests chant sacred verses, prospective Sin Eaters must confess every sin of thought, word, or deed that they have ever committed. No matter how slight the sin they must give it voice, and with every confessed sin their body is burned by a brand, cut with a blessed knife, or tattooed with ink mixed from the blood of heretics. The marks themselves are variously sacred, diabolic, or arcane, and the ordeal persists until all of the subject’s sins have been confessed and their body is sheeted in marks of damnation and sacred power. Those who cannot bear this extended torment would have no hope of withstanding the horrors a Sin Eater is expected to face. Assuming the prospect is of sufficient mental and corporeal fortitude to endure such debasement, the Sin Eater's wounds are poulticed with crematorium ash, and they are proclaimed to be amongst the lost and the damned, so tainted that they are capable of no further or greater sin.
-
-Once created, the sacred charge of a Sin Eater is the destruction of the daemon and the execution of the unclean without mercy, the only exception to the warp-tainted being fellow Oblationists. This absolutely uncompromising attitude has earned begrudging respect from even the Monodominants of the Inquisition's puritan faction, although few would ever admit to it. It is not uncommon for an Oblationist Inquisitor to entrust their Sin Eaters with weapons of daemonic or malefic power, trusting that the will of the Sin Eater is enough to wield such weapons and stay true to his purpose. Thus unhallowed, scarred, and armed with fell tools of destruction, the Sin Eater is a foe that any heretic within the Imperium, outside its bounds, or beyond its truth must fear.
-### **Becoming a Sin Eater**
-Only the most committed Oblationist would even consider becoming a Sin Eater. The process is agonising and then some, the Acolyte degrading himself with a recitation of every sin and misdeed he's ever committed as his body is tattooed, branded, and otherwise mortified. Even if the Sin Eater passes this ordeal with Emperor-like grace, he is still forever marked—quite literally—as a committed radical to his peers. Becoming a Sin Eater represents a significant investiture of both authority and trust by the Oblationist Inquisitor, and is never undertaken lightly, or without complete imprimatur on the Acolyte's part. While some Inquisitors are more than content to dragoon their henchmen into various roles with or without their consent, but in the case of creating a Sin Eater, only the truly willing are even considered.
-
-Upon becoming a Sin Eater, the character gains the [Flagellant Talent](talents.md#flagellant), the **Sin Scarred Trait**, and 3d10 Corruption Points.
-
-**Required Career:** Arbitrator, Assassin, or Guardsman
-**Alternate Rank:** Rank 4 or higher (2,000 xp)
-**Other Requirements:** Toughness 35 and Willpower 35. The Acolyte must be an Oblationist.
-#### **Trait: Sin Scarred**
-Your flesh has been covered with tattoos, brands, and ritual scars, creating an elaborate protective ward against the worst the warp has to offer. These marks, both sacred and profane, grant you the [Unnatural Toughness (4) Trait](traits.md#unnatural%20characteristic%20%28X%29) when reducing Damage from daemons (both ranged and melee attacks), Psychic Powers, psy-active weapons (such as Daemon Weapons or Force Weapons) and Holy Damage. You also gain a +20 bonus to your Willpower for the purposes of Daemonic Mastery Tests or when determining the character’s Willpower in comparison to that of a Daemon Weapon's.
-#### **Table: Sin Eater Advances**
-| Advance                                                               | Cost | Type   | Prerequisites                      |
-| --------------------------------------------------------------------- | ---- | ------ | ---------------------------------- |
-| [Armour of Contempt](Talents.md#armour%20of%20contempt)               | 100  | Talent | WP 40                              |
-| [Berserk Charge](Talents.md#berserk%20charge)                         | 100  | Talent | —                                  |
-| [Combat Master](Talents.md#combat%20master)                           | 100  | Talent | WS 30                              |
-| [Crushing Blow](Talents.md#crushing%20blow)                           | 100  | Talent | S 40                               |
-| [Dark Soul](Talents.md#dark%20soul)                                   | 100  | Talent | —                                  |
-| [Hatred (Daemons)](Talents.md#hatred)                                 | 100  | Talent | —                                  |
-| [Hatred (Mutants)](Talents.md#hatred)                                 | 100  | Talent | —                                  |
-| [Hatred (Psykers)](Talents.md#hatred)                                 | 100  | Talent | —                                  |
-| [Jaded](Talents.md#jaded)                                             | 100  | Talent | WP 30                              |
-| [Meditation](Talents.md#meditation)                                   | 100  | Talent | —                                  |
-| [Melee Weapon Training (Chain)](Talents.md#melee%20weapon%20training) | 100  | Talent | —                                  |
-| [Melee Weapon Training (Power)](Talents.md#melee%20weapon%20training) | 100  | Talent | —                                  |
-| [Orthoproxy](Talents.md#orthoproxy)                                   | 100  | Talent | —                                  |
-| [Resistance (Psychic Powers)](Talents.md#resistance)                  | 100  | Talent | —                                  |
-| [Sound Constitution](Talents.md#sound%20constitution)†                | 100  | Talent | —                                  |
-| [Forbidden Lore (Daemonology)](Skills.md#forbidden%20lore)            | 200  | Skill  | —                                  |
-| [Forbidden Lore (Psykers)](Skills.md#forbidden%20lore)                | 200  | Skill  | —                                  |
-| [Forbidden Lore (Warp)](Skills.md#forbidden%20lore)                   | 200  | Skill  | —                                  |
-| [Scholastic Lore (Occult)](Skills.md#scholastic%20lore)               | 200  | Skill  | —                                  |
-| [Strong Minded](Talents.md#strong%20minded)                           | 200  | Talent | WP 30, Resistance (Psychic Powers) |
-| [Fearless](Talents.md#fearless)                                       | 300  | Talent | —                                  |
-| [Mental Fortress](Talents.md#mental%20fortress)                       | 300  | Talent | WP 50, Strong Minded               |
-†*You may select this Talent three times at this Rank.*
 ## **Slate-Agent**
 
 *"And who am I to be this year, hmm? A wealthy functionary in a dubious merchant guild? No? Hmm, perhaps a pampered Ecclesiastic keeping watch for detestable heresy within a suspect sect? Still no, eh? Well then, can I spend the majority of this mission indoors at least? Another Imperial Guard unit? How do heretics keep managing to sneak into those! Well at least I won't remember any of it after retrieval..."*
 
 — a Slate-Agent, currently named Cavel Posdanik
 ### **Background**
-On the planet of Malfi, a place often considered the "second capital" of the Calixis Sector, the men and women of the ruling class play a vicious game of politics and favour. This game is played not on any game-board, but in every palace, mansion, and villa. It is not played with pieces, but with the livelihood of their dynasties. The strategy of this game lies with political manoeuvring and favourable alliances. The stakes of this game are neither bragging rights nor pride, they are the very existence of the noble family, and the rights of rulership. The greatest advantage in this game of political infighting is information, preferably that which could shame and discredit a rival. In the pursuit of this sort of information the noble houses of Malfi have each developed methods particular to their own dynasty. It was for this purpose that the first Slate-Agents were trained. The Malfian house which first created the Slate-Agents is long forgotten, whether fallen to obscurity or risen to heights beyond all recognition, none can say. What is well known, however, is the efficacy of the Slate-Agent as a spy and operative. The secrets of creating a Slate-Agent escaped the Malfian backstabber-lords over a century ago, and other powerful organisations in Calixis — namely the Inquisition and the Adeptus Arbites — are known to employ these unique savant-moles for deep undercover work.
+On the planet of Malfi, a place often considered the "second capital" of the Calixis Sector, the men and women of the ruling class play a vicious game of politics and favour. This game is played not on any game-board, but in every palace, mansion, and villa. It is not played with pieces, but with the livelihood of their dynasties. The strategy of this game lies with political manoeuvring and favourable alliances. The stakes of this game are neither bragging rights nor pride, they are the very existence of the noble family, and the rights of rulership. The greatest advantage in this game of political infighting is information, preferably that which could shame and discredit a rival. In the pursuit of this sort of information the noble houses of Malfi have each developed methods particular to their own dynasty. It was for this purpose that the first Slate-Agents were trained. The Malfian house which first created the Slate-Agents is long forgotten, whether fallen to obscurity or risen to heights beyond all recognition, none can say. What is well known, however, is the efficacy of the Slate-Agent as a spy and operative. The secrets of creating a Slate-Agent escaped the Malfian backstabber-lords over a century ago, and other powerful organisations in Calixis—namely the Inquisition and the Adeptus Arbites—are known to employ these unique savant-moles for deep undercover work.
 
 Masters of subterfuge and disguise, each Slate-Agent is a perfect operative of infiltration and observation. It is the gruelling process of their creation which makes a Slate-Agent so optimally crafted for their intended job. The first stage of a Slate-Agent's conditioning is aimed at wholly annihilating any sense of self possessed by the recruit, reducing them to little more than a biological machine in the service of their masters. It is from this state that Slate-Agents receive  heir moniker, as from this point forward, each Agent is a "blank-slate" on which new identities can be written. To achieve this, recruits are deprived of sleep, food, water, and dignity, as well as forced to endure horrific psychological torments, all the while they are watched for signs of opposition or rebelliousness. Once the recruit has been reduced to an entirely pliant and workable state, the trainers begin the slow process of rebuilding their charge. Using incredibly complex and methodical hypno-indoctrination techniques they prepare the recruit's mind to take shape around cover-identities, each of which includes skills, history, profession, and contacts, as well as personality and mannerisms, all combined to provide a flawless cover for the Slate-Agent. The trainers use psycho-conditioning to thread the recruit's psyche with triggers and fail-safes, in order to reset the conditioning once their mission is complete. Oft-times the conditioning of Slate-Agents is so complete that during their missions they are wholly unaware of their true identity until their loyalty is tested, at which point, deep-planted hypno-barriers close off the mind to any possibility of traitorous or mutinous thoughts.
 

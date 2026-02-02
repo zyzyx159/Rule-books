@@ -16,7 +16,7 @@ The following Alternate Career Ranks may be selected by Imperial Psykers.
 
 *“Ours is not an easy task. We gather those most important relics, those symbols of the culture of Mankind. We dare the darkness and travel across the stars clinging to rumour and legend as our guide.”*
 
-– Marcius Dans, Agent of Reliquary 26
+— Marcius Dans, Agent of Reliquary 26
 ### **Background**
 Entombed more than a hundred metres beneath the Inquisition's majestic if imposing Tricorn Palace is the Grand Reliquarium, a series of vaults that are home to many artefacts and powerful relics of the Calixis Sector. In these hallowed halls rest hundreds of items of power, from crafted trinkets of the Dark Age of Technology to the blessed weapons of venerable martyrs or even saints. Each of these vaults, of which reliable sources claim there at at least one hundred, are heavily guarded, monitored, and tended to by the Custodiatrix, a small organisation of curator-assassins, each charged with the safety of the artefacts and assigned to one of the vaults. Reliquary 26 contains the relics of the Scholariate at Arms.
 
@@ -29,7 +29,7 @@ Reliquary 26 works quite closely with the larger Ordos of the Inquisition. Often
 An experienced servant of Reliquary 26 is an indispensable resource to an Acolyte cell. When dealing with nobility or other well-to-do types, or in areas where ancient or xenos technology may
 be encountered, an Inquisitor would be well served by requisitioning an Agent of Reliquary 26's services. Such Agents usually only serve the Inquisitor the duration of the investigation at hand. Inquisitors who must regularly navigate such treacherous situations have been known to second a trusted Acolyte to the Custodiatrix to be trained in their ways, effectively gaining a permanent "representative" to Reliquary 26's hallowed armoury. As the point of contact between the Grand Reliquarium and the often covetous owners of the sought-after artefacts, most Agents become quite adept at negotiation and tradecraft. Such skills can be invaluable to an Acolyte cell, especially in situations where a hostile acquisition could be more troublesome than normal.
 
-**Required Career:** Any Career
+**Required Career:** Any
 **Alternate Rank:** Rank 4 or higher (2,000 xp)
 **Other Requirements:** Must have acquired one item of Near Unique Availability or rarer, and turned it over to his Inquisitor or directly to the Grand Reliquarium.
 **Aggrieved Parties:** Even if the character has not personally wronged them, at least one group of well-heeled individuals gravely dislikes Reliquary 26. The character gains the [Rival (Ecclesiarchy), (Nobility), or (Rogue Trader)](talents.md#rival) Talent at the GM's discretion.
@@ -129,7 +129,7 @@ The Cult of the Pure Form is not a secretive group, in which members meet covert
 | **Gift of Purity**                                                        |  †   | Talent | —                                 |
 | **Purity of Flesh**                                                       |  †   | Talent | —                                 |
 | **Reformed Skin**                                                         |  †   | Talent | Gift of Purity or Purity of Flesh |
-*† This Talent has no xp cost, but can only be selected under specific circumstances. See each Talent's description for details.*
+*†This Talent has no xp cost, but can only be selected under specific circumstances. See each Talent's description for details.*
 #### **Talent: Gift of Purity**
 The Acolyte has forsaken the cybernetic, cast out the desire for the bionic, and joined the ranks of the Untouched. Never will sacred flesh be sullied by the implantation of devices that rob the Acolyte of his purity. The character cannot, under any circumstances, choose or accept the implantation of cybernetics/bionics, even if the result of refusing them would result in certain death. If the character finds himself implanted with cybernetics/bionics against his will, then he must remove them as soon as possible, replacing this Talent with the Purity of Flesh instead. 
 
@@ -254,8 +254,8 @@ The time an Acolyte spends among the most ruthless and efficient agents of steal
 * **Arms Aficionado:** At some point you developed a particular interest in an unusual weapon, and the Ordo Sicarius has had you study with a master of that device to further your deadly ambitions. You gain an [Exotic Weapon Training](talents.md#exotic%20weapon%20training) Talent of your choice.
 * **Blackjack:** Months of working alongside the most resolute killers in Calixis has taught you how to unnerve even the most hardened adversaries with your baleful presence alone. You gain the [Disturbing Voice](talents.md#disturbing%20voice) Talent.
 * **Blade Dancer:** Many Assassins are inclined to take their quarry up close, preferring the tactile certainty of the sword and dagger over a gun or bomb. You've come to see their way of thinking. You gain your choice of either the [Sure Strike](talents.md#sure%20strike) or [Swift Attack](talents.md#swift%20attack) Talent.
-* **Demanding Tutelage:** Your training has ruthlessly tested the limitations of what your body can endure, but your masters were thoughtful and wise enough to only bring you the edge of what you can recuperate from. You gain the [Sound Constitution](talents.md#sound%20constitution) Talent.
-* **Logical Liar:** You have memorised a staggering number of reasonable responses to common inquiries and can craft rationally believable falsehoods on-the-fly. You may substitute your Intelligence Characteristic in place of Fellowship when making Deceive Tests.
+* **Demanding Tutelage:** Your training has ruthlessly tested the limitations of what your body can  endure, but your masters were thoughtful and wise enough to only bring you the edge of what you can recuperate from. You gain the [Sound Constitution](talents.md#sound%20constitution) Talent.
+* **Logical Liar:** You have memorised a staggering number of reasonable responses to common  inquiries and can craft rationally believable falsehoods on-the-fly. You may substitute your Intelligence Characteristic in place of Fellowship when making Deceive Tests.
 * **Part of the Scenery:** Your tutors have taught you to remain motionless for hours and possibly even days on end, your exact position monitored by unblinking servitors for even the slightest twitch. You gain the [Talented (Concealment)](talents.md#talented) Talent. If you already possess this Talent, its bonus increases to +15 instead of the usual +10.
 * **Thought Mapping:** Infiltrator-savants of the Sicarius have taught you the science of predicting lines of questioning, and through logistaristic formulae you can often predict the path of a conversation well ahead of those you're speaking with. You may substitute your Intelligence Characteristic in place of Fellowship when making Inquiry Tests.
 * **Well Connected:** A myriad of false identities, pulled strings, and brazen yet surprisingly convincing lies has created a persona with contacts in a useful organisation or social group. You gain a [Peer](talents.md#peer) Talent of your choice.
@@ -266,7 +266,7 @@ Note that if a benefit of this Talent grants you another Talent you must still b
 
 *"Any problem in the world can be solved with the careful application of high explosives. The trick is not to be around when they go off."*
 
-— Attributed to an ancient Terran warlord
+— attributed to an ancient Terran warlord
 ### **Background**
 It is said by some of the more philosophically-minded Administratum thralls that everything within the Imperium is connected by endless invisible threads of interdependence, a vast web of commerce, trade, and movement of men that binds the whole together. From the astropathic messages brought to the table of a lord, to the food eaten by the lowest worker in a forge, all depends on something else to exist, and those in turn on other things. These threads of reliance form a vast entanglement of power and stability on which order, faith, and indeed survival itself depends. It is the destruction of these threads that is the Saboteur’s purpose, and for many, their most beloved art.
 
@@ -305,7 +305,7 @@ A Saboteur's qualifications are deceptively simple: move surreptitiously and cau
 
 *"And who am I to be this year, hmm? A wealthy functionary in a dubious merchant guild? No? Hmm, perhaps a pampered Ecclesiastic keeping watch for detestable heresy within a suspect sect? Still no, eh? Well then, can I spend the majority of this mission indoors at least? Another Imperial Guard unit? How do heretics keep managing to sneak into those! Well at least I won't remember any of it after retrieval..."*
 
-— A Slate-Agent, currently named Cavel Posdanik
+— a Slate-Agent, currently named Cavel Posdanik
 ### **Background**
 On the planet of Malfi, a place often considered the "second capital" of the Calixis Sector, the men and women of the ruling class play a vicious game of politics and favour. This game is played not on any game-board, but in every palace, mansion, and villa. It is not played with pieces, but with the livelihood of their dynasties. The strategy of this game lies with political manoeuvring and favourable alliances. The stakes of this game are neither bragging rights nor pride, they are the very existence of the noble family, and the rights of rulership. The greatest advantage in this game of political infighting is information, preferably that which could shame and discredit a rival. In the pursuit of this sort of information the noble houses of Malfi have each developed methods particular to their own dynasty. It was for this purpose that the first Slate-Agents were trained. The Malfian house which first created the Slate-Agents is long forgotten, whether fallen to obscurity or risen to heights beyond all recognition, none can say. What is well known, however, is the efficacy of the Slate-Agent as a spy and operative. The secrets of creating a Slate-Agent escaped the Malfian backstabber-lords over a century ago, and other powerful organisations in Calixis — namely the Inquisition and the Adeptus Arbites — are known to employ these unique savant-moles for deep undercover work.
 
@@ -412,19 +412,8 @@ This is a strenuous programme, tailored specifically to the unique psychology of
 
 **Required Career:** Imperial Psyker
 **Alternate Rank:** Rank 4 or higher (2,000 xp)
-**Other Requirements:** You must have no more than 10 Insanity Points and 10 Corruption Points. Upon reaching Rank 4 you must select the Savant Militant path. 
-
-As a Templar Calix you are entitled to use the following titles as you increase in Rank in place of those from the [Imperial Psyker Advancement Tree](imperial%20psyker.md#advancement%20tree):
-
-| Rank | Name                 |      XP       |
-| :--: | -------------------- | :-----------: |
-|  4   | Templar Tertius      |  2,000–2,999  |
-|  5   | Templar Secundus     |  3,000–5,999  |
-|  6   | Templar Primus       |  6,000–7,999  |
-|  7   | Templar Ordinator    |  8,000–9,999  |
-|  8   | Master Templar Calix | 10,000–14,999 |
-##### **Martial Prowess**
-Owing to the Temple's focus on martial skill above intellectualism, at the point of becoming a Templar Calix, change the Imperial Psyker's Characteristic Advances as follows:
+**Other Requirements:** You must have no more than 10 Insanity Points and 10 Corruption Points. Upon reaching Rank 4 you must select the Savant Militant path.
+**Martial Prowess:** Owing to the Temple's focus on skill at arms above intellectualism, at the point of becoming a Templar Calix, change the Imperial Psyker's Characteristic Advances as follows:
 
 | **Characteristic** | **Simple** | **Intermediate** | **Trained** | **Expert** |
 | ------------------ | :--------: | :--------------: | :---------: | :--------: |
@@ -438,6 +427,16 @@ Owing to the Temple's focus on martial skill above intellectualism, at the point
 | Willpower          |    100     |       250        |     500     |    750     |
 | Fellowship         |    500     |       750        |    1,000    |   2,500    |
 Any Advances purchased for these Characteristics prior to taking the Alternate Career Rank still count towards the Characteristic's development. For example, if you have already bought a Simple Weapon Skill Advance, you still have only three further Advances possible for this Characteristic.
+
+As a Templar Calix you are entitled to use the following titles as you increase in Rank in place of those from the [Imperial Psyker Advancement Tree](imperial%20psyker.md#advancement%20tree):
+
+| Rank | Name                 |      XP       |
+| :--: | -------------------- | :-----------: |
+|  4   | Templar Tertius      |  2,000–2,999  |
+|  5   | Templar Secundus     |  3,000–5,999  |
+|  6   | Templar Primus       |  6,000–7,999  |
+|  7   | Templar Ordinator    |  8,000–9,999  |
+|  8   | Master Templar Calix | 10,000–14,999 |
 #### **Table: Calix Templar Advances**
 | Advance                                                               | Cost | Type   | Prerequisites                      |
 | --------------------------------------------------------------------- | ---- | ------ | ---------------------------------- |

@@ -1244,52 +1244,52 @@ A Munitorum tool kit provides a +5 bonus to Trade (Technomat) Tests made when re
 
 Whether due to rarity, expense, or simply serving extremely esoteric purposes, some types of tools and gear simply aren't commonly used by most Imperial citizens. Acolytes of the by most Imperial citizens. Acolytes of the Imperial Inquisition, however, would do well to Imperial Inquisition, however, would do well to be aware of their existence in case some of these techno-obscurities or highly specialized bits of equipment come up during the course of an investigation. Some specialty equipment are truly spectacular works of Imperial tech and the arcane understandings of the mechanical, while others can simply be novelties and amusement for the wealthy and idle. Still more are simply unusual, ill-understood, or just limited in application or to certain segments of society. Specialty equipment's Availability assumes a general attempt to locate such gear within Imperial space. Specific tools and kit may be significantly more or less common on individual worlds depending on their type and utility.
 
-| Specialty Equipment                                        |        |      |                |     |     |
-| ---------------------------------------------------------- | ------ | ---- | -------------- | --- | --- |
-| Name                                                       | Weight | Cost | Availability   |     |     |
-| [Bomb Spray](Tools%20of%20the%20Trade.md#Bomb%20Spray)                                            | 1kg    | 200  | Very Rare      |     |     |
-| [Cogitator](Tools%20of%20the%20Trade.md#Cogitator)                                             | -      | -    | -              |     |     |
-| - [Cogitator, Emplaced](Tools%20of%20the%20Trade.md#Cogitator,%20Emplaced)                                 | 150kg  | 4000 | Average        |     |     |
-| - [Cogitator, Personal](Tools%20of%20the%20Trade.md#Cogitator,%20Personal)                                 | 1.5kg  | 700  | Average        |     |     |
-| - [Data-Loom](Tools%20of%20the%20Trade.md#Data-Loom)                                           | 25kg   | 900  | Rare           |     |     |
-| - [Matriculation Engine](Tools%20of%20the%20Trade.md#Matriculation%20Engine)                                | 14kg   | 750  | Scarce         |     |     |
-| - [Memrance Enhancer](Tools%20of%20the%20Trade.md#Memrance%20Enhancer)                                   | 5kg    | 300  | Scarce         |     |     |
-| [Demo Charge](Tools%20of%20the%20Trade.md#Demo%20Charge)                                           | 2kg    | 180  | Average        |     |     |
-| - [Hollow Charge](Tools%20of%20the%20Trade.md#Hollow%20Charge)                                       | 1.5kg  | 250  | Rare           |     |     |
-| [Det-Tape](Tools%20of%20the%20Trade.md#Det-Tape)                                              | 1kg    | 50   | Common         |     |     |
-| [Dagnostor/Medispex](Tools%20of%20the%20Trade.md#Dagnostor/Medispex)                                    | 4kg    | 525  | Very Rare      |     |     |
-| [Disguise Kit](Tools%20of%20the%20Trade.md#Disguise%20Kit)†                                         | 5kg    | 150  | Average        |     |     |
-| [Drusine Incense](Tools%20of%20the%20Trade.md#Drusine%20Incense)                                       | 0.3kg  | 100  | Rare           |     |     |
-| [Vessel Emergency Kit](Tools%20of%20the%20Trade.md#Vessel%20Emergency%20Kit)                                  | 6kg    | 300  | Common         |     |     |
-| [Emergency Hab](Tools%20of%20the%20Trade.md#Emergency%20Hab)                                         | 10kg   | 250  | Scarce         |     |     |
-| [Excruciator](Tools%20of%20the%20Trade.md#Excruciator)                                           | 2kg    | 4000 | Rare           |     |     |
-| [Forgery Kit](Tools%20of%20the%20Trade.md#Forgery%20Kit)†                                          | 3kg    | 400  | Scarce         |     |     |
-| [Gene-Printer](Tools%20of%20the%20Trade.md#Gene-Printer)                                          | 18kg   | 1500 | Rare           |     |     |
-| [Glidewing](Tools%20of%20the%20Trade.md#Glidewing)                                             | 28kg   | 7500 | Extremely Rare |     |     |
-| [Grav-Chute](Tools%20of%20the%20Trade.md#Grav-Chute)                                            | 15kg   | 400  | Scarce         |     |     |
-| [Grey Device](Tools%20of%20the%20Trade.md#Grey%20Device)                                           | 3kg    | 500  | Rare           |     |     |
-| ["Heretic's Wake" Deck](Tools%20of%20the%20Trade.md#"Heretic's%20Wake"%20Deck)                                 | 0.2kg  | 10   | Scarce         |     |     |
-| [Hololith/Holo-Projector](Tools%20of%20the%20Trade.md#Hololith/Holo-Projector)                               | 40kg   | 3000 | Scarce         |     |     |
-| [Holo Wafer](Tools%20of%20the%20Trade.md#Holo%20Wafer)                                            | 0.1kg  | 5    | Average        |     |     |
-| [Intrusion Spirit](Tools%20of%20the%20Trade.md#Intrusion%20Spirit)                                      | 0.5kg  | 620  | Very Rare      |     |     |
-| [Line Ascender](Tools%20of%20the%20Trade.md#Line%20Ascender)                                         | 1kg    | 100  | Scarce         |     |     |
-| [Melta Gel](Tools%20of%20the%20Trade.md#Melta%20Gel)                                             | 0.3kg  | 200  | Rare           |     |     |
-| [Penthrift Dreadfuls](Tools%20of%20the%20Trade.md#Penthrift%20Dreadfuls)                                   | -      | 1    | Average        |     |     |
-| [Pict-Fly](Tools%20of%20the%20Trade.md#Pict-Fly)                                              | -      | 1200 | Rare           |     |     |
-| [Pinner](Tools%20of%20the%20Trade.md#Pinner)                                                | 5kg    | 800  | Extremely Rare |     |     |
-| [Poi-Savant](Tools%20of%20the%20Trade.md#Poi-Savant)†                                           | 2kg    | 300  | Rare           |     |     |
-| [Privacy Field Generator](Tools%20of%20the%20Trade.md#Privacy%20Field%20Generator)                               | 10kg   | 1550 | Rare           |     |     |
-| [Psy-Focus](Tools%20of%20the%20Trade.md#Psy-Focus)                                             | Varies | 100  | Very Rare      |     |     |
-| [Psycrystal](Tools%20of%20the%20Trade.md#Psycrystal)                                            | 0.3kg  | 1000 | Near Unique    |     |     |
-| [Sky Eye](Tools%20of%20the%20Trade.md#Sky%20Eye)                                               | 4kg    | 1700 | Extremely Rare |     |     |
-| [Strait-Cape](Tools%20of%20the%20Trade.md#Strait-Cape)                                           | 5kg    | 100  | Scarce         |     |     |
-| [Tracking Device](Tools%20of%20the%20Trade.md#Tracking%20Device)                                       | 0.5kg  | 200  | Scarce         |     |     |
-| [Venom Ring](Tools%20of%20the%20Trade.md#Venom%20Ring)                                            | -      | 350  | Very Rare      |     |     |
-| [Vox Bug](Tools%20of%20the%20Trade.md#Vox%20Bug)                                               | -      | 500  | Rare           |     |     |
-| [Vox-Thief](Tools%20of%20the%20Trade.md#Vox-Thief)                                             | Varies | 2000 | Rare           |     |     |
-| [Vox-Tracker](Tools%20of%20the%20Trade.md#Vox-Tracker)                                           | 11kg   | 450  | Scarce         |     |     |
-| [Ward Accessor](Tools%20of%20the%20Trade.md#Ward%20Accessor)                                         | -      | 25   | Average        |     |     |
-| †This item's Craftsmanship has one or more special effects |        |      |                |     |     |
+| Specialty Equipment                                                                |        |      |                |
+| ---------------------------------------------------------------------------------- | ------ | ---- | -------------- |
+| Name                                                                               | Weight | Cost | Availability   |
+| [Bomb Spray](Tools%20of%20the%20Trade.md#Bomb%20Spray)                             | 1kg    | 200  | Very Rare      |
+| [Cogitator](Tools%20of%20the%20Trade.md#Cogitator)                                 | -      | -    | -              |
+| - [Cogitator, Emplaced](Tools%20of%20the%20Trade.md#Cogitator,%20Emplaced)         | 150kg  | 4000 | Average        |
+| - [Cogitator, Personal](Tools%20of%20the%20Trade.md#Cogitator,%20Personal)         | 1.5kg  | 700  | Average        |
+| - [Data-Loom](Tools%20of%20the%20Trade.md#Data-Loom)                               | 25kg   | 900  | Rare           |
+| - [Matriculation Engine](Tools%20of%20the%20Trade.md#Matriculation%20Engine)       | 14kg   | 750  | Scarce         |
+| - [Memrance Enhancer](Tools%20of%20the%20Trade.md#Memrance%20Enhancer)             | 5kg    | 300  | Scarce         |
+| [Demo Charge](Tools%20of%20the%20Trade.md#Demo%20Charge)                           | 2kg    | 180  | Average        |
+| - [Hollow Charge](Tools%20of%20the%20Trade.md#Hollow%20Charge)                     | 1.5kg  | 250  | Rare           |
+| [Det-Tape](Tools%20of%20the%20Trade.md#Det-Tape)                                   | 1kg    | 50   | Common         |
+| [Dagnostor/Medispex](Tools%20of%20the%20Trade.md#Dagnostor/Medispex)               | 4kg    | 525  | Very Rare      |
+| [Disguise Kit](Tools%20of%20the%20Trade.md#Disguise%20Kit)†                        | 5kg    | 150  | Average        |
+| [Drusine Incense](Tools%20of%20the%20Trade.md#Drusine%20Incense)                   | 0.3kg  | 100  | Rare           |
+| [Vessel Emergency Kit](Tools%20of%20the%20Trade.md#Vessel%20Emergency%20Kit)       | 6kg    | 300  | Common         |
+| [Emergency Hab](Tools%20of%20the%20Trade.md#Emergency%20Hab)                       | 10kg   | 250  | Scarce         |
+| [Excruciator](Tools%20of%20the%20Trade.md#Excruciator)                             | 2kg    | 4000 | Rare           |
+| [Forgery Kit](Tools%20of%20the%20Trade.md#Forgery%20Kit)†                          | 3kg    | 400  | Scarce         |
+| [Gene-Printer](Tools%20of%20the%20Trade.md#Gene-Printer)                           | 18kg   | 1500 | Rare           |
+| [Glidewing](Tools%20of%20the%20Trade.md#Glidewing)                                 | 28kg   | 7500 | Extremely Rare |
+| [Grav-Chute](Tools%20of%20the%20Trade.md#Grav-Chute)                               | 15kg   | 400  | Scarce         |
+| [Grey Device](Tools%20of%20the%20Trade.md#Grey%20Device)                           | 3kg    | 500  | Rare           |
+| ["Heretic's Wake" Deck](Tools%20of%20the%20Trade.md#"Heretic's%20Wake"%20Deck)     | 0.2kg  | 10   | Scarce         |
+| [Hololith/Holo-Projector](Tools%20of%20the%20Trade.md#Hololith/Holo-Projector)     | 40kg   | 3000 | Scarce         |
+| [Holo Wafer](Tools%20of%20the%20Trade.md#Holo%20Wafer)                             | 0.1kg  | 5    | Average        |
+| [Intrusion Spirit](Tools%20of%20the%20Trade.md#Intrusion%20Spirit)                 | 0.5kg  | 620  | Very Rare      |
+| [Line Ascender](Tools%20of%20the%20Trade.md#Line%20Ascender)                       | 1kg    | 100  | Scarce         |
+| [Melta Gel](Tools%20of%20the%20Trade.md#Melta%20Gel)                               | 0.3kg  | 200  | Rare           |
+| [Penthrift Dreadfuls](Tools%20of%20the%20Trade.md#Penthrift%20Dreadfuls)           | -      | 1    | Average        |
+| [Pict-Fly](Tools%20of%20the%20Trade.md#Pict-Fly)                                   | -      | 1200 | Rare           |
+| [Pinner](Tools%20of%20the%20Trade.md#Pinner)                                       | 5kg    | 800  | Extremely Rare |
+| [Poi-Savant](Tools%20of%20the%20Trade.md#Poi-Savant)†                              | 2kg    | 300  | Rare           |
+| [Privacy Field Generator](Tools%20of%20the%20Trade.md#Privacy%20Field%20Generator) | 10kg   | 1550 | Rare           |
+| [Psy-Focus](Tools%20of%20the%20Trade.md#Psy-Focus)                                 | Varies | 100  | Very Rare      |
+| [Psycrystal](Tools%20of%20the%20Trade.md#Psycrystal)                               | 0.3kg  | 1000 | Near Unique    |
+| [Sky Eye](Tools%20of%20the%20Trade.md#Sky%20Eye)                                   | 4kg    | 1700 | Extremely Rare |
+| [Strait-Cape](Tools%20of%20the%20Trade.md#Strait-Cape)                             | 5kg    | 100  | Scarce         |
+| [Tracking Device](Tools%20of%20the%20Trade.md#Tracking%20Device)                   | 0.5kg  | 200  | Scarce         |
+| [Venom Ring](Tools%20of%20the%20Trade.md#Venom%20Ring)                             | -      | 350  | Very Rare      |
+| [Vox Bug](Tools%20of%20the%20Trade.md#Vox%20Bug)                                   | -      | 500  | Rare           |
+| [Vox-Thief](Tools%20of%20the%20Trade.md#Vox-Thief)                                 | Varies | 2000 | Rare           |
+| [Vox-Tracker](Tools%20of%20the%20Trade.md#Vox-Tracker)                             | 11kg   | 450  | Scarce         |
+| [Ward Accessor](Tools%20of%20the%20Trade.md#Ward%20Accessor)                       | -      | 25   | Average        |
+| †This item's Craftsmanship has one or more special effects                         |        |      |                |
 #### Bomb Spray
 
 Though of immediate utility to many covert agents and other clandestine types, this wondrous aerosol contained in humble metallic cans has a particularly small following due to the extreme danger inherent in its use. Bomb spray, as the name suggests, creates a chemically reactive layer onto any surface it is applied to. While inert as a gas, once it settles and dries the compound becomes incredibly unstable - any strong impact, such as a bullet strike or even a rock or brick being tossed at the coated surface causes the spray to violently detonate. Bomb spray was originally devised by a genius Magos Technicus from the lesser forge world of Perinetus as a means to easily facilitate demolition of archaic or ruined equipment or edifices. While very easy to use, bomb spray can't be easily controlled like proper demo charges or other forms of explosives - once applied, the "bomb" is set and can't be removed in any way. Moreover, poorly made or old cans can develop leaks, which slowly turn storage cases - or trouser pockets! - into bombs themselves with alarming efficiency. Because of this peril, bomb spray is rarely used for its original intended purpose, but the stuff is still manufactured for those intending more "destructive" effects, such as sabotage and laying stealthy traps.
