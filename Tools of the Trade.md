@@ -162,7 +162,8 @@ Photo-visors use complex electrically-powered filtration lenses to amplify ambie
 
 Good Craftsmanship photo-visors can employ more sophisticated filtration systems to shield the wearer from exceptionally bright light, rendering them immune to the blinding effects of photon flash grenades and similar devices.
 
-Photo-Contacts: These superior pieces of gear utilize the same equipment as photo-visors but in a much more compact profile, granting similar effects to the wearer but in the form of unobtrusive contact lenses.
+#### Photo-Contacts:
+These superior pieces of gear utilize the same equipment as photo-visors but in a much more compact profile, granting similar effects to the wearer but in the form of unobtrusive contact lenses.
 
 ### Re-Breather
 
@@ -327,37 +328,37 @@ When a targeting monocle is created it may duplicate the effects of any one weap
 
 Giving the incredible breadth and span of the Imperium of Man, it is no surprise that there are a staggering array of food, drink, intoxicants, drugs, and other items meant to be taken into the body. Some alter the consumer's mindset or perception, others can fulfill valuable medical needs, while many more simply sustain important biological functions. To attempt to codify a complete list of edibles and drinkables consumed within the God-Emperor's domain would be an impossible undertaking even for a battalion of expert lexmechanics, but some more common items that an Acolyte of the Calixian Conclave might find during the course of his duties are listed here. An appendix containing more specialized or region/world-specific consumables follows.
 
-| Drugs & Consumables                                                           |        |        |              |
-| ----------------------------------------------------------------------------- | ------ | ------ | ------------ |
-| Name                                                                          | Weight | Cost   | Availability |
-| [Amasec](Tools%20of%20the%20Trade.md#Amasec) (bottle)                                                          | 1kg    | 50+    | Scarce       |
-| [Attention Spanner (Drug)](Tools%20of%20the%20Trade.md#Attention%20Spanner%20(Drug))† (dose)                                         | -      | 45     | Rare         |
-| [Calmer (Drug)](Tools%20of%20the%20Trade.md#Calmer%20(Drug)) (dose)                                                     | -      | 20     | Plentiful    |
-| [Combat Ration Pack](Tools%20of%20the%20Trade.md#Combat%20Ration%20Pack) (day)                                                 | 1kg    | 2      | Plentiful    |
-| [Long Duration Ration Pack](Tools%20of%20the%20Trade.md#Long%20Duration%20Ration%20Pack) (day)                                          | 0.75kg | 5      | Average      |
-| [Emergency Ration Pack](Tools%20of%20the%20Trade.md#Emergency%20Ration%20Pack) (day)                                              | 0.5kg  | 10     | Common       |
-| [De-Tox (Drug)](Tools%20of%20the%20Trade.md#De-Tox%20(Drug)) (dose)                                                     | -      | 65     | Scarce       |
-| [Foodstuffs](Tools%20of%20the%20Trade.md#Foodstuffs) (meal)                                                        | Varies | Varies | Ubiquitous   |
-| [Frenzon (Drug)](Tools%20of%20the%20Trade.md#Frenzon%20(Drug))† (dose)                                                   | -      | 50     | Rare         |
-| [Cold Fire](Tools%20of%20the%20Trade.md#Cold%20Fire)† (dose)                                                        | -      | 200    | Very Rare    |
-| [Ghostfire Pollen Extract](Tools%20of%20the%20Trade.md#Ghostfire%20Pollen%20Extract)† (dose)                                         | -      | 300    | Very Rare    |
-| [Halo (Drug)](Tools%20of%20the%20Trade.md#Halo%20(Drug)) (dose)                                                       | -      | 100    | Common       |
-| [Kick (Drug)](Tools%20of%20the%20Trade.md#Kick%20(Drug))† (dose)                                                      | -      | 55     | Average      |
-| [Lho-Sticks](Tools%20of%20the%20Trade.md#Lho-Sticks)‡ (pack of 20)                                                 | -      | 1      | Abundant     |
-| [Obscura (Drug)](Tools%20of%20the%20Trade.md#Obscura%20(Drug)) cut‡ (dose)                                               | -      | 20     | Scarce       |
-| [Obscura (Drug)](Tools%20of%20the%20Trade.md#Obscura%20(Drug)) pure‡ (dose)                                              | -      | 150    | Rare         |
-| [Ploin Juice](Tools%20of%20the%20Trade.md#Ploin%20Juice) (bottle)                                                     | 0.5kg  | 5      | Scarce       |
-| [Recaf](Tools%20of%20the%20Trade.md#Recaf) (3 cup thermos)                                                    | 1.5kg  | 3+     | Plentiful    |
-| [Rotgut](Tools%20of%20the%20Trade.md#Rotgut) (bottle)                                                          | 1kg    | 3+     | Common       |
-| [Slaught (Drug)](Tools%20of%20the%20Trade.md#Slaught%20(Drug))† (dose)                                                   | -      | 75     | Scarce       |
-| [Spook (Drug)](Tools%20of%20the%20Trade.md#Spook%20(Drug)) (dose)                                                      | -      | 350    | Very Rare    |
-| [Spur (Drug)](Tools%20of%20the%20Trade.md#Spur%20(Drug))†‡ (dose)                                                     | -      | 60     | Scarce       |
-| [Stimm (Drug)](Tools%20of%20the%20Trade.md#Stimm%20(Drug))† (dose)                                                     | -      | 20     | Average      |
-| [Tranq](Tools%20of%20the%20Trade.md#Tranq) (tankard)                                                          | 0.5kg  | 1      | Abundant     |
-| [Truth Serum (Drug)](Tools%20of%20the%20Trade.md#Truth%20Serum%20(Drug)) (dose)                                                | -      | 130    | Rare         |
-| [Wideawake (Drug)](Tools%20of%20the%20Trade.md#Wideawake%20(Drug))† (dose)                                                 | -      | 4      | Plentiful    |
-| †A user can develop immunity to this drug; see Building Immunity sidebar      |        |        |              |
-| ‡ This drug is addictive; see Getting Addicted sidebar and drug's description |        |        |              |
+| Drugs & Consumables                                                                            |        |        |              |
+| ---------------------------------------------------------------------------------------------- | ------ | ------ | ------------ |
+| Name                                                                                           | Weight | Cost   | Availability |
+| [Amasec](Tools%20of%20the%20Trade.md#Amasec) (bottle)                                          | 1kg    | 50+    | Scarce       |
+| [Attention Spanner (Drug)](Tools%20of%20the%20Trade.md#Attention%20Spanner%20(Drug))† (dose)   | -      | 45     | Rare         |
+| [Calmer (Drug)](Tools%20of%20the%20Trade.md#Calmer%20(Drug)) (dose)                            | -      | 20     | Plentiful    |
+| [Combat Ration Pack](Tools%20of%20the%20Trade.md#Combat%20Ration%20Pack) (day)                 | 1kg    | 2      | Plentiful    |
+| [Long Duration Ration Pack](Tools%20of%20the%20Trade.md#Long%20Duration%20Ration%20Pack) (day) | 0.75kg | 5      | Average      |
+| [Emergency Ration Pack](Tools%20of%20the%20Trade.md#Emergency%20Ration%20Pack) (day)           | 0.5kg  | 10     | Common       |
+| [De-Tox (Drug)](Tools%20of%20the%20Trade.md#De-Tox%20(Drug)) (dose)                            | -      | 65     | Scarce       |
+| [Foodstuffs](Tools%20of%20the%20Trade.md#Foodstuffs) (meal)                                    | Varies | Varies | Ubiquitous   |
+| [Frenzon (Drug)](Tools%20of%20the%20Trade.md#Frenzon%20(Drug))† (dose)                         | -      | 50     | Rare         |
+| [Cold Fire](Tools%20of%20the%20Trade.md#Cold%20Fire)† (dose)                                   | -      | 200    | Very Rare    |
+| [Ghostfire Pollen Extract](Tools%20of%20the%20Trade.md#Ghostfire%20Pollen%20Extract)† (dose)   | -      | 300    | Very Rare    |
+| [Halo (Drug)](Tools%20of%20the%20Trade.md#Halo%20(Drug)) (dose)                                | -      | 100    | Common       |
+| [Kick (Drug)](Tools%20of%20the%20Trade.md#Kick%20(Drug))† (dose)                               | -      | 55     | Average      |
+| [Lho-Sticks](Tools%20of%20the%20Trade.md#Lho-Sticks)‡ (pack of 20)                             | -      | 1      | Abundant     |
+| [Obscura (Drug)](Tools%20of%20the%20Trade.md#Obscura%20(Drug)) cut‡ (dose)                     | -      | 20     | Scarce       |
+| [Obscura (Drug)](Tools%20of%20the%20Trade.md#Obscura%20(Drug)) pure‡ (dose)                    | -      | 150    | Rare         |
+| [Ploin Juice](Tools%20of%20the%20Trade.md#Ploin%20Juice) (bottle)                              | 0.5kg  | 5      | Scarce       |
+| [Recaf](Tools%20of%20the%20Trade.md#Recaf) (3 cup thermos)                                     | 1.5kg  | 3+     | Plentiful    |
+| [Rotgut](Tools%20of%20the%20Trade.md#Rotgut) (bottle)                                          | 1kg    | 3+     | Common       |
+| [Slaught (Drug)](Tools%20of%20the%20Trade.md#Slaught%20(Drug))† (dose)                         | -      | 75     | Scarce       |
+| [Spook (Drug)](Tools%20of%20the%20Trade.md#Spook%20(Drug)) (dose)                              | -      | 350    | Very Rare    |
+| [Spur (Drug)](Tools%20of%20the%20Trade.md#Spur%20(Drug))†‡ (dose)                              | -      | 60     | Scarce       |
+| [Stimm (Drug)](Tools%20of%20the%20Trade.md#Stimm%20(Drug))† (dose)                             | -      | 20     | Average      |
+| [Tranq](Tools%20of%20the%20Trade.md#Tranq) (tankard)                                           | 0.5kg  | 1      | Abundant     |
+| [Truth Serum (Drug)](Tools%20of%20the%20Trade.md#Truth%20Serum%20(Drug)) (dose)                | -      | 130    | Rare         |
+| [Wideawake (Drug)](Tools%20of%20the%20Trade.md#Wideawake%20(Drug))† (dose)                     | -      | 4      | Plentiful    |
+| †A user can develop immunity to this drug; see Building Immunity sidebar                       |        |        |              |
+| ‡ This drug is addictive; see Getting Addicted sidebar and drug's description                  |        |        |              |
 [Frontier Consumables](Tools%20of%20the%20Trade.md#Frontier%20Consumables)
 [Specialty Consumables](Tools%20of%20the%20Trade.md#Specialty%20Consumables)
 ### BUILDING IMMUNITY
@@ -1243,52 +1244,52 @@ A Munitorum tool kit provides a +5 bonus to Trade (Technomat) Tests made when re
 
 Whether due to rarity, expense, or simply serving extremely esoteric purposes, some types of tools and gear simply aren't commonly used by most Imperial citizens. Acolytes of the by most Imperial citizens. Acolytes of the Imperial Inquisition, however, would do well to Imperial Inquisition, however, would do well to be aware of their existence in case some of these techno-obscurities or highly specialized bits of equipment come up during the course of an investigation. Some specialty equipment are truly spectacular works of Imperial tech and the arcane understandings of the mechanical, while others can simply be novelties and amusement for the wealthy and idle. Still more are simply unusual, ill-understood, or just limited in application or to certain segments of society. Specialty equipment's Availability assumes a general attempt to locate such gear within Imperial space. Specific tools and kit may be significantly more or less common on individual worlds depending on their type and utility.
 
-| Specialty Equipment                                        |        |      |                |     |     |
-| ---------------------------------------------------------- | ------ | ---- | -------------- | --- | --- |
-| Name                                                       | Weight | Cost | Availability   |     |     |
-| [Bomb Spray](Tools%20of%20the%20Trade.md#Bomb%20Spray)                                            | 1kg    | 200  | Very Rare      |     |     |
-| [Cogitator](Tools%20of%20the%20Trade.md#Cogitator)                                             | -      | -    | -              |     |     |
-| - [Cogitator, Emplaced](Tools%20of%20the%20Trade.md#Cogitator,%20Emplaced)                                 | 150kg  | 4000 | Average        |     |     |
-| - [Cogitator, Personal](Tools%20of%20the%20Trade.md#Cogitator,%20Personal)                                 | 1.5kg  | 700  | Average        |     |     |
-| - [Data-Loom](Tools%20of%20the%20Trade.md#Data-Loom)                                           | 25kg   | 900  | Rare           |     |     |
-| - [Matriculation Engine](Tools%20of%20the%20Trade.md#Matriculation%20Engine)                                | 14kg   | 750  | Scarce         |     |     |
-| - [Memrance Enhancer](Tools%20of%20the%20Trade.md#Memrance%20Enhancer)                                   | 5kg    | 300  | Scarce         |     |     |
-| [Demo Charge](Tools%20of%20the%20Trade.md#Demo%20Charge)                                           | 2kg    | 180  | Average        |     |     |
-| - [Hollow Charge](Tools%20of%20the%20Trade.md#Hollow%20Charge)                                       | 1.5kg  | 250  | Rare           |     |     |
-| [Det-Tape](Tools%20of%20the%20Trade.md#Det-Tape)                                              | 1kg    | 50   | Common         |     |     |
-| [Dagnostor/Medispex](Tools%20of%20the%20Trade.md#Dagnostor/Medispex)                                    | 4kg    | 525  | Very Rare      |     |     |
-| [Disguise Kit](Tools%20of%20the%20Trade.md#Disguise%20Kit)†                                         | 5kg    | 150  | Average        |     |     |
-| [Drusine Incense](Tools%20of%20the%20Trade.md#Drusine%20Incense)                                       | 0.3kg  | 100  | Rare           |     |     |
-| [Vessel Emergency Kit](Tools%20of%20the%20Trade.md#Vessel%20Emergency%20Kit)                                  | 6kg    | 300  | Common         |     |     |
-| [Emergency Hab](Tools%20of%20the%20Trade.md#Emergency%20Hab)                                         | 10kg   | 250  | Scarce         |     |     |
-| [Excruciator](Tools%20of%20the%20Trade.md#Excruciator)                                           | 2kg    | 4000 | Rare           |     |     |
-| [Forgery Kit](Tools%20of%20the%20Trade.md#Forgery%20Kit)†                                          | 3kg    | 400  | Scarce         |     |     |
-| [Gene-Printer](Tools%20of%20the%20Trade.md#Gene-Printer)                                          | 18kg   | 1500 | Rare           |     |     |
-| [Glidewing](Tools%20of%20the%20Trade.md#Glidewing)                                             | 28kg   | 7500 | Extremely Rare |     |     |
-| [Grav-Chute](Tools%20of%20the%20Trade.md#Grav-Chute)                                            | 15kg   | 400  | Scarce         |     |     |
-| [Grey Device](Tools%20of%20the%20Trade.md#Grey%20Device)                                           | 3kg    | 500  | Rare           |     |     |
-| ["Heretic's Wake" Deck](Tools%20of%20the%20Trade.md#"Heretic's%20Wake"%20Deck)                                 | 0.2kg  | 10   | Scarce         |     |     |
-| [Hololith/Holo-Projector](Tools%20of%20the%20Trade.md#Hololith/Holo-Projector)                               | 40kg   | 3000 | Scarce         |     |     |
-| [Holo Wafer](Tools%20of%20the%20Trade.md#Holo%20Wafer)                                            | 0.1kg  | 5    | Average        |     |     |
-| [Intrusion Spirit](Tools%20of%20the%20Trade.md#Intrusion%20Spirit)                                      | 0.5kg  | 620  | Very Rare      |     |     |
-| [Line Ascender](Tools%20of%20the%20Trade.md#Line%20Ascender)                                         | 1kg    | 100  | Scarce         |     |     |
-| [Melta Gel](Tools%20of%20the%20Trade.md#Melta%20Gel)                                             | 0.3kg  | 200  | Rare           |     |     |
-| [Penthrift Dreadfuls](Tools%20of%20the%20Trade.md#Penthrift%20Dreadfuls)                                   | -      | 1    | Average        |     |     |
-| [Pict-Fly](Tools%20of%20the%20Trade.md#Pict-Fly)                                              | -      | 1200 | Rare           |     |     |
-| [Pinner](Tools%20of%20the%20Trade.md#Pinner)                                                | 5kg    | 800  | Extremely Rare |     |     |
-| [Poi-Savant](Tools%20of%20the%20Trade.md#Poi-Savant)†                                           | 2kg    | 300  | Rare           |     |     |
-| [Privacy Field Generator](Tools%20of%20the%20Trade.md#Privacy%20Field%20Generator)                               | 10kg   | 1550 | Rare           |     |     |
-| [Psy-Focus](Tools%20of%20the%20Trade.md#Psy-Focus)                                             | Varies | 100  | Very Rare      |     |     |
-| [Psycrystal](Tools%20of%20the%20Trade.md#Psycrystal)                                            | 0.3kg  | 1000 | Near Unique    |     |     |
-| [Sky Eye](Tools%20of%20the%20Trade.md#Sky%20Eye)                                               | 4kg    | 1700 | Extremely Rare |     |     |
-| [Strait-Cape](Tools%20of%20the%20Trade.md#Strait-Cape)                                           | 5kg    | 100  | Scarce         |     |     |
-| [Tracking Device](Tools%20of%20the%20Trade.md#Tracking%20Device)                                       | 0.5kg  | 200  | Scarce         |     |     |
-| [Venom Ring](Tools%20of%20the%20Trade.md#Venom%20Ring)                                            | -      | 350  | Very Rare      |     |     |
-| [Vox Bug](Tools%20of%20the%20Trade.md#Vox%20Bug)                                               | -      | 500  | Rare           |     |     |
-| [Vox-Thief](Tools%20of%20the%20Trade.md#Vox-Thief)                                             | Varies | 2000 | Rare           |     |     |
-| [Vox-Tracker](Tools%20of%20the%20Trade.md#Vox-Tracker)                                           | 11kg   | 450  | Scarce         |     |     |
-| [Ward Accessor](Tools%20of%20the%20Trade.md#Ward%20Accessor)                                         | -      | 25   | Average        |     |     |
-| †This item's Craftsmanship has one or more special effects |        |      |                |     |     |
+| Specialty Equipment                                                                |        |      |                |
+| ---------------------------------------------------------------------------------- | ------ | ---- | -------------- |
+| Name                                                                               | Weight | Cost | Availability   |
+| [Bomb Spray](Tools%20of%20the%20Trade.md#Bomb%20Spray)                             | 1kg    | 200  | Very Rare      |
+| [Cogitator](Tools%20of%20the%20Trade.md#Cogitator)                                 | -      | -    | -              |
+| - [Cogitator, Emplaced](Tools%20of%20the%20Trade.md#Cogitator,%20Emplaced)         | 150kg  | 4000 | Average        |
+| - [Cogitator, Personal](Tools%20of%20the%20Trade.md#Cogitator,%20Personal)         | 1.5kg  | 700  | Average        |
+| - [Data-Loom](Tools%20of%20the%20Trade.md#Data-Loom)                               | 25kg   | 900  | Rare           |
+| - [Matriculation Engine](Tools%20of%20the%20Trade.md#Matriculation%20Engine)       | 14kg   | 750  | Scarce         |
+| - [Memrance Enhancer](Tools%20of%20the%20Trade.md#Memrance%20Enhancer)             | 5kg    | 300  | Scarce         |
+| [Demo Charge](Tools%20of%20the%20Trade.md#Demo%20Charge)                           | 2kg    | 180  | Average        |
+| - [Hollow Charge](Tools%20of%20the%20Trade.md#Hollow%20Charge)                     | 1.5kg  | 250  | Rare           |
+| [Det-Tape](Tools%20of%20the%20Trade.md#Det-Tape)                                   | 1kg    | 50   | Common         |
+| [Dagnostor/Medispex](Tools%20of%20the%20Trade.md#Dagnostor/Medispex)               | 4kg    | 525  | Very Rare      |
+| [Disguise Kit](Tools%20of%20the%20Trade.md#Disguise%20Kit)†                        | 5kg    | 150  | Average        |
+| [Drusine Incense](Tools%20of%20the%20Trade.md#Drusine%20Incense)                   | 0.3kg  | 100  | Rare           |
+| [Vessel Emergency Kit](Tools%20of%20the%20Trade.md#Vessel%20Emergency%20Kit)       | 6kg    | 300  | Common         |
+| [Emergency Hab](Tools%20of%20the%20Trade.md#Emergency%20Hab)                       | 10kg   | 250  | Scarce         |
+| [Excruciator](Tools%20of%20the%20Trade.md#Excruciator)                             | 2kg    | 4000 | Rare           |
+| [Forgery Kit](Tools%20of%20the%20Trade.md#Forgery%20Kit)†                          | 3kg    | 400  | Scarce         |
+| [Gene-Printer](Tools%20of%20the%20Trade.md#Gene-Printer)                           | 18kg   | 1500 | Rare           |
+| [Glidewing](Tools%20of%20the%20Trade.md#Glidewing)                                 | 28kg   | 7500 | Extremely Rare |
+| [Grav-Chute](Tools%20of%20the%20Trade.md#Grav-Chute)                               | 15kg   | 400  | Scarce         |
+| [Grey Device](Tools%20of%20the%20Trade.md#Grey%20Device)                           | 3kg    | 500  | Rare           |
+| ["Heretic's Wake" Deck](Tools%20of%20the%20Trade.md#"Heretic's%20Wake"%20Deck)     | 0.2kg  | 10   | Scarce         |
+| [Hololith/Holo-Projector](Tools%20of%20the%20Trade.md#Hololith/Holo-Projector)     | 40kg   | 3000 | Scarce         |
+| [Holo Wafer](Tools%20of%20the%20Trade.md#Holo%20Wafer)                             | 0.1kg  | 5    | Average        |
+| [Intrusion Spirit](Tools%20of%20the%20Trade.md#Intrusion%20Spirit)                 | 0.5kg  | 620  | Very Rare      |
+| [Line Ascender](Tools%20of%20the%20Trade.md#Line%20Ascender)                       | 1kg    | 100  | Scarce         |
+| [Melta Gel](Tools%20of%20the%20Trade.md#Melta%20Gel)                               | 0.3kg  | 200  | Rare           |
+| [Penthrift Dreadfuls](Tools%20of%20the%20Trade.md#Penthrift%20Dreadfuls)           | -      | 1    | Average        |
+| [Pict-Fly](Tools%20of%20the%20Trade.md#Pict-Fly)                                   | -      | 1200 | Rare           |
+| [Pinner](Tools%20of%20the%20Trade.md#Pinner)                                       | 5kg    | 800  | Extremely Rare |
+| [Poi-Savant](Tools%20of%20the%20Trade.md#Poi-Savant)†                              | 2kg    | 300  | Rare           |
+| [Privacy Field Generator](Tools%20of%20the%20Trade.md#Privacy%20Field%20Generator) | 10kg   | 1550 | Rare           |
+| [Psy-Focus](Tools%20of%20the%20Trade.md#Psy-Focus)                                 | Varies | 100  | Very Rare      |
+| [Psycrystal](Tools%20of%20the%20Trade.md#Psycrystal)                               | 0.3kg  | 1000 | Near Unique    |
+| [Sky Eye](Tools%20of%20the%20Trade.md#Sky%20Eye)                                   | 4kg    | 1700 | Extremely Rare |
+| [Strait-Cape](Tools%20of%20the%20Trade.md#Strait-Cape)                             | 5kg    | 100  | Scarce         |
+| [Tracking Device](Tools%20of%20the%20Trade.md#Tracking%20Device)                   | 0.5kg  | 200  | Scarce         |
+| [Venom Ring](Tools%20of%20the%20Trade.md#Venom%20Ring)                             | -      | 350  | Very Rare      |
+| [Vox Bug](Tools%20of%20the%20Trade.md#Vox%20Bug)                                   | -      | 500  | Rare           |
+| [Vox-Thief](Tools%20of%20the%20Trade.md#Vox-Thief)                                 | Varies | 2000 | Rare           |
+| [Vox-Tracker](Tools%20of%20the%20Trade.md#Vox-Tracker)                             | 11kg   | 450  | Scarce         |
+| [Ward Accessor](Tools%20of%20the%20Trade.md#Ward%20Accessor)                       | -      | 25   | Average        |
+| †This item's Craftsmanship has one or more special effects                         |        |      |                |
 #### Bomb Spray
 
 Though of immediate utility to many covert agents and other clandestine types, this wondrous aerosol contained in humble metallic cans has a particularly small following due to the extreme danger inherent in its use. Bomb spray, as the name suggests, creates a chemically reactive layer onto any surface it is applied to. While inert as a gas, once it settles and dries the compound becomes incredibly unstable - any strong impact, such as a bullet strike or even a rock or brick being tossed at the coated surface causes the spray to violently detonate. Bomb spray was originally devised by a genius Magos Technicus from the lesser forge world of Perinetus as a means to easily facilitate demolition of archaic or ruined equipment or edifices. While very easy to use, bomb spray can't be easily controlled like proper demo charges or other forms of explosives - once applied, the "bomb" is set and can't be removed in any way. Moreover, poorly made or old cans can develop leaks, which slowly turn storage cases - or trouser pockets! - into bombs themselves with alarming efficiency. Because of this peril, bomb spray is rarely used for its original intended purpose, but the stuff is still manufactured for those intending more "destructive" effects, such as sabotage and laying stealthy traps.
@@ -1696,24 +1697,24 @@ Many bionics have secondary effects depending on their type and Craftsmanship. A
 
 Some types of bionics grant a bonus to Tests to reflect their superior quality. The bonus only applies to Tests made with that bionic directly, and having two of the same bionic does not grant double the bonus unless otherwise stated.
 
-| Bionics                                                                       |       |        |       |              |
-| ----------------------------------------------------------------------------- | ----- | ------ | ----- | ------------ |
-| Name                                                                          |       | Cost   | Test  | Availability |
-| [Bionic Arm](Tools%20of%20the%20Trade.md#Bionic%20Arm)†                                                              |       | 1000   | +0    | Scarce       |
-| [Bionic Cardiac System](Tools%20of%20the%20Trade.md#Bionic%20Cardiac%20System)†                                                   |       | 2700   | -20   | Rare         |
-| [Bionic Locomotion](Tools%20of%20the%20Trade.md#Bionic%20Locomotion)†                                                       |       | 1500   | -10   | Scarce       |
-| [Bionic Respiratory System](Tools%20of%20the%20Trade.md#Bionic%20Respiratory%20System)†                                               |       | 800    | -20   | Rare         |
-| [Bionic Weapon Attachment](Tools%20of%20the%20Trade.md#Bionic%20Weapon%20Attachment)                                                 |       | 350    | -10†† | Scarce       |
-| [Cybernetic Senses](Tools%20of%20the%20Trade.md#Cybernetic%20Senses)†                                                       |       | -      | -     | -            |
-|                                                                               | Sight | 1500   | -10   | Scarce       |
-|                                                                               | Smell | 1600   | -20   | Rare         |
-|                                                                               | Sound | 1300   | -10   | Scarce       |
-|                                                                               | Taste | 1750   | -30   | Very Rare    |
-|                                                                               | Touch | 1700   | -20   | Rare         |
-| [Gastral Bionics](Tools%20of%20the%20Trade.md#Gastral%20Bionics)†                                                         |       | 1100   | -20   | Rare         |
-| [Rite of Setesh](Tools%20of%20the%20Trade.md#Rite%20of%20Setesh)                                                           |       | 100000 | -40   | Near Unique  |
-| †_This item's Craftsmanship has one or more special effects_                  |       |        |       |              |
-| †† _Attaching this bionic requires a Tech-Use Test instead of a Medicae Test_ |       |        |       |              |
+| Bionics                                                                                 |       |        |       |              |
+| --------------------------------------------------------------------------------------- | ----- | ------ | ----- | ------------ |
+| Name                                                                                    |       | Cost   | Test  | Availability |
+| [Bionic Arm](Tools%20of%20the%20Trade.md#Bionic%20Arm)†                                 |       | 1000   | +0    | Scarce       |
+| [Bionic Cardiac System](Tools%20of%20the%20Trade.md#Bionic%20Cardiac%20System)†         |       | 2700   | -20   | Rare         |
+| [Bionic Locomotion](Tools%20of%20the%20Trade.md#Bionic%20Locomotion)†                   |       | 1500   | -10   | Scarce       |
+| [Bionic Respiratory System](Tools%20of%20the%20Trade.md#Bionic%20Respiratory%20System)† |       | 800    | -20   | Rare         |
+| [Bionic Weapon Attachment](Tools%20of%20the%20Trade.md#Bionic%20Weapon%20Attachment)    |       | 350    | -10†† | Scarce       |
+| [Cybernetic Senses](Tools%20of%20the%20Trade.md#Cybernetic%20Senses)†                   |       | -      | -     | -            |
+|                                                                                         | Sight | 1500   | -10   | Scarce       |
+|                                                                                         | Smell | 1600   | -20   | Rare         |
+|                                                                                         | Sound | 1300   | -10   | Scarce       |
+|                                                                                         | Taste | 1750   | -30   | Very Rare    |
+|                                                                                         | Touch | 1700   | -20   | Rare         |
+| [Gastral Bionics](Tools%20of%20the%20Trade.md#Gastral%20Bionics)†                       |       | 1100   | -20   | Rare         |
+| [Rite of Setesh](Tools%20of%20the%20Trade.md#Rite%20of%20Setesh)                        |       | 100000 | -40   | Near Unique  |
+| †_This item's Craftsmanship has one or more special effects_                            |       |        |       |              |
+| †† _Attaching this bionic requires a Tech-Use Test instead of a Medicae Test_           |       |        |       |              |
 #### Bionic Arm
 
 Losing an arm greatly affects a man's effectiveness in almost every situation, and it is not entirely uncommon for a valued labourer to be fitted with a bionic replacement at the expense of his betters so as to continue his utility. A bionic arm can replace part of or the entire human limb, up to and including a sturdy bracket implanted at the shoulder to serve as a firm anchor point. Most bionic arms are controlled by a synth-nerve bundle which can sometimes be seen as a slightly raised line under the bearer's skin. A whole arm replacement is typically wired directly to the bearer's brain, while a bionic hand is usually connected to existing synaptic fibers in the arm. The bionic's Craftsmanship has further effects on the bionic's utility and functions.
