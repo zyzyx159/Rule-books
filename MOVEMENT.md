@@ -151,7 +151,7 @@ The amount of weight a character can move is derived from the sum of your charac
 | 20      | 2,250kg      | 4,500kg     | 9,000kg     |
 #### **Carrying Weight**
 
-Your Carrying Weight is how much you can comfortably carry without suffering Fatigue or any penalties to your Movement. If you carry more than this weight you are [Encumbered](Movement.md#encumbered%20characters).
+Your Carrying Weight is how much you can comfortably carry without suffering Fatigue or any penalties to your Movement. If you carry more than this weight you are [Encumbered](movement.md#encumbered%20characters).
 #### **Lifting Weight**
 
 Your Lifting Weight represents the maximum amount of weight you can pick up off the ground. You may attempt to move while holding a heavy load, but if that load exceeds your Carry Weight you are Encumbered. Lifting a heavy load is a Full Action. You can attempt to lift more than your limit by making a **Strength Test**. With success, and for every additional degree of success achieved on this Test, you gain +1 to the sum of your Strength Bonus and Toughness Bonus for the purpose of determining limits. If you instead gain two or more degrees of failure, you immediately suffer one level of Fatigue from overexertion or a strained muscle.
