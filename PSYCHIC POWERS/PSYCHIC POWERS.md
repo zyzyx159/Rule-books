@@ -219,13 +219,13 @@ The following Psychic Disciplines are represented by the Scholastica Psykana Cal
 
 **[Biomancy](BIOMANCY.md):** The art of sculpting flesh to conform to one's will.
 
-**[Divination](divination.md):** The art of reading past, present and future in the shadows of the immaterium.
+**[Divination](DIVINATION.md):** The art of reading past, present and future in the shadows of the immaterium.
 
-**[Pyromancy](pyromancy.md):** The art of controlling heat and flame.
+**[Pyromancy](PYROMANCY.md):** The art of controlling heat and flame.
 
-**[Telekinetics](telekinetics.md):** The art of translating thought into physical force.
+**[Telekinetics](TELEKINETICS.md):** The art of translating thought into physical force.
 
-**[Telepathy](telepathy.md):** The art of reading and controlling minds.
+**[Telepathy](TELEPATHY.md):** The art of reading and controlling minds.
 #### **Discipline Mastery**
 
 Each Discipline Power you acquire represents a discrete segment of that Discipline's teachings and its greater philosophy regarding psychic ability as a whole, and gaining additional powers grants you increasing insight into that Discipline. Once you have learnt ten or more powers of a particular Discipline you are said to have mastered it, turning your intimate knowledge of that Discipline's teachings into a firmer grasp on your psychic abilities. Those who have mastered a Discipline are far more powerful than their novice cohorts, capable of manifesting powers quickly and efficiently. 

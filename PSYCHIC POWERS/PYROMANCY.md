@@ -8,17 +8,17 @@ These beliefs are rooted in credulity and naivete. A skilled pyromancer is a ter
 
 | Name                                            | Threshold | Focus Time  | Sustain |
 | ----------------------------------------------- | :-------: | :---------: | :-----: |
-| [Blinding Flash](pyromancy.md#blinding%20flash) |    11     | Half Action |   No    |
-| [Burning Fist](pyromancy.md#burning%20fist)     |    10     | Half Action |   Yes   |
-| [Call Flame](pyromancy.md#call%20flame)         |     8     | Half Action |   Yes   |
-| [Douse Flames](pyromancy.md#douse%20flames)     |    16     | Half Action |   Yes   |
-| [Fire Bolt](pyromancy.md#fire%20bolt)           |    11     | Half Action |   No    |
-| [Fire Storm](pyromancy.md#fire%20storm)         |    16     | Half Action |   No    |
-| [Holocaust](pyromancy.md#holocaust)             |    23     | Full Action |   Yes   |
-| [Incinerate](pyromancy.md#incinerate)           |    19     | Full Action |   Yes   |
-| [Molten Man](pyromancy.md#molten%20man)         |    27     | Full Action |   Yes   |
-| [Sculpt Flame](pyromancy.md#sculpt%20flame)     |    13     | Half Action |   Yes   |
-| [Wall of Fire](pyromancy.md#wall%20of%20fire)   |    17     | Full Action |   Yes   |
+| [Blinding Flash](PYROMANCY.md#blinding%20flash) |    11     | Half Action |   No    |
+| [Burning Fist](PYROMANCY.md#burning%20fist)     |    10     | Half Action |   Yes   |
+| [Call Flame](PYROMANCY.md#call%20flame)         |     8     | Half Action |   Yes   |
+| [Douse Flames](PYROMANCY.md#douse%20flames)     |    16     | Half Action |   Yes   |
+| [Fire Bolt](PYROMANCY.md#fire%20bolt)           |    11     | Half Action |   No    |
+| [Fire Storm](PYROMANCY.md#fire%20storm)         |    16     | Half Action |   No    |
+| [Holocaust](PYROMANCY.md#holocaust)             |    23     | Full Action |   Yes   |
+| [Incinerate](PYROMANCY.md#incinerate)           |    19     | Full Action |   Yes   |
+| [Molten Man](PYROMANCY.md#molten%20man)         |    27     | Full Action |   Yes   |
+| [Sculpt Flame](PYROMANCY.md#sculpt%20flame)     |    13     | Half Action |   Yes   |
+| [Wall of Fire](PYROMANCY.md#wall%20of%20fire)   |    17     | Full Action |   Yes   |
 ##### **Blinding Flash**
 **Threshold:** 11
 **Focus Time:** Half Action

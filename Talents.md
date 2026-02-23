@@ -242,7 +242,7 @@ Whereas a weaker man would be sent flying when using powerful weapons, your stro
 ### **Catfall**
 **Prerequisites:** Agility 30
 
-You are nimble and balanced, like a cat, and are able to fall much greater distances without harm than the common man. Whenever you fall, you may Test Agility as a Free Action. On a success, and for every further degree of success, you may reduce the distance fallen by a number of metres equal to your Agility Bonus for the purposes of determining the Damage from the fall. Additionally, you gain a +20 bonus to [Acrobatics](skills.md#acrobatics) Tests made [to jump down](movement.md#standing%20vertical%20jumps).
+You are nimble and balanced, like a cat, and are able to fall much greater distances without harm than the common man. Whenever you fall, you may Test Agility as a Free Action. On a success, and for every further degree of success, you may reduce the distance fallen by a number of metres equal to your Agility Bonus for the purposes of determining the Damage from the fall. Additionally, you gain a +20 bonus to [Acrobatics](skills.md#acrobatics) Tests made [to jump down](Movement.md#standing%20vertical%20jumps).
 ### **Chem Geld**
 
 A variety of chemical and surgical treatments, or possibly just a massive force of will, have rendered you immune to most mundane temptations. Seduction attempts against you automatically fail, and the Difficulty of all other Charm Tests made against you increase by one step (a **Challenging (+0) Test** becomes **Difficult (–10)** and so on). When you take this Talent you gain one Insanity Point.
@@ -376,7 +376,7 @@ descriptions. Unlike other kinds of weapons training this Talent applies only to
 ### **Favoured by the Warp**
 **Prerequisite:** Willpower 35
 
-Whenever a Power Roll triggers [Psychic Phenomena](psychic%20powers.md#psychic%20phenomena), you may roll two dice on **Table: Psychic Phenomena** and take the more favourable result.
+Whenever a Power Roll triggers [Psychic Phenomena](PSYCHIC%20POWERS.md#psychic%20phenomena), you may roll two dice on **Table: Psychic Phenomena** and take the more favourable result.
 ### **Fearless**
 
 Whether through fervent loyalty, a stern demeanour tempered through hard experience in horrifying situations, or a derangement of the mind, you are impossible to frighten or unnerve. You are immune to the effects of [Fear](fear%20and%20damnation.md#fear) and [Pinning](combat.md#pinning), but disengaging from combat or backing down from a fight requires a successful on a Willpower Test.
@@ -493,7 +493,7 @@ You are made of sturdy stuff and can bounce back from blows that would leave oth
 ### **Jaded**
 **Prerequisites:** Willpower 30
 
-Witnessing mind-bending weirdness and human depravity beyond the ken of most has acclimatised you to the worst horrors. You never gain Insanity Points from the sight of blood, death, violence, or other mundane sources of terror. Supernatural forces—such as [Psychic Phenomena](psychic%20powers.md#psychic%20phenomena) and the presence of daemons—still affect you as normal, however.
+Witnessing mind-bending weirdness and human depravity beyond the ken of most has acclimatised you to the worst horrors. You never gain Insanity Points from the sight of blood, death, violence, or other mundane sources of terror. Supernatural forces—such as [Psychic Phenomena](PSYCHIC%20POWERS.md#psychic%20phenomena) and the presence of daemons—still affect you as normal, however.
 ### **Last Man Standing**
 **Prerequisites:** Nerves of Steel
 
@@ -628,7 +628,7 @@ Note this does not make you look like your target; you merely sound like them. I
 ### **Minor Psychic Power**
 **Talent Groups:** All Minor Psychic Powers
 
-You have acquired an additional psychic ability, gaining one [Minor Psychic Power](psychic%20powers.md#minor%20psychic%20powers).
+You have acquired an additional psychic ability, gaining one [Minor Psychic Power](PSYCHIC%20POWERS.md#minor%20psychic%20powers).
 ### **Nerves of Steel**
 
 You are able to remain calm, even when bullets fly past and bombs fall around you. You may re-roll a failed Willpower Test to avoid or recover from [Pinning](combat.md#pinning). Additionally, you may choose to spend a Fate Point and become immune to Pinning until the end of your next Turn.
@@ -669,19 +669,19 @@ You may purchase increasing Psy Rating Talents in accordance with your Career Ad
 **Special:** Most Psy Rating Talents grant you a number of Psychic Powers which may be fixed in number or determined by your Willpower Bonus. Note that if your Willpower Bonus later increases, **you do not retroactively gain additional powers**. 
 #### **Psy Rating 1**
 
-You have truly grasped your latent psychic abilities. Select a number of [Minor Psychic Powers](psychic%20powers.md#minor%20psychic%20powers) equal to one-half your Willpower Bonus (round up). You gain a Psy Rating of 1, meaning you may roll one dice and add your Willpower Bonus when manifesting Psychic Powers.
+You have truly grasped your latent psychic abilities. Select a number of [Minor Psychic Powers](PSYCHIC%20POWERS.md#minor%20psychic%20powers) equal to one-half your Willpower Bonus (round up). You gain a Psy Rating of 1, meaning you may roll one dice and add your Willpower Bonus when manifesting Psychic Powers.
 #### **Psy Rating 2**
 **Prerequisites:** Psy Rating 1
 
-You have further advanced your knowledge of your psychic abilities. Select a number of [Minor Psychic Powers](psychic%20powers.md#minor%20psychic%20powers) equal to half your Willpower Bonus (round up). You now have a Psy Rating of 2 and may roll up to two dice plus your Willpower bonus when manifesting Psychic Powers.
+You have further advanced your knowledge of your psychic abilities. Select a number of [Minor Psychic Powers](PSYCHIC%20POWERS.md#minor%20psychic%20powers) equal to half your Willpower Bonus (round up). You now have a Psy Rating of 2 and may roll up to two dice plus your Willpower bonus when manifesting Psychic Powers.
 #### **Psy Rating 3**
 **Prerequisites:** Psy Rating 2
 
-Your psychic abilities grow further in power and proficiency. You may select one [Psychic Discipline](psychic%20powers.md#the%20psychic%20disciplines), such as Divination or Telekinetics, and you gain one power of your choice from this Discipline. You also gain a number of [Minor Psychic Powers](psychic%20powers.md#minor%20psychic%20powers) equal to half your Willpower Bonus (round up). You now have a Psy Rating of 3 and may roll up to three dice plus your Willpower bonus when manifesting Psychic Powers.
+Your psychic abilities grow further in power and proficiency. You may select one [Psychic Discipline](PSYCHIC%20POWERS.md#the%20psychic%20disciplines), such as Divination or Telekinetics, and you gain one power of your choice from this Discipline. You also gain a number of [Minor Psychic Powers](PSYCHIC%20POWERS.md#minor%20psychic%20powers) equal to half your Willpower Bonus (round up). You now have a Psy Rating of 3 and may roll up to three dice plus your Willpower bonus when manifesting Psychic Powers.
 #### **Psy Rating 4**
 **Prerequisites:** Psy Rating 3
 
-You have distinguished yourself by your skill at manipulating warp energies and the breadth of your knowledge of psychic abilities. You gain a number of Psychic Powers in any [Psychic Discipline](psychic%20powers.md#the%20psychic%20disciplines) that you know equal to half your Willpower Bonus and the same number of [Minor Psychic Powers](psychic%20powers.md#minor%20psychic%20powers) (round up). 
+You have distinguished yourself by your skill at manipulating warp energies and the breadth of your knowledge of psychic abilities. You gain a number of Psychic Powers in any [Psychic Discipline](PSYCHIC%20POWERS.md#the%20psychic%20disciplines) that you know equal to half your Willpower Bonus and the same number of [Minor Psychic Powers](PSYCHIC%20POWERS.md#minor%20psychic%20powers) (round up). 
 
 Alternatively, instead of gaining additional Psychic Powers from your Psychic Discipline, you may further broaden your knowledge of the psyker's gift and select one new Psychic Discipline, from which you gain a single Psychic Power. 
 
@@ -689,7 +689,7 @@ Regardless of your choice, you now have a Psy Rating of 4 and may roll up to fou
 #### **Psy Rating 5**
 **Prerequisites:** Psy Rating 4
 
-You have grasped power well beyond what most sanctioned psykers ever will. You gain a number of Psychic Powers in any [Discipline](psychic%20powers.md#the%20psychic%20disciplines) that you know equal to half your Willpower Bonus (round up). 
+You have grasped power well beyond what most sanctioned psykers ever will. You gain a number of Psychic Powers in any [Discipline](PSYCHIC%20POWERS.md#the%20psychic%20disciplines) that you know equal to half your Willpower Bonus (round up). 
 
 Alternatively, you may select a new Psychic Discipline and gain one Psychic Power from it.
 
@@ -697,7 +697,7 @@ Regardless of your choice, you now have a Psy Rating of 5 and may roll up to fiv
 #### **Psy Rating 6**
 **Prerequisites:** Psy Rating 5
 
-Such is your extraordinary psychic ability that you may soon find yourself asked to join the ranks of the Primaris, the most elite of the Scholastica Psykana. You gain a number of Psychic Powers in any [Psychic Discipline](psychic%20powers.md#the%20psychic%20disciplines) that you know equal to half your Willpower Bonus and the same number of [Minor Psychic Powers](psychic%20powers.md#minor%20psychic%20powers) (round up). 
+Such is your extraordinary psychic ability that you may soon find yourself asked to join the ranks of the Primaris, the most elite of the Scholastica Psykana. You gain a number of Psychic Powers in any [Psychic Discipline](PSYCHIC%20POWERS.md#the%20psychic%20disciplines) that you know equal to half your Willpower Bonus and the same number of [Minor Psychic Powers](PSYCHIC%20POWERS.md#minor%20psychic%20powers) (round up). 
 
 Alternatively, instead of gaining additional Psychic Powers from your Psychic Discipline, you may select one new Psychic Discipline, from which you gain a single Psychic Power. 
 
@@ -705,7 +705,7 @@ Regardless of your choice, you now have a Psy Rating of 6 and may roll up to six
 ### **Psychic Power**
 **Talent Groups:** All Psychic Powers
 
-You have acquired an additional Psychic Power. You gain one power of any [Discipline](psychic%20powers.md#the%20psychic%20disciplines) you know.
+You have acquired an additional Psychic Power. You gain one power of any [Discipline](PSYCHIC%20POWERS.md#the%20psychic%20disciplines) you know.
 ### **Quick Draw**
 
 You have practised with your weapons so frequently that they very nearly leap into your hands when the time for action comes. You can [Ready](combat.md#ready%20%28half%20action%29) as a Free Action when armed with a Pistol or Basic class ranged weapon, or a melee weapon that can be wielded in one hand. If you have the appropriate Two Weapon Wielder Talent, you may Ready a weapon in each hand.
@@ -765,7 +765,7 @@ For the purposes of this Talent any small and light weapon that could be conceal
 ### **Strong Minded**
 **Prerequisites:** Willpower 30, Resistance (Psychic Powers)
 
-Your mind is like a fortress guarded against psychic attack. You may re-roll failed Willpower Tests to resist any Psychic Powers that affect your mind, such as [Inflict Pain](psychic%20powers.md#inflict%20pain) or [Compel](telepathy.md#compel). Psychic Powers that have a direct physical effect, such as most [Pyromancy](pyromancy.md) and [Telekinetics](telekinetics.md) Powers, are unaffected by this Talent.
+Your mind is like a fortress guarded against psychic attack. You may re-roll failed Willpower Tests to resist any Psychic Powers that affect your mind, such as [Inflict Pain](PSYCHIC%20POWERS.md#inflict%20pain) or [Compel](TELEPATHY.md#compel). Psychic Powers that have a direct physical effect, such as most [Pyromancy](PYROMANCY.md) and [Telekinetics](TELEKINETICS.md) Powers, are unaffected by this Talent.
 ### **Sure Strike**
 **Prerequisites:** Weapon Skill 30
 
@@ -839,7 +839,7 @@ Such is your skill with blades that they seem to impose themselves between you a
 ### **Warp Conduit**
 **Prerequisites:** Psy Rating, Favoured of the Warp, Willpower 40
 
-The power of your mind and your faith in the Emperor means you have little to fear when you channel warp energy. When a Power Roll triggers [Psychic Phenomena](psychic%20powers.md#psychic%20phenomena), subtract 10 from any rolls on the **Table: Psychic Phenomena**.
+The power of your mind and your faith in the Emperor means you have little to fear when you channel warp energy. When a Power Roll triggers [Psychic Phenomena](PSYCHIC%20POWERS.md#psychic%20phenomena), subtract 10 from any rolls on the **Table: Psychic Phenomena**.
 ### **Warp Sense**
 **Prerequisites:** Psy Rating, Psyniscience Skill, Perception 30
 

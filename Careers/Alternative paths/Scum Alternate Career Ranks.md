@@ -694,7 +694,7 @@ Upon becoming a Slate-Agent, the character gains the **Blank Slate Trait**.
 #### **Trait: Blank Slate**
 The Acolyte is imprinted with several psychic triggers, known only to his handler. These triggers serve as prompts for the Slate-Agent’s identity programming. One trigger wipes the Slate-Agent’s mind clean of previous imprinting. Another prepares the Agent’s mind for re-programming. When a Slate-Agent is imprinted, the GM and the player may choose three [Common Lore](skills.md#common%20lore), [Forbidden Lore](skills.md#forbidden%20lore), [Scholastic Lore](skills.md#scholastic%20lore), or [Trade](skills.md#trade) Skills appropriate for the Acolyte’s cover identity. Until the Agent’s imprinting is wiped clean, the Slate-Agent is considered to possess all chosen Skills, and gains a +10 bonus on related Tests.
 
-While an Acolyte's cover identity is "active" the Acolyte completely and totally believes himself to be that person, and even successful [Interrogation](skills.md#interrogation) will only reveal details about the Acolyte's templated persona. Psychic Powers such as [Mind Scan](telepathy.md#mind%20scan) will still reveal the Acolyte's actual identity and the fact that he's had a different identity templated onto him, however. The Acolyte loses all memories of his time under the active cover identity once the trigger is given to wipe his templating, so it is absolutely essential to fully debrief the Slate-Agent before attempting to prepare a new cover identity.
+While an Acolyte's cover identity is "active" the Acolyte completely and totally believes himself to be that person, and even successful [Interrogation](skills.md#interrogation) will only reveal details about the Acolyte's templated persona. Psychic Powers such as [Mind Scan](TELEPATHY.md#mind%20scan) will still reveal the Acolyte's actual identity and the fact that he's had a different identity templated onto him, however. The Acolyte loses all memories of his time under the active cover identity once the trigger is given to wipe his templating, so it is absolutely essential to fully debrief the Slate-Agent before attempting to prepare a new cover identity.
 
 The triggers used to prepare and wipe a Slate-Agent's persona templates must remain absolutely secret, known only to the controller. Should the triggers become known to anyone else that party could implant their own template onto the Slate-Agent, possibly turning him against his masters or to some other no-doubt nefarious purpose. 
 #### **Table: Slate-Agent Advances**
@@ -827,7 +827,7 @@ Taking this Alternate Career Rank is not just a matter of passing the xp require
 #### **Talent: Labyrinth Conditioning**
 **Prerequisites:** Intelligence 30
 
-Your mind is a carefully constructed maze of shut-outs and thought-dams designed to thwart the attempts of others who would learn what you wish to keep secret. You gain a +10 bonus on Deceive Tests when being questioned and to resist anyone using the [Intimidate](skills.md#intimidate) Skill on you. You also have a +10 bonus to Willpower to resist [Interrogation](skills.md#interrogation) and mind reading effects such as [Mind Scan](telepathy.md#mind%20scan). In the case of a Psychic Power effect, this bonus stacks with bonuses to resist Psychic Powers from other Talents or Traits.
+Your mind is a carefully constructed maze of shut-outs and thought-dams designed to thwart the attempts of others who would learn what you wish to keep secret. You gain a +10 bonus on Deceive Tests when being questioned and to resist anyone using the [Intimidate](skills.md#intimidate) Skill on you. You also have a +10 bonus to Willpower to resist [Interrogation](skills.md#interrogation) and mind reading effects such as [Mind Scan](TELEPATHY.md#mind%20scan). In the case of a Psychic Power effect, this bonus stacks with bonuses to resist Psychic Powers from other Talents or Traits.
 ## **Warp Dabbler**
 
 *"She would have been just a petty recidivist and peddler of harm, one of countless souls of no great worth, but then the warp found her, and she became a true monster. However, as she is a monster loyal to me, you and I are now in conflict."*
@@ -868,9 +868,9 @@ An Acolyte requires both motive and opportunity to become a Warp Dabbler. At a m
 | [Forbidden Lore (Warp) +10](skills.md#forbidden%20lore)        | 200  | Skill  | Forbidden Lore (Warp)                                                  |
 | [Psyniscience](skills.md#psyniscience)                         | 200  | Skill  | —                                                                      |
 | [Scholastic Lore (Occult) +10](skills.md#scholastic%20lore)    | 200  | Skill  | Scholastic Lore (Occult)                                               |
-| [Minor Arcana](sorcery.md#minor%20arcana)                      | 200  | Talent | Sorcerer                                                               |
+| [Minor Arcana](SORCERY.md#minor%20arcana)                      | 200  | Talent | Sorcerer                                                               |
 | [Fuelled by Flesh](talents.md#fuelled%20by%20flesh)            | 200  | Talent | Sorcerer                                                               |
-| [Sorcerer](sorcery.md#sorcerer)                                | 200  | Talent | Int 35, WP 35, F. Lore (Daemonology or Warp) +10, S. Lore (Occult) +10 |
-| [Major Arcana](sorcery.md#major%20arcana)                      | 300  | Talent | WP 45, Sorcerer                                                        |
+| [Sorcerer](SORCERY.md#sorcerer)                                | 200  | Talent | Int 35, WP 35, F. Lore (Daemonology or Warp) +10, S. Lore (Occult) +10 |
+| [Major Arcana](SORCERY.md#major%20arcana)                      | 300  | Talent | WP 45, Sorcerer                                                        |
 | [Dark Soul](talents.md#dark%20soul)                            | 400  | Talent | —                                                                      |
 | [Favoured by the Warp](talents.md#favoured%20by%20the%20warp)  | 400  | Talent | WP 35                                                                  |

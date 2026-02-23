@@ -168,7 +168,7 @@ The process of becoming an Imperial Diviner is deceptively simple. A Psyker who 
 
 **Required Career:** Imperial Psyker
 **Alternate Rank:** Rank 5 or higher (3,000 xp)
-**Other Requirements:** [Forbidden Lore (Psykers)](skills.md#forbidden%20lore) and [Forbidden Lore (Warp)](skills.md#forbidden%20lore) Skills, [Personal Augury](divination.md#personal%20augury) Psychic Power. Upon reaching Rank 4 you must select the Scholar Materium path.
+**Other Requirements:** [Forbidden Lore (Psykers)](skills.md#forbidden%20lore) and [Forbidden Lore (Warp)](skills.md#forbidden%20lore) Skills, [Personal Augury](DIVINATION.md#personal%20augury) Psychic Power. Upon reaching Rank 4 you must select the Scholar Materium path.
 #### **Table: Imperial Diviner Advances**
 | Advance                                                         | Cost |  Type  | Prerequisites                                                                          |
 | --------------------------------------------------------------- | :--: | :----: | -------------------------------------------------------------------------------------- |
@@ -185,7 +185,7 @@ The process of becoming an Imperial Diviner is deceptively simple. A Psyker who 
 | [Forbidden Lore (Warp) +10](Skills.md#forbidden%20lore)         | 200  | Skill  | Forbidden Lore (Warp)                                                                  |
 | [Scholastic Lore (Numerology) +10](skills.md#scholastic%20lore) | 200  | Skill  | Scholastic Lore (Numerology)                                                           |
 | [Scholastic Lore (Occult) +10](skills.md#scholastic%20lore)     | 200  | Skill  | Scholastic Lore (Occult)                                                               |
-| [Minor Arcana](sorcery.md#minor%20arcana)†                      | 200  | Talent | Sorcerer                                                                               |
+| [Minor Arcana](SORCERY.md#minor%20arcana)†                      | 200  | Talent | Sorcerer                                                                               |
 | [Psychic Power](Talents.md#psychic%20power)                     | 200  | Talent | —                                                                                      |
 | [Psy Rating 4](Talents.md#psy%20rating%204)                     | 200  | Talent | Psy Rating 3                                                                           |
 | **Visions of the Abyss**                                        | 200  | Talent | Personal Augury Psychic Power                                                          |
@@ -194,9 +194,9 @@ The process of becoming an Imperial Diviner is deceptively simple. A Psyker who 
 | [Scholastic Lore (Numerology) +20](skills.md#scholastic%20lore) | 300  | Skill  | Scholastic Lore (Numerology) +10                                                       |
 | [Scholastic Lore (Occult) +20](skills.md#scholastic%20lore)     | 300  | Skill  | Scholastic Lore (Occult) +10                                                           |
 | [Trade (Soothsayer) +20](skills.md#trade)                       | 300  | Skill  | Trade (Soothsayer) +10                                                                 |
-| [Major Arcana](sorcery.md#major%20arcana)                       | 300  | Talent | WP 45, Sorcerer                                                                        |
-| [Sorcerer](sorcery.md#sorcerer)                                 | 400  | Talent | Int 35, WP 35, Forbidden Lore (Demonology or Warp) +10 or Scholastic Lore (Occult) +10 |
-| [Warped Psyker](sorcery.md#warped%20psyker)                     | 400  | Talent | Psy Rating 2 or Sorcerer, Special                                                      |
+| [Major Arcana](SORCERY.md#major%20arcana)                       | 300  | Talent | WP 45, Sorcerer                                                                        |
+| [Sorcerer](SORCERY.md#sorcerer)                                 | 400  | Talent | Int 35, WP 35, Forbidden Lore (Demonology or Warp) +10 or Scholastic Lore (Occult) +10 |
+| [Warped Psyker](SORCERY.md#warped%20psyker)                     | 400  | Talent | Psy Rating 2 or Sorcerer, Special                                                      |
 †*You may select this Talent twice at this Rank.*
 #### **Talent: Visions of the Abyss**
 Prerequisites: Personal Augury Psychic Power
@@ -325,7 +325,7 @@ Upon becoming a Slate-Agent, the character gains the **Blank Slate Trait**.
 #### **Trait: Blank Slate**
 The Acolyte is imprinted with several psychic triggers, known only to his handler. These triggers serve as prompts for the Slate-Agent’s identity programming. One trigger wipes the Slate-Agent’s mind clean of previous imprinting. Another prepares the Agent’s mind for re-programming. When a Slate-Agent is imprinted, the GM and the player may choose three [Common Lore](skills.md#common%20lore), [Forbidden Lore](skills.md#forbidden%20lore), [Scholastic Lore](skills.md#scholastic%20lore), or [Trade](skills.md#trade) Skills appropriate for the Acolyte’s cover identity. Until the Agent’s imprinting is wiped clean, the Slate-Agent is considered to possess all chosen Skills, and gains a +10 bonus on related Tests.
 
-While an Acolyte's cover identity is "active" the Acolyte completely and totally believes himself to be that person, and even successful [Interrogation](skills.md#interrogation) will only reveal details about the Acolyte's templated persona. Psychic Powers such as [Mind Scan](telepathy.md#mind%20scan) will still reveal the Acolyte's actual identity and the fact that he's had a different identity templated onto him, however. The Acolyte loses all memories of his time under the active cover identity once the trigger is given to wipe his templating, so it is absolutely essential to fully debrief the Slate-Agent before attempting to prepare a new cover identity.
+While an Acolyte's cover identity is "active" the Acolyte completely and totally believes himself to be that person, and even successful [Interrogation](skills.md#interrogation) will only reveal details about the Acolyte's templated persona. Psychic Powers such as [Mind Scan](TELEPATHY.md#mind%20scan) will still reveal the Acolyte's actual identity and the fact that he's had a different identity templated onto him, however. The Acolyte loses all memories of his time under the active cover identity once the trigger is given to wipe his templating, so it is absolutely essential to fully debrief the Slate-Agent before attempting to prepare a new cover identity.
 
 The triggers used to prepare and wipe a Slate-Agent's persona templates must remain absolutely secret, known only to the controller. Should the triggers become known to anyone else that party could implant their own template onto the Slate-Agent, possibly turning him against his masters or to some other no-doubt nefarious purpose. 
 #### **Table: Slate-Agent Advances**
@@ -369,7 +369,7 @@ More of a diagnosis than a title, any Imperial Psyker willing to risk a fate far
 
 **Required Career**: Imperial Psyker
 **Alternate Rank:** Rank 5 or higher (3,000 xp)
-**Other Requirements:** 15+ Corruption Points, of which at least 5 must have been gained due to the effects of [Perils of the Warp](psychic%20powers.md#perils%20of%20the%20warp).
+**Other Requirements:** 15+ Corruption Points, of which at least 5 must have been gained due to the effects of [Perils of the Warp](PSYCHIC%20POWERS.md#perils%20of%20the%20warp).
 #### **Table: Tainted Psyker Advances**
 | Advance                                                                       | Cost | Type   | Prerequisites                                                                          |
 | ----------------------------------------------------------------------------- | ---- | ------ | -------------------------------------------------------------------------------------- |
@@ -381,15 +381,15 @@ More of a diagnosis than a title, any Imperial Psyker willing to risk a fate far
 | [Forbidden Lore (Psykers) +10](Skills.md#forbidden%20lore)                    | 200  | Skill  | Forbidden Lore (Psykers)                                                               |
 | [Forbidden Lore (Warp) +10](Skills.md#forbidden%20lore)                       | 200  | Skill  | Forbidden Lore (Warp)                                                                  |
 | [Scholastic Lore (Occult) +10](skills.md#scholastic%20lore)                   | 200  | Skill  | Scholastic Lore (Occult)                                                               |
-| [Corpus Conversion (Sorcery)](sorcery.md#corpus%20conversion%20%28Sorcery%29) | 200  | Talent | WP 45, Sorcerer                                                                        |
-| [Fuelled by Flesh](sorcery.md#fuelled%20by%20flesh)                           | 200  | Talent | Sorcerer                                                                               |
-| [Minor Arcana](sorcery.md#minor%20arcana)†                                    | 200  | Talent | Sorcerer                                                                               |
+| [Corpus Conversion (Sorcery)](SORCERY.md#corpus%20conversion%20(Sorcery)) | 200  | Talent | WP 45, Sorcerer                                                                        |
+| [Fuelled by Flesh](SORCERY.md#fuelled%20by%20flesh)                           | 200  | Talent | Sorcerer                                                                               |
+| [Minor Arcana](SORCERY.md#minor%20arcana)†                                    | 200  | Talent | Sorcerer                                                                               |
 | [Psychic Power](talents.md#psychic%20power)†                                  | 200  | Talent | —                                                                                      |
-| [Warped Psyker](sorcery.md#warped%20psyker)                                   | 200  | Talent | Psy Rating 2 or Sorcerer, must have gained CP due to Perils of the Warp                |
-| [Major Arcana](sorcery.md#major%20arcana)†                                    | 300  | Talent | WP 45, Sorcerer                                                                        |
-| [Sorcerer](sorcery.md#sorcerer)‡                                              | 400  | Talent | Int 35, WP 35, Forbidden Lore (Demonology or Warp) +10 or Scholastic Lore (Occult) +10 |
+| [Warped Psyker](SORCERY.md#warped%20psyker)                                   | 200  | Talent | Psy Rating 2 or Sorcerer, must have gained CP due to Perils of the Warp                |
+| [Major Arcana](SORCERY.md#major%20arcana)†                                    | 300  | Talent | WP 45, Sorcerer                                                                        |
+| [Sorcerer](SORCERY.md#sorcerer)‡                                              | 400  | Talent | Int 35, WP 35, Forbidden Lore (Demonology or Warp) +10 or Scholastic Lore (Occult) +10 |
 †*You may select this Talent twice at this Rank.*
-‡*This Talent has [special effects](sorcery.md#Malefic%20Witches%20and%20Warp%20Tainted%20Psykers) for characters who are already Psykers.*
+‡*This Talent has [special effects](SORCERY.md#Malefic%20Witches%20and%20Warp%20Tainted%20Psykers) for characters who are already Psykers.*
 ## **Templar Calix**
 
 *"Will and blade, life and death, cause and consequence, mind and matter, soul's truth and warp's lie: all things indivisible and one."*
@@ -549,7 +549,7 @@ Taking this Alternate Career Rank is not just a matter of passing the xp require
 #### **Talent: Labyrinth Conditioning**
 **Prerequisites:** Intelligence 30
 
-Your mind is a carefully constructed maze of shut-outs and thought-dams designed to thwart the attempts of others who would learn what you wish to keep secret. You gain a +10 bonus on Deceive Tests when being questioned and to resist anyone using the [Intimidate](skills.md#intimidate) Skill on you. You also have a +10 bonus to Willpower to resist [Interrogation](skills.md#interrogation) and mind reading effects such as [Mind Scan](telepathy.md#mind%20scan). In the case of a Psychic Power effect, this bonus stacks with bonuses to resist Psychic Powers from other Talents or Traits.
+Your mind is a carefully constructed maze of shut-outs and thought-dams designed to thwart the attempts of others who would learn what you wish to keep secret. You gain a +10 bonus on Deceive Tests when being questioned and to resist anyone using the [Intimidate](skills.md#intimidate) Skill on you. You also have a +10 bonus to Willpower to resist [Interrogation](skills.md#interrogation) and mind reading effects such as [Mind Scan](TELEPATHY.md#mind%20scan). In the case of a Psychic Power effect, this bonus stacks with bonuses to resist Psychic Powers from other Talents or Traits.
 ## **Warp Dabbler**
 
 *"She would have been just a petty recidivist and peddler of harm, one of countless souls of no great worth, but then the warp found her, and she became a true monster. However, as she is a monster loyal to me, you and I are now in conflict."*
@@ -592,9 +592,9 @@ Note that this Alternate Career Rank is intended to represent a more surface-lev
 | [Forbidden Lore (Warp) +10](skills.md#forbidden%20lore)        | 200  | Skill  | Forbidden Lore (Warp)                                                  |
 | [Psyniscience](skills.md#psyniscience)                         | 200  | Skill  | —                                                                      |
 | [Scholastic Lore (Occult) +10](skills.md#scholastic%20lore)    | 200  | Skill  | Scholastic Lore (Occult)                                               |
-| [Minor Arcana](sorcery.md#minor%20arcana)                      | 200  | Talent | Sorcerer                                                               |
+| [Minor Arcana](SORCERY.md#minor%20arcana)                      | 200  | Talent | Sorcerer                                                               |
 | [Fuelled by Flesh](talents.md#fuelled%20by%20flesh)            | 200  | Talent | Sorcerer                                                               |
-| [Sorcerer](sorcery.md#sorcerer)                                | 200  | Talent | Int 35, WP 35, F. Lore (Daemonology or Warp) +10, S. Lore (Occult) +10 |
-| [Major Arcana](sorcery.md#major%20arcana)                      | 300  | Talent | WP 45, Sorcerer                                                        |
+| [Sorcerer](SORCERY.md#sorcerer)                                | 200  | Talent | Int 35, WP 35, F. Lore (Daemonology or Warp) +10, S. Lore (Occult) +10 |
+| [Major Arcana](SORCERY.md#major%20arcana)                      | 300  | Talent | WP 45, Sorcerer                                                        |
 | [Dark Soul](talents.md#dark%20soul)                            | 400  | Talent | —                                                                      |
 | [Favoured by the Warp](talents.md#favoured%20by%20the%20warp)  | 400  | Talent | WP 35                                                                  |

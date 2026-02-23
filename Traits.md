@@ -71,7 +71,7 @@ Agility Bonus, but they do not take any penalties for moving over Difficult Terr
 ### **Daemonic**
 Daemonic creatures are beings of the warp, but can manifest in realspace either through sheer strength of will, hunger, or occult rituals. Creatures with this Trait are hideously durable, doubling their Toughness Bonus against most Damage sources, and are also immune to poison and disease. The effects of this Trait stack with the effects of the Unnatural Characteristic Trait. This increase is negated by Damage inflicted by force weapons, Psychic Powers, holy attacks, or other creatures with this Trait. 
 
-As they are composed of pure warp energy, creatures with the Daemonic Trait use Psychic Powers differently than mortals. A psychic daemon invokes [Psychic Phenomena](psychic%20powers.md#psychic%20phenomena) when it rolls "doubles"—i.e. the same number on two different dice—instead of with a result of 9, and adds +10 to the total when rolling on **Table: Psychic Phenomena**. Psychic daemons are not affected by the results of any Psychic Phenomena they cause, but may be harmed by [Perils of the Warp](psychic%20powers.md#perils%20of%20the%20warp).
+As they are composed of pure warp energy, creatures with the Daemonic Trait use Psychic Powers differently than mortals. A psychic daemon invokes [Psychic Phenomena](PSYCHIC%20POWERS.md#psychic%20phenomena) when it rolls "doubles"—i.e. the same number on two different dice—instead of with a result of 9, and adds +10 to the total when rolling on **Table: Psychic Phenomena**. Psychic daemons are not affected by the results of any Psychic Phenomena they cause, but may be harmed by [Perils of the Warp](PSYCHIC%20POWERS.md#perils%20of%20the%20warp).
 #### **Daemonic Presence**
 The mere existence of a daemon in reality is unsettling at best, causing all matters of strange phenomena and inexplicable events to occur around it. These effects extend to a specific radius around the daemon and will be detailed in the daemon's entry. All "true" daemons, from ebon geists to bloodthirsters, generally cause living creatures within this area to suffer a penalty to Willpower Tests due to the mind-bending horror of their existence in realspace.
 ### **Dark Sight**
@@ -90,11 +90,11 @@ When a character encounters a creature with this Trait, he must make a Willpower
 | 4—Terrifying  |      -30       |
 
 ### **Flyer (X)**
-A creature with this Trait has the natural ability to fly, whether with great feathered or leathery wings, strange warp energies, or inflatable gas sacs. The number in parenthesis (X) indicates its speed when flying. This number replaces the creature’s Agility Bonus for the purposes of calculating Movement. See [Flying](movement.md#flying) for more information.
+A creature with this Trait has the natural ability to fly, whether with great feathered or leathery wings, strange warp energies, or inflatable gas sacs. The number in parenthesis (X) indicates its speed when flying. This number replaces the creature’s Agility Bonus for the purposes of calculating Movement. See [Flying](Movement.md#flying) for more information.
 ### **From Beyond**
 The mind of a creature with this Trait is beyond the petty frailties and precarious sanity of mortal intelligence. It is immune to Fear, Pinning, Insanity Points, and Psychic Powers used to cloud, control or delude its mind.
 ### **Hoverer (X)**
-Creatures with this Trait have a limited capability for flight, flying no higher than two metres off the ground. The number in parenthesis (X) indicates its speed when hovering. This number replaces the creature's Agility Bonus for purposes of calculating Movement. See [Flying](movement.md#flying) for more information.
+Creatures with this Trait have a limited capability for flight, flying no higher than two metres off the ground. The number in parenthesis (X) indicates its speed when hovering. This number replaces the creature's Agility Bonus for purposes of calculating Movement. See [Flying](Movement.md#flying) for more information.
 ### **Incorporeal**
 Incorporeal creatures are insubstantial and weightless, able to pass through solid objects such as walls and weapons. An incorporeal creature gains a +30 bonus on Concealment Tests due
 to its ability to merge with and through objects. If it so wishes, it may become completely silent, automatically passing any Silent Move Tests that it is required to make.
@@ -156,7 +156,7 @@ A creature with this Trait perceives its surroundings by emitting a frequency no
 ### **Soul-bound**
 The soul of this creature is bound to a higher purpose or being, in return for a measure of protection. When this Trait is first gained, the entity to which the soul is bound must be decided. Many Imperial psykers, especially Astropaths, are soul-bound to the God-Emperor, for example, whereas Chaos Sorcerers are often bound to one of the Ruinous Powers. 
 
-A soul-bound psyker rolls an additional die when forced to roll [Perils of the Warp](psychic%20powers.md#perils%20of%20the%20warp), discarding whichever one he chooses to get a more favourable result (the psyker may choose to substitute this additional die roll for the result of either the ones die or the tens die rolled to determine Perils of the Warp). 
+A soul-bound psyker rolls an additional die when forced to roll [Perils of the Warp](PSYCHIC%20POWERS.md#perils%20of%20the%20warp), discarding whichever one he chooses to get a more favourable result (the psyker may choose to substitute this additional die roll for the result of either the ones die or the tens die rolled to determine Perils of the Warp). 
 
 Upon becoming soul-bound, a character suffers one of the following effects, depending on who or what they are soul-bound to: 1d10 Insanity Points, the permanent loss of their sight, the permanent loss of 1d10 from one Characteristic, or a random mutation. In addition, a soul-bound character is permanently indebted to the entity in question, which undoubtedly entails all manner of other duties and consequences.
 ### **Stampede**

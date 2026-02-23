@@ -1697,24 +1697,24 @@ Many bionics have secondary effects depending on their type and Craftsmanship. A
 
 Some types of bionics grant a bonus to Tests to reflect their superior quality. The bonus only applies to Tests made with that bionic directly, and having two of the same bionic does not grant double the bonus unless otherwise stated.
 
-| Bionics                                                                       |       |        |       |              |
-| ----------------------------------------------------------------------------- | ----- | ------ | ----- | ------------ |
-| Name                                                                          |       | Cost   | Test  | Availability |
-| [Bionic Arm](Tools%20of%20the%20Trade.md#Bionic%20Arm)†                                                              |       | 1000   | +0    | Scarce       |
-| [Bionic Cardiac System](Tools%20of%20the%20Trade.md#Bionic%20Cardiac%20System)†                                                   |       | 2700   | -20   | Rare         |
-| [Bionic Locomotion](Tools%20of%20the%20Trade.md#Bionic%20Locomotion)†                                                       |       | 1500   | -10   | Scarce       |
-| [Bionic Respiratory System](Tools%20of%20the%20Trade.md#Bionic%20Respiratory%20System)†                                               |       | 800    | -20   | Rare         |
-| [Bionic Weapon Attachment](Tools%20of%20the%20Trade.md#Bionic%20Weapon%20Attachment)                                                 |       | 350    | -10†† | Scarce       |
-| [Cybernetic Senses](Tools%20of%20the%20Trade.md#Cybernetic%20Senses)†                                                       |       | -      | -     | -            |
-|                                                                               | Sight | 1500   | -10   | Scarce       |
-|                                                                               | Smell | 1600   | -20   | Rare         |
-|                                                                               | Sound | 1300   | -10   | Scarce       |
-|                                                                               | Taste | 1750   | -30   | Very Rare    |
-|                                                                               | Touch | 1700   | -20   | Rare         |
-| [Gastral Bionics](Tools%20of%20the%20Trade.md#Gastral%20Bionics)†                                                         |       | 1100   | -20   | Rare         |
-| [Rite of Setesh](Tools%20of%20the%20Trade.md#Rite%20of%20Setesh)                                                           |       | 100000 | -40   | Near Unique  |
-| †_This item's Craftsmanship has one or more special effects_                  |       |        |       |              |
-| †† _Attaching this bionic requires a Tech-Use Test instead of a Medicae Test_ |       |        |       |              |
+| Bionics                                                                                 |       |        |       |              |
+| --------------------------------------------------------------------------------------- | ----- | ------ | ----- | ------------ |
+| Name                                                                                    |       | Cost   | Test  | Availability |
+| [Bionic Arm](Tools%20of%20the%20Trade.md#Bionic%20Arm)†                                 |       | 1000   | +0    | Scarce       |
+| [Bionic Cardiac System](Tools%20of%20the%20Trade.md#Bionic%20Cardiac%20System)†         |       | 2700   | -20   | Rare         |
+| [Bionic Locomotion](Tools%20of%20the%20Trade.md#Bionic%20Locomotion)†                   |       | 1500   | -10   | Scarce       |
+| [Bionic Respiratory System](Tools%20of%20the%20Trade.md#Bionic%20Respiratory%20System)† |       | 800    | -20   | Rare         |
+| [Bionic Weapon Attachment](Tools%20of%20the%20Trade.md#Bionic%20Weapon%20Attachment)    |       | 350    | -10†† | Scarce       |
+| [Cybernetic Senses](Tools%20of%20the%20Trade.md#Cybernetic%20Senses)†                   |       | -      | -     | -            |
+|                                                                                         | Sight | 1500   | -10   | Scarce       |
+|                                                                                         | Smell | 1600   | -20   | Rare         |
+|                                                                                         | Sound | 1300   | -10   | Scarce       |
+|                                                                                         | Taste | 1750   | -30   | Very Rare    |
+|                                                                                         | Touch | 1700   | -20   | Rare         |
+| [Gastral Bionics](Tools%20of%20the%20Trade.md#Gastral%20Bionics)†                       |       | 1100   | -20   | Rare         |
+| [Rite of Setesh](Tools%20of%20the%20Trade.md#Rite%20of%20Setesh)                        |       | 100000 | -40   | Near Unique  |
+| †_This item's Craftsmanship has one or more special effects_                            |       |        |       |              |
+| †† _Attaching this bionic requires a Tech-Use Test instead of a Medicae Test_           |       |        |       |              |
 #### Bionic Arm
 
 Losing an arm greatly affects a man's effectiveness in almost every situation, and it is not entirely uncommon for a valued labourer to be fitted with a bionic replacement at the expense of his betters so as to continue his utility. A bionic arm can replace part of or the entire human limb, up to and including a sturdy bracket implanted at the shoulder to serve as a firm anchor point. Most bionic arms are controlled by a synth-nerve bundle which can sometimes be seen as a slightly raised line under the bearer's skin. A whole arm replacement is typically wired directly to the bearer's brain, while a bionic hand is usually connected to existing synaptic fibers in the arm. The bionic's Craftsmanship has further effects on the bionic's utility and functions.

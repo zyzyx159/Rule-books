@@ -13,18 +13,18 @@ Worse than this loss of the self, however, is the fate of telepaths who stumble 
 
 | Name                                                      | Threshold |   Focus Time    | Sustain |
 | --------------------------------------------------------- | :-------: | :-------------: | :-----: |
-| [Beastmaster](telepathy.md#beastmaster)                   |    13     |   Half Action   |   Yes   |
-| [Compel](telepathy.md#compel)                             |    17     |   Half Action   |   No    |
-| [Dominate](telepathy.md#dominate)                         |    24     |   Half Action   |   Yes   |
-| [Inspire](telepathy.md#inspire)                           |     9     |   Half Action   |   Yes   |
-| [Mind Scan](telepathy.md#mind%20scan)                     |    23     | Extended Action |   No    |
-| [Psychic Shriek](telepathy.md#psychic%20shriek)           |    18     |   Half Action   |   No    |
-| [See Me Not](telepathy.md#see%20me%20not)                 |    14     |   Half Action   |   Yes   |
-| [Seed Mind](telepathy.md#seed%20mind)                     |    26     | Extended Action |   No    |
-| [Soul Killer](telepathy.md#soul%20killer)                 |    25     |   Full Action   |   No    |
-| [Thought Sending](telepathy.md#thought%20sending)         |    11     |   Free Action   |   No    |
-| [Terrify](telepathy.md#terrify)                           |    13     |   Half Action   |   No    |
-| [Zone of Compulsion](telepathy.md#zone%20of%20compulsion) |    21     |   Half Action   |   No    |
+| [Beastmaster](TELEPATHY.md#beastmaster)                   |    13     |   Half Action   |   Yes   |
+| [Compel](TELEPATHY.md#compel)                             |    17     |   Half Action   |   No    |
+| [Dominate](TELEPATHY.md#dominate)                         |    24     |   Half Action   |   Yes   |
+| [Inspire](TELEPATHY.md#inspire)                           |     9     |   Half Action   |   Yes   |
+| [Mind Scan](TELEPATHY.md#mind%20scan)                     |    23     | Extended Action |   No    |
+| [Psychic Shriek](TELEPATHY.md#psychic%20shriek)           |    18     |   Half Action   |   No    |
+| [See Me Not](TELEPATHY.md#see%20me%20not)                 |    14     |   Half Action   |   Yes   |
+| [Seed Mind](TELEPATHY.md#seed%20mind)                     |    26     | Extended Action |   No    |
+| [Soul Killer](TELEPATHY.md#soul%20killer)                 |    25     |   Full Action   |   No    |
+| [Thought Sending](TELEPATHY.md#thought%20sending)         |    11     |   Free Action   |   No    |
+| [Terrify](TELEPATHY.md#terrify)                           |    13     |   Half Action   |   No    |
+| [Zone of Compulsion](TELEPATHY.md#zone%20of%20compulsion) |    21     |   Half Action   |   No    |
 ##### **Beastmaster**
 **Threshold:** 13
 **Focus Time:** Half Action
@@ -114,7 +114,7 @@ Oddly, this power has no effect on creatures with an Intelligence of 10 or less,
 
 This power allows you to subvert the minds of others by planting a tiny seed of influence within a person’s mind; a psychic keyhole that you can use in the future to unlock their mental defences and enslave their will to your own. When you manifest this power make an Opposed Willpower Test against your target as you seek a suitable part of their psyche to seed. Each Round you and your target continue to make Opposed Willpower Tests until one of you achieves five cumulative degrees of success. You must keep at least one hand on the target throughout the entire process, and if you are interrupted for any reason the power ends and you must manifest it again to make a second attempt. The target is acutely aware you are attempting to install your own private door in their mind and will almost certainly attempt to resist your efforts, so it is advisable to use on a target who has been restrained or is unconscious.
 
-If you achieve five degrees of success against the target your seed successfully "takes" in the target's mind, permanently granting you a great measure of psychic influence over them. From now on any time you successfully manifest [Compel](telepathy.md#compel), [Dominate](telepathy.md#dominate), [Suggestion](psychic%20powers.md#suggestion), or [Zone of Compulsion](telepathy.md#zone%20of%20compulsion) against the target their Willpower Test to resist you automatically fails—you simply invite yourself into their mind and direct their will as you desire. On the other hand, should the target achieve five degrees of success against you, they are able to harden their psyche against your efforts to seed it, and are henceforth immune to any further uses of this power by you.
+If you achieve five degrees of success against the target your seed successfully "takes" in the target's mind, permanently granting you a great measure of psychic influence over them. From now on any time you successfully manifest [Compel](TELEPATHY.md#compel), [Dominate](TELEPATHY.md#dominate), [Suggestion](PSYCHIC%20POWERS.md#suggestion), or [Zone of Compulsion](TELEPATHY.md#zone%20of%20compulsion) against the target their Willpower Test to resist you automatically fails—you simply invite yourself into their mind and direct their will as you desire. On the other hand, should the target achieve five degrees of success against you, they are able to harden their psyche against your efforts to seed it, and are henceforth immune to any further uses of this power by you.
 
 Once a target's mind has been seeded by this power it is impossible for the target to remove it themselves. Another telepath who becomes aware of the seed, such as through the use of Mind Scan, may use Seed Mind on the target to free them of your seed instead of implanting their own.
 ##### **Soul Killer**
@@ -148,6 +148,6 @@ This power allows you to implant a concentrated mote of psychic terror in the mi
 **Sustained:** No
 **Range:** 5m + Willpower Bonus
 
-You unleash an indiscriminate wave of telepathic force that carries a single command and collides with anyone around you. This power functions identically to [Compel](telepathy.md#compel), but it affects all creatures within Range (both friend and foe alike). All targets within Range must make an Opposed Willpower Test against you, with failure indicating the power affects them as normal. You roll a single Willpower Test to oppose all those who may be affected—if you fail this Willpower Test outright the power ends immediately. Note that regardless of how many targets are within Range you may still only issue a single command each time you manifest this power.
+You unleash an indiscriminate wave of telepathic force that carries a single command and collides with anyone around you. This power functions identically to [Compel](TELEPATHY.md#compel), but it affects all creatures within Range (both friend and foe alike). All targets within Range must make an Opposed Willpower Test against you, with failure indicating the power affects them as normal. You roll a single Willpower Test to oppose all those who may be affected—if you fail this Willpower Test outright the power ends immediately. Note that regardless of how many targets are within Range you may still only issue a single command each time you manifest this power.
 
 **Overbleed:** For every 10 points by which you exceed the power's Threshold, you gain a +10 bonus on your Opposed Willpower Test.

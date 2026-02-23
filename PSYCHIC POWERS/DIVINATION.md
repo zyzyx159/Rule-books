@@ -6,16 +6,16 @@ Diviners seek to discern the hidden past and know the course of future events. T
 
 | Name                                                               | Threshold | Focus Time  | Sustain |
 | ------------------------------------------------------------------ | :-------: | :---------: | :-----: |
-| [Divine Shot](divination.md#divine%20shot)                         |    15     | Free Action |   No    |
-| [Dowsing](divination.md#dowsing)                                   |    11     | Full Action |   Yes   |
-| [Far Sight](divination.md#far%20sight)                             |    17     | Full Action |   Yes   |
-| [Glimpse](divination.md#glimpse)                                   |    18     | Half Action |   No    |
-| [Precognitive Dodge](divination.md#precognitive%20dodge)           |    14     |  Reaction   |   No    |
-| [Precognitive Strike](divination.md#precognitive%20strike)         |    17     | Free Action |   No    |
-| [Preternatural Awareness](divination.md#preternatural%20awareness) |     9     | Half Action |   Yes   |
-| [Psychometry](divination.md#psychometry)                           |    16     | Full Action |   Yes   |
-| [Personal Augury](divination.md#personal%20augury)                 |    14     | Full Action |   No    |
-| [Soul Sight](divination.md#soul%20sight)                           |    23     | Full Action |   Yes   |
+| [Divine Shot](DIVINATION.md#divine%20shot)                         |    15     | Free Action |   No    |
+| [Dowsing](DIVINATION.md#dowsing)                                   |    11     | Full Action |   Yes   |
+| [Far Sight](DIVINATION.md#far%20sight)                             |    17     | Full Action |   Yes   |
+| [Glimpse](DIVINATION.md#glimpse)                                   |    18     | Half Action |   No    |
+| [Precognitive Dodge](DIVINATION.md#precognitive%20dodge)           |    14     |  Reaction   |   No    |
+| [Precognitive Strike](DIVINATION.md#precognitive%20strike)         |    17     | Free Action |   No    |
+| [Preternatural Awareness](DIVINATION.md#preternatural%20awareness) |     9     | Half Action |   Yes   |
+| [Psychometry](DIVINATION.md#psychometry)                           |    16     | Full Action |   Yes   |
+| [Personal Augury](DIVINATION.md#personal%20augury)                 |    14     | Full Action |   No    |
+| [Soul Sight](DIVINATION.md#soul%20sight)                           |    23     | Full Action |   Yes   |
 ##### **Divine Shot**
 **Threshold:** 15
 **Focus Time:** Free Action

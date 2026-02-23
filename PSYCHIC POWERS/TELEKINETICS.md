@@ -8,17 +8,17 @@ Telekines are notorious for their forceful personalities, which many consider a 
 
 | Name                                                             | Threshold | Focus Time  | Sustain |
 | ---------------------------------------------------------------- | :-------: | :---------: | :-----: |
-| [Catch Projectiles](telekinetics.md#catch%20projectiles)         |    16     |  Reaction   |   No    |
-| [Fling](telekinetics.md#fling)                                   |    14     | Half Action |   No    |
-| [Force Barrage](telekinetics.md#force%20barrage)                 |    21     | Full Action |   No    |
-| [Force Bolt](telekinetics.md#force%20bolt)                       |    13     | Half Action |   No    |
-| [Precision Telekinesis](telekinetics.md#precision%20telekinesis) |    23     | Half Action |   Yes   |
-| [Psychic Blade](telekinetics.md#psychic%20blade)                 |    19     | Half Action |   Yes   |
-| [Psychic Crush](telekinetics.md#psychic%20crush)                 |    17     | Half Action |   No    |
-| [Psychic Storm](telekinetics.md#psychic%20storm)                 |    12     | Half Action |   Yes   |
-| [Push](telekinetics.md#push)                                     |    13     | Half Action |   No    |
-| [Telekinesis](telekinetics.md#telekinesis)                       |    11     | Half Action |   Yes   |
-| [Telekinetic Shield](telekinetics.md#telekinetic%20shield)       |    19     | Half Action |   Yes   |
+| [Catch Projectiles](TELEKINETICS.md#catch%20projectiles)         |    16     |  Reaction   |   No    |
+| [Fling](TELEKINETICS.md#fling)                                   |    14     | Half Action |   No    |
+| [Force Barrage](TELEKINETICS.md#force%20barrage)                 |    21     | Full Action |   No    |
+| [Force Bolt](TELEKINETICS.md#force%20bolt)                       |    13     | Half Action |   No    |
+| [Precision Telekinesis](TELEKINETICS.md#precision%20telekinesis) |    23     | Half Action |   Yes   |
+| [Psychic Blade](TELEKINETICS.md#psychic%20blade)                 |    19     | Half Action |   Yes   |
+| [Psychic Crush](TELEKINETICS.md#psychic%20crush)                 |    17     | Half Action |   No    |
+| [Psychic Storm](TELEKINETICS.md#psychic%20storm)                 |    12     | Half Action |   Yes   |
+| [Push](TELEKINETICS.md#push)                                     |    13     | Half Action |   No    |
+| [Telekinesis](TELEKINETICS.md#telekinesis)                       |    11     | Half Action |   Yes   |
+| [Telekinetic Shield](TELEKINETICS.md#telekinetic%20shield)       |    19     | Half Action |   Yes   |
 ##### **Catch Projectiles**
 **Threshold:** 16
 **Focus Time:** Reaction
