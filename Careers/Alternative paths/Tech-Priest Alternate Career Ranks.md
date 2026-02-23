@@ -56,7 +56,7 @@ Tech-Priests who are chosen to become Acuitors are pulled from across the Lathes
 | [Arms Master](Talents.md#arms%20master)                                        | 100  | Talent | BS 30, Basic Weapon Training (any two) |
 | [Battle Rage](Talents.md#battle%20rage)                                        | 100  | Talent | Frenzy                                 |
 | [Blind Fighting](Talents.md#blind%20fighting)                                  | 100  | Talent | Per 30                                 |
-| [[#Cogs Within Cogs]]                                                          | 100  | Talent | Int 35                                 |
+| [Cogs Within Cogs](#Cogs%20Within%20Cogs)                                      | 100  | Talent | Int 35                                 |
 | [Deadeye Shot](Talents.md#deadeye%20shot)                                      | 100  | Talent | BS 30                                  |
 | [Exotic Weapon Training *(choose one)*](talents.md#exotic%20weapon%20training) | 100  | Talent | —                                      |
 | [Marksman](Talents.md#marksman)                                                | 100  | Talent | BS 35                                  |
@@ -66,11 +66,13 @@ Tech-Priests who are chosen to become Acuitors are pulled from across the Lathes
 | [Quick Draw](Talents.md#quick%20draw)                                          | 100  | Talent | —                                      |
 | [Sure Strike](Talents.md#sure%20strike)                                        | 100  | Talent | WS 30                                  |
 | [Frenzy](Talents.md#frenzy)                                                    | 200  | Talent | —                                      |
-| [[#Whisper of Samadhi]]                                                        | 300  | Talent | Int 35, Deceive, Mimic                 |
+| [Whisper of Samadhi](#Whisper%20of%20Samadhi)                                  | 300  | Talent | Int 35, Deceive, Mimic                 |
 #### Cogs Within Cogs
+**Talent**: This is a talent, not a skill
 **Prerequisites:** Intelligence 35
 An Acuitor Mech-Assassin who interfaces with any machine may make Test [Tech-Use](skills.md#tech-use). If he succeeds, he may pre-set that machine to activate, deactivate, or follow another such simple protocol within its usual repertoire, at either a given time within the next 24 hours, or upon his remote command. In the latter case, he must be within a number of kilometres equal to his Intelligence Bonus of the machine when he wishes to activate it. The Acuitor must choose the machine’s action upon making his Tech-Use Test, and makes any other necessary Tests (such as [Security](skills.md#security) to bypass a guarded cogitator’s internal defences or [Forbidden Lore (Archeotech)](skills.md#forbidden%20lore) to decipher an ancient device’s function) while programming the action.
 #### Whisper of Samadhi
+**Talent**: This is a talent, not a skill
 **Prerequisites:** Intelligence 35, Deceive, Mimic
 Consummate infiltrators, an Acuitor Mech-Assassin have little trouble passing as normal Tech- Priests when dealing with commoners across the Sector. Of course, their targets are hardly limited to those outside of the Adeptus Mechanicus. Part of the ancient data tracks of Samadhi helps them to overcome this problem, however. When dealing with other Tech-Priests, an Acuitor may lace portions of the Secret Archive of Samadhi into his binaric cant, subtly scrambling the judgement of the listener. As such, when dealing with other Tech-Priests, Acuitor Mech-Assassins may use their Intelligence Characteristic instead of their Fellowship when using the [Deceive](skills.md#deceive) Skill, and may use the [Mimic](talents.md#mimic) Talent to copy the subtleties of the vocal codes and ciphers of any Tech-Priest they impersonate with it.
 ## **Agent of the Lords Dragon**
